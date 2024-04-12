@@ -1,0 +1,786 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm601",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc069a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Creak... whirr...*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Strange, unpleasant noises reverberated from the body of Faust, the mechanical woman."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m051a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Faust",
+        "text": "Ugh..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "We've beaten your underlings! All that's left is you! Miss \"I like acting like a robot\"!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Faust's subordinates had been skilled, but even they had fallen before Sakura's Shadow Jutsu one by one."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Faust's Subordinate",
+        "text": "Faust-sama... her shadow... ugh..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Faust",
+        "text": "\u30fc\u30fc\u30fc\u30fc\u30fc\u30fc!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Faust was quick to make a decision when she saw that she was at a decisive disadvantage."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huh!?!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Faust soared into the air while dropping a large amount of hand grenades on the ground, like they were gushing out of her body."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m051a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "For real!? \u30fcEverybody get doooooown!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se037"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc069a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*BOOOOOM*...!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Smoke billowed up with a roar."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Shit! I can't see anything...!)"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Heeey! Everybody still alive~?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Y-Yeah, somehow... And Faust... got away, huh."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Faust was already nowhere to be seen. The grenades had had little to no killing power and were basically just a smokescreen to obscure our view."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002c",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m053a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Orc Mercenary",
+        "text": "Man, we were in a rough spot there, but thanks to you we escaped with our lives! Gyahahaha!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Orc Mercenary",
+        "text": "Anyway girl, I had no idea you were a Taimanin!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002b",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Ehehe, guess it was bound to be found out~ Yeah, actually I am."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Orc Mercenary",
+        "text": "No wonder you're strong!! I was totally bamboozled! Gyahahaha!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Yuuup, the beautiful and strong Sakura-chan! That's what they say...? About me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Is that so?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Orc Mercenary",
+        "text": "A girl with a strong will and body! Good, good, I'd love to get married to a Taimanin just like you, Sakura-chan! Gyahahaha!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "What the~! Ahahaha! You say the weirdest things!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I didn't really get it, but the Orc and Sakura were laughing and getting along well."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sheesh, it's nice that you guys are hitting it off, but it's gonna be trouble to hang around here too long."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002b",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m053a",
+            "LEFT",
+            "CENTER",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Orc Mercenary",
+        "text": "Oho, you're right! We had a crazy battle in a place like this, imagine what would happen if a Taimanin squad came."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That's true, but there's also a high chance that we'll be attacked by the UFS again. They must've figured out our location by now."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Orc Mercenary",
+        "text": "True. We'll get out of here then."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Orc Mercenary",
+        "text": "We ended up working for free, but we were saved thanks to you!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Thanks to you as well. Bye then, and don't do anything to get yourself wiped out by Taimanin."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Orc Mercenary",
+        "text": "Guhaha! I won't screw up that badly. You guys take care!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Orc Mercenary",
+        "text": "\u30fcOh, hey kid."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hm?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Orc Mercenary",
+        "text": "Your physical strength is somewhat lacking, but you'll make a good commander. Contact us if you're ever doing work on the dark side."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m053a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Orc said and left with a wink that didn't suit his face."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Uh, um... thanks, I guess."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Getting complimented by that Orc dude is somehow not very appealing...)"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ws_t002b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Phew! I guess that's it! Let's go home as well, Fuma-kun!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Before that, what do we do with the \"cargo\"...? It'd be tricky for the two of us to carry, but we also can't just leave it here..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I pondered over the left behind \"cargo.\""
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ws_t002d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Ahhh~!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Wh-What the hell was that about!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ws_t002f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "We worked for free too, didn't we!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Oh right, yeah. I guess it can't be helped this time. If it's about the money I lent you, you can pay that back whenever you want."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ws_t002g",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "More importantly, our fancy dinner! Hey hey hey, would it be bad if we sold that off?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You think it would be good!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ws_t002h",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Ugh, but~... *sigh*... our fancy dinner..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sakura was hanging her head, but this time we should consider simply escaping with our lives a good thing."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ws_t002h",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Right, there's no such thing as a juicy part-time job.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "To be honest, I also had been looking forward just a bit... no, more like quite a bit... to safely finishing this job and getting paid."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(I guess I'll still be living on a shoestring for the foreseeable future. Sheesh...)"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "..."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc008a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Meanwhile."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "tk_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Tsubaki, the mercenary, was walking through the nighttime red-light district."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "tk_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She was a former Taimanin. Due to certain circumstances, she had gone rogue."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Since then she had been working freelance as a mercenary. Her clients included demons and members of the underworld. The convoy mission this time had been another job like that as well."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The client was a man with deep ties to the criminal organization Nomad."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm610",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc043a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Tsubaki entered a nightclub. A waiter led her to the booth where the client was waiting."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "tk_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "It's me. I brought the goods."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The \"client\" took a look at Tsubaki and nodded gravely. Though in the dim light his expression could barely be seen."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Client",
+        "text": "Good work. ...What about your partner, that mechanical woman?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "The plan is to rendezvous later."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Client",
+        "text": "By the looks of it, everything went splendidly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "Splendidly... I guess. They took the \"bait,\" just as planned."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Client",
+        "text": "The \"bait\"... you mean that junk you stole from the UFS?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "Yes. Thanks to us recruiting mercenaries around town and making a big show of guarding it as we transported it, the UFS was focused solely on that."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Client",
+        "text": "Meaning in the meantime you were able to easily slip out with the goods."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "Exactly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Client",
+        "text": "And the mercenaries are disposable, huh. Hehe... another of your cruel schemes."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "That's what mercenaries are for. The weak will be exploited, and only the strong line their pockets."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Client",
+        "text": "That's true. So what about the goods?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Tsubaki placed the box she had brought onto the table."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Among the things stolen from the UFS research facility, the apparent drone innards were merely junk. What the \"client\" was really after was this item."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Client",
+        "text": "Good."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "Are you not going to check the contents...\n<i>Nisha Gaiza</i>?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "tk_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t002f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Nisha Gaiza",
+        "text": "No need. I can trust your work."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The \"client\" was Nisha Gaiza."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t002b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He twisted his lips into a smirk as he looked at the \"promised goods.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The necessary parts were assembled. All that remained was to execute the plan\u30fc"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t002b",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

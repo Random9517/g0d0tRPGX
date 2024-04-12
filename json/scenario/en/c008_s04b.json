@@ -1,0 +1,415 @@
+[
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At the same time\u30fc"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm312",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc077a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t001f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Nisha Gaiza",
+        "text": "Good work, everybody."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After escaping from Tokyo Kingdom, Gaiza had been hiding in an abandoned area of the port district."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "You guys get some rest until all the troops are back."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Around Gaiza were his Fuma ninja subordinates. From looking at them, it was clear they were completely exhausted. But being here meant they were the ones that had made it out alive."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It had been a harsh mission\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A mission to infiltrate the heart of Nomad's bitter enemy, the criminal organization Dragon Gate, and to cut down their prominent executives."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "They had taken advantage of the chaos caused by the gas bombs, but it still had not been easy. Many ninja were wounded and some had even lost their lives."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t001f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Gaiza looked around at those exhausted subordinates and frowned faintly, but his hesitation quickly disappeared."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If this had been enough to shake him, he would have never started a rebellion in the first place\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t001f",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m056a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yao Bikuni",
+        "text": "Gaiza-sama, I bring thee tidings."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t001a",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Yao Bikuni."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "By the look on your face, I'd say you've accomplished your mission?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yao Bikuni",
+        "text": "Thou art quite right. The dominion of Dragon Gate in Tokyo Kingdom shall become ours, the Fuma Clan's."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This bewitching woman was a senior ninja who had supported the Nisha Clan since long ago."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Gaiza had ordered her to attack another Dragon Gate hideout in Tokyo Kingdom."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "You did well."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Gaiza nodded and looked up at the sky."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Our goal has been achieved. After being swallowed by \"Gosha\" and collapsing, the Fuma Clan finally has new territory to its name."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, that territory was in the underworld. Gaiza had planted the revitalized flag of the Fuma Clan in the underworld."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And to that end he had used a biological weapon. He had turned uninvolved people into Zombies just as a diversion."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was truly the work of a devil. Gaiza would remain notorious for generations to come as a man deserving of scorn."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But he was already prepared for that. No matter how bloody the road might be, he would only push ahead\u30fcsuch was his resolution."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t001f",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "...What about our pursuers?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yao Bikuni",
+        "text": "According to the information attained, one band of pursuers draweth near."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t001b",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Oh? That's pretty fast for a bunch of machine-dependent cowards."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yao Bikuni",
+        "text": "No, Gaiza-sama. It is not the UFS. Nor, most assuredly, is it Dragon Gate."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t001c",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Not the UFS and not Dragon Gate...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Bikuni smiled mysteriously at Gaiza, who appeared puzzled."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yao Bikuni",
+        "text": "It is that man, Gaiza-sama. The witless head of the clan, the adorable \"Diot-dono.\""
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t001d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "What? Him? He's supposed to be pouting back home at the academy. What is he doing here?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yao Bikuni",
+        "text": "As for that, I know not... However, it undoubtedly appeareth as though Diot-dono giveth us chase."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t001f",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Gaiza remained silent for a moment at Bikuni's vague answer."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t001a",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "...Alright then. We'll intercept our pursuers here as planned."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "If it's that dimwit, then so be it. We'll settle everything right here."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Waiting for the unexpected \"pursuers\" to appear, Gaiza scowled at the evening cityscape with his piercing left eye."
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t001a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m056a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

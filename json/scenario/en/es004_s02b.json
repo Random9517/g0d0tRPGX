@@ -1,0 +1,237 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc078a",
+            "IN",
+            "3000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm307",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Phew, sheesh... What a terrifying experience."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had managed to shake off the girls, but had also completely lost Saika's trail."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Alright, let's see... I'd really like to find her before it gets dark."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t003b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Humhuhuum\uff5e\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "While I was contemplating that, Shikanosuke came from across the way."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hey, Shikanosuke, you seem to be in a terribly good mood, humming like that."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t003a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Hehe, you won't believe this, Fuma! My cousin stopped by the house and she gave me some chocolate!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A not-so-small box was gleaming in his hand."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Wh-What!? Your cousin... do you mean the super strict Uehara Rin-sensei!?"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0044a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke's older cousin was a skilled Electric Art user known far and wide as the \"Dazzling Bolt Taimanin.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I knew her well, too, because when she wasn't on a mission, she sometimes taught at the academy as a non-staff teacher."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t003a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Despite how she appears, nee-chan actually likes sweets quite a bit."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t003b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "And these are really good ones! Shall I bestow one upon you, Fuma? Hm?"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Th-That won't be necessary!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Alright, then I'll eat it all by myself\u266a Later!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Damn it..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Chocolate from the sexy Uehara Rin-sensei... I'm so jealous of that jerk! Traitor!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I watched Shikanosuke skip down the street, cursing him in my mind."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I can't believe even Shikanosuke beat me to it... I'll have to do whatever it takes to secure Saika's chocolate!"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

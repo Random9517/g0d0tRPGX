@@ -1,0 +1,1071 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc048a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Exhaustion assaulted me. My leg felt like it was about to tear off. And an infinite number of smaller wounds covered my body that all prevented me from running as I wanted."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It should be right there, but it still feels so far away..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had thought that running through the mountains would be the safest, but if that masked woman also knew the area\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "k_t004a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "Do you think you can escape from me?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Shit, overtaken again huh."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "Your reluctance to give up is a good quality for a Taimanin to have. But it's really over now."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This time, Saya did not regain consciousness. There was no way to escape\u30fc"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm205",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se014"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Bzzzzrrrt!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Uwah!?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se037"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "ef011a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*KRA-KOOOMM...*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Suddenly, everything went white. And then a thunderous roar echoed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "!?"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc048a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A thunderbolt struck the Masked Madam directly and cut her clean in half\u30fcbut her body instantly turned into a pile of leaves that then went up in flames."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "Who's there!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "yu_t002b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mizuki Yukikaze",
+        "text": "Aww! Even though I hit you square on! That Ninja Art's so annoying!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "The Lightning Taimanin?!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yukikaze!? Why are you..."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "chr_t0088a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Fuma, here. I protect."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Clear, you too!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was stunned by the suddenness of their arrival, but Clear pulled me and Saya over to her to guard us with Kamuy, her protective shield."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Not really sure what happened, but... thanks, I guess?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze for attack and Clear for defense. With that, our combat strength was suddenly even."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "k_t004a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "It doesn't matter how many of you kids show up."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The masked woman's aura turned menacing."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "I'm normally not one to play with children, but I'll spend some time with you until dawn. Make sure to go home before your mom and dad wake up."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Who are you calling a kid!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "k_t004a",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "a_t002g",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Igawa Asagi",
+        "text": "That's enough."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Asagi-sensei!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "a_t002c",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was Asagi-sensei, the headmistress of Gosha Academy and the Almighty Taimanin."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Not only Clear and Yukikaze, but even Headmistress Asagi!?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Still, the masked woman seemed unfazed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "Igawa Asagi, you coming here speeds things up quite a bit. You know the agreement I have with the government, don't you?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Yes."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(An agreement with the government!? \u30fcIs that why she willingly shared so much information earlier?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "This is between those kids and me. They've taken on my request that they are now refusing to fulfill."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "If you get involved, you will be the one to break the ceasefire agreement between us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The masked woman's argument was quite legitimate."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It had been me who had broken the agreement and practically taken Saya NEO away in the first place, so Asagi-sensei had no reason at all to protect Saya."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And as the leader of the Taimanin, it would be much more important for her to not cause any conflict with this woman."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Asagi-sensei...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Silently praying for the best, I tried to gauge Asagi-sensei's reaction."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "a_t002d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "I'm so sorry to say this."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "a_t002c",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "But this is already Gosha's territory, which means that girl is already a guest of Gosha."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "...!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "If you lay hands on our guest, I believe it would be <i>you</i> who breaks the ceasefire?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Asagi-sensei...!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "a_t002b",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi-sensei smiled at me. I was so absorbed in trying to escape that I hadn't noticed, but I had already just barely made it into Gosha's territory."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "a_t002c",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(All thanks to the time that Saya bought us...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "So Yukikaze and Clear must have felt the presence of an intruder and came out here to defend the village."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "Hrm..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The masked woman had lost her composure and silently glared at Asagi-sensei, but after a few moments, she lowered her weapons."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "k_t003c",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "\u30fcWe shall take our leave for today then. As for how to handle Saya NEO, I request a separate meeting at a later date."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Very well, I accept."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The tension eased."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "k_t003g",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "We withdraw!"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The masked woman ordered the mercenaries and also turned to leave herself."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "k_t003d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "I will not forget this, boy."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se082"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "a_t002c",
+            "RIGHT",
+            "CENTER",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She spoke with a somewhat amused smile on her face."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm506",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Phew! ...We're saved!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Asagi-sensei, thank you very much!! And you two also, Yukikaze, Clear!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "You brought back quite some trouble."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sorry..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Hey, this girl, alright?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Looking worried, Clear peeked at the still unconscious Saya."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ah, right! Asagi-sensei, we have to get her treated, quick..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "a_t002a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Leave it to me. I've already contacted the rescue squad."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "a_t002c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Saya... NEO..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "For some reason, Asagi-sensei looked at Saya somewhat nostalgically."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Asagi-sensei...? Uhm... do you know Saya?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "I know this girl's original."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "The original...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Come to think of it, the masked woman had mentioned something like that; that Saya NEO was created based on a little girl. Did Asagi-sensei know her?"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The rescue squad had arrived, and so I handed the girl over to them, her petite body shrouded in mysteries."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "s_t001f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Hey, Fumaaaa! You're safe!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Shikanosuke!? You made it!!! I thought you'd been turned to charcoal!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "s_t001d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Hey!? S-Stop hugging me!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I mean, you fought against that Hestia! And plus you can only use that battery once."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "s_t001b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Hehe, you won't believe what happened. I was rescued by an invisible person!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "An invisible person!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "s_t001a",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "h_t002f",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Fuma-chan!! Shikanosuke-chan!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "h_t002d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "\u30fcAnd Asagi-sensei!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko had also caught up with us and was surprised to see Asagi-sensei and the others."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hebiko! Thanks to you, we managed to escape. And you weren't even turned into sliced octopus!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "h_t002e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "How rude! Hebiko did get sliced up quite a bit though. But thanks to Fuma-chan, Hebiko was somehow able to make it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Thanks to me???"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "h_t002b",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Because you're so popular with the girls!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Then, out of nowhere, a faint smell of smoke\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "6",
+            "chr_t0011a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinka",
+        "text": "Looks like you made it. At least my effort seems to have been worth it."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Rinka-senpai!!! Did you win against Asuka!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinka",
+        "text": "We just had a fun little brawl, that's all."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinka",
+        "text": "She seems to like you, Fuma."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "That's not true!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Eh?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Again out of nowhere, another familiar voice."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Uwah, it's that invisible person!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinka",
+        "text": "How nice of you to see me all the way here. Oh, or did you want to see Fuma?"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Wha-!? Don't be silly! Aahh, whatever!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinka",
+        "text": "Ufufu."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The voice faded away into the sky above us. Beyond it, I could see Gosha Village being illuminated by the morning sun\u30fc"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "6",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

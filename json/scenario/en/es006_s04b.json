@@ -1,0 +1,797 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm313",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc065a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m048a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se086"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lesser Salamander",
+        "text": "GRAAAAAAH!!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se047_01"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Clash!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "Ugh..."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "kn_t004i",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "(Hmm. He's a tough one...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kurenai's blades simply bounced off the demonic beast's hard scales again and again, unable to leave a single scratch."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kurenai was drunk and her attacks lacked her usual edge, but more importantly, the beast was simply strong."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The demonic beast manipulated flames, and also attacked masterfully with the spear it wielded."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Meifeng",
+        "text": "Ahahaha! Come on, tell me before you turn to ash! Where is the djinn!?"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Aahh!? K-Kurenai-san!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "...I'm fine, Mari. Stay back."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Mari tried to rush in to help, but Kurenai stopped her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Mari was also drunkenly unsteady, and couldn't really be counted on in combat."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "(In that case\u30fc)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "It can't be helped. I didn't really want to use this power, but... *hic!*"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kurenai suddenly lowered her swords."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She closed her eyes and slowly concentrated her spirit within herself."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Meifeng",
+        "text": "Ohh\uff5e, what's wrong, Taimanin? Are you giving up already!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "...Giving up? Fufu."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kurenai laughed softly, and then\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se074_01"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Roaaar!!!!*"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Hueeeehhhh!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Suddenly, a demonic aura erupted with tremendous force."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kurenai simply stood there calmly as it enveloped her. It changed the color of her skin, her eyes, and even the combat suit she was wearing\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "kn_t002f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Meifeng",
+        "text": "Wh-What's going on!? This overwhelming demonic Ki...!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "kn_t003c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "...Alright then. Taimanin Shinganji Kurenai, ready for combat..."
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se086"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lesser Salamander",
+        "text": "GRAAAAAAAAH!!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "600"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Clad in the demonic aura, Kurenai dashed forward."
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se108"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Dodging the flames and the spear of the roaring monster, she closed the distance in an instant\u30fc\u30fc\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "kn_t003h",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "Divine Eye Blade: Karmic Demon Siege."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "\"Divine Eye\"\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That was the Evil Eye that was passed down within the Shinganji Family, one of the Eight Generals of the Fuma."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It allowed her to see things not of this world,"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "to determine their very \"existence,\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "and then to sever it with her awe-inspiring swordsmanship\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Even if they were demonic creatures with high regenerative powers, or high-level demons like vampires,"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "once their \"existence\" itself was severed, they had no choice but to perish."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se108_01"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "ef004a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Naturally, the mere scales of a demonic beast did not stand a chance against it."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se097"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "ef005a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lesser Salamander",
+        "text": "GRAAAAAAAH!!!!"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc065a",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se023"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With a cry of anguish, the Salamander's giant body collapsed."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "kn_t002g",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "...Are you up next, witch?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Meifeng",
+        "text": "Ugh!? ...W-We're withdrawing!! I didn't hear anything about a monster like you being involved!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Ah!??"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se054"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She must've realized that she was at a disadvantage. After irritatingly giving the order to withdraw, Meifeng disappeared into the darkness of the back alley."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "kn_t002c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "Oh my. Calling me a monster again."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0006h",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm506",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With a bitter laugh, Kurenai lowered her swords."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And at the same time, her \"demonic\" aura dissipated, and Kurenai returned to her former self."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0006h",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "chr_t0119a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "K-Kurenai-san... are you alright? And... what just happened...?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0006g",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "That's... how should I say... It's something like my special skill."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0006a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "Thanks to it, I'm not drunk anymore and I can properly \"see\" things again."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "H-Huh? Your special skill...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Still tilting her head, Mari eventually smiled cheerfully."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "But thanks to you, that lady ran away, and most likely no one will come after us anymore."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "Yeah, probably. There's also no sign that any other organization is after us\u30fc But more importantly..."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se007"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Classsh!!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kurenai suddenly striked out at Mari."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Mari however, who was supposed to be too drunk to even properly run, easily dodged it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Wh-What are you doing all of a sudden, Kurenai-san...!!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "kn_t004e",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "Hmph, stop with the act\u30fcI believe I told you earlier."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kurenai's two swords were pointed directly at the terrified Mari."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "...That I'd cut you down if you tried anything weird\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "The one who's \"standing there\" right now is you\u30fcisn't it, \"Book Djinn?\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "..."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

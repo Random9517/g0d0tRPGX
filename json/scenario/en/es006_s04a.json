@@ -1,0 +1,504 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm509",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc065a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kurenai and Mari were on the run through a back alley\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0006j",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "Ugh, suddenly having to run made me even more drunk...  Mari, are you alright...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "U-Uhm... Kurenai-san... that's not me, it's a utility pole..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0006k",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "Huh?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kurenai tilted her head."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Maybe because she was still drunk and loopy, Kurenai had mistaken a utility pole for Mari."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0006j",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "Uwah, what am I doing... sorry. Are you alright though, Mari?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Th-That's a garbage can..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0006k",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "H-Huhh??"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This time she had apparently mistaken a garbage can for Mari."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "...I see. Maybe we'd better hide for a while until we sober up."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Y-You're right..."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Not just Kurenai, but Mari as well was so tipsy that she could barely run."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Mari looked behind her, but there was no sign of the gangsters in the ally, most likely because the mercenaries were holding them back."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There should've been time to take a short break\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "me_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m023a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m091a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_FRONT",
+        "info": [
+            "1"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Meifeng",
+        "text": "Oh? And where are you going, you filthy Taimanin girls?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "..."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Uwah!? Wh-Who are you...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As if she had been waiting for them, a woman emerged from the darkness with her subordinates."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "Meifeng from... the Kuron-kai, was it? She's something like the leader of those guys chasing after the djinn."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Chasing after Djinn-san...?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "me_t001b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Meifeng",
+        "text": "Yes, that's right! With that djinn's demonic power, our organization will be able to grow even more!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "me_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Meifeng",
+        "text": "You two are hiding him, aren't you? We'll go easy on you this time, so why don't you just hand him over?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "Hmph. We have no reason to help you villains... *hic!*"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "me_t001d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Meifeng",
+        "text": "Are you drunk!? Fufu, I see... In that case, it might be quicker to just beat his hiding place out of you\u266a"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se085"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Meifeng took out some old scrolls and unrolled them one after another. And then\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m048a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se086"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lesser Salamander",
+        "text": "GRAAH..."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Uwahwah!? A-A snake monster\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A huge gate appeared in the air and a flame-clad demonic beast crawled out of it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "Summoning a demonic beast...? Are you some kind of witch?"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "me_t002b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Meifeng",
+        "text": "Ahaha! Looks like you finally understood who you're up against, girls!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Meifeng",
+        "text": "The strongest witch in Amidahara\u30fcIt is I, Meifeng the \"White Serpent!!!\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With the gangsters and the flame beast in tow, the woman shouted as if her victory was assured."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "...? Sorry, never heard of you, *hic!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "M-Me neither..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "me_t002f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Meifeng",
+        "text": "!? Y-You drunkards\u30fc! Salamander, teach them a lesson!!!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

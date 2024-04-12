@@ -1,0 +1,544 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm308",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc054a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m032a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Brain Flayer",
+        "text": "\u226aFirst, allow me introduce myself. I am called Arsal, and I am one who travels across dimensions.\u226b"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m032a",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ws_t005d",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Ar... sal...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Brain Flayer",
+        "text": "\u226aThe correct pronunciation is a bit more complicated, but I simplified it so that lower lifeforms like yourselves are able understand it.\u226b"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ws_t005d",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "rn_t001e",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "...Yeah, let's just kill him, right little brother?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "H-Hold on, nee-chan! Um, Arsal? What do you mean by... travelling across dimensions?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "rn_t001e",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m032a",
+            "RIGHT",
+            "CENTER",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Brain Flayer",
+        "text": "\u226aIt means that we can travel freely and comfortably between dimensions, utilizing the pinnacle of technology, which we produced.\u226b"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Traveling between dimensions... I've heard about that. If I remember correctly, a UFS scholar published a theory about a multi-dimensional universe... And this would mean that he was correct."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Brain Flayer",
+        "text": "\u226aYou didn't even know that? Very well then, I will explain it easily so that even lower lifeforms like yourselves can understand.\u226b"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Brain Flayer",
+        "text": "\u226aA dimension, or a \"world\" as you call it, is like a drop of water floating in a five-dimensional universe.\u226b"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Brain Flayer",
+        "text": "\u226aAnd we are moving through this five-dimensional universe, moving between drops of water, between \"worlds.\"\u226b"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "So that means you came from another drop of water?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Brain Flayer",
+        "text": "\u226aPrecisely.\u226b"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Brain Flayer",
+        "text": "\u226aOur dimension is undergoing critically dangerous environmental change.\u226b"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Brain Flayer",
+        "text": "\u226aTherefore we are searching for a dimension suitable for a highly intelligent species like us.\u226b"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Brain Flayer",
+        "text": "\u226aAnd are currently doing surveys in several dimensions, while also exterminating the local pests.\u226b"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "And that's how you ended up in this dimension..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That must mean that Rinko-senpai and I had ended up in this dimension because we somehow got caught up in this octopus's dimensional travel."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "You make it all sound so nice, but the point is that you are an interdimensional invader. Right, I'm going to cut you down."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Brain Flayer",
+        "text": "\u226aWait! Wait! It is true that the majority of us think that we should simply exterminate all lower lifeforms.\u226b"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Brain Flayer",
+        "text": "\u226aBut I don't agree! I'm an environmental conservationist!\u226b"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "An environ... mental... conservation... ist?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Brain Flayer",
+        "text": "\u226aI am campaigning for the conservation of the natural environment of the dimension we migrate to. Of course, only up to the point where it doesn't interfere with our move.\u226b"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Brain Flayer",
+        "text": "\u226aI promise we are going to set up a nature reserve for you, somewhere at the edge of this world!\u226b"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Brain Flayer",
+        "text": "\u226aI'm sure even pests like you have something worth living for. We should not belittle you just because you are inferior to us!\u226b"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "...Hey, can I just kill him?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "W-Wait, Sakura!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I would have liked to kill him just as much. But if we killed him, we might not be able to get back to our original world."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "There is one thing I would like to ask. When you travel between dimensions, is there a chance that other people get dragged with you?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Brain Flayer",
+        "text": "\u226aOf course there is! Each jump between dimensions puts a lot of stress on the surrounding space.\u226b"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Brain Flayer",
+        "text": "\u226aYou might bring lower lifeforms from a totally different dimension with you, and sometimes those species even start a war with the indigenous species!\u226b"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Brain Flayer",
+        "text": "\u226aBut that is a small price to pay to ensure the future of our highly advanced species! Ahaha!\u226b"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Rinko-senpai was already silently exuding a threatening aura."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "R-Rinko nee-chan, please wait! So that we can return!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At least we now knew why we had arrived at this strange Gosha Academy."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Now all we have to do is to somehow get back to our original world, but... hm?)"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m032a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Sheeeeeeeeewwww*..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There was a sound as if something was cutting through the air."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Brain Flayer",
+        "text": "\u226aAh.\u226b"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "!! Something's falling from the sky!!"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "...aaaaAAAAHHHH..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "AHHHHHHHHHHH"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Shikanosuke?!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se023"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*THUD*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was Shikanosuke who had come falling from the sky. And behind him\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se025"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*THUMP! THUMP! TH-THUMP! THUMP!*"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m033a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m034a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm303",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieee! They came after meeeee!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Monsters",
+        "text": "GIYYYY\u2606\u30dfT\u25a0SH\u25cfHGGGG\u30c3!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Wh-What what!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Monsters I had never seen before fell from the sky and chased after Shikanosuke, shouting in a language I had never heard before."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "R-Rinko nee-chan..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "I don't really know what's going on, but... Uehara! I'm on my way!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Hm? Another little brother?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "Eh!? Um... probably!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Monsters",
+        "text": "GIYYAAA\u25cfH\u2606T\u30df\u25a0SHRRRR\u30c3!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "Here they come...!!"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m033a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m034a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

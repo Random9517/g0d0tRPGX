@@ -1,0 +1,1581 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm203",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc062a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ay_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ayame",
+        "text": "Long time no see, master."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Ayame had now come out to face me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Her weapon was already taken and she had her hands up behind her head."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "On top of that, Yukikaze was behind, guns thrusting into her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "I can shoot you at any time."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That said, she looked as if she wanted to shoot right then and there."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Due to Ayame threatening to snipe me, plus the fact Asagi-sensei had requested Sago's assassination, it seemed Yukikaze couldn't keep her cool."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I nodded and turned toward her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It's been a while, Ayame-san."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ay_t001b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ayame",
+        "text": "Oh, your face is back to normal. Have you awakened to a healing-type Ninja Art or something?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Ayame said as she looked at my face which should've been battered and bruised but was now perfectly fine."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I'd already ordered her to make the bodyguards retreat to the casino."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Well, even a useless Diot like me has some room for improvement, you know?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ay_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ayame",
+        "text": "It seems so. Being captured by you is my greatest shame as a sniper."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "This is important so I wanted to get the answer straight from your lips."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ayame",
+        "text": "An answer for what?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I asked her the same question that I had posed earlier."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Did you kill Sago Bungo at Headmistress Asagi's request?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ayame",
+        "text": "Yes, it was by her orders that I sniped him."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Ayame answered without hesitation."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "...!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze's hands holding her guns twitched."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I gestured for her to calm down and..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I see, I'm relieved."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "yu_t002c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Huh!? Y-You're relieved!? What do you mean, Fuma!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "You mean you're relieved that Asagi-sensei requested Sago's assassination from this woman!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No, Yukikaze. Ayame-san said she'd \"sniped\" him."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "yu_t002f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "That's the same thing!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No, it's not. Isn't that right, Kurenai?"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Although she didn't give off any signs of her presence, I knew it was her."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "chr_t0006c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shinganji Kurenai",
+        "text": "Well done, Fuma."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kurenai emerged from the darkness where she was hiding."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She fixed her gaze on me with her striking blue eyes, inherited from her Vampire ancestry."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm603",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc146b",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Meanwhile, at Gosha Village\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The invading soldiers were now at the Mizuki Estate, Yukikaze's castle."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ka_t001a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ra_t001a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Not only infantry units but as many as six powered exoskeletons were also deployed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Soldier",
+        "text": "Put the Raidens in the vanguard."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Soldier",
+        "text": "That troublesome \"Lightning Taimanin\" should be away right now thanks to the Cabinet's plot."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Raiden Soldier",
+        "text": "\u300eThe one that can smash through even this kind of armor?\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Raiden Soldier",
+        "text": "\u300eFor real?\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Raiden Soldier",
+        "text": "\u300eWho knows? But if she isn't here, there's nothing to worry about, right?\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Infantryman",
+        "text": "Just make sure you don't take on that \"Immortal Taimanin\" who guards the castle."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Infantryman",
+        "text": "They don't seem to have any effective means to damage a Raiden's armor, but our attacks won't work on them either."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc062a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "chr_t0006j",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm506",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "He looks so handsome now..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kurenai muttered something."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huh?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "chr_t0006d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "N-No, nothing at all..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kurenai and I hadn't seen each other for a long while, but she appeared strangely restless."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If memory served, she'd always been dignified and worn an air of unattainability."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But perhaps she was somewhat bewildered that her trusted retainer Ayame had been so easily captured by me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Answer me, Kurenai!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "chr_t0006j",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "Wha-What about?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kurenai jolted, surprised"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sago isn't dead, is he?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "chr_t0006c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "You didn't hear from Igawa Asagi?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kurenai asked with some surprise."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Nothing. That's why I'm asking you, Kurenai."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "chr_t0006g",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "Sorry. I'm in no position to answer that."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kurenai lowered her gaze to avoid my eyes."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "yu_t001f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Fuma!? What's going on!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze interjected."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "I have no idea what's what. Just explain it to me already!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Right..."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm509",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "To calm Yukikaze down, or rather in an attempt to elicit an answer from Kurenai,"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I began to talk about Sago's assassination, my personal investigation of it, and the speculations I'd made based on the result."
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1500"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Our mission was to escort Sago to the government."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And we were supposed to hand him over to the Cabinet."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, it was only to be expected that once they got their hands on Sago, they would turn him into a guinea pig to study the UFS's cyborg technology."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That's why Headmistress Asagi had decided to stage his assassination."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was to pull the wool over the eyes of the UFS and the Cabinet, who were both after Sago."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc062a",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "chr_t0006c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And one of the actresses whom Headmistress Asagi had chosen for the stage was Shinganji Kurenai."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "If it's to save someone who's also from the Fuma Clan, there's no way you could've just rejected the request, could you?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kurenai didn't answer, so I continued."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "ts_m099a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I told them that Mine from the Cabinet had contacted me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And that she implied right in front of my face that Shinganji Kurenai and Headmistress Asagi conspired to assassinate Sago."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc062a",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "But when I heard her say you were involved in that assassination, Kurenai... I realized her story didn't add up."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "chr_t0006c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "As I said, there's no way you could've killed Sago. That would run against your principles."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "The only possibility was that Mine was trying to lead me into something. So, I pretended to be duped to find out what it was."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Oh, by the way, Yukikaze."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "yu_t001d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I looked back at Yukikaze."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Huh? M-Me?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze had been quietly listening to me for a while, but she jumped with a start as I suddenly addressed her."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "yu_t001c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Mine knows about us so well, it's almost frightening."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Without even bringing up your name, she tried to lead me to assign you to this mission."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I noticed it, but I decided to go along with her anyway."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "So that's why you brought only me..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "yu_t001d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze seemed convinced for a moment but then suddenly seemed to realize something."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "yu_t001f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Ahh! So all that stuff about bringing only the best you knew was a lie!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "yu_t001e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I didn't lie. I decided to bring you because I was sure I could outsmart Mine with you."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "yu_t001c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Mrrrgh. I feel like you're just trying to placate me but... Well, whatever. And then?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Apparently satisfied with my words for now, Yukikaze urged me to carry on."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "So I thought, \"What would Mine gain by having you accompany me on this mission? What's her goal?\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "yu_t001c",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "chr_t0006c",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ayame",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Not just Yukikaze, but both Kurenai and Ayame were waiting for my next words."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "The answer is simple. It's Clear."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "yu_t001d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Huh? Clear!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "Codename \"Type: HERO,\" huh."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was only natural for Yukikaze to react to the sudden mention of Clear's name, but Kurenai also seemed to know about her."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "yu_t001c",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "The mastermind behind Clear's previous attempt to assassinate Headmistress Asagi\u30fcit was probably Mine and the Cabinet."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It's possible that Clear still has the evidence somewhere in her body."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That's why Mine and the Cabinet want to recover Clear by any means necessary."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "yu_t001f",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Wait! You figured out that much and you still separated me from Clear!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I didn't necessarily separate you from her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "But that's what actually happened! I'm the one taking care of Clear now!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "yu_t001e",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It's alright. I have my most trusted forces at the castle. I was worried if it was just the old man there after all."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm313",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc146b",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ka_t002a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ra_t002a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Infantryman",
+        "text": "Alright! March!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Raiden Soldier",
+        "text": "\u300eHeh-heh! Come out, you dusty old ninja!\u300f"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se054"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The vanguard of six powered exoskeletons began their advance."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, a shadow stood in their way."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Stop right there!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "6",
+            "kr_t003a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Oni horns were visible between her big ribbons and pigtails."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And around her body were billowing clouds of icy mist."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Standing there was the hybrid Taimanin who held control over both Ninja Art and Ice\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Onizaki Kirara is here!!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "6",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "7",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "8",
+            "h_t002a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Whoooaaa! S-Some bad guys really came, huh!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Fuma-chan trusted Heberybody to protect this place. You guys are ready for this, right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke and Hebiko also appeared."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "7",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "8",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "6",
+            "kr_t003a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "You villains!! We won't let you even set one foot in here!!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "6",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

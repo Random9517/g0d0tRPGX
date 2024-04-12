@@ -1,0 +1,1818 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "black",
+            "NONE"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A short while before traveling down to Yomihara."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc071a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm604",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hmmm..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I finished leafing through the books piled up on the floor and sighed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "As expected, there isn't much material about the power of demons."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was curious about what Kiryu Sabato had told me and was searching for information about the \"power of demons.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, almost all of the books in the collections at school and at home were about ninja and Ninja Arts."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There weren't many books about demons and thier powers, and I had finished reading through nearly all of those."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "This is a village of ninja, so I guess it's only natural."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "In that case, I guess the best way to find out about the power of demons would be to ask a demon..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The only demons I knew were the boorish Orc mercenary and those two mischievous little devils. They didn't seem like the most knowledgeable people by any standard."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...Hmm, if you haven't got a clue, then there's nothing to do but search."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I put the books aside in a corner of the room and contacted a certain girl."
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc123a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm509",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A few days later."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Tokyo Kingdom, the abandoned city floating on Tokyo Bay."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Before anyone had noticed, it had become overrun, first by society's underbelly and then by demons, making it a demonic metropolis. And in this city, a market had been established by shady merchants."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sorry for making you tag along, Shishigami."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0077a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shishigami Jisai",
+        "text": "Don't worry about it. I had just finished my mission and was on my way back to Gosha anyway."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In this market, filled with curiosities from the Devildom, there might also be books written about the power of demons."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Nevertheless, this was a dangerous city to walk alone in. So I had asked Shishigami to be my escort."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "So? Do you think you can find what you're looking for?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah, it looks promising\u30fcHuh!?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "700"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc123a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR01",
+            "IN",
+            "800"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "700"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Just as my chest was aflutter with anticipation, my clothes were yanked on by someone from behind."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Aishu Hebiko",
+        "text": "Fuma-chan, Fuma-chan!! What is that? It looks like Hebiko's legs!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The excited Hebiko pointed to a street vendor showcasing strange, richly-colored fruits."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah, that's a tentacle fruit. It's from a plant that grows in the tropics of the Devildom. Apparently, it's sweeter and tastier when it's a little underripe."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "You can eat it!? Maybe Hebiko'll buy one."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Let's not\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "700"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc123a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR01",
+            "IN",
+            "800"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001e",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "700"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Uehara Shikanosuke",
+        "text": "Hey, hey, Fuma, look at that! There's a bunch of tiny little heads on display!? A-A-A-Are those real!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ahh, those are most likely victims of the Rakshasa Orcs. Apparently they specially prepare the heads of enemies they've hunted down and shrink them."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001h",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieeee!? That's way too scary!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko and Shikanosuke looked all around with unbridled curiosity."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "700"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc123a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR01",
+            "IN",
+            "800"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0077a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "700"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sorry for them making such a fuss, Shishigami."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "They seem to be having fun so it's all good. I'm always alone, so..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shishigami was a student like us, but she didn't want to \"cause trouble for people\" because of her power, so she often kept to herself."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was to the point where until we had coincidentally gotten caught up in the same incident, I hadn't even known her name."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "But she's inconvenienced, for sure... by <i>your</i> curiosity too, Fuma-chan!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "You say you want a book about magic, so you make Shishigami-san come with you to a dangerous place like this?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What's wrong, Hebiko? You're awfully harsh today."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I mean, you two came along on your own, didn't you?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002c",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Heheh, you're so thick, Fuma. Hebiko is mad at you, you know\u266a Because you were planning to go on a <i>date</i> with Shishigami."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002i",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "N-, nuh-uh!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002f",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "What are you talking about, Shikanosuke-chan!!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It's not a date. I just asked her to escort me."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001c",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "What, it's not? Then why did you come to a place like this without telling us?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That's... um... I told you about the incident I got caught up in with Shishigami, didn't I?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002c",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Where you were trapped in that labyrinth?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah. There's no guarantee there won't be another incident like that, so I wanted to deepen my knowledge regarding everything magical and demonic."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "So that's why you invited Shishigami, who was dragged into that incident with you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah. It wasn't that I was hiding anything."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001a",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Hmmm. I mean, we're always being saved by your knowledge, so no complaints here!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "I was also saved back then. It's the same for you two as well, huh."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Shishigami seems to be enjoying herself. Maybe it's actually good that Hebiko and Shikanosuke came with us.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...Hm? That's..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc123a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR01",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I suddenly stopped in front of one of the shops. Inside it was a certain familiar-looking man."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "zk_t001b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Zocht",
+        "text": "Yes, yes, welcome. Can I help you with\u30fcah."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "zk_t001d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Y-Yo..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "zk_t001f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Zocht",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A strange tension hung in the air."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "zk_t001c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Zocht",
+        "text": "Y-Y-You! What the hell are you here for?!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Zocht",
+        "text": "Did you follow me all the way here!!? I told you that I was only hired by that woman back then, didn't I?!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No, wait, that's not what this is about\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was Zocht, the demon who had been hired by the proprietress of the Chaos Arena to guide us when Hebiko had been kidnapped before."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A lot had happened then, and there was more than a little ill will..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Zocht started to ready his gun, but Shishigami was quicker."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "zk_t001d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se004"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "If you move, I'll kill you. I won't say it twice."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Zocht",
+        "text": "Hueghh!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shishigami's blade was pressed against Zocht's neck."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Wait, Shishigami! I didn't come here to fight."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hearing my words, Shishigami's intent to kill lessened some, but she didn't remove her blade from Zocht's neck."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Zocht",
+        "text": "Th-Then what the hell are you here for!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I only wanted to ask you something."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "zk_t001c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Zocht",
+        "text": "A-Ask me something? I'll tell you anything, so please do something about this woman!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Shishigami."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shishigami nodded and lowered her blade."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "zk_t001f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Zocht",
+        "text": "You really are some terrifying kids... So, what did you want to ask about?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "About the power of demons. Basically, about the source of a demon's power."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Do you know of any information\u30fclike knowledgeable people or shops with books about that kind of thing?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "zk_t001c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Zocht",
+        "text": "Beats me. Sorry, but it's outside my area of expertise. That's complicated stuff that only sorcerers and alchemists read about... Ah, wait a second."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Do you have something in mind?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Zocht",
+        "text": "Yeah, I've never met them, but there's someone close by who seems to know a lot about this kind of stuff... Of course, this ain't free though?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As Zocht returned to his usual self, Shishigami directed her murderous aura toward him once again."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "zk_t001d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Zocht",
+        "text": "Eeek!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "zk_t001c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Zocht",
+        "text": "Alright! I'll tell you!!! I'll tell you, so get that scary woman away from me!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "As long as you understand."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(I was right to have Shishigami come with me after all...)"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc110a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After passing through the black market, we emerged onto a quiet street."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(There's a lot of well-kept houses here... I guess if there's people making money on the black market, it's not surprising that there's a more up-scale neighborhood as well)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We stopped in front of one of the houses."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0077a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "So this house is the alchemist's atelier."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "It's Hebiko's first time meeting an alchemist! I wonder what kind of person it is."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "I bet it's some eccentric old guy."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "According to what Zocht had told us..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "RIGHT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR14",
+            "OUT",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Zocht",
+        "text": "An alchemist has set up their atelier nearby. The rumor is it's someone who has a peerage in the Devildom, so I guess they must know about this kind of stuff?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Zocht",
+        "text": "It's just something I heard though. Don't put too much stock in it."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc110a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR14",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0077a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "An alchemist certainly seems like they'd be quite knowledgeable."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Let's go in right away then. Um, excu-..."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "!!! Guys, get down!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Eh!?!?"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se036_02"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*RATATATATATATA!!!!*"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm207",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When I instinctively dropped to the ground, a storm of bullets grazed over my head, accompanied by the sound of gunfire."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Wh-What!?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m039a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "ts_m039a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster 1",
+        "text": "Die!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieee!? What's going on all of a sudden!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster 2",
+        "text": "It's the guys who got our old man!! Haaahh!!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se036_02"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*RATATATATATA!!!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As if to affirm that there would be absolutely no discussion, the bullets rained down again."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "H-H-H-Hey, Fuma, did we kill someone's dad!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "With all the fighting up til now, I can't say there's no way we haven't, but..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When I sneakily peeked out from the shadows, I could see that the attackers were men that looked like thugs."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001d",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002e",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "But even so, sitting here quietly and getting killed isn't an option!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko said as she turned into an octopus and got into her combat stance."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0077a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "I agree. What do we do, Fuma?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You're right... Luckily there's not many of them. I guess we'll wait for them to run out of bullets and then counterattack\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At that moment, I heard a creak behind me."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se095"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "chr_t0100a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "What's all the racket?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hearing the commotion, the owner of the house had come out."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ah, no, it's just\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And the attackers simultaneously turned their attention to the woman."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster 3",
+        "text": "The boss shows her face!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster 1",
+        "text": "How dare you do that to our old man!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "chr_t0100a",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "6",
+            "ts_m038a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster Leader",
+        "text": "Wait, don't shoot. You're Chevalier, the alchemist, right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Stopping the zealous attackers, a man who seemed to be their leader stepped forward."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Chevalier",
+        "text": "Well, well. It looks like some gnats chirping the name Chevalier have wandered in."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The woman seemed unfazed, and merely adjusted her gaze and looked at the men."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster 2",
+        "text": "Stop screwing around! You had these Taimanin spread poison, didn't you?!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster 1",
+        "text": "And look what happened to our old man because of that!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Chevalier",
+        "text": "Chevalier doesn't know anything about that."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Hey, what's going on here?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "(Isn't there some kind of misunderstanding?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster Leader",
+        "text": "Alchemist Chevalier, come and fight me. If you want, you can toss in those Taimanin kids and fight me five against one."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Chevalier",
+        "text": "Don't be silly. If you want to get violent, then please do it elsewhere."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster Leader",
+        "text": "Don't play dumb! You're the only one around here who could do something like that."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster Leader",
+        "text": "The fact that those Taimanin are here is proof above all else. I bet they came to collect their reward."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "6",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Reward...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I wasn't sure what they were talking about, but the threatening attitude of the men made even the town's residents, who were used to bloodshed, stop in their tracks."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hey, I don't know what's going on, but for now calm down and let's discuss it..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "6",
+            "ts_m038a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster Leader",
+        "text": "Shut up!!! Seems like I have to tear you all apart!! \u30fc...GRRRGGHH..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!? Wh-What's going on..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster 2",
+        "text": "Yeah, do it!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The man suddenly let out a low growl and ripped off his mask\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se062_01"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "6",
+            "ts_m074a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster Leader",
+        "text": "\u300eGRRRRGGHHH!!!!!!\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Wh-What's wrong with this guy!? He suddenly turned into a wolf...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I've heard about them. Monsters from the Devildom that can turn into humans..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Werewolves!!!! This guy was a Werewolf!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster Leader",
+        "text": "\u300eGRRRRGGHHH!!!!!!\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "This looks bad! Hebiko, Shikanosuke, prepare for combat!!!!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "6",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

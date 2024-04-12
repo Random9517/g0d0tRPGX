@@ -1,0 +1,138 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc002a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm403",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "Once you've set up your party, let's go to battle."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc061a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Whah!? The scenery changed all the sudden!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "<i>In this complex we can use virtual reality to recreate all sorts of situations for training. This time, I've chosen to recreate a shady city.</i>"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "<i>I'm going to make an enemy appear.</i>"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m036a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ohh...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "<i>Don't worry, I'll be giving you directions during the battle. Good luck!</i>"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m036a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "700"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

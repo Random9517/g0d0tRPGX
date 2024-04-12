@@ -1,0 +1,818 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm314",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At the same time as we were taking Muroi-sensei to the science lab\u30fc"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc006a",
+            "IN"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Fuma Genin",
+        "text": "Igawa Asagi..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Fuma Fire Ninja",
+        "text": "The sworn enemy of the Fuma Clan..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "a_t001c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Igawa Asagi",
+        "text": "You are from the Fuma Clan? What are you doing this for?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "a_t001c",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "g_t001c",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Isn't it obvious? For the revival of the clan. And you're in our way."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "a_t001e",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "You're Nisha Gaiza-kun, first-year student, right? Your name is always on the list of top scores for the practical exams. I expected a lot from you, what a shame."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "g_t001e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Hunh!? Stop looking down on me, Ms. Almighty!! Well, you were \"almighty\" until today anyway!!!"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se004"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "g_t003e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm207",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Gaiza shouted while taking a big swing at Asagi with his sword."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Without delay, his followers charged at her as well."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was a coordinated attack; Gaiza was waiting to deal the final blow with his odachi while his followers caused confusion."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But Asagi didn't move."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "g_t003g",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Take this!!!"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se013"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Gaiza's odachi closed in on Asagi\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se007"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "a_t001e",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "g_t003g",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Clank!!!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "!!!? What the...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Fuma Fire Ninja",
+        "text": "Uuaargh!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Fuma Genin",
+        "text": "Ugh...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, it was Gaiza and his men who were thrown to the ground."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And in the middle of all of it, Asagi was standing calmly, already clad in her Taima-Suit."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "a_t002c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Shit, what did you do, old hag!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Lay down your arms. You don't stand a chance even with all of you put together."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Ha, \"Ms. Almighty\" was no exaggeration. I couldn't even see your sword."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "a_t002c",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t003b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "In that case, I guess I'll get a bit more serious."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Gaiza laughed and stood up slowly, putting a hand on his right eye."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t003h",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Evil Eye: Yaksha's Skull!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t003b",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR37",
+            "IN",
+            "100"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "black",
+            "NONE"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The moment he shouted, gleaming, sinister-looking armor began to cover his body."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc006a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t005a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "This is my real power, old hag!!!!!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The armor gradually covered Gaiza's entire body, and he looked like embodiment of a skeleton."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This was Nisha Gaiza's ability. It wasn't merely a suit of armor."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The armor was not only formidable as protection, but also gave him enormous power and incredible speed to wipe out his enemies, far surpassing his unarmed form."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was called\u30fc\"Evil Eye: Yaksha's Skull.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "I see, the power of the Fuma's Evil Eye. If you continue to oppose me, I won't show you any mercy, even though you are still a student."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Ha, don't underestimate me!! We're not rebelling for fun!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Gaiza dashed toward Asagi again."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Huaaaargh!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Haahh!!"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se007"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This time no one was thrown to the ground, and the two engaged in a dazzling battle, both with moves that were too quick for the naked eye."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "You won't pierce my armor with an attack like that!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At that moment\u30fc"
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Headmistress Asagi! A-, a-a-are you alright!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Gaiza-chan! So it really was you!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Gaiza, stop this foolishness!!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Hn!!? Diot...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The two stopped fighting upon our sudden entrance."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Why did you come here at this point!? You know I said I'll kill you if you get in my way!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What's the use of starting a rebellion!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Haa... now you start pretending to be a clan leader... What right do you have to tell me what to do!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I'll figure out sooner or later what you're up to. Just like I figured out that you'd be in the headmistress's office."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sakura-sensei and Murasaki-sensei should be here soon as well. There's no way for you to win."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "I just have to kill Asagi before that. Of course, you three as well."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "You think it will be that easy? It seems to be pretty evenly matched."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Gaiza appeared to be scowling imperceptibly under his skull mask at Hebiko's remark."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Hngh... Guys, take care of those small fries over there!! I'll kill Asagi!!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t005a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "500"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m002a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m038a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Fuma Genin",
+        "text": "As you command."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Fuma Fire Ninja",
+        "text": "As your wish, sir."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "On Gaiza's order, the group of Fuma genin surrounded us."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m038a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m002a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "500"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004e",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001h",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "F-F-Fuma!! Any plan!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No need for a plan. Let's kick their asses!! And then we stop Gaiza!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Now you're talking!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "For real!?"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

@@ -1,0 +1,270 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc017a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001c",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002c",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm603",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Phew~ By the way, where are you heading, Fuma-chan?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Anywhere is fine. Look for any room that might have a terminal in it."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002g",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Anywhere is fine...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It looks like there is a network set up specifically for this base. We should be able to infiltrate that network easily from any terminal on the base."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002c",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "So that's what you meant. Not sure Hebiko understands though!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Fuma-chan, you're good with this kind of stuff, huh. You also helped the granny at Inageya set up her internet too, didn't you?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "H-Hey!! Enemies coming from up ahead!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke, who had been paying attention to his electric sonar, warned us just before heavily armed UFS soldiers appeared and readied their guns."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "500"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m009a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m010a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "There's still more of them...?!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Yaaay, break on through!"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1500"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m009a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m010a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

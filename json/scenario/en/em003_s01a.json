@@ -1,0 +1,3531 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc056a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm307",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "On a certain day off."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was lazing away at home to my heart's content."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc081a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Ahhh, free time...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It had been one hard mission after the other lately, so I thought I'd at least take it easy on a day off."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But as it turned out, having nothing to do like this was boring."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The young Sakura, who was a handy playmate in times like this, was also not at home since she had gone out to search for a part-time job."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huaaahh..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(It is what it is. Guess I'll go to Inageya to have some ice cream to kill time.)"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc078a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Gosha Village was a small settlement."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Just by taking a random walk, you'd usually bump into some familiar faces\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "On this day as well, I ran into some of the regular crew shortly after walking out the door."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004f",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Uehara Shikanosuke",
+        "text": "Aieeeeee!! S-Stop it, Hebiko!! This is a human rights violatioooon!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Aishu Hebiko",
+        "text": "What are you talking about. The one who asked to do special training was you, Shikanosuke-chan, no?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001e",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Ugh!? That's true, but..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What are you guys up to?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was Hebiko and Shikanosuke."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "For some reason Hebiko had changed into an octopus and Shikanosuke was tangled in her tentacles."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This was a town of Taimanin so it was fine, but if they did something like this elsewhere it would cause an uproar."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Ah, Fuma-chan. Are you going out?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah, just taking a walk. There's no mission today, so I'm chilling."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "H-Hey!! Help me, Fumaaa!! Hebiko is going on about doing special training and won't let me goooo!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke was still in the tentacles' clutches and pleaded to me, half in tears."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Special training?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004c",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Yeah, voluntary training. There had been lots of difficult missions lately, right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "So Hebiko and Shikanosuke-chan talked about how Heberybody should improve their skills."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ahh, you're right."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Just recently, I'd had a near-death experience as well."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Very admirable, Shikanosuke. That's some motivation."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001e",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "I-I am motivated, buuuut\uff5e... On my day off I want to relax at home..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "No chance\uff5e Shikanosuke-chan, this is something you brought up on your own, so you have to put in the work."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001h",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Ughhh, you're so mean..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hmmm..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If you open your mouth, you're bound to put your foot in it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "You can't blurt something out without thinking in front of the diligent Hebiko."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Will you join the training, Fuma-chan?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No, I'll pass. I had a bad experience just the other day."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004b",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "That's true. Alright, next time then."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001f",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "W-Wait a second!? Why is Fuma exempt from trainiiiing\uff5e!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Fuma-chan just got out of the hospital, didn't he? Come on, let's go, Shikanosuke-chan."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Ahhhhhhhhhhhh\uff5e\uff5e!! Fuma, help meeeee\uff5e!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Still entangled in Hebiko's octopus tentacles, Shikanosuke was being dragged away toward the academy."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Do your best!"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc078a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Hm? What's that...?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As I arrived at Inageya, an elderly lady was arguing with someone at the storefront."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Elderly Lady",
+        "text": "Hmm... even if you say that..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "chr_t0088a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "I... do a mission. No?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Elderly Lady",
+        "text": "That's not what this is about. We are a business, that's what you have to understand."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Busi... ness...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Elderly Lady",
+        "text": "What? You don't even know what that means? Where do I even start with you..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What's going on?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had started to get a little intrigued, so I called out to them."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Elderly Lady",
+        "text": "Oh, the young Fuma. This girl said that she wanted to eat some of our ice cream."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ice cream...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I took a look at the girl who had talked with the elderly lady from Inageya."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She was small but very cute. I had never seen her around here."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Is it sold out or something?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Elderly Lady",
+        "text": "No, that's not it. It's just that she says she doesn't have any money."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ah, money..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Then there was no way she could buy any."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "I do a mission instead, not money. I work hard."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Elderly Lady",
+        "text": "Even if you say so, there's nothing for you to do today."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I see..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "On weekdays, Inageya was usually busy with Gosha students on their way home, but today was a day off."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Obviously, the elderly lady wasn't busy."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Ice cream... I can't eat it? Ice cream here is tasty, I heard..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The girl said with a slightly sad voice."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She spoke broken Japanese, and she didn't seem to be from Japan, so where did she come from?"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Elderly Lady",
+        "text": "Hmm... You'll wear me down if you make that face at me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Elderly Lady",
+        "text": "Look, Young Fuma, won't you buy one for her?"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huh!? Me!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "For some reason it had become my responsibility."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Elderly Lady",
+        "text": "Everyone knows the head of the Fuma Clan is rich. You must receive quite a big allowance, right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ugh!? N-No, my allowance is really..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was such a sad amount that I couldn't even tell other people."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "chr_t0088a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "*Stare*..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Ugh!? Why is she looking at me like that!?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The girl looked up at me with eyes that clearly expected something."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Elderly Lady",
+        "text": "I think demonstrating your generosity here would be a way to show her what type of man you are."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Elderly Lady",
+        "text": "Little one, you want to eat some of our ice cream, right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "I want to eat it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Elderly Lady",
+        "text": "Then tell him, \"Please, handsome onii-chan, buy me one.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Please, handsome onii-chan, buy me one."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "She sounds so robotic..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Elderly Lady",
+        "text": "No, not like that. A bit more seductively\u30fc\n\"Uhuhun\u266a Please, onii-chan, buy me one\u266a\" Like this."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Uhuhun. Please, onii-chan, buy me one."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That sounded almost the same though... And what are you even teaching to a girl like this?"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Elderly Lady",
+        "text": "Come now, it's just the basics of Carnal Jutsu. No man hates being begged by a cute girl, heehee."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "*Sigh* Begging..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Come to think of it, it was said that back in the day, the elderly lady from Inageya had been renowned as a skillful Carnal Jutsu user."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But now she was just a shriveled old lady, no matter how you looked at her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Oh well, no way out of this I guess. One ice cream, please."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Elderly Lady",
+        "text": "Thank you! Only one is fine?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Y-Yeah... I'm not hungry..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(I just don't have enough money, damn it!!)"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc078a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(*Sigh* Sheesh...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We sat side by side on a bench in front of the store. She alone was stuffing her face with ice cream."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "chr_t0088a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "*Lick, lick* ...Whoa, delicious\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She seemed very pleased with Inageya's ice cream."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Her eyes twinkled with delight, almost as if she was eating ice cream for the first time in her life."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Glad to hear it. If you had said it tasted bad, I'd have been bummed as the one who bought it for you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...So, what's your name?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "...Clear."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The girl answered while licking her ice cream."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That name... so you're a foreigner. Where did you come from?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It looked like she was alone."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She didn't seem to be at an age where she required chaperoning, but she still didn't look like she'd be safe alone."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Far away."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hmm. Far away... I see..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Gosha Village was a place where Taimanin, and anybody who had the talent to become a Taimanin, lived."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Among them, there were apparently ninja who had traveled overseas long ago, and so there were some Taimanin who looked 100% foreign."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Was she one of those foreign Taimanin?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Did you come from overseas? Were you called here for a mission or something like that?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Don't remember."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Oh...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She couldn't remember...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "But, how can you not remember that? To start with, you came to this store because you heard about the ice cream from someone, right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Clear looked confused."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hmm... Perhaps... you don't understand Japanese well?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Japanese. I... talk good."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She couldn't \"talk good\" at all."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Aah, okay okay. Your ice cream is gonna melt. Eat it quickly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Okay."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As Clear continued to eat her ice cream, we lapsed into silence."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She didn't seem like the type to talk on her own, and I also didn't know what to talk about when meeting a girl like her for the first time."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, watching Clear happily devour her ice cream had made me crave some again as well."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(*Sigh* I know how good this ice cream is...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(If I only had a little bit more of an allowance... Maybe I should look for a part-time job together with Sakura...?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "...Want to eat?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hm?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As I looked at her, Clear was holding out her ice cream toward me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Me?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "? Anyone else here?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No, there isn't, but... really?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Just a little. Your face says you want ice cream."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Haha, you're pretty nice. Then I'll take you up on that."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I took a bite of the ice cream that Clear was holding out."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Mmmmmm!! Oh man, Inageya's ice cream is good!! Right!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Yes."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Give me one more bite."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Om nom. Yum."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Right after my bite, Clear pulled back the ice cream."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What's wrong? Let me eat some more."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "No more. This is Clear's."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I paid for it. So I have a right to eat it!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Hmph. No."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When I tried to eat some more of the ice cream, she resisted in a fuss."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Just as fooling around with Clear was starting to get interesting, a surprised-sounding voice came from behind us."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "chr_t0088a",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "yu_t001d",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mizuki Yukikaze",
+        "text": "H-Hey, Fuma!? What are you doing!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Oh, it's you, Yukikaze."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was one of my classmates, Mizuki Yukikaze."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Previously, we hadn't had much contact, but recently a bunch of stuff had happened and we were talking often."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "yu_t001f",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Don't give me that, \"Oh, it's you\"!? Are you... Are you on a date with such a little girl!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huh!? Of course I'm not!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "yu_t001e",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Then what are you doing?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I just bought an ice cream for her. She said she didn't have any money, and Inageya's elderly lady got me to buy her one."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I mean, I just met her earlier, so there's no way we'd be on a date or anything."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "yu_t001a",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "That's it? Ahh, you scared me... I thought you might be \"shopping in the kids section\"!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I'm not. What does that mean anyway?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A mysterious turn of phrase had appeared suddenly."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "yu_t001d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "I-If it wasn't like that, then never mind. Um... I'm sorry for suddenly yelling, little girl."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "yu_t001a",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze spoke to Clear with a kind look, completely differently from how she had addressed me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, Clear seemed to be wary of Yukikaze for some reason and quickly hid behind me."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "yu_t001d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Eh!? Wh-What...? Did I do something weird...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It's just how you are. Little girls like her can detect your vicious personality with a glance."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "yu_t001f",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "What do you mean \"vicious\"!? I'm gonna kick your ass, stupid Fuma!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "yu_t001d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Ahh!? I-I'm sorry... I yelled again..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(I knew she was vicious...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze seemed to have given up due to the fact that no matter how much she coaxed Clear, the girl wouldn't drop her guard."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She let out a long sigh and turned to face me again."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "yu_t001c",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "By the way, what are you doing in a place like this?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Me? I just took a walk. Today is a day off and I don't have any mission to go on."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Hmm... How nice, I guess dunces have a lot of free time."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Shut up. What about you?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "I was heading to the academy now."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "The academy? On a day off?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Yes. I have business with Asagi-sensei\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Asagi-sensei... Isn't she away from Gosha right now because of some government-related work?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi-sensei was the headmistress of Gosha Academy and the leader of Gosha's Taimanin."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And because of that position, she often had to go to meetings with government bigwigs."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "yu_t001g",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Yeah. But it seems that she'll be back soon... so I wanted to talk to her directly again."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hmm..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Come to think of it... she did bring something up with Asagi-sensei before...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Did it have something to do with her mother who was rumored to be missing?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "...And as that thought crossed my mind, Yukikaze quickly turned around."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "yu_t001b",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "But I still have some time, so maybe I'll take a quick detour!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se078"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "chr_t0088a",
+            "RIGHT",
+            "CENTER",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "\u30fcGranny! Give me something cold!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Elderly Lady",
+        "text": "Oh, Yukikaze-chan. You look lively today as usual!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And off they went inside Inageya."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "She's always so noisy... But she's not a bad person, so don't worry about it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "...Okay."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Clear kept a fairly close eye on Yukikaze's back as she entered the store."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And then hastily ate the rest of her ice cream and stood up."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hm? Are you going already?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Yes. Ice cream... was delicious."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That's good to hear. Next time bring your own money. Bye then."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As I said that, Clear had been starting to leave but came back as if she had suddenly thought of something."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And then for some reason she lightly grabbed my hand."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Wh-What is it...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "I want to be together. A bit more."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huh...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "No?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "W-Well... I'm not busy today. I don't mind, but I don't have any more money to buy things for you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Yes. It's fine."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Quite an odd one has taken a liking to me...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When I stood up, Clear began to walk briskly as if she had been waiting for that."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But she spun around again after having only taken a few steps."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "...Your name. Tell me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Right, guess I haven't told you yet. I'm Fuma, Fuma Kotaro."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Fuma. Got it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "So you're not going to add \"-san\" or anything."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I thought \"Sheesh\" as I gave a wry smile and followed Clear away from the Inageya storefront."
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc117a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm604",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At a hill in Gosha village\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was a beautiful hill where seasonal flowers bloomed all year round, and it was a popular spot in the secluded village."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Isn't this a nice spot? Taking a nap here feels really good."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was low on funds and I also wasn't sure what kind of place a girl like Clear would like."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That was why I had brought her to this hill, one of my favorite places."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "chr_t0088a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Wow, beautiful!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Do you like it?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Yes! I like, Fuma!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I-Is that so...!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(This is... getting a bit dangerous!!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Clear's innocent joy at seeing the flowers made me, already in quite deep, feel a hint of danger."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It hadn't been my intention... but I was basically dragging around a seemingly innocent girl as much as I wanted."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was possible someone looking at us from the outside might immediately call the police...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Y-You... don't you have to call home or anything?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Eh?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was getting a bit worried, so I asked Clear."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ah, I mean if you wander around like this, your parents will worry about you, won't they?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(And in the worst-case scenario where her parents found us, I might get arrested!!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Already did. It's fine."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huh? When did you..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I hadn't seen anything that looked like her contacting someone... Maybe she texted them?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "And what did they say?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Yes. A little more is okay. They said."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I-I see..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I wasn't totally convinced. But if she had contacted her parents, maybe there was no problem?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Now is free time. So... I want to play with Fuma."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "...No?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hmm, I'm not really sure, but... maybe this is also one of those situations where I can show what type of man I am? Guess it can't be helped, I'll hang out with you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Okay!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc117a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Oh!? Look what I found, let's play with this!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had found something good."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I picked up a frisbee that someone seemed to have forgotten and turned toward Clear."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "chr_t0088a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "? What?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It's a toy. It might be more fun than playing tag."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I threw the frisbee toward Clear who was tilting her head."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Clear dodged it quickly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "...You declare war?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Not at all. It's a kind of game. Don't dodge it, catch it and throw it back."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Catch and throw back?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Clear made a confused expression."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You don't know it? It's a frisbee."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "First time I saw it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Really...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Maybe kids these days didn't play with toys like this?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Slightly feeling the generation gap, I picked up the frisbee that had fallen to the ground."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Let's try this again. Here!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Okay... catch. And throw back."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When I threw the frisbee a bit more gently than before, Clear easily caught it and threw it back to me."
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se006"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "\u30fc*Zoooom!!!*"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Whoa!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The frisbee flew so fast that it seemed to cut through the air."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As I reflexively dodged out of the way, Clear asked curiously."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "No catch and throw back?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Well, I was just a bit surprised..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It had been completely unexpected\u30fc\nsuch a blistering fastball coming back at me..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "L-Let's try this again."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I picked up the frisbee that had landed behind me and threw it to Clear again."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Catch. And throw back."
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se006"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "\u30fc*Zoooom!!*"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Whoa!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was the same amazing speed as before\u30fc\nbut this time I knew what was coming, so I somehow managed to catch it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hahaha!! Did you see how good I am?!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "...? Fuma. Quickly next."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ah, yes..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I threw it back to Clear again, and she caught it and returned it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After we repeated this a few times, Clear slowly began to smile."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Ehehe. Fuma. This is fun\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "O-Oh?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Yes\u266a I will throw again\u30fcHup!"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se006"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "\u30fc*Zoooom!!!*"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ughh!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Clear was getting the hang of it, and I frantically caught the disc that had already reached inhuman speeds."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(D-Damn it! This girl's athletic ability is terrifying...!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Clear was enjoying herself with a big smile on her face, while I had to do my best to keep the rally going."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Even though I was among the lowest class of Taimanin, I was still able to move quicker than a normal person, but even then\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Fuma. Throw stronger."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "A-Alright! \u30fcAaahh, sorry Clear! I screwed that up!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had misjudged my power and thrown the disc to a ridiculous height."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "It's okay\u30fcHup."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Clear leaped."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Up to a height of several meters that surely would have been impossible for a normal person."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "chr_t0088a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Okay, catch. ...Fuma? What's wrong?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After catching the disc and landing softly, Clear asked me while tilting her head."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "...Having been shown something like this, I couldn't help but notice."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The suspicion that I had been feeling was confirmed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "\u30fcClear was somehow abnormal. She was definitely not a normal human being."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Clear, are you...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If she was just a foreign Taimanin that I didn't know... then there would be no problem."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But what if she wasn't?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Just who was this girl and what had she come to Gosha for...?"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At that moment."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "...Someone calls."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Clear's face snapped upward with a jolt."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huh?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "...Asagi came back."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What? Asagi-sensei...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze, who we had run into earlier, had also been saying that Asagi-sensei should be back soon."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "I deliver. The thing in my belly..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "In your belly? What on earth are you talking about...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Clear didn't answer."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She just looked down with a sad face. And then..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "...Because it's my mission."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "A mission!? Hold on, Clear!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I stretched out my hand to hold Clear back\u30fc\nbut she smoothly evaded me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Fuma, was fun. Bye bye\u30fc"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se078"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Clear ran off."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm313",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A strange mechanical whirr was followed by a blade materializing in her right hand and a shield-like object in her left."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!? H-Hey, hey..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Judging by what Clear had said just now\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Her destination is... Gosha Academy\u30fc!?"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I've got a bad feeling about this!! Clear, wait!!"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc078a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Damn it!! There's that ridiculous athleticism!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I, too, was running as fast as I could, but I wasn't even close to catching up with her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Within just a few moments, I lost sight of Clear's back as she went ahead\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And shortly after, the screams of a crowd of people and the sound of battle could be heard faintly from the direction of Gosha Academy."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(That girl... was her target really Asagi-sensei!?)"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc054a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR01",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se078"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Haah... haah... I'm finally here, but this is..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A fierce battle had already broken out at the main entrance of the academy."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Clear was trying to invade the academy and the Taimanin standing guard were trying to stop her."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "chr_t0088a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "...Where... is Asagi?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Clear was squeezing a Taimanin she had grabbed with strength that was unthinkable from looking at her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Taimanin",
+        "text": "As if I'd say! Don't look down on us Taimanin, invader!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "I see."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Clear spoke without emotion and threw the Taimanin aside."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se027"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Smash*\u30fc!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Taimanin",
+        "text": "Argh!! Ugh...!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The body of the Taimanin went flying with ease like a piece of trash and caved in the side of a brick flower bed with a crash."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Hey, hey...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was a glimpse of Clear's power, which she had already shown when playing with the frisbee."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was on par with that of Taimanin\u30fc\nno, it might have even been stronger than the power of Taimanin."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And despite the situation, no emotion could be seen on Clear's face."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was a cold-heartedness totally unlike the girl who had been playing just earlier."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "chr_t0088a",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "yu_t002f",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "You!!? That's enough of this!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze, Hebiko, and Shikanosuke were also among the people fighting against Clear."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se030_02"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "ef011a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze fired her lightning guns in irritation\u30fc"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc054a",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "chr_t0088a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But this attack was also blocked completely by the shield Clear was holding."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "yu_t002d",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Oh come on!! That shield is in the way!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t005f",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Yukikaze-chan!! Okay then\u30fc"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Hebiko!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hebiko will blind her with her octopus ink like always! Shikanosuke-chan, locate her please!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Same as usual, Hebiko would create a smokescreen with her octopus ink and Shikanosuke would locate the enemy with his sonar."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t002d",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Ahh!? That won't work!! Hebiko, wait a second!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Eh...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "For some reason Shikanosuke tried to stop her, but it was already too late."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko unleashed her octopus ink in the direction of Clear\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Hrm. Annoying..."
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Bzzzz*\u30fc!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Eehh!!? Hebiko's octopus ink is...!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Accompanied by her emotionless utterance, a light had radiated from the shield Clear was holding\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And as soon as the light touched Hebiko's octopus ink, the ink evaporated in a flash."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t002e",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Ahh... But that might have been for the best...?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t005e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Shikanosuke-chan, what do you mean by that!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t002d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "I-It's because of that... that blade and shield!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke pointed at Clear's weapons which were emitting an odd white light."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t002f",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Weird particles are coming out from her equipment. They're jamming my sonar!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t005f",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Wha-!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "If you shoot your ink like always, even I won't be able to see!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Oh no!? Then what now!!?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "chr_t0088a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "...Where... is Asagi?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Clear approached Hebiko and Shikanosuke, who were panicking since their usual tactic wasn't working."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Ahh, come on!! What are you doing?!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Stop it, Clear!! Don't do anything to them!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "...Fuma?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Clear stopped."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She turned towards me and tilted her head with a curious look."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "yu_t002f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "!? Now\u30fc!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "CENTER",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "3000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se030_02"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "ef011a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze took advantage of the opening and fired her lightning guns."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Deadly lightning projectiles were flying at Clear's back."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Y-You moron!!? Wait a second!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "? Fuma...?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc054a",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I quickly jumped towards Clear, hugging her to push her out of the way of Yukikaze's attack."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "yu_t002f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "What are you doing!? Fuma, what the hell are you thinking!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Shut up! I don't know what's going on either!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I wanted no part of getting in the way of Yukikaze's crazy powerful lightning projectiles."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But my body had moved by reflex."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Huh!? That girl is an assassin!! She's after Asagi-sensei!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I know!! But she was eating ice cream with me just a little while ago!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "So what!!? Get out of the way!! Or do you want to get shot!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No way!! But even so!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Damn it!! What the hell are you saying!!?"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "chr_t0088a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "While Yukikaze and I had this back and forth, Clear was just staring at us with emotionless eyes."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However\u30fc"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "...!? N-No... wrong. Fuma is not Taimanin..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ah...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Clear groaned in agony."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A device-like thing that was attached to the top of her head was flickering."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "No... not attack Fuma... He has... no Ninja Art..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hey!? What's the matter, Clear!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "R-Rejection... n-no... aaaaaaaaaaaaaahhhh!!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Clear's body convulsed as if she had been run through with a blade and then\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se001"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Augh!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Clear pushed me off of her with tremendous force. She stood up, and the glimmer of free will in her eyes had completely disappeared."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "...K I L L... A L L..."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hey!? Clear!?"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "yu_t002f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Don't, Fuma!! We have to fight her!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Clear's blade turned toward us, settling on its target as we shouted at each other."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

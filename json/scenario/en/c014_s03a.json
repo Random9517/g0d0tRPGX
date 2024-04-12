@@ -1,0 +1,1662 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc159a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shortly before Fuma Kotaro's encounter with Makishima Ayame\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Igawa Asagi had been summoned by the Cabinet Intelligence and Research Office to visit the new Cabinet Office building."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Beside her had been a man."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm206",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc160a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m099a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ya_t001b",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Funako",
+        "text": "It's been a while, Director."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamamoto",
+        "text": "Yes, since we met at the National Security Council wasn't it, Mine-san?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The man's name was Yamamoto Nobushige."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He was the director general of Sector Three, the third investigative division of the Department of the Interior Public Security Intelligence Agency."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ya_t001a",
+            "RIGHT",
+            "CENTER",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And the senior administrative officer connecting the government and the Taimanin."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As the direct superior to the Taimanin, he was someone who understood Asagi and the others well."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He was a shrewd man who always supported the Taimanin by using his wits and political power to carry out justice against evil beings."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "His face was stern like a soldier on the battlefiled, but rumor had it, he was actually a henpecked husband who doted on his child at home."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Also that he was also a cat lover and that his smartphone was packed with photos of his wife, child, and beloved pet."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m099a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t001a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Funako",
+        "text": "So you're Igawa-san. I've heard a lot about you. I'm Mine Funako. Nice to meet you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Igawa Asagi. A pleasure."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi diplomatically exchanged greetings with this woman who held the title of the director of the Cabinet Intelligence and Research Office."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m099a",
+            "LEFT",
+            "CENTER",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Cabinet Intelligence and Research Office\u30fc It's certainly known as a pandemonium of all sorts of political monsters. However, the aura exuding from the woman was as sketchy as the rumors made the place out to be."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She wasn't even trying to hide it. Her shady nature practically overflowed from her. Asagi knew she should never let her guard down in front of her."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m099a",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ya_t001a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamamoto",
+        "text": "There seems to be something you want our cooperation for."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After the women finished greeting each other, Yamamoto was the one to open the ball."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Funako",
+        "text": "Yes, we have a case for which Gosha's assistance is essential."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamamoto",
+        "text": "I hope it's something we can help you with."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yamamoto hesitated to take on her request right away, but he was trying to keep things civil."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "They were dealing with the Cabinet Intelligence and Research Office; there was no way it would end at simple cooperation."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If care was not taken, the Cabinet would surely take advantage of the situation."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Funako",
+        "text": "I called you here for the matter of Sago Bungo, Director Yamamoto."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ya_t001b",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamamoto",
+        "text": "Oh, I believe he was the Taimanin cyborg who defected to the UFS wasn't he?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Mine cut to the chase to which Yamamoto simply played dumb, completely unfazed. However, Mine continued with a smile on her face."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Funako",
+        "text": "Yes, the Taimanin cyborg who was assassinated just before the Cabinet could take him into custody."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ya_t001a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamamoto",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Funako",
+        "text": "Just who was the mastermind behind the assassination? The investigation into that matter has raised some suspicions..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamamoto",
+        "text": "Suspicions, you say?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yamamoto cautiously asked back, but Mine's answer was surprisingly blunt."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Funako",
+        "text": "We suspect that Gosha was involved in Sago's assassination."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamamoto",
+        "text": "So you mean to say that we assassinated Sago?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yamamoto replied in a level tone without batting an eye."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Funako",
+        "text": "Yes. This is undeniably treason."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Mine spoke in a calm, but strong voice as if she had been a stage actress addressing her audience."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ya_t001c",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamamoto",
+        "text": "Mine-san, we came here because you requested our cooperation. Not to receive baseless accusations."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yamamoto didn't seem to have any intention of going along with Mine's little play."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He didn't hesitate in turning to leave."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And Asagi followed after him."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m100a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, Mine's subordinate blocked their way."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi, who had already developed a dislike for Mine in this short amount of time, wanted to just force her way through."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamamoto",
+        "text": "Don't."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yamamoto, who knew Asagi for better or worse, stopped her before she could even move a muscle."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m099a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ya_t001c",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamamoto",
+        "text": "Are you intending to cause a dispute between the Cabinet Office and the Ministry of the Interior?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Funako",
+        "text": "No, I thank you for going to the trouble of coming here."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Mine bowed with that shady smile of hers."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm506",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc159a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t001e",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "That was quite the war declaration."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi mumbled as soon as they left the new Cabinet Office building in an official vehicle of the Ministry of the Interior."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Her irritation had built up because she had to stay silent the whole time aside from the initial greetings."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yamamoto smiled wryly at her unrestrained words that he would never hear her use in front of her students."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t001e",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ya_t001b",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamamoto",
+        "text": "The Cabinet is working their ass off to develop cyborgs with the JGSDF."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamamoto",
+        "text": "It must have pissed them off to be interrupted just as they were about to get their hands on the UFS's <i>living</i> cyborg."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t001a",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Oh? Now who could've done that?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamamoto",
+        "text": "Who's to say?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t001c",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "What kind of woman is she? I've never met someone more untrustworthy in my life."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ya_t001a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamamoto",
+        "text": "Your observation is correct. Put simply, she's a monster."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "A monster?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamamoto",
+        "text": "Mine Funako. She's a remarkably skilled agent working behind the scenes by using her wide network of connections with influential politicians and bureaucrats, as well as prominent figures in the economic world both domestic and foreign."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamamoto",
+        "text": "There are more than a dozen organizations that have been crushed by her, even just among those known publicly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "I see. She does seem quite skilled."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamamoto",
+        "text": "Though it's unclear whether or not it's true, there're also rumors that she was on the General Staff of the JGSDF during the Taiwan Crisis."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "The Taiwan Crisis? But if that's true, then she must be pretty old by now. She only looked a little older than me though."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamamoto",
+        "text": "That's why I said she's a monster. But then again, some say that all women are monsters."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t001b",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Oh, are you talking about me? Or your wife perhaps?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ya_t001f",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamamoto",
+        "text": "I don't think I should answer that one."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t001c",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "That would be wise. Well, the one thing that woman made glaringly obvious was that she views us Taimanin as enemies."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ya_t001a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamamoto",
+        "text": "It seems so. I wonder what she's plotting, calling us out there to tell us all that..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Their car left the Government District and headed toward the Shin-Minato District."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was where the secret branch of Section Three, the third investigative division, was located."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc161a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t001c",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ya_t001a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "We aren't going back to the Ministry of the Interior?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamamoto",
+        "text": "Mine's movements concern me. I just hope those concerns are unfounded."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "So do I..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Just as this exchange took place\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t001d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "!!!!!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There hadn't been any particular signs,"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "but shivers suddenly struck Asagi as if an icicle had pierced her spine."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm313",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t001f",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Incoming!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ya_t001d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamamoto",
+        "text": "What?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The next instant\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se037"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "white",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Ka-boooooooooooooom!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The roaring sound of an explosion could be heard."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamamoto",
+        "text": "Wh-What's going on!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Get down!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Almost reflexively, Asagi covered Yamamoto."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se037"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Another blast caused the air to tremble once again."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The attack was from above."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamamoto",
+        "text": "Waghh!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Ghnghhh!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Suddenly, the feeling of weightlessness enveloped the two of them."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The specialized car that could even withstand a direct hit from a tank shell flew into the air."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It bounced repeatedly and rapidly spun out before finally coming to a stop."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc161a",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t006f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "To think they'd hit us with a surprise attack."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi was standing on the road, uninjured, holding Yamamoto in her arms."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The moment the car had been blown away, she had pulled Yamamoto out and escaped."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But saving one life was the best she could do."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Inside the flaming wreckage, the driver was already dead."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As for Yamamoto, he was alive, but he was bleeding from his head."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t006c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Is your head alright?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamamoto",
+        "text": "Yeah, more or less. The driver... Grngh, no good, huh."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "I wasn't able to save him. And I'm sure your wife will tell you off again, Director."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamamoto",
+        "text": "Never mind that. More importantly, what's with that equipment? Were you expecting an attack from the start?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yamamoto asked the question as he pressed the wound on his head."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi's attire had completely changed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She was in her Taima-Suit."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And it wasn't her usual purple one, either."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She was in a white version and heavily armed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was an assault-type suit specially designed for Asagi that allowed her to even suppress an enemy encampment solo with its high offensive and defensive capabilities."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "It's a long story."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "And we don't appear to have that kind of time."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi could see the assailant drawing closer."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m101a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "That's an awfully big boy."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He was massive in both height and width."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was almost surreal to see how big the man was. And he was a cyborg at that."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Giant Cyborg",
+        "text": "Igawa Asagi, I knew it wouldn't be enough to kill you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The giant man's voice boomed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Perhaps even his vocal cords had been mechanized, but his voice sounded oddly distorted."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "That's some amazing size. Were you originally that big? Or maybe they pumped you up when they turned you into a machine?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Giant Cyborg",
+        "text": "Don't get cocky, you old-fashioned ninja."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The giant man retorted in a raspy voice against Asagi's banter."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And as if his voice had been the signal, new enemies began to appear behind him."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "They were coming from the sky."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "ra_t001a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se103"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "500"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "6",
+            "ra_t001a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se103"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "700"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "7",
+            "ra_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se103"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Ka-thunk, ka-thunk, ka-thunk* The powered exoskeletons came down one after the other."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "One, two, three units, that's quite some hospitality."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "They were PEX-88 \"Raidens,\" cybernetic armors which were developed by the JGSDF."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "They must have been the ones who attacked their car from the rooftop just now."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "6",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "7",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Not only that, but even a military van had appeared."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Still more?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "8",
+            "ts_m098a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "9",
+            "ts_m098a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se054"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "From it, a platoon of armed soldiers began to stream out."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "8",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "9",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t006d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Oh my, someone went through so much trouble for this \"old-fashioned ninja.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi's lips slightly curled up into a thin smile."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A smile as cold as ice."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The smile of a warrior that even demons feared."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se016"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She grasped the large and small Taima-katana on her back, then began to unsheathe them..."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

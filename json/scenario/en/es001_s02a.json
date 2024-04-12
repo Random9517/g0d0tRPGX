@@ -1,0 +1,1412 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm208",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc005a",
+            "IN",
+            "3000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We had done the gate attendants dirty, but in any case, we had been able to get into the school."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "All that was left was to sneak into the classroom... However, the atmosphere inside the school was different from usual."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "What's happening? There's some kind of commotion."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The first bell had finished ringing a long time ago, but there were still quite a few students in the hallway."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You're right."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001c",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001h",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieeee, d-don't tell me there's another rebellion...!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Not sure, but it doesn't seem like it. Shikanosuke-chan, you're getting scared too easily."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001h",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hey, did something happen?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I stopped and asked a student who was carrying a box of something."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Student",
+        "text": "What is it? Oh, Fuma. The classes are getting rearranged."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Classes are getting rearranged?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Student",
+        "text": "Because of you Fumas and your rebellion, there's a lot fewer teachers and students. That's the reason. For cryin' out loud, don't talk to me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He basically spat his answer at me and hurriedly left."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "So classes are getting rearranged..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had been on so many missions lately that I was completely out of touch with the school schedule."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Fuma, they really hate you, huh!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It's not like I'm the one who started the rebellion though."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Asagi-sensei also said that. But what can you do, not everyone knows all the details."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I know."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Oh, but I don't care about what's going on with you, Fuma. Not at all. Not even a little."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Thank you for that."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001b",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002b",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Fuma-chan! Just looked at the posted class list. All the same class."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Who do you mean by \"all\"?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hebiko, Fuma-chan, Shikanosuke-chan, and also Yukikaze-chan."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "yu_t001d",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Eh? Me too?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Yes. And the homeroom teacher, though only temporarily it seems... is, ahaha, Sakura-sensei."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...Sakura-sensei?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "With the recent incident, it looks like Sakura-sensei has set her eyes on Hebiko, Fuma-chan and Shikanosuke-chan."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001d",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001h",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Uwuh, I've got nothing but bad feelings about this."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The three of us all let out a deep sigh."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001h",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "The recent incident... Are you talking about when you guys were investigating the haunted castle?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It wasn't really an investigation, we just got lost and then got attacked."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001c",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001f",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "And it turned out to all be an illusion."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "N-Not only was I lost and alone, but I was scared to death! I'm not going through something like that again!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Yes, yes. You sound like a broken record."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001h",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Uwuwuwuh..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001h",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "That's what it was? In other words, a failed mission?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Not really. The haunted castle is gone, the demons have been defeated, and there were no casualties."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "What was the cause? Did you find out?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No, it was unclear."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Well then that's a failure, isn't it?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It's fine. We went there and returned safely."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Wow, setting the bar low. That's the Fuma I know."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001e",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We were late, but despite arguing about various stuff in the hallway, we got lost in the class-rearrangement hustle and bustle and safely made it into the classroom."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc079a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR01",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After waiting restlessly in my new seat for a while, Sakura-sensei entered."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "sa_t001b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Igawa Sakura",
+        "text": "My bad, my bad~ I'm a bit late. It's been a busy morning. Oh, looks like everyone is here, good, good."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "As I'm sure you all know by now, the classes have been rearranged and I'm the temporary homeroom teacher for this class!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "sa_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Well, to prepare for any more troublesome events like that, we have placed combat-ready Taimanin in each classroom."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "And with that, let's all look forward to working together. Oh, my name is Igawa Sakura... but you all know that, right? Nahahaha\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The atmosphere in the classroom was lightened by Sakura-sensei being her usual self."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Alright, I'd like to get started with homeroom stuff right away, but before that..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "sa_t001b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "This morning, on top of being late, some delightful... no, outrageous... students forced their way through the school gate and knocked out the student council's gate attendants."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Flinch*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "*Wince*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "When I call your name, please stand up.\nFuma-kun, Hebiko-chan, Shikanosuke-kun.\nOh, and Yukikaze-chan."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "sa_t001b",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001g",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Uwaaaah... exposed right away...!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hey! Don't confess right away!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But it didn't seem like we'd be able to talk our way out of it anyway."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001g",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "sa_t001a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "You~guys~... did you really think you wouldn't get caught doing that?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Looks like you really wanted to go on a rampage, so I'll prepare an opponent for you. Alrighty, all four of you, get on out, to the sports field."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "That's weird. How did they find out?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Of course they'd find out."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "sa_t001a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001g",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001g",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002c",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Who will the opponent be?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Uwuwuwuh, my bad feeling already came true..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001g",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002c",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR26",
+            "OUT",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "black",
+            "NONE"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc003a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR26",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We were waiting on the sports field for the appearance of \"something\" that Sakura-sensei had prepared."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "What might it be...? I had a rough idea though."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "sa_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Alrighty, let's call them out\u266a"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "sa_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Yes, please\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Why does it seem like you're enjoying this..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001b",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001h",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002c",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Fuma-chan, it's probably \"them,\" right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Uwuh, oh nooooo..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Alrighty then, everyone, c'mooooon\u266a"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm207",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001h",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002c",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m057a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shinobi Snake",
+        "text": "KSSSSSSSSSHHH!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m057a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "ts_m058a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shinobi Bear",
+        "text": "GROOOOOOOOHHH!!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "ts_m058a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001h",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002c",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieeeeee!! I knew iiiiiiiiiiiiit!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Bingo."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I'm not happy about it though."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Appearing with a roar were the Animal Taimanin that Sakura-sensei took care of: Shinobi Snakes and Shinobi Bears."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "They were the same animals that had gone savage because of the haunted castle's illusion and attacked us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "They were following Sakura-sensei's orders now, but the fact that they were baring their fangs at us remained the same."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001h",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002c",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "sa_t001a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Snake-chan, Bear-chan, those four are pretty tough. Make sure to not hold back!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t002a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Come on then!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Yukikaze-chan, you can't kill them. If you do, I'll be very angry."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Yes, I'll be careful!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "sa_t001b",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "O~kay! Now, get ready for your punishment battle! Ready, and gooooooo!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "sa_t001b",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t002a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

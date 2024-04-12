@@ -1,0 +1,463 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm303",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc054a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "rn_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "Alright, you're safe now, Uehara."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "rn_t001a",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001h",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieee, it was sooooooo scary!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Where have you been? Were you thrown into a different dimension than me?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "When I was doing weight training the scenery suddenly changed, and before I noticed, I was in a forest full of huge, jagged rocks..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "I got caught by those monsters and was about to be turned into a side dish!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That must've been tough..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001b",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Yeah!? But wait a sec, is that the front gate of Gosha Academy!? I was able to get back home!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Unfortunately... Shikanosuke, look at that..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "rn_t001a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001d",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ws_t005a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I quietly pointed at the young Sakura-sensei."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Hm?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "S-Sakura-sensei...? Aren't you a bit young!?!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ws_t005e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Hmm? You brothers are pretty rude..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Sh-She really is younger! But what does she mean by brothers...!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ws_t005e",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Oh yes, Shikanosuke! Come here a second!! ...*whisper, whisper, whisper*..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Huh?! Siblings?! Me and you??"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "And Rinko-senpai as well! Just go with it, trust me!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ws_t005e",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "What are you whispering about?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ws_t005e",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Umm... p-pardon me... I... I'm Akiyama Shikanosuke, the youngest brother..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ws_t005b",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Ahaha! I knew it, you guys look so alike!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Eh... I-I guess we do...? Hehe..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke furrowed his brows, looking somewhat perplexed."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ws_t005b",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001e",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m032a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Brain Flayer",
+        "text": "\u226aBravo, insects!!! Splendid fighting ability!!!\u226b"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ah!! Where have you been hiding?!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Brain Flayer",
+        "text": "\u226aI was sure I would be able to easily squash you, but you are surprisingly bothersome little vermin.\u226b"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Uwaaahhh!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke screamed and backed away upon seeing the octopus."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Calm down, Shikanosuke, he talks and looks like a villain, but he's not hostile."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Th-That's not true!!! I know these guys!! I was being held captive by them in the world I just came from!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "And those monsters from before are this Octo-guy's subordinates!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "!? What do you mean...?"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m032a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

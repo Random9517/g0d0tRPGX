@@ -1,0 +1,347 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc028a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm203",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0084a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "We should be safe here, at least for the moment."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After knocking out the Taimanin that had attacked us, Asagi-san and I (a boar) had moved to a slightly secluded area in the forest."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "I must say... you fight pretty well for a boar. I'm impressed."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0084a",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m061a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I mean, that's more thanks to being a boar..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had been able to knock out two or three Taimanin by charging at them with the force of a massive boar."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If I were in my normal body, which was not very good at combat, this definitely would not have been possible."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "More importantly, sensei... I mean, Asagi-san, what's going on here!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Why did I turn into this stupidly huge boar...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I asked Asagi-san since she seemed to know something about my situation."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had called her \"Asagi-san\" and not \"sensei\" since she was much younger than the Asagi-sensei I knew."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She looked at least 10 years younger... It was just like with Sakura, the freeloader at my place from another dimension."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Let's see... to explain it briefly, you're a \"scapegoat.\" A decoy meant to buy time for the real lucky boar to escape, you could say."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "A decoy...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Yes, a decoy. I don't think you know, but there's a dangerous ritual called the \"Rite of the Auspicious Beast.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Oh! I know about that. If I remember correctly, you have to slay a divine beast summoned from the Otherworld, right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And by doing so, you would gain the divine beast's immense luck."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The ceremony was only carried out on January 1st, on New Year's Day."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "\"It was said that once the day ended, the \nauspicious beast would turn inauspicious, bringing great calamity to mankind.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "...That was what I had gathered from the old document I had read."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Hmm? You sure know a lot for a boar."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I-I mean... it's not like I was born a boar..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Haha, sorry, I was just joking. I actually know a little bit about what's going on with you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "H-Huh...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi-san giggled and proceeded to tell me what she knew."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Well, you got the gist of the ceremony, right. Summon a divine beast from the Otherworld, and by slaying it you gain the power of its luck."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "But the summoned divine beast\u30fc\nthe lucky beast, doesn't want to die either, so it'll try to run away with everything it has."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "That being said, with how it looks, it stands out far too much\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "So apparently it sometimes brings along a \"scapegoat\" from another dimension as a diversion."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "A-And that's me...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "I guess so? Unless you've always been a boar."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Seriously...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had nothing to do with it, but had been brought here and turned into a boar."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was no wonder that this beyond-upsetting and bonkers ceremony was forbidden."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Before I knew it, Asagi-san was looking at me curiously."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "? What is it, Asagi-san?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "You're surprisingly calm. Most people would be more shocked or scoff at the idea of \"another dimension.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I mean, it's not that it doesn't shock me... But, how should I put it, I've had a lot of experiences that lead me to believe things, or should I say traumatic experiences."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had come back from another dimension thanks to that weird Octo-Guy just the other day."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And if this was another dimension, then it would also explain why Asagi-san here looked so young."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Is that so? But anyway, you don't have to worry."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "If we slay Kiyomaro, the real lucky beast, you should return to normal\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "And by using the power of his luck, you should be able to return to the dimension you came from."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Really!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Yes. But for that, your cooperation is necessary. Could you help me?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Of course! I mean, there's no way I'm gonna stay in another dimension in this body!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Other dimensions aside, remaining a boar forever would be too horrible."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Then let's begin tracking him right away\u266a If anyone, you should be able to sniff out where Kiyomaro's hiding."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

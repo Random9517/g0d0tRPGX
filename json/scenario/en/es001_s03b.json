@@ -1,0 +1,363 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm502",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc061a",
+            "IN",
+            "3000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Woohoo! A resounding victory!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze held her hands up high with a huge smile on her face."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That went well!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I also raised my hand and gave Yukikaze a high-five."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se014_01"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Bzzz bzzzz bzzzzz!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Owwwwwwww!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Ah, sorry. There was still some lightning left."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "\"Some?!\" That was a crazy shock!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "I told you I'm sorry. More importantly, we did well! Our coordination was perfect!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah, you're right. Owowow."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Your orders telling me \"do this\" or \"do that\" were annoying, but it was easy to fight. It was my first time feeling that."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Was it annoying or did it make fighting easy? Which one?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Both, I said! You've never given me orders before, but you knew exactly how I act. I'm impressed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It seemed Yukikaze really was praising me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The feeling of her making fun of me that I had had earlier was completely gone."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I've already seen you fight twice today, so I only had to give you orders accordingly. Thanks for following my instructions."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001g",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Yikes, so you were ogling me the whooole time. Fuma, that's kinda creepy."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001g",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Yeah, Fuma-chan does do stuff like that. Honestly, he is creepy, isn't he?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001b",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002b",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "He iiiiis~"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Ahaha\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Ahahahahaha\u266a"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001b",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002b",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001h",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "H-Hey. Don't tell me you look at me the same way, Fuma?!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Look at you like what? Anyway, I don't!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "I-I see... that's good to hear."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001h",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(What the hell is wrong with them...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(I gave them perfect orders, but I guess this the pain of being a captain... sheesh...)"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

@@ -1,0 +1,465 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm209",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc077a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The mechanical spiders eventually exited the tunnel and went above ground."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "This is... an abandoned city. I didn't know the tunnel was connected to a place like this."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ak_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "Be careful, all of you. It looks like the target is right under our noses."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ak_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t005e",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Yes, Hebiko also noticed! The presence of someone can be felt close by."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t005e",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(This could be bad...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The sucker sensors on Hebiko's octopus tentacles twitched as they sensed the presence of an enemy."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(There are ruins all around us, with plenty of places to hide. It's the perfect place for an ambush.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Tch! I thought we were chasing them, but it might have been the other way around..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Wh-What!? What do you mean!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001d",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As if in response to his voice, the figure of a woman glided into view."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m056a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yao Bikuni",
+        "text": "It hath been some time since we last met."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yao Bikuni..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was Yao Bikuni, an underboss of the Fuma Ninja Forces who served the Nisha Clan."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was said that she had served them since the time of the first Fuma Kotaro. But if that were true, then she would have been alive for 500 years..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m056a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m015a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m015a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Fuma Assassin",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And from behind Yao Bikuni, even more Fuma ninja appeared one by one."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That's quite a welcome. What about Gaiza?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yao Bikuni",
+        "text": "Gaiza-sama hath already taken his leave."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Then let us through. I've got business with him."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yao Bikuni",
+        "text": "I have for thee a message from Gaiza-sama. He sayeth thou art an \"eyesore.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I see..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had been optimistic in some respects that things would turn out alright if we could meet and talk to Gaiza."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But that thought easily fell to pieces."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(This guy... Is Gaiza really going to bury us to achieve his ambitions...?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "W-Will we be alright, Fuma...? That woman is super strong, isn't she...? She can shoot... something from her eyes..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah. Yao Bikuni is a powerful Evil Eye user."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Evil Eye users were pretty common in the Fuma Clan, but her power was truly evil."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She could suck out the life energy of anyone she looked at, turning it into her own life energy, and then turn the victim into a deformed monster resembling half man and half fish."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I think it was called Mermaid's Sapphire Eyes."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yao Bikuni",
+        "text": "It is an honor that thou holdest thoughts of me in thy hearts."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieeeeeee!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m015a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m015a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t005c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hmmm. Hebiko's wondering what she would turn into if her life energy had been sucked out?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko wiggled her octopus tentacles and spoke nonchalantly. It seemed that she had grown a bit through her deadly battle in the Chaos Arena."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t005c",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m056a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yao Bikuni",
+        "text": "Aishu Hebiko. Thou hast become one who speaketh quite in jest."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I feel pretty good about this. If we know what she's capable of, we should be able to deal with her. Everyone, follow my lead."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Alright, Fuma-chan!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "G-Got it...! But please, Fuma...! I don't want to turn into a half-man, half-fish monster!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "...Oh, am I going to fight too? I mean it's fine and all."
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se004"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko, Shikanosuke, and Akitsu turned to face Yao Bikuni."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yao Bikuni",
+        "text": "...O-hohoho, I see thou art as ever the winsome and witless head of the clan."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yao Bikuni",
+        "text": "Fuma Ninja Forces, heed my command. Lay to eternal rest this fool of the past!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Fuma Assassins",
+        "text": "Aye!!!!"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m056a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

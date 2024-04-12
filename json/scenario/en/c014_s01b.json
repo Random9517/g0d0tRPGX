@@ -1,0 +1,936 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm404",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc155a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "I'll blow you all away!"
+    },
+    {
+        "type": "EV",
+        "info": [
+            "stv007b",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As always, she had little hesitation."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Far too little."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze began charging her twin pistols with lightning energy as if to say, \"I'm done with this.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Haaaaaaaaaaaaaaaaaaaaaaaaaaah!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se030"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Bzrt bzrt bzrt bzrt bzrt bzrt bzrt!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Tremendous electric sparks flew around Yukikaze, flashing and glowing dazzlingly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Forget just blowing away the trouble makers, she was building enough energy to wipe out the entire casino."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "For real!? Wait, wait! Waiiit! It was a joke! Just a joke!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Put all your guns down, too! We'll be in big trouble if she fires that! Stop, stop!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The blonde man had suddenly changed his attitude and relaxed his guard, but Yukikaze wasn't one to listen."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Go, Thor!!!"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc155a",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yukikaze! Stop!! Stop!!"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was forced to intervene."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t002d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Tch! So boring!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She appeared to have listened to me at least, and the bundle of electric energy that threatened the entire casino suddenly vanished."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm506",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001c",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m097a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_FRONT",
+        "info": [
+            "0"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Ohhhh, that was scaaary!! You brought a hell of a woman with you, young lord!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The explosive situation was completely defused, and the blonde man, known as Kanzaki Jyubei, had extended his hand to me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It's been a while, Jyubei."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze looked over at us shaking hands with a suspicious look."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "What? You know him?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I told you we came to meet an old friend of mine, didn't I? You're too hotheaded."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "It's only natural to want to beat people up after they say things like that!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kanzaki Jyubei",
+        "text": "I'm sorry about them. I'm Kanzaki Jyubei. Nice to meet you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze let out a huff, but Jyubei paid it no mind and simply grinned."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Jyubei is from the Fuma Clan and was in service to the Nisha family."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Nisha? You mean the one that Gaiza's from?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Jyubei's distantly related to him. And Gaiza and I are his childhood friends."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Well, he's gone independent now and is running the gang that owns the Senzaki casino."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jyubei",
+        "text": "Hey, young lord, that's \"gang-<i>star</i>\" actually."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huh?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jyubei",
+        "text": "Kanzaki Jyubei, the gangster shining bright as a star in the Senzaki darkness!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Jyubei flashed his sparkling white teeth and struck a pose looking off into the distance."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "See?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001c",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "I get it. He's stupid, right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Well, yeah."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jyubei",
+        "text": "Hahahaha! You're as harsh as always!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Jyubei laughed loudly and slapped my back again and again."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You haven't changed a bit either."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jyubei",
+        "text": "I've been hearing about you, young lord!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Nothing good, right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jyubei",
+        "text": "What are you talking about!? You're a captain leading his own unit now, right? And..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "And?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jyubei",
+        "text": "Hehehe! You've got a scary but hot woman with you, that's the proof you made it in life!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Ogled by Jyubei from head to toe, Yukikaze grimaced."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jyubei",
+        "text": "Hey, you. Did he bang you already?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001f",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Haagh!? Wh-Why would I let him...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze was about to fly into another rage as she reached for her guns again but Jyubei made a grandiose show of calming her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jyubei",
+        "text": "Oh, whoa, please, not those again. What, so not yet huh!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "No, not yet, or ever, there's no way we'd do it!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Several lights in the casino shattered as Yukikaze yelled."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Jyubei made a face as if to say, \"Whoa, scary,\" then spoke to me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jyubei",
+        "text": "Well, that's because the young lord is so\uff5e serious. But you definitely banged Hebiko already, right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "<i>That</i> would piss off Hebiko."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It had been a while since I had met him, but he kept joking around. I couldn't hide my wry smile."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jyubei",
+        "text": "I'll take anything but that octopus ink!! Well, we have a lot to catch up on. Let's talk over drink. Lightning girl, you'll join us, right?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Who're you calling \"lightning girl\"?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jyubei",
+        "text": "Hehehe."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m097a",
+            "LEFT",
+            "CENTER",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Jyubei put his arm around my shoulders and tried to take me to a private room."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In an instant, nostalgic memories came flooding back, and I wanted nothing more than to accept him in that moment."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I'll have to decline, Jyubei. I came because I wanted to ask you something."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As if he'd expected that answer, Jyubei easily relinquished his hold on me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jyubei",
+        "text": "It's always the same with you and Gaiza, young lord. You two aren't very sociable. You only think about getting your business finished."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sorry about that. Have you met with Gaiza recently?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Jyubei shrugged his shoulders."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jyubei",
+        "text": "With his messenger, yes. He wouldn't shut up about asking me to become his subordinate. I told him that if he wanted me to join so bad, he should get his stupid ass here and ask me himself."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jyubei",
+        "text": "That side of him has always made Gaiza incapable of leading others. At least you had the decency to come see me yourself, young lord."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Is Gaiza gathering Taimanin from the Fuma Clan?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jyubei",
+        "text": "I heard that Tekkain sis received an invitation as well."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I wasn't certain whether it was a reflection of his honest feelings or not, but Jyubei said it as if to say he couldn't care less even in the slightest."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I see..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m097a",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001c",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Who's that?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I replied to Yukikaze who had whispered her question to me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Tekkain Kaoru. Like Jyubei, she was from the Fuma Clan and had served the Nisha family before. She was also the head of the Tekkain Family."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jyubei",
+        "text": "And just as I did, she said goodbye to the Fuma and is now ruling a part of the City of Darkness."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "His tone had a hint of mockery for the Fuma Clan which had fallen apart."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001g",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Perhaps sensing those complex feelings, Yukikaze was keeping her mouth shut."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m097a",
+            "LEFT",
+            "CENTER",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jyubei",
+        "text": "She the one you wanted to ask about?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No, it's about Kurenai. Do you know where she is?"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm509",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "My words made Jyubei speechless for a brief period."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jyubei",
+        "text": "...You mean Shinganji Kurenai!? Are you trying to make Kurenai your ally!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sorry, but it's not like that. There's something I want to ask her. Whether she assassinated a certain person or not."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jyubei",
+        "text": "Assassinated!? Sounds like trouble if you ask me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I won't cause you any trouble."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I briefly explained to him how my Taimanin friend (Shinohara Mari) had met Kurenai in this city and helped her defeat the Book Djinn."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jyubei",
+        "text": "I've heard about this. They put down a legendary Book Djinn, right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Then that makes this easier. Do you know where Kurenai might be if she's still in Senzaki?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The moment I asked, I had the impression that the air enveloping Jyubei suddenly darkened."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jyubei",
+        "text": "Hey, young lord. Whoever they may be, once they set their foot in this city, they're an inhabitant of Senzaki."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jyubei",
+        "text": "Did you think I, the Gang-star of Senzaki, would give information about one of us to a Gosha dog?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I did. That's why I came here."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jyubei",
+        "text": "Tsk, you really underestimate me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Do I? The Jyubei I know would know the value of information and would also know when and who to give it to."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Especially when it's about Kurenai."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jyubei",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I stared into Jyubei's eyes and then turned on my heels."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "But it looks like I wrong about you. Let's go, Yukikaze."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Eh? Are you sure?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It's a waste of time staying here any longer. We have many ways to look for what we need. We are Taimanin after all."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001g",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Y-Yeah. If you're okay with it then fine but..."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With the confused Yukikaze following behind I was about to leave, but..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jyubei",
+        "text": "Alright already!! Damn, you're hopeless. This is exactly why it's hard to deal with you, young lord."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m097a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Oh, so you feel like talking now? I didn't expect anything less from you, Jyubei. You are the shining \"gang-star,\" after all."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jyubei",
+        "text": "Shut up. Seriously, what a sweet-talker."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Jyubei shook his head in resignation before he spoke again."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jyubei",
+        "text": "Well, to get straight to the point, I do know. Kurenai is, in fact, here in this city."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

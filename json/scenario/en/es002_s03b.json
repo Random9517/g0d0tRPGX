@@ -1,0 +1,441 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm304",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc030a",
+            "IN",
+            "3000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shinobi Bear",
+        "text": "GROOOOOOOOGGHH!!??"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se010"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Thud*\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The massive body of the Shinobi Bear fell to Shikanosuke's swift slash."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Hah\u30fcWhat do you think of my deadly Darkness Thunder Blade?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke called out to the Shinobi Bears and the ninja who had collapsed to the ground behind him."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Of course, he still kept the cool pose as he stuck the landing after his strike."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "My, my. Was it that effective?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "But no need to worry. I won't take your lives."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "If I did, and I was stained in darkness all the way to my soul, I would become the same as you villains..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke offhandedly talked about himself with a faraway look on his face."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Now go home and tell your boss that Uehara Shikanosuke doesn't run or hide. Go on and attack me whe\u30fc"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001c",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "as_t005d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asuka and I had been closely watching the whole thing."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "as_t005d",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001c",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Go on and attack me whenev-... huh?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke seemed to have noticed us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He was still in his cool pose with a self-satisfied look on his face, but his expression slowly turned into one that seemed to be saying, \"Huh? What?\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "...Fuma?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah, it's me. And this is Asuka, you've met her once before."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "as_t005a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "Hello, Shikanosuke-kun."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asuka greeted him as if nothing had happened."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm506",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sweat was pouring down Shikanosuke's face."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "His look of \"Huh? Isn't something weird?\" was getting stronger with each moment."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "...Were you watching?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yes, all of it."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001e",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Um...? So what exactly is going on...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I don't exactly know the details, but\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "According to Asuka, it looks like we are trapped in a world that gives shape to our fantasies."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "F-Fantasies...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I took a deep breath."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "But man, you had these kinds of over-the-top middle-schooler wishes...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What was it you said? The Devildomian Power sealed within your left arm? The \"Dark Lightning Taimanin\" who summons lightning of darkness...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That was... err...  totally cool, yeah..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Uwaaaaaaaaaaaaaaaaaahhhhhh!!??"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke screamed and his face turned bright red."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He seemed to have finally become aware that we had seen him in a ridiculously embarrassing moment."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No, don't worry. All men go through that kind of phase. You know what I mean, right, Asuka?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "as_t005d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "Hmmm. To be honest, I'm not really sure, but I guess that's just what boys do?"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Uwaaaaaaaaaaahhh!! I'm getting vague moral support from someone I barely knooooooow!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "as_t005d",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001e",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke was making a scene as he blew a fuse."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He was panicking over the fact that he had revealed a dark part of his history..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And it took quite a while for him to calm down enough to be able to speak properly\u30fc"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

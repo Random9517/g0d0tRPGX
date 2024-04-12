@@ -1,0 +1,399 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm207",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc113b",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ak_t001a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t005f",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "Magick Gear Hexa-Blade Style!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Four Blade Style - Octo-Strike!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se007"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "\u30fc*Clash!!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The ten swords sparkled under the moonlight."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t005k",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hngh!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was Hebiko who had gotten slightly pushed back. And Akitsu hadn't even used her full strength yet."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "Just give up already and let me pass! I have more experience and even more arms than you, you get that, right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "We have fought on the same side before. I won't take your life!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t005f",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Stop it, Akitsu-chan! Don't go easy on Hebiko. This is a serious fight between swordswomen. It's kill or be killed, that's it."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t005e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "\u30fcHmph."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Clash.*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "Do you want to get killed that badly? Then I'll give you what you wish for!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Akitsu's aura changed. Hebiko adjusted her grip on her swords with a serious look on her face."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "Magick Gear Hexa-Blade Style! Hexagram Spread!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Four Blade Style! Octo - Stri\u30fcUgh!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "ef005a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se097"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Akitsu had been quicker."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A split second before Hebiko could unleash her special attack, her octopus tentacles were cut off and thrown through the air along with the swords they had been gripping."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However\u30fc"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc113b",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "Uaarrgh!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was Akitsu who screamed out in anguish."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "Hyaah!? What's going on!!? So disgusting! They're stuck to me!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko's severed tentacles were tangling around Akitsu's slender arms, her legs, and even her face, which made it impossible for her to move."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hebiko is a little hurt that you called them disgusting."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Even while crawling on the ground with basically only her torso, Hebiko managed to look up at Akitsu with a fearless look on her face."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Octopuses sever their own tentacles when running away."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "And those severed tentacles regrow after a short while\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "You knew that, so you only aimed for Hebiko's tentacles. Didn't you, Akitsu-chan?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "Hngh... So you made me cut off your legs on purpose!? Was that your plan from the beginning!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Well, Hebiko can't move right away either though, so maybe this ends as a draw?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "But, Fuma will be able to get away\u30fcHaaa..."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Akitsu sighed deeply and her murderous aura disappeared."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "Jeez! Just this once! Since I wasn't able to save Fuma last time."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "I'm only repaying that debt. There's no next time! Got it?!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Thank you, Akitsu-chan."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "I don't need your gratitude, just get these sticky things off me!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Sorry, Hebiko can't move right now... Can you stay like that for a while?"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "Come oooonnn!!"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

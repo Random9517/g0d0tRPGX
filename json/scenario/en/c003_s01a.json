@@ -1,0 +1,1578 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm502",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se021"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc027a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Diiiing doooong*..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The bell for lunch rang and a crowd of students rushed into the cafeteria."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I... had skipped my morning classes and was already treating myself to an early lunchtime."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(What a peaceful afternoon... The battles from before feel like a dream.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Infiltrating a UFS base, dealing with a bewitching information broker, and fighting in Tokyo Kingdom, where demons and humans alike crept about."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "My mind was still stuck in the stimulating world I had seen a few days ago."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(I'd love to live in that world for a while... I'm sure I wouldn't be bored.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Female Students' Voices",
+        "text": "Hey, hey, did you hear? About the rumor of that haunted castle!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Hm?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Female Students' Voices",
+        "text": "I did, I did! The one where at the ruins of a castle that burned down a long time ago, on rainy nights, the silhouette of the original castle can be seen..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Female Students' Voices",
+        "text": "Eh!? One of our senpai said it was an old Western-style manor."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Female Students' Voices",
+        "text": "Nooo...! What I heard was it's an abandoned school building..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A group of girls had sat down behind me and started gossiping loudly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Sheesh, even girls who are on their way to becoming Taimanin seem to like ghost stories...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "How many people actually believed in stuff like that? I bet any topic was fine with them as long as it got them excited."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I sat alone, eating my Hamburg steak, when\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sa_t001b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Igawa Sakura",
+        "text": "Oh, it's you, Fuma-kun! You're eating lunch all by your lonesome? How sad!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...Bleugh *Cough*...!!! Ah, Sakura-sensei!! Please don't hit me on the back when I'm eating!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Nyahaha... my bad, my bad!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was Igawa Sakura-sensei. The younger sister of the Almighty Taimanin, Headmistress Igawa Asagi."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Their personalities, however, were completely different. Headmistress Asagi was a calm, mature woman, while Sakura-sensei was a boisterous girl."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She was always bouncing off the walls and couldn't completely shake her childishness."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But it was said that the sisters had formed a strong bond after narrowly escaping death together numerous times."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(The one thing they share in common... is their unnecessarily huge boobs.)"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sa_t001d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Hm-mm? Fuma-kun, where are you looking??"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ah, no! More importantly, what about the afternoon supplementary lesson, Sakura-sensei?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sa_t001c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Hmph... you make it sound as if I were the one having to take supplementary lessons... Today Tokiko-sensei is leading it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(So that's why Tokiko isn't around.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Even after I had become captain of the Independent Commando Unit, Tokiko seemed to be worrying about how I was doing and came to check on me at every opportunity."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sa_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Today's lunch of the day is Hamburg steak? Hmm, should I get the lunch of the day or the yakisoba and tenshinhan combo meal..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sakura-sensei began to agonize over her choices as she stared intently at my lunch."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Umm... wasn't there something you needed from me?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sa_t001e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Ah, that's right! Onee-chan... I mean the headmistress wants to talk to you!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sa_t001e",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "2000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc006a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sa_t001b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Onee-chaaan! I've brought Fuma-kun with me!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had quickly devoured my Hamburg steak meal and accompanied Sakura-sensei to the headmistress's office."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The office had become a battlefield during Gaiza's rebellion, but the repairs were completely finished and it had almost returned to its original state."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sa_t001b",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t001f",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Igawa Asagi",
+        "text": "Sakura! At school make sure to call me \"Headmistress.\""
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sa_t001a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Nyahaha... right, right. Setting that aside, you have business with Fuma-kun, don't you?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t001a",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Yes, I have a request for the Independent Commando Unit."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "A request...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I remembered the gossiping schoolgirls."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I hope you aren't talking about the haunted castle that's being gossiped about at the moment?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "You have good intuition. That's exactly it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sheesh... Isn't that just another ghost story? \"A castle that once burned down, showing its original form on a rainy night...\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Even you believed those rumors, Headmistress..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Sorry to disappoint you, but I don't believe in it either. Sounds interesting, though."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sa_t001b",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Ehhhhh, I believe in it, though."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t001c",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Sakura, you keep quiet. Fuma-kun, it's not the rumor that's the issue, it's the location."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sa_t001a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "The location?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In my head, I laid out a map of the area around Gosha Village. The location of the ruins was definitely..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...I see. The rumored place is in the mountains on the north side of the academy, near the narrow road connecting Gosha Village and the outside world."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "If someone were to attack Gosha Village from the north, it would be a crucial location."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t001b",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Correct answer. As expected from you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Headmistress Asagi smiled at my answer."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I see, so that's why you want me to investigate, just in case. Understood. I'll go check it out and also see if there's any truth to the rumors."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I'm sure it's nothing though."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t001a",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "I hope so. I'm counting on you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I'll depart right away. If you'll excuse me."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sa_t001b",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Buh-byyyeee~"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t001f",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Sa-ku-ra... and where do you think you're going?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sa_t001e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Urghh..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t001c",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Really, I can't take my eyes off you for even a second!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t001g",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Eh...!? Let go of me, onee-chan!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I-If you'll excuse me then."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t001c",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sa_t001e",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I closed the door of the headmistress's office behind me, leaving behind Sakura-sensei, who was being held by the collar like a kitten\u30fc"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc005a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mizuki Yukikaze",
+        "text": "I'm gonna kick your ass!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Whoa!! What do you need right this second!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was suddenly screamed at from close range the moment I exited the headmistress's office."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The voice belonged to Mizuki Yukikaze. As you could see, she was a beautiful girl, but she was also the number one classmate I didn't want to run into at school."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Fuma... tell me how you buttered up the headmistress!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huh!? Who gives a damn! And first and foremost, I'm not even buttering her up!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Hmph... so it's a secret. You have guts to not tell me, I'll give you that. Even though it's you, Fuma."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What the hell do you mean by that? Even if there was a strategy to get on her good side, why would I have to tell y..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze slowly pulled out her guns."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se014"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t002b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc005a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Electricity sparked all around them. Yukikaze could use her Lightning Art to control powerful lightning."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And she had made a name for herself in this world as the \"Lightning Taimanin.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Wait!! Calm down!! Did you come here to kill me!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t002d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Tsk, I almost forgot. I wanted to ask you something."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Still as hot-tempered as ever, she at least put away her guns."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She was a beautiful girl with skills recognized by everyone, but she was proud and competitive, and I was frequently the target of her unreasonable bullying."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(One day when I'm stronger, I'll get my revenge!!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "So, what did you want?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Have you seen Rinko-senpai?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Rinko-senpai... Are you talking about Akiyama Rinko-senpai?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Yeah. I haven't seen her since yesterday."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No clue. Why are you even asking me? I've only talked to her a few times, it's not like we're close."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "But you're the guy for odd jobs, aren't you?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huh!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "I heard a rumor that you were about to be expelled, so you cried and begged the headmistress to let you stay in the academy, and in return you would do any odd jobs that came up."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What kind of weird rumor is that!? I'm not the guy for odd jobs! I became the captain of the Independent Commando Unit!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Independent Commando Unit...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yes! I'm in a position where I'm entrusted with making high-level tactical decisions. Suck on that!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Hmmmm...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze looked me straight in the face."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Ugh... At least her face is cute. Like really cute. Tiny tits though...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Hm-hmmm??"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Wh-What is it???!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I couldn't take it anymore and took a step backward. Yukikaze's face was too close as she was staring at me."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "I see. I've changed my opinion of you. I'll give you a little credit. I thought you were a spoiled brat, so I had planned on whipping you into shape."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Whipping me!? Into shape!?!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Because I feel sorry for Tokiko-san, you know. Hehehe... but, that's good to hear\u266a See you later, Fuma!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001b",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "For some reason, Yukikaze left in a good mood."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(I don't get that woman... and I still can't stand her!!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No time for that now though. I've got a mission."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The mission was just to investigate the situation, so I might as well get it over with quickly. I quickly headed north to the mountain road."
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm408",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc028a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Pheeeeew... are these the castle ruins? That was harder than I expected."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had walked along the mountain path, pushed through a thicket, and arrived at the ruins at the top of the mountain."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sa_t002c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Hmmmm, there's nothing here."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Right... errrr, what?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sa_t002e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Huh?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Why have you been following me, Sakura-sensei??"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sa_t002g",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "D-Don't tell me you're suggesting I followed you just to see the haunted castle!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In her hand, Sakura-sensei was holding a suspicious occult-looking item."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...Well, alright, but please don't get in my way."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sa_t002b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Nyahaha, of course!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With that, Sakura-sensei began reading the instructions for the occult-looking item she had brought."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Sheesh...)"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sa_t002b",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I decided to leave her alone and explore the area for now."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Even though these were castle ruins, it's not like there were splendid stone walls or towers still standing. There was only a stone monument and a sign left standing on the mountain."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I walked up to the sign and read it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "\"The lord of the castle, Narashino Nagatake, was famous for being a tyrant... In the old stories, he was accompanied by demons and monsters..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...It is said that he led a reign of terror, including torturing and massacring his own people.\" ...Hmmm..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But now it was just a quiet mountain where grass and trees grew uncontrolled and a clear stream flowed by."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "If the enemy was planning something, I'd expect to find traces of it, but... it doesn't look like anyone has been here."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sakura-sensei, it seems like it was only a rumor after all. Let's go home before it gets dark."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sa_t002c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Hannya-ha-ra-mi-ta-..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sakura-sensei was enthusiastically chanting something while looking at the instruction manual."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sakura-sensei, let's go back home already..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sa_t002c",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "o_t002d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Dobashi Gonza",
+        "text": "What a surprise!!!!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "o_t002a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "I never thought I'd meet the head family boy in a place like this."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was the vicious butler, Dobashi Gonza, who had appeared with a grin on his face."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Gonza...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Don't tell me... he's the one up to something!?)"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "o_t002b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "Hm, so you're also here to see \"that,\" aren't you? What a perverted boy you are!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "\"That\"...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "What's \"that\"?? Who's perverted??"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "o_t002f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "Don't pretend you're a goody two shoes. \"That,\" you know, the thing. The story about the ghost of a beautiful woman appearing."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Th-The ghost of a beautiful woman!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "o_t002h",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "Now that's a surprise. If it isn't the younger sister of Igawa Asagi."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Gonza's gaze suddenly turned deadly, and men who seemed to be his subordinates appeared out of the bushes."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m015a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m015a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "We were just here to seduce a ghost, but this is an unexpected big catch."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(It seems like Gonza didn't even know about the haunted castle... but damn... Tokiko isn't here today. What are we gonna do!?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Wait a sec, dude. Put down the spear instead tell me about the ghost!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sakura-sensei interrupted him without even the slightest hint of nervousness in her voice. Even though she was surrounded by so many people, she didn't seem to be alarmed, and didn't have her guard up at all."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Impressive. She might look like that, but she's still a veteran Taimanin... or maybe she's simply doing everything at her own pace.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But Gonza seemed to think that he was being taunted and his deadly aura grew even stronger."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "o_t002g",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "Ask the ghost yourself. In the afterlife!!"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m015a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "o_t002g",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m015a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

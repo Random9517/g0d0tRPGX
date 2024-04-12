@@ -1,0 +1,836 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm313",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc161a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ra_t002a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ra_t002a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ra_t002a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_FRONT",
+        "info": [
+            "0"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "800"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ra_t002b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ra_t002b",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ra_t002b",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se036_03"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Blam-blam-blam-blam-blam-blam-blam!!!!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The 12.7mm heavy machine gun opened fire."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Clouds of dust rose everywhere with the bangs of fierce gunfire from three powered exoskeletons."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "RIGHT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "a_t007f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Hah!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "CENTER",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, Asagi dodged every single bullet with lightning speed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Not only that, but she was skillfully guiding their lines of fire."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "ef005a",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se036_03"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Ba-ba-ba-ba-ba-ba-bang!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "One unfortunate soldier took the stray bullets which turned him into a lump of meat."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc161a",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "a_t007c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Having numbers isn't necessarily a good thing."
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se024"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Soldier",
+        "text": "\"Ghaaaghh!!\" \"Gwaaaaghh!!\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi had yet to even make a single strike with her sword."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She was simply dashing around with extreme speed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That alone was enough to mercilessly direct the enemy soldiers to drown each other in friendly fire."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Giant Cyborg",
+        "text": "Don't shoot! Use your blades!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The giant cyborg, who appeared to be the leader of the assault squad, shouted orders."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ra_t004a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ra_t004a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ra_t004a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_FRONT",
+        "info": [
+            "0"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se016"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Ka-shink!! Ka-shink!! Ka-shink!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The three Raiden units switched to their bladed weapons."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Then, using their mechanical drives to accelerate and close the distance all at once, they launched a close-range attack on Asagi in unison."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "RIGHT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Hmm. You're almost as fast as Taimanin."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Her enemies approached."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi, however, was unfazed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She nimbly evaded the blades unleashed from three directions and landed a counterstrike on one of the exoskeletons with her katana."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "a_t007f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Haaaaahhh!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "CENTER",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "ef004a",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se006"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "800"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "ef002a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se007"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Clang!!!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sparks flew with a grating sound."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi's blade had bounced off the exoskeleton's hard armor."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc161a",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "a_t007b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "That's quite a well-made toy."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It didn't appear to be a mere powered exoskeleton."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With the incredible speed they'd just shown and the defensive power of their armor, there was no doubt that Devildomian technologies were being used."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "(This looks pretty tough without something like Murasaki's monstrous strength.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "To make matters worse, the Raidens were not her only enemies."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m101a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Giant Cyborg",
+        "text": "Surround her and aim at her legs! Stop that bitch!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At the command of their giant cyborg leader, the enemy soldiers started surrounding Asagi at a distance."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Being surrounded by three powered exoskeleton units and fully armed soldiers would put anyone in danger, and Asagi was not an exception."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Moreover, she had Yamamoto to protect."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "a_t007e",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "What a hassle."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "(It can't be helped, in this case. Well, so long as it's just for a little bit...)"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "a_t006c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi came to an abrupt stop and slowly lowered her katana in each hand."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Giant Cyborg",
+        "text": "Geh-heh-heh, are you giving up, old hag?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "a_t006d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "You're not very popular with women, are you?"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm610",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi's figure in the cyborg's eyes began to blur."
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se057"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As if the laws of physics were being warped around her."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m101a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Giant Cyborg",
+        "text": "Wh-, what!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If he were a Taimanin, he would have recognized..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "...that overflowing from Asagi's body was a tremendous amount of demonic ki."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

@@ -1,0 +1,558 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm407",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc042a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Haah haah... that creepily laughing Oni bastard... D-Did I lose him?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Ultimately, I ended up having to escape to the street I originally came from."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It's weird... Why wasn't I able to buy him off with that much money...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But when I turned around, it at least looked like he wasn't coming after me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Demons, demonic beasts, and now an Oni...? This town has gotten pretty interesting, damn it!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m026a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Blue Oni",
+        "text": "Uh-huh-huh-huh-huh! You must be the chief everyone iz talking about?"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Again a strange voice came from over my shoulder. With a start, I returned my gaze to the path ahead and saw another Oni standing in my way."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Geh!!? This time it's a Blue Oni...!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Blue Oni",
+        "text": "Come on, Chief, tell me where Lilim and Minasaki are. Tell me and I'll kill you painlessly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Lilim and Minasaki?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Blue Oni",
+        "text": "No point in playing dumb. I'm talking about your underlingz, those two little devilz."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Two little devils... ah! So that's what their names are...!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He seemed to be talking about those demon brats who had made me their chief and then just ran away. This Oni also seemed to be chasing them."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hey, I'm telling you, I'm not their chief! They set me up!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Blue Oni",
+        "text": "Uh-huh-huh! You don't know when to give up! It iz unbelievable that you're still pretending not to know!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Like I said, I really don't know them!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Blue Oni",
+        "text": "No time for arguing!!!!"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se006"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Swoosh!* I desperately dodged the Oni's spear."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Whoooa!! Shit, if I can't even buy them off, then there's no choice but to run away..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Blue Oni",
+        "text": "I won't let you get away! Go, Patrasche!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m026a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m024a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se062"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Patrasche",
+        "text": "GRRRR!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Gah! That hurts!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yet another demonic beast jumped out from somewhere. It bit my arm and dragged me to the ground with its tremendous strength."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m024a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m026a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Blue Oni",
+        "text": "Uh-huh-huh-huh! With my torturing skillz that have been passed down from Oni to Oni since 1,500 yearz ago..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Blue Oni",
+        "text": "I'm gonna make you spit out the hiding place of those little devilz!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sheesh, I'm seeing red over here! I keep telling you that they are complete strangers to me!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Blue Oni",
+        "text": "Red? Complete stranger? Red Oni iz not a stranger! He iz my dear friend!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What the hell are you talking about? Anyway, I don't know anything!! There's no use in torturing me!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Blue Oni",
+        "text": "Uh-huh-huh!!! Are you still trying to cover for those devilz? I salute your bravery!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Blue Oni",
+        "text": "Az a sign of respect, I'll fillet you alive using our secret torturing techniques!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You'd normally die from that though!! Who are you using these techniques on!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Blue Oni",
+        "text": "The key iz to remove the organz while they're still fresh!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Shit, a-at least get this dog off me for now!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Patrasche",
+        "text": "GRR, GRRR!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Blue Oni",
+        "text": "I refuze!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "While I was still pinned to the floor by the demonic beast, the Oni raised his spear to skewer me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Shit, I can't even roll to avoid it\u30fc)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The tip of his spear descended upon me\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se007"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Clank!!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Blue Oni",
+        "text": "Who the hell are you!?"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm311",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t005e",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "H-Hebiko!! You're late!!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t005f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "That's because Fuma-chan kept running around!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At the last second, Hebiko's blade had blocked the Oni's spear."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Anyway, thanks for the help...!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had been waiting for this moment."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t005e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "It's not easy to trace a smell!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko spoke while pointing at the suckers of her transformed octopus leg. She had found me by using the sensitive suckers to detect the stench of the octopus ink that was clinging to me."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t005f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "At one point your smell even faded!! Did you take a shower somewhere!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Eh!? A-Anyways, let's deal with the enemy right in front of us for now!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t005e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Right, got it!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko readied her weapons and faced the Blue Oni and his demonic beast."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t005e",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m026a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Blue Oni",
+        "text": "Uh-huh-huh! A girl with octopus legz... What a weird monster!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m026a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t005f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hebiko is not a monster! And Hebiko doesn't want to hear that from the likes of you!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As Hebiko spoke, she dashed toward the Blue Oni."
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t005f",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

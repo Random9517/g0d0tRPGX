@@ -1,0 +1,623 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc109a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm306",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m042a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Fire Art Squad",
+        "text": "Take this! Fire Jutsu!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m008a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "UFS Soldier",
+        "text": "Don't shrink back! Surround and subdue them!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se037"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se036_03"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Intense gunfire boomed and flames from the Ninja Arts flashed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The narrow backstreets had turned into a battlefield between the UFS troops and the Taimanin squad."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m061a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "This is bad. At this rate, we'll never make progress..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I (the boar) muttered as I charged into UFS soldiers, sending them flying."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Fire Art squad also fought desperately, but, blocked by the UFS's stout line of defense, we were unable to proceed onward."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m061a",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "chr_t0084a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Yeah. The time we have left is rapidly dwindling while we're stuck here."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi-san said worriedly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The deadline to kill Kiyomaro, the lucky boar, was the end of the day."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We didn't have time to let them keep stalling us in a place like this."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "chr_t0085a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "Hmhm. I told you to stop resisting and give up already. You're outnumbered by a ton\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Compared to us, Asuka was beyond calm and composed, leading the UFS forces."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If it were simply a matter of being outnumbered, we should've easily been able to break through the UFS squad with Asagi-san's and Homura's power."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But the Asuka from this dimension also seemed to be an exceptional fighter."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She stood in front of Asagi-san and Homura, who attacked the soldiers in an attempt to break through the blockade,"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "and staved off their fierce attacks with her Android Arms."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asuka's presence drove us into a deadlock..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hngh, surrender!? Not a chance!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "My ability to return to my original form depends on this!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "Your original form?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yes! I'm actually a human\u30fc\nbut I was made into a \"scapegoat\" by the lucky boar! Get the hint and let us through!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "Hmmm, so you're really a human, huh?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "Well, if we dissect you we'll get to the bottom of it. Hurry up and capture that boar! We're gonna bring it to the lab."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You monster!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She appeared to have no intention of believing me."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Dammit! Since it's come to this\u30fc)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Come over here, Sanada Homura!! I've got an idea!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "chr_t0086a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Homura",
+        "text": "Oh, fake boar? What is it?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hearing my voice, Homura, who had been fighting nearby, came over."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Homura",
+        "text": "Not that it matters much, but you really do look delicious up close. Can I roast you and take a quick bite?"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Why would I agree to that!? A-Anyway\u30fc\nI've got a favor to ask!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This was my last resort."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I didn't really like being so forceful, but this time it was unavoidable."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "If this keeps up, it's just going to get worse and worse for us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Either we run out of time without managing to move forward, or they overpower us with their numbers. Neither is a good outcome."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Homura",
+        "text": "Right? The prospects are a little crummy."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Homura nodded in agreement with my assessment of the situation."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "So there you have it. Asagi-san and I will forcefully break through their blockade."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "If the Fire Art Squad provides backup, at least the two of us should be able to squeeze through."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Homura",
+        "text": "Hmm. We should be able to do that, but... isn't that stupidly strong woman the real problem?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Homura pointed at Asuka."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You're right. The problem is Asuka. That's why\u30fc\nI'd like you to take care of the steel lady."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Homura",
+        "text": "Huh!? Me!? You're telling me to take on that ridiculously strong, pain-in-the-ass woman alone!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah... I know I'm asking a lot. But you're the only one strong enough to\u30fc"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm404",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Homura",
+        "text": "Good! Sounds awesome!! I'll absolutely do it!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huh? You're fine with it...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Contrary to my expectations, Homura seemed to like my plan a lot."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Homura",
+        "text": "Is this where I say, \"You go ahead! Leave this to me!!\" like you always read in manga!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Homura",
+        "text": "I've always wanted to say that~\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I-Is that so...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I wasn't really sure why, but she gladly agreed to my plan."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "chr_t0085a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "...What are you whispering about? If you don't come here, I'll come after you myself!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asuka must have sensed something from us and challenged us on her own."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "There's no time to keep talking. At any rate, go with the plan!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "chr_t0086a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "chr_t0084a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Roger\u30fc\nSorry to ask this of you, Sanada-san."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Homura",
+        "text": "Yeah!! Just leave this to me!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

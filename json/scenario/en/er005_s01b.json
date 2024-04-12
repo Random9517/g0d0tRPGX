@@ -1,0 +1,916 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm313",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc066a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m080a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim-Muo",
+        "text": "\u300eHup\u266a Yay\u266a Take this\u266a\u300f"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se108"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Whoosh. Slash. Swoosh.*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Leaving the dangerous-looking streak of light in its wake, the mecha's scythe swiped at us again and again."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Metier",
+        "text": "Kyah! Stop it, Lilim!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim-Muo",
+        "text": "\u300eNot when I'm on a roll now! Trampling everyone with overwhelming power is fun! Run for your lives, you fools!\u300f"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se108_01"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Zoom. Slice. Swish.*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ugh... this brat!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Being hunted down by this ridiculous thing... now I've seen it all!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I picked up an iron pipe that had been lying around, took aim at Lilim-Muo's stomach, and swung at full power."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Take thiiiiiis!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se099"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Claaaaaaang...*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ow-owwww!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But its body was harder than I had imagined, and my hands went numb to the bone."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "This thing's got some serious armor! It's on par with the UFS's powered exoskeletons... or maybe even better than them..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Who the hell is this \"friend\" of hers who could build something like this!?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Metier, can't you do anything about that thing?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Metier",
+        "text": "Even if you ask me that... I'm not very good at physical combat. Especially against machines."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If this continued, forget about capturing Lilim, our lives were going to be in danger."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Damn it... Guess I have no choice...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There was only thing that would quiet her down."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I shoved my hand in my pocket and pulled out my meager allowance."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Damn it, how humiliating!! And I <i>just</i> got this month's portion too...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I shakily pulled out several bills and held them out toward Lilim-Muo."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim-Muo",
+        "text": "\u300eOho, looks like you've started to understand what makes the world go round.\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Seeming satisfied, Lilim-Muo did a little loop-de-loop in mid-air and came to a stop."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At that moment\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Fuma, get out of the way!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!? That voice..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "700"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I jumped away from Lilim-Muo upon hearing the familiar voice."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se109"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Booom...!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim-Muo",
+        "text": "\u300eUeeergh!?\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A large lightning ball suddenly appeared and hit Lilim-Muo directly in the head."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "yu_t002a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Phew... Nice shot if I say so myself!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yukikaze! You followed us!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "yu_t001d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm506",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "J-Just to kill some time!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Perfectly dressed in your Taima-Suit and your Lightning Blasters equipped?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "yu_t001c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Th-These are... in case you tried anything funny!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "yu_t001f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "If I left Fuma the perv alone with a succubus, who knows what nasty things you might do!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "In the event you did happen to try anything, I wanted to be ready to scorch you immediately, so I had them at the ready!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huh!? Even if she's a succubus, she's still a client!! Who would do anything weird!?"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "I don't know! This is you we're talking about, Fuma!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "yu_t001e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As we continued our fruitless quarrel, Metier whispered quietly into my ear from behind."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "yu_t001e",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "chr_t0111a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Metier",
+        "text": "That's not it, Fuma-san. I'm sure Yukikaze-san is jealous."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Jealous?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "yu_t001d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Huh!? That's not-, c'mon Metier!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Metier",
+        "text": "Ehehe, I can tell. I <i>am</i> a succubus, you know\u266a"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim",
+        "text": "U-Ugh... th-that wasn't fair..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ri_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Upon noticing a charred stench I turned around, and there I saw Lilim tumble out of the sputtering and smoking Lilim-Muo."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Metier then promptly managed to capture her."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ri_t001a",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "chr_t0111a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Metier",
+        "text": "Lilim! You're under arrest. You'd better reflect on your actions this time."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim",
+        "text": "Ugh... I guess this is it... uargh..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm604",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc132a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "chr_t0111a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Metier",
+        "text": "Thank you so much for all your help."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Metier",
+        "text": "Thanks to your thorough understanding of Lilim's powers, Fuma-san, we were able to safely capture her despite her falling far short of our expectations."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Pulling the tightly bound Lilim behind her, Metier bowed her head deeply."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Don't ever let her run loose again."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Metier",
+        "text": "Of course not. \u30fcAh, and also..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "All of a sudden, Metier brought her face close to my ear."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Metier",
+        "text": "I will definitely make sure to repay this favor another time...\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "R-Right..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She suddenly whispered sexily, to which I could only reply with a soft whisper of my own."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(You might not think so looking at her, but she's still a succubus after all...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim",
+        "text": "Stupid Fuma!! I won't forget this!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Well, <i>I</i> will. So farewell Lilim, and never show your face around here again\uff5e"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Anyway, that settled it. Without a worry in my mind, I watched the two of them leave and then spun on my heel to go the opposite way."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0112a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Now you owe me again, Fuma."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You're right, thanks... Wait, when did you change?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "A Taima-Suit stands out in the middle of the city, don't you think?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "If you just avoid the busy streets and go straight home then... Hey?!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Ehehe\uff5e"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Before I realized it, Yukikaze had a firm grasp on my arm."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What is it?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Aahhh... I'm so hungry after shooting up a storm\uff5e\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sheesh... I guess we're doing this then. What do you want to eat?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Hmm... steak!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huh!? I don't have that kind of money!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Relax, I'm just messing! I'm fine with a burger from Nicky B's\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze grinned as she pulled on my arm."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Sheesh... it's not just succubi who know how to throw a man's heart into turmoil.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I tightly gripped the allowance in my pocket that Yukikaze had helped to protect."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "..."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc066a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Meanwhile."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The storm had passed, quiet had returned to the construction site, and a lone figure appeared."
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se078"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It rushed over to the wreckage of Lilim-Muo and huddled down, looking heartbroken."
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se010"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Ahhhh... my work of art is in such a state..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Oh well, it was only a prototype. Next time, I will create something so perfect that it can even withstand the lightning strike from a Taimanin."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The figure gathered the scorched Lilim-Muo parts and left the scene as silently as they came."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

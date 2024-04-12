@@ -1,0 +1,546 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm601",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc016b",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m055a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rotten Woman",
+        "text": "MOUNGGGHHHH...!?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se010"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m055a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*THUD.*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We followed the mechanical spiders, trying not to lose sight of them, while fighting off wandering Zombies."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ak_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "!! The little ones are picking up speed. We need to hurry!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ak_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah... eh?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ahhhhh!!?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004d",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Wh-What's with you all of a sudden, Fuma-chan!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "D-Don't scare me like that!!! I thought you had turned into a Zombie!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No, I can't believe... I forgot to negotiate our payment!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001c",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Payment... Are you trying to get money from the Mask Lady? This is about justice and about doing good for the world."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Dumbass! We have to outrun other UFS organizations to get that virus from Gaiza!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It's an incomparably extra-dangerous mission. It's natural to demand payment."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004g",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "But Fuma-chan. This is all started with Gaiza-chan, demanding compensation is just..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Listen here... It costs money to run our unit, or to do anything really."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Local fundraising is a legitimate right granted to any Taimanin unit."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I, as someone making do with my meager allowance, was naturally driven to persuade them."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001f",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Hey, hey, are you that obsessed with money, Fuma?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hebiko is a little disappointed in you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Y-You guys..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001f",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004e",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ak_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "What are you arguing about? Payment? I already received that in advance. Including yours."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Really!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Akitsu handed over a bulging envelope. It was stuffed with bills. For an advance payment, it was quite a lot of money."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ak_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001b",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004d",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Hyaaah!! Amazing!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004j",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "When the mission is over, Heberybody can go to a nice sushi restaurant to celebrate Hebiko's discharge from hospital! Right, Fuma-chan!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Oh, come on you guys!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In response to their astounding flip-flopping, I snatched the envelope back from them."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You guys don't need any money if it's in the name of justice for the world, right!? This is mine!!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Ah!! That's not fair, Fuma!!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004f",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Heberybody is risking their lives!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko and Shikanosuke reached for the envelope that I was holding up high."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004f",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ak_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "...Appalling. Taimanin really are carefree ninja! Come on, the spiders are getting away!!"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ak_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

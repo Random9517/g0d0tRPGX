@@ -1,0 +1,2246 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm307",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc027a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "One day after school, as spring was approaching in full force."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had spread my books out in the cafeteria, where we had agreed to meet, and was groaning by myself."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hmm... I give up, I can't understand this at all, from top to bottom..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Gosha Academy was a training institution for young Taimanin\u30fcBut just like an ordinary school, there were subject exams as well."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If your scores were good, everything was A-OK. But if they were bad, you'd be repeating the grade\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "From the standpoint of a good-for-nothing student like me, it was truly a cruel ordeal in hell."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And in order to overcome this somehow, it was decided that we'd hold an emergency study session with Shikanosuke and Hebiko."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(This... isn't something I can handle on my own. Either of you will do, so please, get back here quick...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "What I was doing right now was a workbook for English, which was not my cup of tea, <i>and</i> I had been skipping classes like crazy."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was sure that if I begged to be taught by Hebiko and Shikanosuke, who were always serious about attending classes, they'd answer as many of my questions as they could, but\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Unfortunately, Hebiko was at a class committee meeting and Shikanosuke had been told to take care of something by our homeroom teacher, Sakura-sensei\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And that's why I was all alone, with my notebook open futilely, waiting for them to return."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(I mean, I was already in a pinch just with the exams, but Shizuru-sensei even gave me a mountain of homework to do...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(\"If you don't do all of it you'll fail\u266a\"...she said...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(That teacher definitely enjoys bullying me\u30fc)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Hey you, you don't even understand a question like that? The answer for that one is A. And then it's B and D\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Eh? Ah, yes. I see, I see..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Suddenly, a voice offering advice dropped in from behind me. It was precise and easy to understand. I was proceeding through the questions smoothly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(...Hm? Wait, who is that?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "For a second, I had thought it might have been Hebiko, who always helped me, but the voice was clearly different. So that meant\u30fc?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kr_t002a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Um...? And who might you be?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "An unfamiliar female student was standing there."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She was ridiculously cute\u30fcbut she was looking down on me with an oddly displeased look on her face."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Woman",
+        "text": "Does it matter who I am? More importantly... Hmmm."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Wh-What is it...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Woman",
+        "text": "Nothing\uff5e I was just surprised. You're the captain of the Independent Commando Unit, aren't you?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kr_t002e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Woman",
+        "text": "So, I was just thinking about how even someone <i>this</i> stupid can become a captain\u266a"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huuuh!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This woman suddenly showed up and started shooting her mouth off\u30fc!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Woman",
+        "text": "I mean, if you can't even answer those questions, you're at the most basic of the basics, totally failing level."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kr_t002g",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Woman",
+        "text": "Someone having this much trouble is a captain? *Sigh*..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The woman shrugged her shoulders as if to say, \"Good grief, I'm flabbergasted.\" It was as irritating as could be."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "N-No, no, no!!! I'm not stupid at all!! I mean, you're the stupid one!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kr_t002f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Woman",
+        "text": "Huh!? I'm the stupid one!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yes!! Judging how smart people are from just one subject is, without question, what stupid people do!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sure, I'm not good at English, but I'm absolutely confident that I'm better than you in everything else\uff5e"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Woman",
+        "text": "What the hell!? There's no way I would lose against someone like you!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Wanna throw down then? With a different subject."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kr_t002c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Woman",
+        "text": "F-Fine with me. Any subject is fine."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Nice!! Got her!!! Just as planned\u30fc!!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Deep down, I struck a triumphant pose."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She seemed to be prideful, so I had figured that if I provoked her I would be able to face her in a more favorable contest."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Okay, it's a history question battle. First question."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kr_t002d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Woman",
+        "text": "R-Right off the bat!? History!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Drum roll, please. The founder of the Tokugawa Shogunate was Tokugawa Ieyasu, but who was the tenth shogun?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kr_t002g",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Woman",
+        "text": "Eeeh!? Sh-Shogun!? I-Ie-Ie... Ienori?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Bzzzzt. It was Ieharu."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kr_t002f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Woman",
+        "text": "C'mon!! There's too many Ie-somethings!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "On to the second question. Drum roll... Who was the 20th president of the UFS?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kr_t002g",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Woman",
+        "text": "Eh? Um... C-Clynton...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Bzz bzzzzt. It was Garfeeld."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kr_t002f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Woman",
+        "text": "Who is that!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hahahaha!! Both of these questions were the most basic of the basics that can be found in any elementary textbook!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Seeing as you couldn't even answer these kinds of questions\u30fcLooks like it's clear now which of us is the stupid one!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It had been a walk in the park. When it came to not-particularly-necessary knowledge like this, there wasn't anyone who could outdo me."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kr_t002f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Woman",
+        "text": "Hnngh...! This just shows that you're a history nerd!! Th-There's nothing great about that!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What!? You still won't admit defeat!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Woman",
+        "text": "Of <i>course</i> I won't!!! I won't be defeated by a <i>man</i>!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hehe, then I've got no choice. I'll move on to questions three and four, until you cry and apologize\u30fc"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hey, hey. What are you doing, Fuma-chan, shouting like that?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "She's right, Fuma. You need to keep quiet in public places!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Eh?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t003a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t001a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When I turned around, the usual two were standing there with exasperated looks on their faces."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And when I looked around the room, I could see the other students looking over here as well, seemingly wondering, \"What the heck are they doing?\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ah, no... you've got it all wrong. While I was waiting for you guys, I was getting pestered by some strange woman\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I pointed at the female student I was arguing with."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t001d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "A strange woman...? She's an upperclassman, Fuma-chan."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t001b",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hello, Kirara-senpai."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kr_t002b",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Woman",
+        "text": "Ah, Hebiko-chan. Good afternoon. It's been a while."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What!? Senpai!!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kr_t002a",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Noticing the woman, Hebiko greeted her. It seemed like she and Hebiko were acquaintances."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t001a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Yes, this is Onisaki Kirara-senpai. She's always helping Hebiko during the class committee meetings."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko introduced the woman\u30fcOnisaki Kirara."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Geez, Fuma, you're weirdly unobservant. You can tell from the color of her necktie that she's a senpai, you know?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That's, well... true."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Even Shikanosuke spoke to me with a fed-up tone in his voice."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kr_t002a",
+            "LEFT",
+            "CENTER",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It had all been so sudden, so I had missed it, but... at Gosha Academy, each grade's uniform had a different color necktie."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And the color of the necktie worn by Onisaki Kirara, who was standing before me with a sullen look on her face, was red. That meant\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Y-You're... our senpai?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Onisaki Kirara",
+        "text": "Hmph. No need to get all respectful at this point. You showed your true colors <i>very clearly</i> just now."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huuh!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She was impossible to deal with. This senpai\u30fccould it be that she was rather nasty!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "N-No, you're wrong!! You're the one who started it, so I just answered tit for tat\u30fc"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "a_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Igawa Asagi",
+        "text": "Oh? Looks like everyone is here already. Hello, everyone. \u30fcKirara as well, did you already introduce yourself?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Just as I had been trying to retort, Asagi-sensei showed up."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Asagi-sensei!? H-Hello... And what do you mean by \"Kirara as well\"...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Returning the greeting, I looked at Onisaki Kirara."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "a_t001a",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kr_t002a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The way she had put it, did it mean that this senpai was here at Asagi-sensei's suggestion?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kr_t002c",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "...Yes, Asagi-sensei. I talked with Fuma-kun a bit."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kirara replied with a sullen look on her face."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She had said it with some meaning implied, but Asagi-sensei smiled while paying no mind."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "a_t001b",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Hehe, that's good to hear. Well then, sorry to cut to the chase, but I have something to ask of you, of the Independent Commando Unit."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "a_t001a",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!? Is it a new mission!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I exchanged glances with Hebiko and Shikanosuke. After the challenging undercover mission in Yomihara, where so many things had happened, it was our first real mission in quite a while."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Yes... I want you to look into the strange events that have been occurring in Tokyo Kingdom recently. And Kirara here will be your help\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi-sensei smiled and pointed at the still pouting woman."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sorry? This person is... our help?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc008a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That night\u30fc"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm203",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We, the commando unit, now including Kirara-senpai, immediately went to Tokyo Kingdom where the strange events were said to be occurring."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "According to what Asagi-sensei had said\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Our target this time was the witch Euryale."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Recently, this witch, who was referred to as \"legendary,\" had appeared in Tokyo Kingdom."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And the balance of power between the forces of darkness, which had been in equilibrium, had been upset."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That was because Euryale was a legendary witch who had wandered the Devildom since ancient times, on top of being a godlike demon with enormous powers."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She had lost both arms due to a curse from the old gods, but instead was able to freely control two giant swords with a magic spell called \"Invisible Hand.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Appearing in the human world on a whim, she brought about misfortune and chaos."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She was known as an uncontrollable trickster."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Until now, rumor had it that she was hiding quietly in Amidahara."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I don't know what she's after, but... apparently she recently showed up in Tokyo Kingdom."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Hmmm, I see. So this E-E... Eruryaryale."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Euryale."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "So this Euryale... You seem to know a lot about her, Fuma."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Well, yeah. That's because I'm a fan of hers."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I nodded to Shikanosuke. There were many treatises and biographies written about the legendary witch Euryale."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And she herself had also authored several magic books and tales."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "They were all about interesting magic spells and events, and I loved reading them."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kr_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Huhh? What's the fun in reading those musty, old books?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Don't get me started on fanatics\u30fcDon't you have anything else to do?"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This nasty senpai was at it again\u30fc!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kr_t001a",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t002b",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Come on, Fuma-chan, calm down, calm down."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Laughing loudly, Hebiko tried to settle me down."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t002a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "And you too, Kirara-senpai. Fuma-chan's love of books is often quite useful, you know?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kr_t001d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Eh...? I-Is that so, Hebiko-chan...?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t002b",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Yes. Fuma-chan's knowledge from books has helped Heberybody many times before\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hebiko feels sorry for him, so please don't say anything too harsh\u266a"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kr_t001g",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Hmm... You're right, I'm sorry, Hebiko-chan. I'll give it some thought."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Admonished by Hebiko, Kirara-senpai apologized to her sincerely."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Wait, wait!! Why is she apologizing to <i>Hebiko</i>!?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And anyway... it also felt as if I was the only one she was being so harsh to."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Toward Hebiko and Shikanosuke, she was acting like a normal, kind senpai... But why?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "W-Well, back to the subject\u30fclet's continue the mission review."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In any case, there was no use thinking about it now."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I pulled myself together and resumed talking about the mission."
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm509",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc134a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There were signs of disturbances in Tokyo Kingdom due to the appearance of the \"Legendary Witch\"\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Contact had suddenly been lost with the Taimanin unit that had been dispatched to investigate the situation."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The main objective of this mission was to search for the missing unit, and rescue them if circumstances permitted it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, the opponent was the mysterious witch Euryale."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We had been ordered to avoid combat as much as possible, and to retreat as soon as we sensed danger so that we would not suffer casualties as well."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "And this is... This is where the missing unit made its last regularly scheduled report."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kr_t001c",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t002c",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko & Kirara",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko and Kirara-senpai looked around, their faces tense with anxiety."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "...The atmosphere was eerie."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We were in a desolate, abandoned neighborhood a few blocks from the downtown area."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was the kind of place that outlaws would love to pick for their hideout... but there was no sign of anyone around at all."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001e",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "H-Hey... will we be alright, Fuma? There's something strange about this place..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Something strange...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Y-Yeah... My skin is kind of tingling... and I'm starting to feel sick..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Was something invisible affecting Shikanosuke's body, which was sensitive to radio waves...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...Anyway, let's have a look around. Hebiko, picking up anything?"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t004c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Wait a moment. Um...? Yes, just a single person over there. Looks like there is someone..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko, who had transformed into an octopus, pointed towards the darkness deep within the abandoned neighborhood."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The powerful olfactory sense of the suckers on her octopus tentacles had caught the scent of a person."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Alright. Let's check there first. Everyone, don't let your guard down\u30fc"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se082"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We lowered our voices and nodded to each other, and then proceeded deeper into the abandoned neighborhood."
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We followed the scent deep into the abandoned neighborhood\u30fcand then broke into a warehouse in a corner of the district."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc135a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001e",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "(H-Hey... Fuma, is this place...?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Yeah... I can \"smell\" it...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I whispered with Shikanosuke, who was walking next to me, holding his breath."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was not the smell from the person that Hebiko's suckers had sensed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The inside of the warehouse was distinctly unnatural."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(It's properly cleaned and maintained...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "From the outside, it looked like a decrepit ruin, but the inside was completely different."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This meant that this warehouse was still being used by someone\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "ts_m081a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "..."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "(\u30fc!?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "(S-Someone's there\u30fc!?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We stayed in the shadows as we moved forward, and across from us, a solitary woman was standing."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Without even the slightest movement, she was standing still just like a ghost."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "(F-Fuma-chan!? Those clothes... that's a Taimanin suit, isn't it? Then that means she's\u30fc)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(...No, I don't think she is. I've got all the information regarding the missing unit in my head.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She was wearing a Taimanin suit, but she was not a member of the missing unit."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Then just who was this woman\u30fc?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "(H-Heyyyyyyyy!? That's kind of super scaryyy!!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(C-Calm down, Shikanosuke! ...Anyway, let's get a closer look. Kirara-senpai, are you okay with that?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "(Wh-Why are you the one deciding...! I mean, I'm okay with it though...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We nodded to each other and cautiously approached the woman wearing the Taimanin suit."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "\u300e...Thou art the void\u30fc...\u300f"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!??"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Suddenly, the woman opened her mouth."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She was whispering softly... but in my ears, the strange chanting echoed deafeningly\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(This is bad!! Did that woman notice us\u30fc!?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Our presence should have been completely hidden, so how\u30fc?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But the woman's whispering continued as if she was mocking our confusion, and eventually\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "\u300e...One thousand lights, engulfing ten thousand lives, the darkness shines\u30fc...\u300f"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se112"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Bzzzzzzz...!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Wh-What is that!? A magic circle\u30fc!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At the same time the woman's short, chant-like whispering ended\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A giant magic circle appeared under our feet and began to emit an intense light."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t002f",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieeeeeee!! This looks super bad!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Fuma-chan!? We need to get out of here\u30fc!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah!! Everyone, get out of here as fast as you\u30fc"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I wasn't even able to finish shouting my order."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "black",
+            "NONE"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We were enveloped by the light emitted by the magic circle and instantly swallowed up."
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "..."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc133a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se023"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Thud\u30fc!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was dropped out of thin air."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm609",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!? Owowow..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I rose to my feet, rubbing my banged-up butt."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Looking around, I could vaguely see what seemed to be the remains of a railroad track within the heavy darkness."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This place looked like an abandoned subway tunnel."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Guess we were scattered around...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It must have been some kind of teleportation spell."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There was no one here but me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(...In that case, I have to look for them first.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko and Shikanosuke, and also... Kirara-senpai."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Setting up such a powerful teleportation spell..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That must have meant that the strange woman in the Taimanin suit had been the witch we were after."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I wanted to look for everyone right away and do a more detailed investigation."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...Well, but..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(If possible, I want to find Hebiko or Shikanosuke first...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If I ended up finding Kirara-senpai first, then it would be just the two of us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And I'd have to hear it from her again..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At that moment..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se023"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Thud\u30fc!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Kyaah!? Ow, owow... What the hell... Where am I...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ah!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Of all the people who could have fallen out of thin air\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was my natural enemy, Onisaki Kirara-senpai."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And then, things got even worse."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "6",
+            "ts_m064a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "7",
+            "ts_m082a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se062"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Will-o'-wisp",
+        "text": "GRR-ROOOGH..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "From behind her, countless demonic creatures appeared one after another\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "6",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "7",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

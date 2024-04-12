@@ -1,0 +1,1401 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc121a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m073a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm320",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "FSD (Field Support Drone) \"Cancer\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A support-type combat drone developed to assist the mechanized soldiers of secret service agency \"G.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cancer",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It took the name Cancer from the fact that it was a small multi-legged tank, so to speak, with a shape resembling a crab."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Its state-of-the-art combat AI made advanced battle support possible, and it was touted as being able to handle any kind of situation\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But this combat AI was unable to gauge the enemy approaching it incautiously."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "u_t004d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "What the heck. You're a brainless robot?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cancer",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "From the comparison with its database, the tank surmised the enemy in front of it was a Taimanin."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In that case, it would be dangerous for it to judge the enemy's method of attack from just its appearance."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That was because within its data, there was info about Taimanin that could shoot lightning projectiles capable of penetrating its armor\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "u_t004f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "Hehe... what's wrong, you piece of junk? Come at me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cancer",
+        "text": "...!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It had the Taimanin in its range."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The combat AI aborted its analysis of the uncertainties and reached the decision to initiate annihilation."
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se040_02"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Clunk, clunk... clunk...*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The safeties had been deactivated on its main weapons\u30fctwo primary 12.7mm heavy machine guns, and a secondary 7.62mm machine gun."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But even in such a perilous situation\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "Well then, let me show my cute little juniors how cool I am!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Without excitement or fear, the Taimanin gulped down a drink in one hand, then reached for the grip of her sheathed tachi and got ready for battle."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "u_t007a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "Liquor Jutsu: Strong Style\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Taimanin\u30fcKozuki Sana curled her lips and murmured."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Liquor Art\u30fcThat was her Ninja Art."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Her Liquor Jutsu: Strong Style enhanced her sixth sense the drunker she got and also granted her a divine spirit's blessing."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "While being drunk, she could see through her enemy's attacks, could detect their weaknesses, and sometimes even displayed strength that transcended human limits\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It ought to have been called the very height of heresy. It was Kozuki Sana's own unique Ninja Art."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m073a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cancer",
+        "text": "...! ...!!!"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se087"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Creeeeeeeeeeak...!!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Cancer's entire body groaned."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It rushed forward with a deafening motor sound, its two heavy machine guns scattering countless bullets."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se036_03"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1500"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*RATATATATATATATATATATATA*\u30fc!!!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "u_t007b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "Heheh\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se042"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Cliiing!!!! Clang!! Clank!!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "\u30fcA metallic sound echoed through the underground space."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cancer",
+        "text": "...!?!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Cancer's AI froze due to its inability to make a decision."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The bullets that surely should have been on a course to make a direct hit were being deflected somehow\u30fc!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "Ahaha!! Sorry, rust bucket, but you can't shoot a swordfighter with bullets!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sana let out a guffaw and stepped forward at the same time."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003_01"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se027"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm205",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EV",
+        "info": [
+            "stv006a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se007"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*KAKIIIIIIIIIIIIING!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cancer",
+        "text": "\u30fc\u30fc\u30fc\u30fc\u30fc\u30fc!??!!??"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A flash of light erupted as Sana drew and slashed her sword."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A straight line, as if drawn with a ruler, ran across the outer shell of Cancer, which boasted stronger protection than an armored vehicle\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "Ace Katana Style Ultimate Skill: Zankusekki Tachi\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "\u30fcIt was also called \"Dimension Slash.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was a peerless Battojutsu that could slice enemies no matter their armor, and even rend space itself."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With her skill as a top-class swordswoman, as well as the bewitching power of her magical sword \"Diamond's Keen\"..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "...and her \"Mind's Eye,\" gained from her Liquor Jutsu: Strong Style, it was an ultimate skill no one could have performed before."
+    },
+    {
+        "type": "EV",
+        "info": [
+            "stv006b",
+            "NONE"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se091"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Pzzzz pzzzz!! Pzzz pzzz pzzzz!!*"
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se087"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Creak... creeeeeeeeak...!!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cancer",
+        "text": "!!??"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After a moment, leaking electricity started to shine intensely from the slash."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And at the same time\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Slowly, bit by bit... Cancer, which had been sliced in half all the way to the fabric of the space it occupied, slid apart and fell to the ground."
+    },
+    {
+        "type": "EV",
+        "info": [
+            "stv006c",
+            "NONE"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cancer",
+        "text": "\u30fc\u30fc\u30fc\u30fc\u30fc\u30fc\u30fc\u30fc!!?!!??"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "Hehe... a lowly robot can't defeat a swordfighter, not in a hundred years\u266a"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Meanwhile, the three of us were running toward the entrance of Yomihara\u30fc\u30fc\u30fc"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm313",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc121a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t002d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Uwaaaaaah!? H-Hey, Fuma, did you see that!? Sana-senpai is amazing!!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah... that's Liquor Jutsu! I didn't know she was a Liquor Art user!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We were shouting in astonishment as we sprinted toward the gate to Yomihara."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sana-san's swordsmanship had been almost frightening\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Even from our current position, quite a distance away, we were able to clearly see the multi-legged tank get sliced in two, erupt into a cloud of sparks and smoke, and collapse to the ground."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t002d",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "h_t002d",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "So Sana-san wasn't just drinking because she likes alcohol."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It seems like she does like drinking it though. Alright! We can't lose either!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "h_t002e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Yup! ...Fuma-chan, she's coming again!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se093"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*WOOOOOOOOOOSH!!!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We could feel a powerful rush of hot air from directly ahead of us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With both hands enveloped in flames, the female cyborg soldier Hestia was blocking our way."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m070a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hestia",
+        "text": "Hold yer darn horses, knuckleheads!! Didn't y'all's teachers say not to run in the hall?!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Luckily we're not at school!! \u30fcShikanosuke! Let's do the thing!!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t004f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "F-Fuma!? D-Do you mean... this!?"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se006"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "On my hand signal, Shikanosuke took out a shuriken and threw it."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m070a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hestia",
+        "text": "A shuriken~~~~!!? Something like that ain't gonna hurt me none!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hestia ignored the shuriken and charged at us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Her thick body was modified to resist heat and fire. Apparently she didn't think it necessary to dodge something as insignificant as Shikanosuke's shuriken."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(But that's just what we expected!!!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieeeee!! H-Here I go!!\u30fcElectric Jutsu: Spark!!!"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se014"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "800"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se037"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "CENTER",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Bzz bzzz\u30fcBOOOOOOOOOM!!!!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hestia",
+        "text": "!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Right in front of Hestia, a violent explosion\u30fc!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "I-I did it!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke had aimed his Spark at the shuriken he had thrown."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The shuriken was a custom-made product that I had asked the maintenance department of Gosha to create. It was able to work together with Shikanosuke's Ninja Art."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The design was simple. It was an explosive shuriken that was triggered only by Shikanosuke's static electricity."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Nicely done, Shikanosuke!! \u30fcHebiko, can you jump from here!!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "h_t005f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "No problem, Fuma-chan!! Guys, grab on!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke and I clung to Hebiko, who had already transformed into an octopus. And\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "\u30fc\u30fc\u30fc\u30fcOctopus Jump!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc121a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR37",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This was the jumping technique that she had used before when we had escaped in Maesaki City."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She leapt from the ground, using her octopus tentacles like a spring..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She jumped over Hestia, who had taken the full brunt of the explosive shuriken's blast, and headed toward the gate of Yomihara."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Running away is our only choice here!!!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A Taimanin avoids unnecessary fights."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That was an ironclad rule for a successful mission."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If we were able to escape into Yomihara, the cyborg woman and the UFS soldiers wouldn't be able to come after us easily."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That was also why..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hestia didn't give up easily either."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m070a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hestia",
+        "text": "Hahaha, this commotion's just what the doctor ordered!! The crick in my shoulder's done healed itself!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Ugh!? She's a monster!!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hestia leapt out of the blast with ease and came after us in hot pursuit."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The explosive shuriken was supposed to have quite a bit of power when it hit directly, but all it did was put a few cracks in her cyborg body."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She shot flames from her hands and came flying after us with frightening speed, like a jet."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieeeeeee!! Fuma, she's right behiiiiiind!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "\u30fcHebiko!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "This is as fast as Hebiko can go! Hebiko is jumping with you guys on board, remember?!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Then we have no choice!! Let's fight!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke & Hebiko",
+        "text": "Got it!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(...But how!?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In front of Hebiko and Shikanosuke I put on a composed look and gave the order to change the strategy."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But on the inside I was flustered and shaking."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(How are we going to fight against that monstrous cyborg...!?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Even Shikanosuke's explosive shuriken, that we had specially prepared for this day, could only make some cracks in her armor\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hestia",
+        "text": "Y'all best be ready!!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The flame-wielding brute approached, and at that moment\u30fc\u30fc\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hestia",
+        "text": "Huh!? What's this now!??"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Suddenly countless ivy plants sprouted from the ground."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In the blink of an eye, they extended upwards, tangled around the flying Hestia, and dragged her down\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hestia",
+        "text": "What in tarnation!!?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se005"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*CRAAAAAAAAASH!!!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hestia had lost her balance while flying and crashed into the ground, sending up a heavy cloud of dust."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Okay everyone, now!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Y-Yeah!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(That voice\u30fc!??)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Prompted by the somewhat familiar voice, we ran toward the gate to Yomihara."
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "..."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc122a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm608",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yomihara, the Underground City\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We had barely survived Hestia's pursuit and somehow made it to this plaza."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It truly had been touch and go."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If those ivy plants hadn't helped us right before we got to the gate..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "...we most likely would have been burnt to a crisp by Hestia's flames."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Those ivy plants\u30fc)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Our savior had joined us on the other side of the gate and was now standing in front of us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Thank you. So you were the operative who had infiltrated before us\u30fc\u30fc\u30fcShizuru."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "chr_t0089a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kosaka Shizuru",
+        "text": "Like~I~said, it's Kosaka-sensei, alright? Long time no see, Fuma-kun\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kosaka Shizuru, an English teacher at Gosha Academy and the \"Flower Taimanin,\" smiled broadly."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

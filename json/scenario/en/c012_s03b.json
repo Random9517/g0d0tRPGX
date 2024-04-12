@@ -1,0 +1,661 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc035a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm408",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me (Kirara)",
+        "text": "Hyaaaa!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m082a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se086"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gargoyle",
+        "text": "HROOOOAGH!!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se039_01"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Crack crack\u30fc!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The demonic creatures that had been frozen by the ice claws shattered with a satisfying sound."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Using her outstanding physical abilities, Onizaki Kirara slaughtered the demonic creatures one after another."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Yeah\u30fc!! I can fight by myself without having to listen to the orders of a guy like that!!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The underclassman accompanying me\u30fcFuma Kotaro."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He had been complaining about something, but I wasn't going to listen to him."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Because I was overwhelmingly stronger\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Who could trust a guy like him, who was out of breath from defeating a single Will-o'-wisp?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(And yet, Asagi-sensei\u30fc)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That's right\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When appointing me to this mission, Igawa Asagi had told me..."
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc006a",
+            "IN",
+            "3000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "a_t001c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "I've heard about you and your mother's past."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "I think it was a terribly heartbreaking event, and I completely understand your rejection of men. However\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "It's not good for you to be hung up on that forever either."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "a_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "\u30fcSo for your next mission, try to cooperate with him."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "He's a trustworthy young man."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Perhaps interacting with him can be the catalyst for letting go of your past\u30fc"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc035a",
+            "IN",
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "(\u30fcSo she wants me to rely on that sort of guy?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "(Even if it's Asagi-sensei saying it, I can't go along with that!!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was rebelling precisely because I had been told to do it like that."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had snapped at him\u30fcat Fuma Kotaro\u30fcfor no reason, made fun of him, and tried to think of him as insignificant."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It didn't matter what Headmistress Asagi had said."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Men were all the same."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "They were all \"enemies\" not worthy of trust\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "(Y-Yeah...!! I can't trust any man!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "(Trust them and I'll end up like mom...!!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "For a short moment in the fight, I lost my composure. And then\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There was someone who didn't fail to notice that opening."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Fuma Kotaro",
+        "text": "Kirara-senpai!? Look out\u30fc!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "!!?"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc035a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm313",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me (Kotaro)",
+        "text": "Kirara-senpai!? Look out\u30fc!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I shouted as I fought back against the demonic creatures."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "For some reason, Kirara-senpai's movements had faltered for a moment\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The ground swelled up at her feet and an enormous, muscular man appeared."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m083a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "GUHUHUHUH!! Your defense is porous, little lady!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(I knew he was close by!!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This was the role that the Shadows had played during the \"Crossroad of Confusion.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The person controlling the horde of demonic creatures had been waiting for an opening to strike."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "kr_t003b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Ugh!? Wh-What's with this guy\u30fc!?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se080"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Whack!!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Oohh\u30fc!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kirara-senpai's reaction time was godlike."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She had avoided an attack in her blind spot which would normally have been impossible to dodge, and immediately got in a counterattack."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However\u30fc"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Ehhh!!? What is this!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Pierced by her icy claws, the large man's body dissolved into a muddy substance, becoming a mere lump of earth and tumbling in a heap. And then\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "GUHUHUH, too bad, little lady. That wasn't the right me\u30fc!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Once again, the man emerged behind her unguarded back and unleashed a powerful blow with his stout arm\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se001"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The gigantic, musclebound fist sunk into Kirara-senpai's midsection."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se010"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Arrrrrghhhhhh!!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "K-Kirara-senpai!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She was slammed against the wall and immediately flopped to the ground awkwardly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kirara-senpai's pretty face was contorted in pain and she coughed up a huge amount of blood."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Argh!! U-Urgh... y-you..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m083a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Well then, little lady, it's time for the denouement\u30fc!!!"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The massive man leapt toward the fallen, unmoving Kirara-senpai."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

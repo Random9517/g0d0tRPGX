@@ -1,0 +1,298 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm314",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc113b",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ak_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "You're so late I thought you had died."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Akitsu... Then where's Rinka-senpai!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Rinka-senpai should have been holding back Akitsu and Asuka, who were after us at the behest of the masked woman."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "Those two monsters are getting along well with each other. The Steel Reaper and the Demon Fist Taimanin, I mean."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I-I see..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I sighed with relief."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "And you... It's not like you came here to help us, did you?"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "Of course not! We're enemies right now!"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se040"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Swish!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Akitsu readied her six short swords, two in her own hands, and four held by the \"Magick Gear\" on her back."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "Magick Gear Hexa-Blade Style!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se098"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Dammit...!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "Let go of the girl! Or I won't hesitate to slice you up too!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Too...? Right, she's only after Saya.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This time it was Hebiko who stepped in front of me."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Fuma-chan, Hebiko will stop her here."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hebiko?!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hehe, to be honest, Hebiko was quite moved by Shikanosuke-chan's courage. Hebiko can't lose to him!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "And now that Heberybody's decided to protect that girl, she needs to be protected no matter what!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Come on, go already!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hngh... alright, got it!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With me carrying Saya on my back, Hebiko would have to protect us as well and wouldn't be able to concentrate on the fight. Going ahead was the best choice\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se078"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With that in mind, I left Hebiko and Akitsu behind and sprinted down the mountain path."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

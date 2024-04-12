@@ -1,0 +1,1779 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm203",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc005a",
+            "IN",
+            "3000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Anyway, everything was futile if I had no clue what was going on."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I brought Asuka with me, as she seemed to know something, and snuck out of class."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "as_t005c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "Ahem, let's see... Where should I start...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In the empty hallway of the practical training building, Asuka was tilting her head like she was at a loss."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What the heck, you show up and deliver such a suggestive line, it turns out you don't actually know anything?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "as_t005f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "That's not it! It's just that... things are a little complicated, so it's hard to explain."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Complicated...? Well, that's for sure, what with all the puzzling feelings from having these other memories in my head..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "as_t005c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "Yes, that's it\u30fcdifferent memories. You noticed it as well, didn't you? How this world isn't normal."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah, somehow\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I nodded."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "People were fawning over me and I had been able to give the always-belligerent Gaiza a beating."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It had honestly been a great feeling... but it definitely hadn't been the reality I knew."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "It's a Ninja Art of a woman called the \"Phantom Witch.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "\"Witch\"...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "Yes. A Taimanin who is called a \"Witch\"\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "I'll spare you the details since it doesn't directly relate to the current situation and it would take a while."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Okay. Got it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A Taimanin opposed us and used her Ninja Art...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That fact bothered me a little, but for now I decided to continue listening to what she had to say."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "As you noticed, this world is not the world we know."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "Her Ninja Art reflects the desires and fantasies of the target, creating an illusionary world so to speak\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "Which means, this world is the realization of your desires and fantasies."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "The realization of my desires and fantasies...? What are you talking abo-..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And just when I was about to ask for more details..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "as_t005c",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Ahh, Fuma!! That's where you were!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huh?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mizuki Yukikaze",
+        "text": "What are you doing, skipping class in place like this!? I came looking for you since I heard you left during class!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was my classmate and my arch enemy, Mizuki Yukikaze."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "N-No, I just... I just had something to take care of..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I ended up stumbling over my words at her unexpected appearance."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Huh? Something to take care of?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I-It's just\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(This is bad... It's gonna get tricky if she tattles on me to the teachers.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "While I was mulling that over, Yukikaze turned her fierce gaze upon Asuka and stared at her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "And who is this? Someone from another school? Why are you two sneaking around here?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "yu_t001f",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "as_t005d",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "Eh!? Me!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Yes. Who are you? Why is someone from a different school here?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "You weren't gonna do anything strange with him, were you?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Since she wasn't a student at Gosha Academy, I suppose it should have been obvious, but the uniform Asuka was wearing was one I had never seen before, belonging to a different school."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "No, ummm... I'm a... transfer student?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "A transfer student...?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "as_t005a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "Y-Yes! I got a bit lost... so I was asking him where the staffroom is... ehehe."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Nice, that's a good cover story!!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This could also be wrangled into an excuse for why I had left in the middle of class."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Hmmm, so that's what it was...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze nodded like she understood, but glared at Asuka with a slightly suspicious look."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "yu_t001f",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "as_t005a",
+            "RIGHT",
+            "CENTER",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(However... Hey, Asuka, is this really also an illusion...!?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I whispered to Asuka standing next to me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Her face, her voice, no matter how you look at her, she's the real Mizuki Yukikaze...)"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "as_t005e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "(It's an illusion. She looks real to you because your mind is projecting her exactly how you remember her.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Is that how it works...?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "(Well, her faults will show soon, just wait and see.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "(No matter how sophisticated it is, it's still just a reproduction born from your fantasies\u30fc)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(From my fantasies...?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "(Yes. What you wish for or want to do naturally shows up in their behavior.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As we whispered, Yukikaze's expression suddenly changed."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "as_t005e",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "yu_t001e",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "In that case it's fine!! More importantly... Hey, Fuma? You didn't forget what you promised me, did you...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Eh? What I promised you...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She looked like a maiden in love."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was strangely disturbing to see how she instantly changed from her standoffish attitude to even showing a bashful smile."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "yu_t001b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Yes\u266a You promised we'd study together after school today, remember?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Study!? D-Did I...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "You did~ I said I'm having trouble with preparing for the finals and you said you'd help me since you're so smart..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Heh... hehe...? I said something like that...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Unfortunately, I had absolutely no such memory."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "yu_t001l",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Of course I'll show my appreciation. After studying, we will do this and that... just the two of us, like we always do... hehe\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Th-This and that...!? What do you...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Eh? You know\u30fcthis and that."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Oh, you silly goose. I can't say that in front of others now, can I?\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Y-You're right..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze didn't say it clearly, but she definitely implied something sexy."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "yu_t001l",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "as_t005f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "(You... what are you making the illusions do...?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(I-I don't know!! I don't remember!!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I hurriedly shook my head at Asuka, who was giving me a disturbed look."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "\u30fcI was horribly confused."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Were there illusions that I could remember and illusions that I couldn't remember?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Anyway, I had absolutely no memory of doing this and that after studying with Yukikaze."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, that wasn't the end of it."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "as_t005f",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "rn_t001f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akiyama Rinko",
+        "text": "Hold it right there, Yukikaze!! Fuma-kun already promised me today!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Hrm!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Another one!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Standing there was Akiyama Rinko, who was popular within the school because of her even-handed personality and exceptional beauty."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "rn_t001f",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "yu_t001f",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "What is it, Rinko? Do you have something to complain about?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Rinko had appeared suddenly and Yukikaze blocked her path, looking ready to throw down."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "rn_t001e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "Hmph. That's my line, Yukikaze\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Rinko-senpai strained a smile."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She appeared virtuous and elegant as always, but what she was saying was somewhat strange."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "Fuma-kun has plans to practice swordsmanship with me after school today."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "And now you come in after the fact... Really, could you please stop trying to steal him from me?"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "What did you say!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The two were exchanging stern glances."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "(...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "(You do stuff with this girl in your fantasies as well?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Nonononono!!! I don't know!! I don't know!!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was too painful watching Asuka's gaze getting colder and colder."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Anyway, I vigorously shook my head in denial."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And then, cruelly, it continued\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Igawa Sakura",
+        "text": "Wrong!! The one who is the thief is you, Rinko-chan!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yatsu Murasaki",
+        "text": "That's right!! He's supposed to do student council work with us after school!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Two voices suddenly rang out from behind us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Hrrrm!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "Who is it!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Again!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We all turned around and\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "yu_t001f",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "rn_t001e",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "sa_t004a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Hmhmmm\u266a It's the ever-intimate Sakura-sensei and\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "m_t006a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Murasaki",
+        "text": "Murasaki. As the student council advisor, I can't hand him over to you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Igawa Sakura-sensei and Yatsu Murasaki-sensei\u30fcThey were both beautiful teachers who were phenomenally popular amongst the students."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "m_t006a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "sa_t004a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "yu_t001d",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Wh-What!? I don't understand why you teachers are here all of a sudden!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze was the first to jump down the throats of the sudden intruders."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "rn_t001f",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "R-Right!! His plans are settled!?\u30fcThis is unbelievable!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "Just deciding my little brother's plans on your own, that's unbecoming of a teacher!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Wait, Rinko-chan. He's not your brother, you know."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sakura-sensei incisively shot back at Rinko-senpai's mysterious remark."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "yu_t001d",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "rn_t001f",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "m_t006a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "sa_t004a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Anyway, Fuma-kun has to go with us for student council work.\u30fcRight, Murasaki?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Murasaki",
+        "text": "Indeed. I'm sorry, you two, but this is a sacred duty that benefits the whole academy. It's absolutely not something that can be neglected for personal reasons."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Murasaki-sensei said in an attempt to make them understand."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Her tone was calm and what she said made sense."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Hrm..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "B-But..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was enough to silence even Yukikaze and Rinko-senpai, as they had nothing to say in return."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Hey, Murasaki? Who's going to do today's \"adult lesson\" first?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "There's a fetish that I want to teach Fuma-kun about~\u266a"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Murasaki",
+        "text": "N-Nitwit!! Don't say that now, Sakura!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "m_t006a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "sa_t004a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "yu_t001f",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "rn_t001f",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze & Rinko",
+        "text": "!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "What do you mean by \"adult lesson!?\" Murasaki-sensei, are you teaching him something naughty!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Murasaki",
+        "text": "N-No, we would never..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Now Murasaki-sensei was faltering under their verbal counterattack."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "It's nothing particularly naughty. And Fuma-kun likes it\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Murasaki",
+        "text": "Y-You nitwit!! Sakura!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "What... depravity!! I can't leave him with you perverted teachers. I'm definitely taking my little brother with me!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "yu_t001f",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "rn_t001f",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was an shocking sight."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Four beautiful women were having an intense dispute over me\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asuka's gaze, of course, was colder than cold."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "as_t005e",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "(Haah... Why don't you just go with them? I've lost any interest in helping you.)"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(I <i>told</i> you, I don't know anything about thiiiiiiiiiiiiis!!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I became more and more confused due to the sheer ridiculousness of the situation."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "as_t005e",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, once more, over there\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hm? What's that...?"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Rumble rumble rumble rumble*\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There was the earth-shaking sound of footsteps coming from down the hallway."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "yu_t001e",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "rn_t001f",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "Tch! They sniffed us out!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "They!? Who are they!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The rumbling footsteps were coming from an all-female crowd of Gosha Academy students."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And they were all screaming \"Fuma-senpai!!\" or \"Master!!\" in shrill voices."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "You know them, right? They're the \"Fuma-kun Groupies.\""
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huuuuh!? My groupies!?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "yu_t001e",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "rn_t001f",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "m_t006a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "sa_t004a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Uh~oh, it's a tough opponent, huh~"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Murasaki",
+        "text": "Yeah. They're crazy girls that are so in love with Fuma-kun that they would even sacrifice their lives for him. We can't let our guards down..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sakura-sensei and Murasaki-sensei nodded at each other with grim faces."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What the hell!? What the heeeeeell?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "m_t006a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "sa_t004a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I didn't understand at all."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was panicking because I was so confused."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "as_t005f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm207",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "Ah~ I can't deal with this anymore!! We can't even talk with these people around!! Let's get out of here!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "R-Right...!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asuka grabbed my hand and tried to escape in the opposite direction from the \"groupies.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, the girls didn't fail to notice."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "as_t005f",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "yu_t001f",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "rn_t001f",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Wait, you!! Where do you think you're going!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "Fuma-kun, who is that girl!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Female Students",
+        "text": "\"\u25aa Fuma-senpai~!!\n\u25aa Kyaaaa~!!\n\u25aa Wait for us~!!\""
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Rumble rumble rumble rumble*\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The mad screams of the girls mixed with the sound of countless footsteps."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "yu_t001f",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "rn_t001f",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Uaaaaahhh!! Gimme a breeeeeeeeeeeak!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I didn't know what was going on, but I was sure I wouldn't get out easily if they caught me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Driven by a primal fear, I ran away from the girls as fast as I could."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

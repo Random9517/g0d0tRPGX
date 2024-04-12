@@ -1,0 +1,1786 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc096a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm312",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Tokyo Kingdom, in a district under the control of the Fuma Ninja Troops."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In an empty nightclub before business hours, several ninja had gathered in the luxurious VIP room that was hidden in the back."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t002d",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "tk_t001a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Nisha Gaiza",
+        "text": "What!? Is that true, Tsubaki?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "Why would I lie? The man you said you had cut down\u30fcDiot-dono\u30fcis still alive and well."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t002i",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "He is...? That can't be..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The man frowning and groaning was Nisha Gaiza, the leader of the Newly Born Fuma Ninja Troops who had broken away from the Taimanin of Gosha."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was a few days after the Zombie gas attack on the criminal organization \"Dragon Gate.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Nomad had given Gaiza control of this district, originally ruled by Dragon Gate, as compensation for the attack, and he had turned this club in the center of the district into a makeshift hideout."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "o_t001c",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m056a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Dobashi Gonza",
+        "text": "No, but...? Master said he had definitely cut down that incompetent fool...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yao Bikuni",
+        "text": "Yes. I beheld with mine own eyes his heart, pierced by the blade. I cannot fathom that he yet liveth after such a thing..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "tk_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "It doesn't matter what you say. I just gathered the information."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "There was a big commotion around Gosha about Diot-dono \"coming back to life.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "Anyway, if you don't believe me, you can just go see for yourselves."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The mercenary Tsubaki replied with a bitter smile to the words of Gonza and Yao Bikuni, underbosses of the Nisha Clan."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Currently, Gaiza and his followers were concentrating their efforts on seizing control of their newly acquired district."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That was why the mercenary Tsubaki had accepted this request to obtain information from the outside as a spy."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t002a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "...No, there's no need for that. Information gathered by you is surely genuine. So he is alive... but how the hell...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Gaiza gave a solemn nod and thought deeply."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He was sure that he had stabbed Fuma Kotaro through the heart\u30fcas sure as the feeling lingering in his hand."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It couldn't have been an illusion or a misunderstanding though...?"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "o_t001a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m056a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "Haha, then it's simple! If he's not dead yet, we just need to kill him however many times it takes!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "Master! Give me, Gonza, the order once again to eliminate him\u30fc!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yao Bikuni",
+        "text": "Ohoh? It is rare, but Gonza said something with which I can concur."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "o_t001c",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "Huh? What are you blathering about, Bikuni hag!? I'm a man who only says things that are correct!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yao Bikuni",
+        "text": "O-Hoho, how pleasant my life might be were it so. \u30fcEven so, Master. I am of the same mind."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yao Bikuni",
+        "text": "He is the leader of the Fuma head family, even if he is inept and the title is of no substance. \u30fcIf thou let him be, he would become a hindrance to thy supremacy, Master."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Yes. I know that, but... now is not the time."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "...What do you mean?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t002a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "It's certainly unsettling to hear that he's still alive... but we have other things to do right now."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Gaiza nodded calmly toward his underbosses, seated in a row."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "We've got too many enemies right now. Dragon Gate, the UFS, and the Taimanin of Gosha\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "This is <i>our territory</i> that we worked so hard seize. We have to solidify our position, so that they can't touch us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yao Bikuni",
+        "text": "I see. Firstly we shall establish our footing\u30fcto put it another way."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Even though the <i>territory</i> had been acquired through a secret deal with Nomad, it was not perfectly under control yet."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There were frequent riots in the district, and there were signs that Dragon Gate and UFS agents were working in the dark."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Gonza, Yao Bikuni. I want you each to lead your troops and\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "And slaughter everyone with my spear...\u30fcRight?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Gonza grinned and stroked the spear he was so proud of."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t002b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Hehe, no, no. Meet with the influential people of the gambling dens and brothels in the district and make them pledge their loyalty to us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "I don't care if they only pretend to for now. Every organization needs underlings. But don't show any mercy to those who disobey you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "As you command!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Bikuni, I want you to set up a network to keep an eye on all influential people around here. Sort them into those we can use and those we can't."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yao Bikuni",
+        "text": "Yes, Master\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t002e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Then go!! I expect results!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As Yao Bikuni and Gonza respectfully nodded and walked out after receiving their orders, Gaiza turned toward Tsubaki."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t002b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "And\u30fcTsubaki, I need you to do me a favor as well."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t002b",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "tk_t001a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "Oh? Is there another job you have for me?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "There's still a lot of work to do. A mercenary I can put to use is essential\u30fcYour next job is related to the UFS."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "The UFS?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Yes. It's not beneficial to continue fighting them at our current strength."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Try to make contact with an executive of the UFS in secret. I want to negotiate a reasonable compromise with them."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "Another rough job. Alright, I got it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Tsubaki shrugged, nodded, and left the room."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t002b",
+            "LEFT",
+            "CENTER",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "And regarding the \"Diot\"\u30fcregarding Fuma Kotaro."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Gaiza's eyes turned towards another underboss of the Nisha Clan who had remained in the room."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "\u30fcShonosuke, I think you're the right man for that job."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m063a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaku Shonosuke",
+        "text": "Yes, Master."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The tall man, who had remained silent so far, nodded in affirmation."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "If he's... if he's really alive, dispose of him. Can you do that?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "...Leave it to me, Master. I, Gaku Shonosuke, will give it my all."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc097a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm509",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shin-Minato District, in a red-light district."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shin-Minato District was a newly developed area off the east coast of Ota Ward, and had been built on land reclaimed from the sea during the Second Urban Center Project that also included Tokyo Kingdom."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It had a huge cluster of skyscrapers, with businesses mainly focused on foreign capital, and a large downtown area where underground organizations were ruthlessly competing with each other."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And on the outskirts of this downtown area in Shin-Minato District, along a cluttered back alley lined with iffy shops\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was walking alone while muttering."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That bossy old dude... even though I'm still recovering."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The \"bossy old dude\" I was referring to was the demonologist Kiryu Sabato, whom I had briefly interacted with on a previous mission."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After being fiercely reprimanded by Murasaki-sensei for running away without permission,"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "at present, Kiryu seemed to have returned to holing up in his basement laboratory in the academy to continue his shady research."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And the reason why I was complaining about Kiryu was\u30fc"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc099a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "ki_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kiryu Sabato",
+        "text": "What!!? You want to ask me for help!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yes... May I please ask for your help, Kiryu-sensei?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was about the incident earlier where I had come back to life."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I didn't have the slightest idea what the reason had been and, grasping for straws, I had come to ask this man to examine me."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "ki_t001b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sabato",
+        "text": "Huhahahahaha! You stupid kid! Why do <i>I</i> have to listen to a god damn brat like you!??"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sabato",
+        "text": "Get out, get out!! You little jerkoff... Is what I want to say, but yeah."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "ki_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sabato",
+        "text": "Actually, I am being threatened by my beloved Murasaki, that if I don't help you, dipshit, she'll never speak to me again for the rest of my life."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "ki_t001f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sabato",
+        "text": "If it were temporary, then it would be like a reward to me, but if it's for the rest of my life, then that would be a bit tough, even for me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Uh-huh..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "ki_t001b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sabato",
+        "text": "\u30fcSo I have no choice!! I'm gonna examine you!! But I also take pride in the fact that I don't work for free."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "ki_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sabato",
+        "text": "Let me see... Guess I'll have you run one or two small errands for me!!!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc097a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "...And these circumstances, which I couldn't fully comprehend, were how I had ended up running an errand for Kiryu-sensei."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Well, the errand itself isn't that big of a deal. If I'll be able to understand what happened, then it's a small price to pay...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had fought Gaiza and been stabbed through the heart."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Normally it would be absolutely impossible, coming back to life after having your heart totally destroyed\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Hebiko and Shikanosuke were happy though, talking about how \"maybe he finally awakened to his Ninja Art!\"...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It wasn't as if there weren't similar techniques, such as Murasaki-sensei's Ninja Art \"Immortal Awakening.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, not knowing the reason left me uncomfortable."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Well, even though he has a personality like that, he certainly seems skilled, so I'll put my hopes on Kiryu-sensei's examination\u30fc)"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc100a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ah, this must be the store. Excus\u30fc"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "You can't come in here!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huh...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As I walked into the store I had come to visit, I suddenly heard that voice."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And in front of my wide-open eyes\u30fc"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm304",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "7",
+            "ts_m064a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "GRR-ROOOOOOOOOOOOOGH!!!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Whoa!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Wh-What's going on!? A monster\u30fc!?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I quickly rolled to the floor and avoided the incoming attack."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "GRR-ROOOOOOOOOOOGH!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The monster changed direction in midair and doggedly chased after me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "R-Really!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And I dodged its attack once again. Even while rolling on the floor, I stared at the monster in order to understand the situation\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I-Is that a... \"Will-o'-wisp\"!? Why is it in a place like this!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was a monster I had seen in a book of documents."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "They were called \"Will-o'-wisps,\" the souls of animals that had been turned undead by the miasma of the Devildom."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "They were usually controlled by witches and the like, and were sometimes used as tools for curses and attacks."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Several of those Will-o'-wisps surrounded me and attacked."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Will-o'-wisp",
+        "text": "GRR-ROOOOOOOOOOOOOOGH!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Whoaaa!? S-S-Stop it all of you, even if you eat me, I'm not that tasty\u30fc"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "7",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "6",
+            "chr_t0077a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "See!! That's why I told you not to come in!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At that moment, a brilliant sword strike flashed through the air\u30fc"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "6",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "ef009b",
+            "NONE"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se011"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Will-o'-wisp",
+        "text": "GRR-ROOGH!? GRR-ROOOOOOGH!!?"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc100a",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...Ugh!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "6",
+            "chr_t0077a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The owner of the voice from earlier\u30fca masked girl\u30fcwas swinging a smallish blade."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "One by one, the Will-o'-wisps were cut down and fell to the floor."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "This sword style\u30fcthat's the Ace Katana Style!? Are you a Taimanin?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Ace Katana Style was a Taima Sword Art that Akiyama Rinko-senpai also used, which had been passed down for ages."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That meant this masked girl was also\u30fc?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Girl",
+        "text": "You were able to tell from how I use my blade? Not bad."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The girl, who had eliminated the group of Will-o'-wisps, let out a chuckle."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But with no time to relax, countless Will-o'-wisps were spawning all over the store again."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Woaah!? Again\u30fc!?"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "6",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "7",
+            "ts_m064a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Girl",
+        "text": "Yes. They've kept at it since a while ago. There's no end."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "7",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "6",
+            "chr_t0077a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What... Don't tell me you stole something!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had heard that these days an increasing number of stores in shady cities were setting up magical traps to stop thieves coming from the Devildom."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Were these Will-o'-wisps also one of those traps?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Girl",
+        "text": "Of course I didn't!! I don't get it either!! As I entered the store, they suddenly began to attack me!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Is that so...?"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "6",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(If that's true, then where the hell are they coming from...?)"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "7",
+            "ts_m064a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Will-o'-wisp",
+        "text": "GRR-ROOOOOOOOOOOGH!!!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "7",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Oohh!? Here they come again!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Girl",
+        "text": "Pfff\u30fc"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "500"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "ef009b",
+            "NONE"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se011"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Once again, her brilliant sword strikes cut down the Will-'o-wisps."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc100a",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "6",
+            "chr_t0077a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Even to untrained eyes, the masked girl was a fighter of considerable skill."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(She's not a student at Gosha Academy... is she? She's that strong, but I've never seen her before...)"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Girl",
+        "text": "Hey, what are you just standing around for!? You're also a Taimanin, aren't you!? At least fight a little bit!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I'd really love to, but unfortunately I'm more of a support specialist."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Girl",
+        "text": "What's up with that?!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The girl yelled in dismay and slashed through the Will-o'-wisps that had appeared again."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The fact that her strikes didn't slow down at all even while she was talking with me was truly amazing."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, the Will-o'-wisps continued spawning one after another. If this kept up, there would be no end to it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hey, listen to me. If this is some kind of magical trap\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Girl",
+        "text": "What!? If you can't fight, could you just shut up?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No, just listen to me for a second!! For a Will-o'-wisp trap, there needs to be something or someone nearby controlling them."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That's how sorcerers protect their house or treasures!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Girl",
+        "text": "!? How do you know something like that!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I've read about it in the archives of Gosha before!! There must be something controlling these demons somewhere nearby\u30fc"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "6",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As I looked around carefully, I noticed a ghost-like monster different from the Will-o'-wisps at the back of the store\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "8",
+            "ts_m065a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "..."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "\u30fcFound it!! Aim for that monster at the back!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Girl",
+        "text": "That thing? ...Got it!! I'll trust you for now!!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "8",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "7",
+            "ts_m064a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "7",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se011"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "700"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc100a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR01",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The masked girl quickly sliced through the Will-o'-wisps with her sword and leapt deeper into the store."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

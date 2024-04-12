@@ -1,0 +1,758 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc056a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm307",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(I'm done for... I made such a big show of saying that, but what do I do now?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Parting ways with Shikanosuke, I had returned home while worrying by myself."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Vindictive as those guys were, they would definitely try to start something with me again tomorrow."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(If I bought it for myself, I'd be found out right away in a small village like this.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Tokiko was also a teacher, so she had told me that she would treat me like any other student until I graduated from Gosha Academy."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Hmmmmmmm... I'm in deep shit, deep shit, I tell ya...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I'm home..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se052"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc081a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As I entered the house without a good plan having come to mind, I could smell the delicious aroma of coffee coming from the living room."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0076a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "t_t001a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Fuma Tokiko",
+        "text": "Welcome home, Master."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Fuma Saika",
+        "text": "Oh, Young Lord, welcome home. You don't look so well, did you catch a cold?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Saika!!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0076a",
+            "LEFT",
+            "CENTER",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was Fuma Saika."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She had worked as a secretary for my father, Fuma Danjo, but when he rebelled against Gosha, Saika had left his side, believing it wasn't in the clan's best interests."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After that, she served me in my role as the new head of the clan, mostly taking care of administrative tasks, such as managing the archives and the land of the Fuma Clan."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Maybe because she was keeping her distance from Tokiko, who was working as my butler, or maybe because she was busy with missions or her work, but she only occasionally came to this main residence."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But what I was more interested in right now was the heart-shaped box in her hand."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Saika, don't tell me that's...!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saika",
+        "text": "Yes, today is Valentine's Day\u266a So I wanted to give you some chocolate, Young Lord."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Oooooooohhh!! Thank you, Saika!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I hadn't expected my greatest predicament to be solved so easily. I looked up to the heavens and struck a triumphant pose."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saika",
+        "text": "To see you that pleased makes me happy as well."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But just as I was about to receive the chocolate from the happily smiling Saika\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0076a",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "t_t001c",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "Please wait a moment."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Wh-What's wrong, Tokiko?"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm203",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "Your scores from the test a few days ago, and also your lifestyle recently."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "250"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Gulp."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "t_t001e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "Did you think I didn't notice? How you played games at night after waiting for me to go to bed?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saika",
+        "text": "Oh my, you shouldn't do that, Young Lord. The New Year's holidays are already long over."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Uh, ughh..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Not good, a foreboding change in the winds swept by."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "t_t001l",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "I will be holding onto that chocolate until your grades and your lifestyle improve..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "N-No way!! Please, Tokiko!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Perhaps because she was unable to bear seeing the sadness on my face, Saika gently intervened."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saika",
+        "text": "Now now, Tokiko. I went through the trouble of preparing it."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "t_t001c",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "But..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saika",
+        "text": "Then how about rather than giving him the chocolate, I instead have him take it from me?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Take it from you...?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "t_t001a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "I see, that would be good, Saika."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The two women were smiling at each other, but I simply had an uneasy feeling."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saika",
+        "text": "I will go and hide, and if you manage to find me and take it, then this premium chocolate will be yours, Young Lord."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "On top of that, I will forget about your grades and also your lifestyle problems. So think of this as an additional exam."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ugh... Valentine's Day is tough for Taimanin..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc105a",
+            "IN",
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm502",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sheesh... This has turned into quite an ordeal."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was about ten minutes behind Saika."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was following her trail and found myself back near the academy."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Saika's trail leads... into the school?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(No, that trail is fake. Considering the fact that it cuts off here once, it's very possible that she headed toward the village outskirts instead...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And just as I was trying to figure out which way Saika went..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Fuma."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hm?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I heard a girl's voice from behind me and turned around somewhat expectantly."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m059a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Girl",
+        "text": "Good thing we found you. When you went home today, you spoke with Rinko-senpai, right?"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "? Eh??"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m059a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m059a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_FRONT",
+        "info": [
+            "0"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Before I knew it, I was surrounded by several female students. From classmates to upperclass students, there was some variety among them. What they had all in common was\u30fc"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ahhhh! You're those girls from Rinko-senpai's fan club...!"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm506",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko-sama Fan Club Member A",
+        "text": "What do you mean with \"those girls\"! More importantly, about what happened in the hallway today."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko-sama Fan Club Member B",
+        "text": "I don't think this is the case but... you're not going after Rinko-senpai, <i>right</i>?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huh!? We just said hi to each other..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko-sama Fan Club Member C",
+        "text": "We had all agreed to forbid making any moves on Valentine's Day, but now that's all for nothing because of you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko-sama Fan Club Member A",
+        "text": "And I mean, you've also been acting all buddy-buddy with Rinko-senpai lately, haven't you?"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huh!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(True, since that interdimensional incident she's been coming to ask how the young Sakura is doing, and it feels like we've gotten closer to each other, but still...)"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hey, hey, there's some misunderstanding. At the end of the day I think of Rinko-senpai as a senpai..."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm304",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko-sama Fan Club Member A",
+        "text": "No excuses!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko-sama Fan Club Member B",
+        "text": "We're not going to allow Rinko-senpai to be sullied by a man sidling up to her!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko-sama Fan Club Member A",
+        "text": "Everyone! Punish the filth that has been getting close to Rinko-senpai!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko-sama Fan Club Member C",
+        "text": "Scoundrels will be eliminated! For his punishment: Tear them off!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hey!? That's not nice!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It seemed that nothing I said was going to help. The girls were jealousy incarnate, and they lunged at me with their weapons in hand."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

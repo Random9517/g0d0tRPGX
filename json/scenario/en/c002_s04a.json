@@ -1,0 +1,737 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc017a",
+            "IN",
+            "3000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001c",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t005f",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm207",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Fuma-chan! Shikanosuke-chan! Hurry up!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The download had finished just in the nick of time, and we had been able to slip out of the room before the enemies came storming in."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "I was worried about what would happen if the exit was blocked..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Don't let your guard down yet, we have to get away from that room as quickly as possible."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After grabbing the data, all that was left was to escape. We were running full speed down the path we had previously come from."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Shikanosuke! The path ahead is clear, right?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "N-No!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "There's a horde of something non-human coming!!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t005e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Non-human!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "D-Dogs and... big bee-like things... What are those!?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t005e",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Here they come!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m029a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m011a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se043"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Whooaaa!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Oof!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Without so much as a bark or growl, the dogs and bees suddenly started raining bullets on us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Why is a dog shooting a machine gun?!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Those are no dogs! Those are UFS..."
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se043"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "I-Isn't this pretty bad?!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah, those are UFS combat drones. Verbal communication is out of the question here."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "What now!? Should Hebiko spray them with ink??"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No, unfortunately that's not going to work on drones."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "They don't use eyes, they have sensors to detect our positions. Just like Shikanosuke using his Electric Art as a sonar."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "So that means blinding them won't work..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "B-B-But you have another plan, right Fuma!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I never thought we'd have to fight drones. Sorry, but I don't have a plan."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "If you have no plan, then...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That means we turn around and run!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "250"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieeeee!"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se043"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I turned my back on the drones and started to sprint deeper into the building\u30fcmeaning the opposite direction from the entrance."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m029a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m011a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc019a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001g",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004c",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "D-Did we lose them...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I wasn't sure how far we had gone, fully absorbed in running away."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There was no sign of the drones, and our surroundings also looked quite different from before."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Where are we...? This area is clearly built differently from where we just came from.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hey, Fuma-chan?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What's up?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "There was only one entrance to this base, right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah, at least according to the floorplan."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001h",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Huhhh!? Th-Then why did we run in the opposite direction!? That means we went even further into the base!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It's not like we had a choice."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "That's truuuue, but... if we can't fight them and if there's also no way to get out... then that means this time it's all over for sure..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "We can't be certain that there's no way out. Take a look at this wall. It's built different from the area we just came from, right?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004c",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "You're right. Why do you think that is?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Unlike the well-maintained walls from before, the walls in this area had old rocks or bits of concrete jutting out of them, with cracks all over."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The floor was deteriorating as well, breaking apart and sinking down, making it extremely difficult to walk on."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "This must be an older area... probably one of the underground tunnels of the factory that used to be here originally."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The reason the drones weren't chasing us might also have been because the floorplan for this old area wasn't in their system and it was taking them longer to locate us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "S-, s-s-s-so what does that mean!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "This is an area that wasn't on the floorplan we received for the base. Which might mean that there's another way out."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004b",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "So there's still hope!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah, but it looks like they won't let us get away that easily."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The group of combat drones from earlier appeared in front of us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(It's not like they couldn't find us... they took longer because they went around to cut us off...!!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But that also gave us hope. The fact that they had cut us off meant that there really was another way out."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Looks like we're going to have to somehow fight our way through them."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "F-Fight our way through!? We'll be turned into swiss cheese if we try that in a narrow hallway like this!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Better be prepared to get shot. We just have to count on Hebiko's octopus tentacles."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Huh!? Hebiko!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko's tentacles were able to regenerate. They would grow back even after getting sliced off."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "W-Wait, you don't mean you're planning to use Hebiko's tentacles as a shield to break through the drone siege...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Bingo."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004f",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "What a horrible way to treat a delicate lady's legs!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That's the only option we have right now."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "...C'mon! They do heal quickly but it still hurts, you know!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko continued complaining but quickly raised her tentacles and created a shield in front of us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "We owe you! Alright, let's push through them!!"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1500"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004e",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1500"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

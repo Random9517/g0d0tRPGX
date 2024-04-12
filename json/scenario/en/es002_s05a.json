@@ -1,0 +1,598 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm506",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc035a",
+            "IN",
+            "3000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As it had been in the haunted castle incident\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It seemed that the \"fantasy worlds\" were also designed to make you get lost if you moved more than a certain distance."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That meant that even if those who were trapped tried to get out of their \"world,\" they would end up marching in circles, never able to escape."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, if you had Shikanosuke's sonar, the situation was completely different."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Whenever his electric waves reflected off of something abnormal, we would go in that direction."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And there we would then find somebody else's \"fantasy world\"\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In this way, we crossed and broke through fantasy world after fantasy world."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001g",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "as_t005h",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Um, how do I put it... I'm kind of... really exhausted..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "Y-Yeah, I'm tired... more mentally than physically..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asuka and Shikanosuke were walking with defeated looks on their faces."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We had crossed through several \"fantasy worlds\" and were now walking through something like a dimly lit cave."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Well, it's understandable after having been shown so many \"fantasies\"..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I felt the same as those two."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We had broken through at least 20 \"fantasy worlds\" before we had arrived at this cave."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In other words, we had witnessed 20 people's \"fantasies\"\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "It was nothing but super fetishy stuff... I suppose people in the UFS have quite a bit of \"this and that\" saved up, huh...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Don't be so tough on them. They must have it hard as well..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Maybe it was because of the stress of this harsh mission."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But all their \"fantasies\" had been going in odd directions and made us deeply discouraged as we passed by them."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "Really... men are animals..."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Why do you keep looking at me!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I wanted to insist that I wasn't that depraved\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But when I thought about it calmly, it seemed like six of one, half a dozen of the other, and so I dropped it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "Anyways, how many do we have left? I don't want to see any more of this."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001g",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "as_t005h",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "si_t003a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Hehe. You don't have to worry about that, there's no need to walk anymore."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "Who's there!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was but an instant, without us noticing anything."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Suddenly this woman had appeared in front of us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Hehe. Good day to you, my adorable children\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The woman gave off an alluring and enthralling aura."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She was extraordinarily attractive, but there was also the sense of bottomless danger that once you fell for her, you would never again be able to leave her side."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieeeeeeeeeeeee!? Th-This woman...!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Fuma, that's her!! The super beautiful ghost that I saw in the castle back then!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "What Shikanosuke meant by \"back then\" must be the haunted castle incident."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Then that meant...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Witch",
+        "text": "Hehe\u266a You're right. Which would make me the \"witch\" you're looking for, right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As expected, this woman was who we had been searching for, the cause of this incident."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The \"Phantom Witch\" who had locked us in those illusionary worlds\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You coming all the way here to welcome us must mean that the \"Gate to the Devildom\" is ahead, isn't it?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Witch",
+        "text": "Yes, that is correct. If you go straight ahead from here, you'll find the \"Gate to the Devildom\"\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Witch",
+        "text": "And that's why I'm very distressed. Because you all have been barging through as you please and come this close\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The witch stared at us and smiled charmingly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Witch",
+        "text": "So, sweethearts? Be nice and turn back, please...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After all this, she wanted us to back off\u30fc?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Witch",
+        "text": "If you turn back, I'll create a wonderful \"dream\" for you, exactly how you desire it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Witch",
+        "text": "A really wonderful \"dream,\" even better than the one you had before\u30fcHehe. It's not a bad deal, don't you think?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "To be sure, it was quite a tempting proposition."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A world where everything you desired would be fulfilled, just like the UFS guys had been experiencing, really seemed like paradise."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No, thank you. No matter how happy I might be, I don't want a fake."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I decisively brushed aside the witch's temptations."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I only wanted the real thing\u30fcand only if I earned it with my own effort."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "si_t003a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "as_t005d",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "Oh hooo\u30fcBut is that really what you think...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Hmmm? I kinda want it though..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hey, guys...? You're ruining my cool moment."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asuka doubted my answer and Shikanosuke seemed to be reluctant to give up his \"dream.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Honestly, these guys had no sense of tension."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm320",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "as_t005d",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "si_t003a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Witch",
+        "text": "Oh my, oh my? ...But I expected you to say that\u266a So I'm going to use force, just as planned."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Suddenly, the dangerous aura surrounding the witch swelled."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asuka, perhaps sensing that she was up against an opponent who demanded full attention, took off her uniform and got ready for battle."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "si_t003a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "as_t002f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "Alright, this is it!!! Be careful, both of you\u30fc!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Witch",
+        "text": "\u30fcNow, let's begin. Make sure to entertain me, sweethearts\u266a"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "as_t002f",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

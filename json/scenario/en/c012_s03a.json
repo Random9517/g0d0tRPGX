@@ -1,0 +1,515 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm509",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc035a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kr_t001g",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Wh-What's going on here...? We were in a subway tunnel until a second ago..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "B-Beats me..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kirara-senpai and I looked at each other, completely unable to understand what was going on."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Until just a few moments earlier, we had definitely been running through a subway tunnel."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But\u2015that tunnel had vanished in an instant, and now we were somewhere that looked like a cave."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Naturally, even when we looked back, the tunnel we had been running through before was nowhere to be seen."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There was only a strange cave that seemed to go on forever."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(But wait\u2015I remember this feeling!!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had been in a similar situation just recently."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In fact, the possibility of it had occurred to me after seeing us get teleported from the warehouse, as well as the endlessly appearing hordes of demonic creatures."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(No doubt about it. That means that this space is\u2015)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Then\u2015"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm207",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m064a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m082a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se086"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Demonic Creature",
+        "text": "HROOOOOOAGH!!!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Again!? How far are they going to follow us!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The space around us became distorted and a large number of demonic creatures sprang out."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But this was also a phenomenon I had seen before."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kr_t003a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Aaah, so frustrating!! I'm going to send every single one of them flying right here!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "\u2015Wait a second!! Fighting these guys is pointless!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kr_t001f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Huh!? What do you mean \"pointless\"!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I held back Kirara-senpai, who was about to engage the demonic creatures in battle."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kr_t001c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kirara-senpai could not seem to hide her irritation at the endlessly appearing hordes of demonic creatures\u2015"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But that was exactly what the \"practitioner\" who had set this spell was aiming for."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "This is probably a magic trap!! It's pointless if we don't take down the person who set it!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was probably a trap similar to the \"Crossroad of Confusion\" that I had encountered in the black market broker's store."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A magically sealed space and endlessly appearing demonic creatures\u2015"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If that was the case, then first we needed to look for the one who was controlling this horde of demonic creatures."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "We have to find the person who set this trap while keeping the demonic creatures in check! Listen here!! From now on, follow my instructions and..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kr_t001f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Huh!? No way! Who's gonna follow your instructions!?"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Eehh!!?"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Th-This was way too different from what I was used to..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If it were Hebiko and Shikanosuke, they would have readily agreed to go along with my plan..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m082a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se086"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gargoyle",
+        "text": "HROOOOOAGH!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Whoa!? Watch out!!"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se006"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I raised my ninjato just in time and repelled the demonic creature's attack."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The circle of the creatures around us was getting smaller and smaller, and we had no more time left to spare."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "S-See!? This is not the time to be arguing!!! Please listen to what I say!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kr_t001f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "No!! Absolutely not!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Why!? And for starters, why do you hate the very sight of me!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Th-That's... because I don't like what I don't like!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kr_t003b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "I can't tolerate listening to a man!!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ah!? Kirara-senpai\u2015"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Ignoring my attempts to stop her, Kirara-senpai rushed into battle."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

@@ -1,0 +1,829 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm304",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Haaah!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "ef004a",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se006"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "My ninjato flashed through the air."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Demon Mercenary",
+        "text": "Arrrgh!"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se023"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "One bodyguard down."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "ef004c",
+            "NONE"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se006"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Slash!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Demon Mercenary",
+        "text": "Ugggh!!"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se023"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And then another."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But it didn't take their lives. The strikes were with the back of the blade."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If I killed them it would only have come back to bite me later."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc062a",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m023a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Demon Mercenary",
+        "text": "This brat kinda knows how to fight!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Well, kind of."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At Gosha Academy, I was pretty much bottom tier in terms of fighting power."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, I had overcome a lot of difficulties, and had repeatedly trained with Shikanosuke."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And before I knew it, my name had become widely known as the captain of the Independent Commando Unit."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Being outnumbered was something I had gotten fairly used to."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m043a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "High Orc",
+        "text": "Guys! Don't let your guard down!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I mean, I wouldn't mind if you let it down a little... Whoa!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "ef004a",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se098"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Slash! Slash!!*"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se024"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Demon Mercenary",
+        "text": "Geh!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Demon Mercenary",
+        "text": "Urrrrgh!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Three... and then four. Okay."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc062a",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Being alone had its advantages. Without having to worry about friendly fire, I could stealthily strike down some enemies from blind spots that I created by using other enemies as walls to hide myself."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Doing so, I was able to defeat five, even six of these guys."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I wanted to give myself a good pat on the back for that."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m043a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m023a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Demon Mercenary",
+        "text": "Hey!! What the fuck is taking you so long!? He's just a kid!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Demon Mercenary",
+        "text": "Surround him and beat the shit out of him!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Ah\uff5e\uff5e, well that's not good.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It seemed like my number was up."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "About twice as many as the six I had already downed came out as reinforcements. I had no choice but to go completely on the defensive."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And on top of that, the ones who had just arrived were a lot stronger than the first ones."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In the end I was surrounded and beaten up like a punching bag."
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se035"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc062a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm509",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Urrgh... uhhh..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m043a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m023a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Demon Mercenary",
+        "text": "Heh! All bark and no bite, huh, kiddo."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Demon Mercenary",
+        "text": "What happened to your cockiness, huh?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "High Orc",
+        "text": "Is that all you've got?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ow... Yeah... it is..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I got to my wobbly feet after being beaten to a pulp as I'd expected (well, not really)."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "My body was covered with bruises, the inside of my mouth was filled with blood, my eyelids were cut, and my face was painfully swollen."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was in a horrible state, but none of the wounds were deep enough to be fatal."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was partly because the bodyguards didn't mean to kill me in the first place,"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "and mostly because I was good at rolling with the punches. I had always been the weakest since I was a kid, so I had to learn how to take a beating."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And thanks to the demonic power that I had recently awakened to, this level of injuries seemed to take me no time to heal."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The point was that I intentionally let them beat me up in order to get Kurenai's attention who was holed up here."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It seemed to have had some results."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m023a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Demon Mercenary",
+        "text": "Hey, weird kid. She wants to talk to you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I couldn't tell if it was amazement or annoyance on his face as the bodyguard handed me a smartphone."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hello?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "\u300eIs that the way the head of the Fuma family does things now?\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was a woman's voice."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I'd thought it would be Kurenai, but it wasn't."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But I knew who that voice belonged to."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ayame-san? That second group was all Shinganji ninja, right? That's not fair."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Makishima Ayame",
+        "text": "\u300eAnd what exactly did you come here for?\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I told you. I want to meet with Kurenai. I want to ask her something."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ayame",
+        "text": "\u300eJust so you know, I have you in my sights right now.\u300f"
+    },
+    {
+        "type": "EV",
+        "info": [
+            "stv008a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ayame",
+        "text": "You're not alone, are you? Where are your friends?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "\u300eI'm alone. Is it that strange, coming alone to meet with a childhood friend?\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ayame",
+        "text": "Do you want to see what your brains look like? I'm not interested in pointless chit-chat."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "\u300eAyame-san, you're good at sniping using your \"Windreader\" ability, right?\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ayame",
+        "text": "Yeah, I never miss. So just answer. Where are your friends? What are you planning?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "\u300eUnderstood. Then, I'll ask you instead, Ayame-san. So tell me. Did you assassinate Sago Bungo?\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ayame",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "\u300eAnswer me. Did you assassinate Sago Bungo?\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ayame",
+        "text": "Unfortunately I don't think you have the right to ask me questions, now do you?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Actually, he does have that right."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc158a",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "yu_t002b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "If you make any funny moves, I won't hesitate to put a bullet in you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "By the time Ayame sensed someone behind her, Yukikaze already had her gun in her back."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EV",
+        "info": [
+            "stv008a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ayame",
+        "text": "What a surprise. Did you know all along that I would set up a sniping position here?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "\u300eThat's right.\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ayame",
+        "text": "I should've expected as much from someone acknowledged by Kurenai-sama. I lose."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "\u300eKurenai acknowledges me?\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ayame",
+        "text": "Oops. Keep that bit between us, please. So, what was your question again?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "\u300eAyame-san, did you assassinate Sago Bungo?\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ayame",
+        "text": "Yes, I sniped him."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "\u300e...!!?\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ayame",
+        "text": "Did you come all the way here just to ask that? Kurenai-sama would be disappointed if she knew."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "\u300eWho ordered it?\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ayame",
+        "text": "It was your boss, Igawa Asagi."
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "EV_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

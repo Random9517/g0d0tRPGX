@@ -1,0 +1,451 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm504",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc001a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Tokyo."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Forces of darkness ran rampant here, so it had been called the \"Demonic Metropolis\" for a long time."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc061a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In one corner of the city, in a black market district. A street where glamorous neon and beautiful women beckoned, lined with shops offering illegal services."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I paid no attention to such things as I ran as fast as I could. I was headed for the location that the \"Snake Charmer\" had designated."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Shit, these streets are a tangled mess. According to the map, it should be in the alley ahead..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Hebiko\u30fc)"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc062a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As I entered the alley, the dazzling atmosphere changed completely, with a rotten smell and a blatantly dangerous mood hanging in the air."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Yo, I was waiting for you."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "zk_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As I turned around, a dark-skinned and pointy-eared man, truly a demon in appearance, was standing there."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Demon",
+        "text": "What? Stop staring at me like that."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Are you the \"Snake Charmer\"?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "One-eyed and carrying a gun on his back, he was most likely a mercenary. I stayed alert, just in case."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "zk_t001d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Demon",
+        "text": "Hey, hey, don't be so wary. I'm Zocht. I'm just a hired gofer."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "zk_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "A gofer...? Whose exactly?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "zk_t001b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Zocht",
+        "text": "The owner of Chaos Arena."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Chaos Arena...!! Is Hebiko there!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "zk_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Zocht",
+        "text": "Hey, hey, you're giving me a hard time with all the questions. My role is just to show you the way, bro."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...Alright. Show me the way then."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "zk_t001b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Zocht",
+        "text": "Hehe, then follow me."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "zk_t001b",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As the man said that, he quickly began walking. He didn't seem cautious at all."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Is he really just a man they hired...? No, there's something I'm more concerned about.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hey, wait. Let me just ask you one thing."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "zk_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Zocht",
+        "text": "What is it? Another question?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Aren't you gonna frisk me?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "zk_t001c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Zocht",
+        "text": "Why?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I might have a concealed weapon."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "zk_t001e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Zocht",
+        "text": "Hehe, I see, that sure would be scary. Are you done with the questions? Come on, let's move quickly."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "zk_t001e",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I said wait! I'm here to rescue the hostage, to rescue Hebiko."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I might have my people, the Taimanin, lying in wait, and they might pounce on you if they see an opening. If you think about that, it would be natural to be cautious."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "zk_t001b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Zocht",
+        "text": "Aah, so you're suspicious because I'm not on my guard. You're smarter than you look, bro. Nice, I like quick-witted youngsters."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He spoke in an aloof manner, as if we were having drinks at a bar."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Is he really just a hired idiot...? Or does he have his own designs?)"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "zk_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Zocht",
+        "text": "The answer is simple. The owner of Chaos Arena just \"doesn't give a damn.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Zocht",
+        "text": "They know that all of the main Taimanin squads are out on missions."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I see..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(So that's why he's acting so calm. He already assessed my power and understands the situation of the other Taimanin...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(So he thinks it's not worth being afraid of any little tricks someone like me might try. \u30fcHe's looking down on me.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, if this owner of Chaos Arena or whoever underestimated us, we might have a slight chance of victory."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Understood. I'm done asking questions, lead the way."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "zk_t001b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Zocht",
+        "text": "Hehe, thought so."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Zocht gave a detached laugh and resumed walking through the black market district."
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "zk_t001b",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

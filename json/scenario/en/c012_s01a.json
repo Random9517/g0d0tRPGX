@@ -1,0 +1,373 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm304",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc133a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A certain day in a certain month. Tokyo Kingdom, underground\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m064a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Whooaaa!? They're still coming!? Damn it!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se031"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Slash!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Will-o'-wisp",
+        "text": "GR-ROOGH!!!?!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With a dodge and a slash of my ninjato\u30fc!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Letting out a loud scream, the demonic creature\u30fcthe Will-o'-wisp\u30fcwas sliced in half and disappeared."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Haah haah... Boo-ya, if I do say so myself..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "While huffing and puffing, I somehow stood up straight again."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had somehow managed to get rid of one of them."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But I couldn't relax completely yet."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m064a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m064a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se062"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Will-o'-wisp",
+        "text": "GRR-ROOGH..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Oh man... They're popping out one after another, like always...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "These were demonic creatures\u30fcWill-o'-wisps\u30fcthat I had previously encountered at the shop of the shady broker in Shin-Minato District."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And a swarm of them was trying to surround me while I was alone, waiting for an opening to attack me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Damn it!! If only Hebiko or Shikanosuke were here right now\u30fc)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I always ended up thinking something like that."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was true that my physical abilities had improved since I had come back to life, and that I was now able to deal with weaker demonic creatures, such as Will-o'-wisps, on my own."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But nevertheless, being surrounded like this was still pretty tough."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I could get out of this predicament in no time if I had my squad mates, whose abilities and dispositions I knew thoroughly\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was only natural to think something like that."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(However\u30fc)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko and Shikanosuke were nowhere near me right now."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And instead\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "kr_t003a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Woman",
+        "text": "Hey, Fuma!? Stop zoning out! Don't blame me if you get eaten by a Will-o'-wisp!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A headstrong-looking woman said in an irritated tone."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah, yeah, I know..."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I sighed and readied my ninjato."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m064a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m064a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And standing against me were countless Will-o'-wisps, looking ferocious."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "\u30fcThere was no way around it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "For now I had to work with this woman to somehow get out of this predicament\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

@@ -1,0 +1,829 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc119a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm509",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In the new outer flood bypass for the capital region\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There was a group of soldiers that seemed out of place in the underground zone that the Armed Refugees had now claimed as their territory."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m008a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "UFS Soldier",
+        "text": "\"Stupid\" lost \"Tango\"! I repeat! \"Stupid\" lost \"Tango\"\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "\"Stupid\" meant the Armed Refugees. And \"Tango\" was code for Taimanin."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In other words, the communication just now had been about how the Armed Refugees had lost the Taimanin they had been tracking."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "UFS Soldier",
+        "text": "Fuckers!! Those useless losers...!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The men clicked their tongues in frustration. They were covert operatives belonging to the UFS's secret service agency \"G.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Within secret service agency \"G\"..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "...there was a small number of elite agents produced in the Cyborg Soldier (CS) program..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "...and one of them was leading the special covert troops this time."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m070a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se082"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hestia",
+        "text": "What're those numbskulls doin' over yonder? There's so many of 'em and they done let the Taimanin escape!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "UFS Soldier",
+        "text": "Captain Hestia!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The soldiers saluted the strange woman who had appeared in front of them."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Agent \"Hestia\"\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She was a powerful female cyborg soldier whose body was modified to resist fire and extreme heat."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hestia",
+        "text": "Didn't I tell y'all, amateurs can't be trusted. Hey! Our troops're already on the move, right!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "UFS Soldier",
+        "text": "Yes, Captain! Charlie Team is searching for them, but... Should Delta Team join them as well?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hestia",
+        "text": "I reckon they should! But then we'll be hurtin' fer folks over here. Giddyup and give a holler to base to fetch Mr. Crab!!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "UFS Soldier",
+        "text": "Yes, ma'am!!!"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se078"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The soldier replied briefly and withdrew to contact the base."
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se078"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And as if stepping in to replace him, another soldier approached Hestia."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hestia",
+        "text": "What? Somethin' else need seein' to?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "UFS Soldier",
+        "text": "A report, Captain!! A squad leader of the Armed Refugees is requesting to meet with you. He says he has a message from Wang."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hestia",
+        "text": "That good-fer-nothin' nincompoop!? What's he want!? But yeah, let'im in."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "UFS Soldier",
+        "text": "Yes, ma'am! Hey, bring those guys in!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Then, a few shabby Armed Refugees walked into the middle of the heavily armed UFS soldiers."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m070a",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m069a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Armed Refugee",
+        "text": "Good day, good day. Sorry for disturbing you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hestia",
+        "text": "Yer darn tootin' yer sorry. Thanks to y'all lazy bums draggin' y'all's feet, we're as busy as a cat on a hot tin roof. So, what's this message from Wang?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Armed Refugee",
+        "text": "It's about... it's not something to talk about while standing, so how about we discuss it over tea?"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hestia",
+        "text": "Excuse me!? Y'all lost them darn Taimanin... you ain't the sharpest tool in the shed, are ya!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hestia",
+        "text": "If ya get too big fer yer britches, I'll shove some of these here nanomachines up yer rear and roast ya from the inside!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hestia threatened the difficult-to-read Armed Refugee."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The female cyborg soldier had access to an ability of unparalleled power\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She was able to shoot nanomachines from her modified arms to ignite a fire anywhere and then control the flames."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Armed Refugee",
+        "text": "Ah, no, our britches are just fine... A-Alright, here's the message from Wang-sama."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Armed Refugee",
+        "text": "\"Why are you guys chasing those Taimanin...?\" is what he's asking."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hestia",
+        "text": "That's what he's itchin' to know? It's because they're fixin' to go after the same target as us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hestia",
+        "text": "Takin'em down here oughta be quicker than fightin' against 'em in Yomihara!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Armed Refugee",
+        "text": "I see. The Taimanin's target and your target are the same..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Armed Refugee nodded like he understood."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At that moment, Hestia raised her head as though struck with a thought."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hestia",
+        "text": "...Hold yer horses. I done explained all that to that blockhead Wang already. Why's he askin' again?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Armed Refugee",
+        "text": "Eh? You did? That's strange, ahaha..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hestia",
+        "text": "No, no, it ain't strange at all. It might could be that y'all..."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Armed Refugees",
+        "text": "\u25aa ...!?\n\u25aa ..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Armed Refugees flinched. They fidgeted restlessly and shuffled about."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hestia",
+        "text": "It might could be that... Wang is forgetful? This's basic work stuff, ya hear!! Tell'im he oughta take notes!!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Armed Refugee",
+        "text": "Y-Yes! I will let him know...!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hestia",
+        "text": "Alrighty! That's it then. We're fixin' to head out, so get y'all's rears in gear and get back to work!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se082"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hestia turned as she spoke, and she and the UFS troops moved deeper inside the underground area."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Then\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m069a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m069a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_FRONT",
+        "info": [
+            "3"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Armed Refugee (Me)",
+        "text": "I was worried for a second... but man, she was easy to fool."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Armed Refugee (Shikanosuke)",
+        "text": "Yeah, I was surprised."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Armed Refugee (Sana)",
+        "text": "Oh man. Scary easy to fool."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Armed Refugee (Hebiko)",
+        "text": "There's a lot of strange people in the UFS as well..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Disguised as Armed Refugees, we whispered to each other."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This was what I had thought of in order to get through the opponent's territory while also being able to gather information."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We had put some of the Armed Refugees who were searching for us to sleep and then taken their clothes to disguise ourselves."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Then we had gotten exactly what we were aiming for. We had been able to get through their territory and also found out why they were after us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Armed Refugee (Me)",
+        "text": "I didn't expect the UFS to be involved in this... Things are getting confusing."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Armed Refugee (Hebiko)",
+        "text": "She said the target is the same."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Armed Refugee (Shikanosuke)",
+        "text": "Does that have something to do with our mission in Yomihara?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We still didn't know the specific details of our mission, but felt as if we had a vague idea of what it might entail."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Armed Refugee (Sana)",
+        "text": "Huh, so the UFS is after the same target. Sounds like a fun mission\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Armed Refugee (Me)",
+        "text": "Sana-san, so you're back to spouting stuff off... But if the UFS is giving out a reward, the Armed Refugees won't give up easily."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Armed Refugee (Me)",
+        "text": "...Which means it might be a good idea for us to wear these clothes until we get to Yomihara."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Armed Refugee (Sana)",
+        "text": "You're right. It'll be easy to get through their territory if we're wearing this."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se062"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "GRRR..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Armed Refugee (Me)",
+        "text": "Hm? What's that...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Suddenly, something was growling in the darkness."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And as looked\u30fc"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm313",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "ts_m071a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "6",
+            "ts_m035a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "6",
+            "ts_m071a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "GRR... GRRRR...!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Armed Refugee (Hebiko)",
+        "text": "Hm? A big doggie-chan...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was a pack of giant demonic dogs..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "They suddenly appeared and surrounded us, baring their vicious fangs\u30fc"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Devil's Dog",
+        "text": "ROWOW!! ROWOWOWOW ROWOWOWOW!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Armed Refugee (Me)",
+        "text": "This is bad!! It's the scent!! Our scents gave us away!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Armed Refugee (Shikanosuke)",
+        "text": "No waaaaay!! Right in the middle of enemies like these!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "They must have been dogs that the Armed Refugees had kept for hunting."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And although we were wearing the clothes of the Armed Refugees, it seemed like we couldn't deceive the dogs' noses."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "6",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m008a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m069a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "UFS Soldier",
+        "text": "What!? What's wrong!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Armed Refugee",
+        "text": "The dogs are reacting to something!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hearing the barking of the demonic dogs, UFS soldiers and Armed Refugees appeared right away."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Armed Refugee (Me)",
+        "text": "Shit!! Everyone, prepare to fight!! Let's break through them!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

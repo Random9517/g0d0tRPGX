@@ -1,0 +1,451 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm311",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc051a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t005e",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Look, look!! There's nowhere left to run!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Damn it...!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She may have been a young Sakura-sensei, but her ability was still overwhelming. She chased me with her two swords, and in the blink of an eye she had me cornered."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Behind me is the water's edge... what should I do!?)"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t005f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Prepare yourself, intruder!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Black blades sprang out from Sakura-sensei's shadow and attacked me all at once."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Uwaah...!!)"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t005f",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "rn_t001f",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "Wait!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t005a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Rinko-san!? What is it? Do you want to finish him?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "rn_t001j",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "No, it's a misunderstanding! That guy is not an intruder, he's... um..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "rn_t001f",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "My little brother! Yes, he's my little brother!!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huh!?"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t005d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Huuuh!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Rinko's words left Sakura-sensei frozen with a surprised look on her face."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t005e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "...Your little brother...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sakura-sensei stared at my face intently."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Uh... ah...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "..."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm401",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t005b",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "You're right! You guys look so alike!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me & Rinko",
+        "text": "WHAAAAAAAAAT"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We couldn't help but raise our voices."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t005d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Hm? What do you mean \"WHAAAAAAAAAT\"?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ah, I-I mean... people say that all the time... right, R-Rinko-senp... nee-chan..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "rn_t001k",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "Y-Yeah... I can't believe i-, er... I'm as happy as can be, little brother."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We were rambling desperately to smooth things over. Rinko-senpai had covered for me, so we couldn't afford to make Sakura-sensei suspicious again..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t005b",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Oh my gooosh, you should've told me earlier! C'mon!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t005b",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "rn_t001k",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sakura-sensei was slapping my back energetically."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Th-Thank god... that Sakura-sensei is naive, now and in the past...)"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was deeply relieved, but at that moment\u30fc"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc052a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Wh-What the hell!?"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm610",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The scenery around us changed completely and we were caught in something like a huge vortex."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Here he comes! The intruder, be careful!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Be careful about what... uwaah!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "Are you okay, Fu... little brother?! Ugh... what the hell is going on?!"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

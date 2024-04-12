@@ -1,0 +1,2554 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc110a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm313",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m074a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Werewolf",
+        "text": "\u300eGRRRRGGHHH!!!!!!\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Werewolf roared into the night sky and swung his sharp claws down."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But we weren't giving in either."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0077a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "Ace Katana Style!!!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t005f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "F-Four Blade Style!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se011"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "800"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se047"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Their blades sparkled in unison."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Got him?!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m074a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Werewolf",
+        "text": "\u300eGRRGH!!!!!!\u300f"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se031"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Slash!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Kyaah!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "Watch out!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Even after being cut by the two of them, the Werewolf showed no signs of fatigue and swung his sharp claws in anger."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t005d",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0077a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "No way... How can he be so tough!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "If this keeps up, we're going to be the ones getting exhausted."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "No wonder he had been boasting about taking us on five against one. Even facing Shishigami and Hebiko at the same time, his prowess was unfaltering."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m039a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m039a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster 1",
+        "text": "G-Get them!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster 2",
+        "text": "Good! Tear them all apart!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(The other guys seem to be human... But why is there a Werewolf among normal gangsters!?)"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "s_t001d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "H-Hey, Fuma!!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "s_t001e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "What the hell is that guy!? Even Shishigami and Hebiko together aren't able to give him a single scratch."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah, Werewolves are\u30fc"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m074a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "\u300eWerewolves\u30fcalso known as lycanthropes. A type of wolf from the Devildom that can turn into a human."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "They possess robust and flexible bodies, great power, regenerative abilities to immediately heal lacerations, and sharp claws and fangs that can even tear through steel."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The golden gleam of their eyes dulls the mind and paralyzes any ordinary person, rendering them unable to move."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If you are unfortunate enough to encounter one, avoid combat at all costs and retreat immediately.\u300f"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "They are truly dangerous monsters."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "s_t001e",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "A-And those two somehow seem to be moving slower than usual..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That must have been because of the power of the Werewolf's golden beast eye. I wasn't getting paralyzed by it either, but my body did have some kind of tingling sensation."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "But it ends here. Shikanosuke, it's your turn."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "s_t001f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "A-Alright! I'm gonna show him!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When I gave the signal, Hebiko and Shishigami nodded at each other, then leaped towards the Werewolf's face."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "CENTER",
+            "linear",
+            "800"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t005f",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0077a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "Ace Katana Style: Blade Dance of Divinity!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Octopus Tentacle Four Blade Style!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se011"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "800"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se047"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Werewolf",
+        "text": "\u300eGRRGH!?\u300f"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And when the Werewolf stopped moving for an instant\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Now!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "s_t001f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Here I go!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se014"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "s_t005e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Electric Jutsu Ultimate Skill! Bambi-no Spark!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Werewolf",
+        "text": "\u300eGRRRRGH!?!?!?!\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The electric energy discharged by Shikanosuke took the form of two fawns that rushed the Werewolf."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Werewolf",
+        "text": "\u300eGRRGH!?? GRRRRGH!!!\u300f"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t005f",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0077a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "Now!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Alright! Let's do this!!"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se031"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The swords of Shishigami and Hebiko pierced the Werewolf as he struggled to escape the heat."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "D-Did we do it!? Did we kill him!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "We didn't kill him. Fuma told us not to kill him because it would make everything even more complicated."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t005d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "D-Did he? ...Ahaha..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hebiko, come on now..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t005b",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "More importantly, Shikanosuke-chan's attack earlier! That was an amazing super-skill!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "Did you awaken to a new ability?"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "s_t001a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Hehe... would be nice if that was the case. It's all thanks to Fuma."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t005d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Thanks to Fuma-chan?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah, I had a talk with the maintenance department and had them make a battery for Shikanosuke."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "s_t001b",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "ACTOR_FRONT",
+        "info": [
+            "5"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "So it's just temporarily boosting my power. Unfortunately, it's not my own strength."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t005b",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "ACTOR_FRONT",
+        "info": [
+            "2"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Oh, but it's you who's controlling that energy, isn't it? Then it's a new ability!"
+    },
+    {
+        "type": "ACTOR_FRONT",
+        "info": [
+            "5"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Ehehe..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Behind Shikanosuke, who didn't look completely unhappy, the Werewolf's giant body wriggled."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m074a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Werewolf",
+        "text": "\u300eGRR... RRGH...\u300f"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm509",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "This guy... is still able to move!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Werewolf",
+        "text": "\u300eGRRRRGH!!! YOU TAImaNIN brATS!!! Don't UNDerESTImate ME!!!\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Even though his wounds were not fatal, they still should have been extremely painful if he moved. Despite that, the Werewolf struggled in an attempt to attack us again."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Do you want to die!? Don't struggle."
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se062_01"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Werewolf",
+        "text": "\u300eAH... AH... AWOOOOOOOOHH!!!!!\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When the Werewolf howled, his wounds suddenly began to close and, if anything, his muscles even seemed to be bulging."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What!? \u30fc!! Don't tell me..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc124a",
+            "IN",
+            "800"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR19",
+            "IN",
+            "800"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The clouds cleared and moonlight illuminated the city. I remembered one of the pieces about Werewolves that I had read in the library of Gosha."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Never fight a Werewolf, especially not on a night of the full moon. No matter how much of a veteran Taimanin you are."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc110a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR27",
+            "IN",
+            "800"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m074a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Werewolf",
+        "text": "\u300eGRRRRRGGGHHH!!!\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Werewolf's wounds closed before our eyes, and his burnt coat regrew, glossy and new."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Werewolf",
+        "text": "\u300eAWOOOOOOOHH!!!!\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And then he swung his powerful arm and sent Shishigami and Hebiko flying."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "s_t001d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieeee!? I-I'm already out of powerrrrrr!?"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0077a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t005k",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Owowow... What is this!? It might be looking bad!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "His power is on a completely different level from before...! Fuma, give me permission to use my Divine Jutsu!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No, you can't!!! Not right in the middle of the city!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "Ugh...!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That was Shishigami's way-too-powerful Ninja Art. As much as I would've liked to let her use it, it was the absolute last resort."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m074a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Werewolf",
+        "text": "\u300eWHat's WRoooNG?!!! I'm goNNA DEVour YOu aLL!!!\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Meanwhile, the eyes of the Werewolf, who was overflowing with power, gleamed at the turning of the tables."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Fuma-chan... Hebiko feels weak."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Me too... His golden beast eyes must have gotten more powerful as well."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster 1",
+        "text": "Hooray! It's a blessing from the heavens!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster 2",
+        "text": "Get them!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster 1",
+        "text": "!? Wait, behind you...!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Werewolf",
+        "text": "\u300eWHat...?\u300f"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "6",
+            "chr_t0100a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Chevalier",
+        "text": "What a troublesome doggy\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When had she gotten behind him?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Chevalier held a delicate bottle in her hand and sprinkled a mysterious liquid on the Werewolf's tail."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Werewolf",
+        "text": "\u300e!? WhAT!? WHat are YOu doING!?! GRRrgghh...\u300f"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "6",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And then smoke rose from the Werewolf's tail, eventually enveloping him completely\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "7",
+            "ts_m038a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "6",
+            "chr_t0100a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster Leader",
+        "text": "Gyaaaaaaaah!? Wh-What did you do!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "By the time the smoke had cleared, the Werewolf had completely turned back into a human."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Chevalier",
+        "text": "That was a potion that absorbs any supernatural power. It looks like the experiment was a success."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster Leader",
+        "text": "Experiment...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Chevalier",
+        "text": "You're fortunate that you didn't turn into some kind of weird creature."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster Leader",
+        "text": "Damn it... you monster!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Werewolf kept cursing, but had no strength left to fight."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Then Hebiko quickly restrained him with her octopus legs. The other gangsters also lost the will to fight, put down their guns, and raised their hands."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "7",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "6",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And a few minutes later."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc125a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm203",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We were inside the house of Chevalier the alchemist, together with the still tied-up leader."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Well then, let me ask you again. Why did you suddenly attack this place? And what did you mean by \"the guys who got your old man\"?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "7",
+            "ts_m038a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster Leader",
+        "text": "I... we are members of an old underground organization that has been doing business in Tokyo Kingdom for a long time."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster Leader",
+        "text": "That being said, there are only about 10 members in total, a small-time gang you might say."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster Leader",
+        "text": "Our old man was the founding boss of this organization and we all owe him a lot\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "According to what the leader told us\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "They were a local, small-time group of gangsters, a family-like organization united under a boss they called \"old man.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Most of the members were abandoned or living on the street as children and had been taken in by their old man."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Werewolf himself had been picked up as a baby from a dumpster by the old man, who had come to Yomihara for a job. He was a true \"stray dog.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "They had loved their old man as if he were their real father and had grown up together like brothers."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When Tokyo Kingdom turned into a lawless city, the organization had been on the brink of crisis many times but had barely managed to scrape along."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And after Nomad reached their shores, they became an affiliate of Dragon Gate and had somehow found a way to survive."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster Leader",
+        "text": "But then\u30fcOur old man went to a Dragon Gate meeting, and to our shock, he came back as a Zombie!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster Leader",
+        "text": "Even small-time gangsters have their pride, so we were desperate to find the guys who did that to him."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster Leader",
+        "text": "And then we got a tip."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster Leader",
+        "text": "A tip that the alchemist living here had made a gas that turns people into Zombies and had her Taimanin minions spread it throughout the city."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "7",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "\u30fcThat sounded familiar. We reflexively looked at each other."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "s_t001e",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "(Hey, Fuma, isn't that...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Yeah, the \"CD Virus.\" Dragon Gate also fits the story. He must've gotten caught up in it back then.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The dreaded CD Virus that turns people into Zombies."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Gaiza had stolen it from the UFS and spread it around Dragon Gate establishments in order to take over their territory."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(But how did this all turn into our, and this alchemist's, fault?)"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "7",
+            "ts_m038a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster Leader",
+        "text": "With our old man having lost his mind, we had no choice but to..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...Kill him...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster Leader",
+        "text": "No, we tied him up."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "So he's alive!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster Leader",
+        "text": "None of us could kill our old man. But because he lost his mind and indiscriminately attacks anyone, we still keep him tied up and locked in the basement."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster Leader",
+        "text": "He'd be killed if someone found him. His body is rotting too, so we're not sure how long he'll..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I see..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The gangsters lowered their heads in unison. And then..."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "7",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "6",
+            "chr_t0100a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Chevalier",
+        "text": "If we're talking about medicine to turn a Zombie back into a human, I have some."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The alchemist Chevalier interjected."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster Leader",
+        "text": "Really!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Chevalier",
+        "text": "I was flooded with requests during that Zombie debacle, you know. I made a lot, so there's still some left over."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Chevalier took a small bottle from a shelf and showed it to us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster 1",
+        "text": "Don't be fooled! She's the one who created the Zombie gas in the first place!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "6",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ah, about that. Allow me to explain."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "7",
+            "ts_m038a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster Leader",
+        "text": "You?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I explained everything I knew about the \"CD Virus.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Starting from my connection to Gaiza, to our part-time job that had been connected to the transport of the CD gas, absolutely everything."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "\u30fcAnd so we are after Nisha Gaiza, the leader behind this plot."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster Leader",
+        "text": "...I see..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After hearing the whole story, the gangsters turned towards us with meek faces."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "7",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m039a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m039a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster 2",
+        "text": "We won't forgive that Gaiza guy!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster 1",
+        "text": "Involving normal people, what a disgrace to gangsters!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster 3",
+        "text": "Must be hard for you to be betrayed by one of your own people. Sorry for suspecting you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(G-Good thing they're eager to sympathize ... Sometimes just explaining everything honestly also seems to work as a strategy...)"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t002b",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0077a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "I'm glad you were able to see our side."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "It was looking pretty questionable at one point!"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The wounds of Shishigami and Hebiko also seemed to have been completely healed by Chevalier's medicine."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Chevalier",
+        "text": "Looks like we got the misunderstanding cleared up."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm604",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "7",
+            "ts_m038a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster Leader",
+        "text": "Yeah, we're going to try giving this medicine to our old man. By the way, you there, the octopus..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t002d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Eh? Hebiko?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster Leader",
+        "text": "It's my first time meeting a fellow shapeshifter, or... someone as beautiful as you."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t002i",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Beautiful!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t002b",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Stop that! You smooth talker!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se080"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ouch!! Why did you hit me, Hebiko?!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster Leader",
+        "text": "So, well, if you don't mind... being my... together with me..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t002d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Eh? Eh??"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster 2",
+        "text": "Holy cow, this isn't the time for that! Come on, let's go home already and have the old man drink the medicine!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster 1",
+        "text": "Sorry about that, he's not a bad guy but always a bit quick to fall in love."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "7",
+            "ts_m074a",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Werewolf",
+        "text": "\u300eThaT'S NOT trUE! I'M beING siNCEre...\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster 2",
+        "text": "Yeah, yeah, turning into a wolf won't change anything. So long, Miss Alchemist."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Werewolf",
+        "text": "\u300eHEBiko-SAN! AWOOOOOOHH!!!!\u300f"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "7",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t002d",
+            "RIGHT",
+            "CENTER",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Werewolf was dragged away by the gangsters, howling begrudgingly as they left."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sheesh..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "6",
+            "chr_t0100a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Chevalier",
+        "text": "Thank you for driving away those bandits, all you cute Taimanin."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Chevalier",
+        "text": "So, what's the real issue at hand? You didn't come all the way here for no reason, surely."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah, we came here because we heard that you're a knowledgeable alchemist."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "We are Taimanin from Gosha. It's a long story, but I want to know more about the \"power of demons.\" Do you have a book or something like that you'd sell to me?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Chevalier",
+        "text": "Hmm..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Chevalier",
+        "text": "Be a bit more specific. Various things could be called the power of demons. For example, the power to create fire or wind, or the power to open a gate to another world."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Chevalier",
+        "text": "There's also the power of regeneration to heal physical wounds. Like that Werewolf from earlier."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "\u30fcRegeneration! That's it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I want to know more about the power of regeneration, like that Werewolf used!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Chevalier laughed elegantly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Chevalier",
+        "text": "Right then, the power of regeneration."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Do you have anything in mind?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Chevalier",
+        "text": "Yes. But Chevalier's archives are extensive."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Chevalier",
+        "text": "Come back again later. In the meantime, Chevalier will find some books for you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Chevalier",
+        "text": "But temper your expectations. There are not many demons who write down every little thing the way you humans do."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yes, please help me if you can."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Chevalier",
+        "text": "And also."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "And also?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Chevalier",
+        "text": "These books will not be sold for money. You understand, don't you?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Chevalier smiled bewitchingly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Not for money... I see.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She must have wanted me to take on some kind of request, like Madam, the information broker, always did. That was more convenient for me as well."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Alright. Anytime, just ask me."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "6",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And on the way home we stopped at the market again."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc123a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm608",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "8",
+            "zk_t001d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Zocht",
+        "text": "!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hey, what's wrong? You look like you've seen a Zombie."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "8",
+            "zk_t001c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Zocht",
+        "text": "Y-You're... still alive?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Upon seeing my face at the store again, Zocht went pale."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That's right. We should be dead by now after being attacked by those gangsters, right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Zocht",
+        "text": "N-Not sure what you're talking about..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Seeing Shishigami stand behind me silently, Zocht visibly broke out in a cold sweat and backed away."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Come now, don't get so tense."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Thanks to you, we were able to meet the alchemist. And you got your payday selling that information to the gangsters."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "8",
+            "zk_t001b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Zocht",
+        "text": "...Heh, heheh, you seem to be quite understanding, kid."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It's a win-win situation. And I mean, it's not like I'm suspecting you of trying to get rid of us at the same time, even though you loathe us so much."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "8",
+            "zk_t001f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Zocht",
+        "text": "...Damn it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That's how it is. I'll be counting on you if something else comes up."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "8",
+            "zk_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Zocht",
+        "text": "...Hmph, fair enough."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And like that, I got my hands on another source of information, and we left Tokyo Kingdom."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "8",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

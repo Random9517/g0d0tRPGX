@@ -1,0 +1,731 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc104a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When I woke up, I found myself in a place I didn't recognize."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Hmm... where am I...?)"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm605",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was in the middle of a forest. I seemed to have collapsed and been sleeping here."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Eh!? Wh-What's going on...?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had no idea what was happening. Why had I been sleeping in the middle of a forest like this?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If I remembered correctly, yesterday was New Year's Eve."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I remembered eating toshikoshi soba noodles that Tokiko had made, and afterwards having a gaming marathon with the freeloading Sakura,"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "and then falling asleep somewhere around that point."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And yet I was now in the middle of this forest that I didn't even know the location of."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "What the hell was going on...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(A-Anyway, let me clear my head...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Maybe it was because I had just woken up, but both my mind and body were just not cooperating. It felt as if wasn't my own body."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I basically dragged myself toward the sound of a small creek burbling close by."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And when I brought my face close to the water surface to wash it\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m061a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Whoa!? A giant boar!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I whipped my head around in panic. On the water surface, there was a reflection of a massive boar bearing down right on top of me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m061a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huh? Where did it go...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When I turned around, there was no sign of the boar that had been reflected in the water."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "What was going on...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "While I pondered that, I took another peek into the creek, and sure enough, the giant boar was there."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m061a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I turned around, and it wasn't there. But it was there when I looked into the water."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When I raised my right hand, the boar in the water also raised its right hoof."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And for starters, the only thing being reflected in the water was the giant boar. My own reflection was nowhere to be seen."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Did that mean...?"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "WHAT THE HELL IS GOING OOOOOOOOOOOOON!!!??"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(This is me!? This giant boar is me!?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "My arms and legs were the limbs of a beast, densely covered in thick fur. I didn't have any clothes on and was walking on all fours."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had woken up to find I had somehow turned into a giant boar."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What's going on!? Why is something like this happening just as the new year started!?"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I couldn't make heads or tails of my predicament."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But everything was about to become even more nonsensical\u30fc"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm304",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m037a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Genin A",
+        "text": "There he is! The New Year's lucky boar, Kiyomaro!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m001a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Genin B",
+        "text": "Don't let him escape! Surround and kill him!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huh!? Taimanin!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Several Taimanin had appeared."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "They seemed to be low-ranking ninja, and I didn't recognize any of them."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Taimanin slowly surrounded me (the boar), blocking my escape path."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "W-Wait!! What the hell..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Genin A",
+        "text": "I have nothing to say to an animal! Give up, Auspicious Beast!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "By beast, you mean me!? Whaaa!? Wait a secooooond!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Taimanin attacked me all at once as I screamed."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc028a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm203",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I (the boar) escaped the Taimanin by the skin of my tusks."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m061a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Phew. I was nearly hunted down as a wild boar..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "My new boar body seemed to be pretty powerful, and I was able to break through the Taimanin blocking my path by charging at them."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And I had fled deeper into the forest without stopping."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Why are they hunting boar, anyway...? Are they planning to put me into the New Year's ozoni?  I'm not a soup ingredient, you vile bastards."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was mulling it over when something hit me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Come to think of it, they called me a \"lucky boar,\" didn't they...?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "\"Lucky boar\" and \"auspicious beast\"\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That's it! I came across those words in an old document I read..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It had been an old document I had found in the archives of Gosha Academy regarding a certain ceremony."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And if I remembered correctly, according to it\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The best time of the year to perform the ceremony was on New Year's Day, when the air was full of fresh and pure Ki."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In the past, a heretical ritual called the \"Rite of the Auspicious Beast\" was held on this day."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was said to have been a ritual that would summon a divine beast, a harbinger of good luck from the Otherworld, and slaying it would bring immense fortune."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, if the beast got away unscathed, the ceremony would have the opposite effect, giving rise to terrible misfortune."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It seemed like it had been a dangerous ritual, and it was forbidden nowadays."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(So those guys are after me because of that ceremony...?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But even if that were the case, why the hell had I turned into a boar...?"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se076"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Rustle*..."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!? Who's there!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I heard the sound of footsteps from behind me. And when I turned around, there\u30fc"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "chr_t0084a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Igawa Asagi",
+        "text": "No need to be alarmed. I'm not your enemy. ...But my, you look a lot worse than I heard you would."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Asagi-sensei...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A beautiful girl in a long-sleeved kimono was looking at me (the boar) and spoke in astonishment."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was the headmistress of Gosha Academy\u30fc\nIgawa Asagi-sensei."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(N-No, wait, something's not right...!! Asagi-sensei is so... young!?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "I don't know why you're calling me \"sensei,\" but judging by your reaction, you do appear to be the \"scapegoat.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "The scapegoat!? So you're after me too, Asagi-sensei...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi-sensei was the person who led all Taimanin."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Did that mean she was commanding those Taimanin chasing me earlier as well\u30fc!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "I told you that you don't need to be alarmed, didn't I? I'm not your enemy."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "...But it looks like I have no time to explain."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Eh?"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm207",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m037a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m001a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Genin A",
+        "text": "There's the lucky boar!! Take him down this time!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Following a rustling sound, the Taimanin from earlier jumped out of the bushes."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "These guys!? They're still after me!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "I'll explain everything after we stave them off. Here they come\u30fc!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

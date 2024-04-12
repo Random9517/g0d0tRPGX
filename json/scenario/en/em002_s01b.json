@@ -1,0 +1,965 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc111a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm207",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko, with her powerful tentacle sensors, and our friends who had been on their part-time jobs, plus the Great Witch and I, had cornered the Snowfiend."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t003f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "There's nowhere to run!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Prepare yourself, evil spirit!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m060a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snowfiend",
+        "text": "\u25c7Ugh... screw you! Bringing a crowd of women with you! Explode! Evaporate!\u25c7"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huh!? Don't say something that could cause a misunderstanding! A-And there's a male dog over there!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "chr_t0080b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Berylic",
+        "text": "<i>I'm not a dog, I'm an ancient dragon. Also, I'm female.</i>"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "800"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Eh, no kidding?"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "chr_t0080a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilith",
+        "text": "Forget that, the evil spirit is about to get away! <i>Dahru Masanga Koron'd!</i>"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As Lilith murmured the incantation, the evil spirit, who had tried to run away, fell flat on his face."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snowfiend",
+        "text": "\u25c7Ow! Shit!!\u25c7"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "chr_t0081a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "chr_t0083a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "We won't let you escape, you vengeful spirit!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Prepare yourself!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Rinko's blade hummed, and Mari's earth power-clad fists came after the snowman."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snowfiend",
+        "text": "\u25c7Eek... stop iiit!! I haaaate Santa-san!!\u25c7"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "I'll turn you into chunks of snow."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "No, let's smash him to bits and make him into fine, powdery snow!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snowfiend",
+        "text": "\u25c7Stop! I'm sorry!! Forgive me please! I'll do anything!!\u25c7"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m060a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snowfiend",
+        "text": "\u25c7...is what you thought I'd say?! Eat thiiiiis!!!!! Fwooooooo...\u25c7"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se074"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The moment the evil spirit opened his mouth wide, a cold, gray blizzard began to blow."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Whoa!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Kyaah!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Surprised by the sudden attack, we were completely swallowed by the snowstorm."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm605",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Wh-What is this feeling...!?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "F... Fuma-chan, for some reason... everything feels so lonely!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I-I feel it too..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was a sadness akin to despair. As if you were left all alone in the gray wilderness, just able to hear the boisterous laughter of a distant city."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snowfiend",
+        "text": "\u25c7Ha... hahaha! Let it consume you all! My cold breath!\u25c7"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snowfiend",
+        "text": "\u25c7I will awaken your envy and your inferiority complexes! I won't tolerate being the only one who is unhappy!\u25c7"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Shit...! That thing is twisted to the core! Hebiko! Don't let it take you! ...Hebiko?"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t003g",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hehe, ehehe..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "The girl who turns into an octopus, no matter how brilliant and cute she is, is still a freak..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Crap, she's going straight off the deep end! ...Ugh..."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I also felt something heavy pressing on my chest."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(\"Diot,\" \"Worthless Head of the Clan.\" That's right, no one expects anything of me. Gaiza is proof of that\u30fc)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(No, I can't get caught up in this. This is his attack. I need to keep cool\u30fc)"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At that moment. A soft curtain of light enveloped the area."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se075"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "2000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "chr_t0080a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilith",
+        "text": "<i>Ahben Limal Hemancto Varia Rua</i>\u30fc\nHoly Night's Tender Love!!!\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilith",
+        "text": "Alright, it finally worked!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The light was expanding from Lilith who had been mumbling something in the corner for a while."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Lilith... were you casting a spell this whole time!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Lilith's spell had finally worked after numerous failures."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm205",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Her powerful magic had manifested as the tenderness of Christmas and surrounded the area, warming our hearts little by little."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It even warmed the snowman's heart, so beholden by resentment\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m060a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snowfiend",
+        "text": "\u25c7Wh... what is this?!! My body... my body is meltiiiing!!!\u25c7"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Now that the snowman had lost its motivating force, it could no longer keep its form."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hebiko can hear other voices coming from snowman-chan!"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "\u25c6I was always home alone at Christmas, but I looked forward to my father buying me candy...\u25c6"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "\u25c6I got dumped on Christmas, but my friends got together on New Year's and comforted me... I was thankful for friendship...\u25c6"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "These are..."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm606",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Here and there, tiny lights like fireflies floated up from the snowman's body and then slowly disappeared."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Are the resentments reclaiming their happy memories and becoming purified...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Berylic",
+        "text": "<i>It is precisely as you say. Everyone has sad memories, but at the same time everyone has happy memories as well.</i>"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Berylic",
+        "text": "<i>Thanks to Lilith's tender magic, those who held those grudges must have been reminded of their happy memories.</i>"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snowfiend",
+        "text": "\u25c7Damn it, damn it! You Christmas cretins!! Mark my words, next year, next year for sure I'll...!\u25c7"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "2000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The evil spirit got thinner and thinner before our eyes, and finally dissipated into the sky when it could no longer sustain its form."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And suddenly, the air turned cold and snow began to flutter down."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Snow! All the snow that he kept for himself is falling again!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "chr_t0081a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "chr_t0083a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm307",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "Phew, that's taken care of. Looks like work is going to get busy again! Shinohara, let's hurry back!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Yes, Rinko-senpai! Thank you, Ms. Witch. Fuma-kun, Hebiko-chan, see you!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With that, Rinko and Mari returned to their part-time job."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t003b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "First snow of the year! Isn't this romantic, Fuma-chan?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah... but isn't the snow getting stronger and stronger?"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Even as we were speaking, the snowfall got heavier\u30fc"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc112a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se074"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Uwooaah!? So cold!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The light snowfall quickly turned into a raging blizzard and totally covered the city."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm710",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "chr_t0080b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Berylic",
+        "text": "<i>Looks like all the cold and snow that that thing had been storing up is getting released at once. This is as cold as the great snowfields of the Devildom.</i>"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "chr_t0080b",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "chr_t0080a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilith",
+        "text": "This is great! Winter has properly returned and I think I've come one step closer to becoming a full-fledged Great Witch. Thank you, octopus archdemon and her companion!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hebiko already told you she's not a demon..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It seemed that there was still some kind of misunderstanding, but Lilith the witch politely bowed her head in thanks."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilith",
+        "text": "We can ride a sleigh with all this snow! <i>Loojh Bahbs Ledd!!!</i>"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Lilith summoned a sleigh and hopped on with glee."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Berylic",
+        "text": "<i>Hey, stop it, Lilith. If you ride a sleigh in this blizzard...</i>"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se074"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilith",
+        "text": "Kyaaaaah!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Before Berylic could stop her, the sleigh Lilith had hopped on was flung into the air by the force of the snowstorm."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Berylic",
+        "text": "<i>Honestly, that child... Thank you, you two, until next time! Heeeey wait, Lilith!</i>"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Berylic disappeared into the snow in pursuit of Lilith."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "The legendary Great Witch... or not, in all likelihood, but... that magic was something else. Her control was a little wonky though."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "She'd be extraordinarily powerful if she could master that. I wonder if there are many like her in the Devildom? That's kind of exciting, right, Hebiko? ...Hebiko?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As I looked next to me, Hebiko was about to doze off."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "This temperature... is much too low... for an octopus to handle... zzz..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "A-Are you going to hibernate on me!? You're gonna die!! Hey, wake up!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Uheheh..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I carried Hebiko, who was on the verge of belonging in the frozen seafood section, and headed through the snowstorm towards the station."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

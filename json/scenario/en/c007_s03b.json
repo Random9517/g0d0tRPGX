@@ -1,0 +1,403 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm313",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc015a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Haaaaaaaah!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se023"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*WHABAAAAAAAAAM!!!!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "One strike from Sakura sent a drone loudly flying and made it crash into a wall."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The drones were being taken out one after another at the hands of the experienced mercenaries, and the tide had turned."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In the midst of that, Sakura had been putting on a display of extraordinary effort."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Yaah! Haap! Tchaaah!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se035"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*CRASH!! BOOM!! CLANG!!*"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m053a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Orc Mercenary",
+        "text": "That's her fourth, fifth... eighth!! That girl's got a cute face and can hold her own!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Orc Mercenary",
+        "text": "I knew she was strong from the test earlier, but to think she was this strong..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Oohing and aahing next to me was the Orc Mercenary who had tested Sakura's ability."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "His eyes were no longer those of someone looking at a little girl, but of someone looking, with a hint of irritation, at a comrade-in-arms or a skilled adversary."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Orc Mercenary",
+        "text": "Hey, that girl's your partner, yeah? Compared to her you're nothing!! Put some more work into it!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "S-Sorry..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m053a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Shut up! I've got my own circumstances over here!!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I retorted in my mind as I glared back at the Orc."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Waiting for an opening to go investigate the \"cargo,\" I hadn't actively participated in the battle."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But ironically, due to Sakura's efforts, the battle had ended smoothly before I had had a chance."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "I'm back~! Fuma-kun, you were still alive?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Somehow. Looks like you also did your best."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Oh! Did you watch me~? It's for our fancy dinner so I gave it my all!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Orc Mercenary next to me laughed and called out to Sakura, who was puffing her chest out with pride."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002b",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m053a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Orc Mercenary",
+        "text": "Hey girl, you're pretty great! I've also been a mercenary for years, but I've never seen a little girl as strong as you."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Whoa, really~? You've got a keen eye~!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Orc Mercenary",
+        "text": "It's true, it's true!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Orc Mercenary",
+        "text": "How about you also teach this useless git here how to fight?! In bed, if you prefer! Ghahahaha!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002b",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Kyaaa~!! You're so pervy~!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sakura seemed to be totally hitting it off with the surprisingly good-natured Orc Mercenary."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Sheesh... no tension in the air with these guys...)"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002b",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m053a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc013a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The battle was over and the mercenaries were slowly coming out of the building."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m051a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Faust",
+        "text": "Enemy-defeat-confirmed!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Faust",
+        "text": "Resume-the-convoy-immediately!! All-units-into-position!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In response to that command, we hurried to our stations as well."
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m051a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

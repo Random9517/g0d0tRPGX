@@ -1,0 +1,1075 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm603",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc052a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Inside of the giant vortex that had suddenly appeared and wiped out the surrounding landscape, we were standing ready to fight."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "I can't see any intruder though...!?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ws_t005f",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "rn_t001e",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "They're always deceiving people with illusions like this!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Illusions!? For an illusion, it's so...!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Even while we were talking, we were still being dragged deeper and deeper into the vortex\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ws_t005f",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "rn_t001e",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc055a",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Whoa!!?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ws_t005e",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "rn_t001f",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "W-We're in space?!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "It's alright! Relax."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Y-You're right, I can still breathe...?! So who's this intruder?!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "An octopus!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "An octopus!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Yeah. A monster with an octopus head."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "An octopus head..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It didn't seem like it was Hebiko."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Something like a demon?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ws_t005c",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "I don't know... It suddenly appeared in the gym in the middle of gym class basketball. That's why I was suspicious because you were also in the gym."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "In the gym... wait a second."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Rinko-senpai... can I ask you something?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ws_t005a",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "rn_t001a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "What is it?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Weren't you in the gym before you came to this world?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "Yeah..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That's what I thought..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(So maybe the gym is the entrance to this world?)"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ws_t005a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "300"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "rn_t001a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "300"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc052a",
+            "IN",
+            "300"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ws_t005c",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "rn_t001e",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "Again!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "What do you want to show us this time?!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ws_t005c",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "rn_t001e",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc053a",
+            "IN",
+            "300"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ws_t005d",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "rn_t001d",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Uwah!? Where are we?!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "This heat... is this also an illusion?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This time, a barren landscape with red hot lava flowing through it appeared. It looked the primordial Earth, or like scorched terrain from deep in the Devildom."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ws_t005e",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "The smell of soil is so real... it smells like the Devildom."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "rn_t001e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "I can even sense the miasma..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Is this really an illusion? If so, then the haunted castle was nothing, and this is someone of considerable skill.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...Wait, it's possible that this is real..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ws_t005d",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "rn_t001e",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m030a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m030a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rakshasa Orc A",
+        "text": "Oi, who the hell are you guys!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rakshasa Orc B",
+        "text": "They showed up out of nowhere!! Where did you come from!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A horde of Orcs suddenly appeared. And they looked different from the Orcs I had seen before in the black market district."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Are those..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Hey, Rinko's little brother, are they friends of yours?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Of course they're not!! I've only seen them in books, but I think those are \"Rakshasa Orcs.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Rak... shasa Orcs?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "I've also heard of them. The \"Rakshasa Orcs\" are a warrior clan that is the strongest among all Orc clans in the Devildom."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "They boast power that is on a completely different level from normal Orcs, and they are said to be brutal and ferocious."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rakshasa Orc B",
+        "text": "Oooh, a woman! There's a woman!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Rakshasa Orcs stared at Rinko-senpai while licking their lips."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m030a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m030a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ws_t005b",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "rn_t001a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Rakshasa Orcs... heh, sounds interesting\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Interesting, you say... but this means that this isn't an illusion and that we actually got sent to the Devildom!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "Doesn't it seem like it'll be more fun than being at Gosha Academy?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Y-You too, sen... nee-chan?!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Despite the completely bizarre situation, the two of them seemed to be calm."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(So these are Taimanin who made a name for themselves on the frontlines... you can always count on them.)"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ws_t005b",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "rn_t001a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m031a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rakshasa Orc Lord",
+        "text": "Oh, what's going on!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Parting the horde of Rakshasa Orcs, a figure with an especially eye-catching iron mask appeared. Presumably their leader?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m031a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m030a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m030a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rakshasa Orc A",
+        "text": "Boss! There's some humans here!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rakshasa Orc B",
+        "text": "Hehe, and women, too... what do we do?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rakshasa Orc Lord",
+        "text": "Hmmm."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Orc who seemed to be their leader glanced at us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rakshasa Orc Lord",
+        "text": "Kill them however you want."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rakshasa Orcs",
+        "text": "WOOHOOOO!!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Rakshasa Orcs shouted and cheered upon hearing their boss's order, and the next moment a vicious and deadly aura could be felt from the horde."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rakshasa Orc B",
+        "text": "Hehehe, I'm gonna do this woman."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rakshasa Orc A",
+        "text": "That's fine, we're gonna end up doing all of them anyway."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rakshasa Orc B",
+        "text": "Hehe, right."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m030a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m030a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ws_t005a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "rn_t001a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "How do you want to do this, Rinko-san?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "Hmm, let's get warmed up a bit. We're going to have to fight the intruder sooner or later anyways."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Orcs were discussing how to kill them, but those two didn't seem perturbed in the slightest."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(If Shikanosuke were here, this is where we would hear his \"Aieeee!\" I bet...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Anyways, it definitely helped that my friends were this reliable. So I just had to do my part."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Rinko-se... nee-chan, they are well versed in how to attack in large groups. They'll probably try to separate us, so..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "So you are saying the three of us have to stick together, right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Correct!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "rn_t001b",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "Hehe, that makes sense. Got it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sakura-sen... Sakura! Use your Shadow Jutsu to distract the enemies who try to flank us!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ws_t005b",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "I see! Okey-dokey!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ws_t005b",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "rn_t001b",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m031a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rakshasa Orc Lord",
+        "text": "No point in having a strategy meeting! Because you're all gonna be mincemeat...!"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m031a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

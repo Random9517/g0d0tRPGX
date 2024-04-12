@@ -1,0 +1,708 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm504",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc043a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "zk_t001c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Zocht",
+        "text": "This way. What's wrong? Come quickly. First time in a brothel?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That's not it. I just thought you were going to show me the way to Chaos Arena?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Led by Zocht, we had arrived at a high-class brothel overflowing with obscene light and laughter."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "zk_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Zocht",
+        "text": "Don't panic. The Chaos Arena is below here."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Below a place like this? Really?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "zk_t001c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Zocht",
+        "text": "Are you still doubting me? If I had wanted to set you up, I would've done it ages ago, bro."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I guess that's true. Alright, I'll believe you, old dude."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "zk_t001c",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Okay, it felt like the timing was right. I used the communication device I had been hiding. And in response to the signal\u30fc"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se013"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*THUD!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A heavy sound cut through the air and the guards at the entrance where thrown to the side."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ht_t001a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001d",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hotaru",
+        "text": "I'll get everything under control!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Uehara Shikanosuke",
+        "text": "H-Here come the Taimanin!!!"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se002"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The alarm rang loudly and the brothel erupted into chaos. Even as more guards jumped out, Hotaru-senpai mowed them down one by one."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ht_t001a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001d",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "zk_t001d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "300"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Zocht",
+        "text": "H-Hey!? What do you think you're doing!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Chaos Arena is down below, right? That means we don't need you to show us the way anymore."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "zk_t001f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Zocht",
+        "text": "Fucking brat!! Think you're hot shit, huh, well don't go thinking you'll get away with this!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Oh? Didn't you like quick-witted youngsters like me?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Zocht",
+        "text": "Qu-Quit your bullshit\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se009"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*BAM*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hotaru",
+        "text": "Oh, shut up already!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se010"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "zk_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hotaru struck the furious Zocht directly in the head with her battle axe and Zocht collapsed to the ground in agony."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Playing it cool is fine and all, but anticipate the counterattack."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ht_t001a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001e",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "H-Hey, Fuma... We made quite a scene here, will Hebiko be alright?!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "The enemy didn't attack me in the back alley and also didn't cut me off from my allies, who one would naturally think would be around."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "So I'm pretty sure they had already taken into consideration the fact that I would force my way in."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001f",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "R-Really!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "If we go, it'll become clear. And since we don't know what their goal is, we have no choice but to accept the invitation."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001c",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "I guess that's true... In that case let's quickly go and rescue Hebiko!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hotaru",
+        "text": "You're a reliable captain, huh."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Not as reliable as you are, Hotaru-senpai..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was sincerely grateful to Hotaru-senpai for securing the floor in mere minutes, like a bulldozer."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hotaru",
+        "text": "Anyway, let's go. Hebiko-chan is waiting for us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yes!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ht_t001a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001c",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "2000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "..."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm320",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc060a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t005k",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Ugh... haah... haah... Hebiko somehow managed... to defeat them..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In front of Hebiko, whose entire body was covered in wounds, the powerful enemy Trolls lay scattered about, their dark blood flowing out."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But Hebiko once again was so exhausted that it took all she had to support her own body."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t005k",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However the cruel show wasn't over yet. The announcer cold-heartedly announced the entrance of the next adversaries."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Announcer",
+        "text": "<i>The next opponents for the bravely fighting Miss Hebiko are the demonic beasts you know so well, the Salamanders!!!</i>"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m048a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m049a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "What entered the arena were bizarre-looking warriors, kind like a snake and a lizard. They were most likely monsters from the Devildom."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Spectators",
+        "text": "OHHHHHHHHHHHHHH!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Spectators",
+        "text": "Hebiko-chan! Show us what you got!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m048a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m049a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t005e",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "S-So this won't end until Hebiko loses..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But at least she couldn't say that they were underestimating the stamina of an octopus."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t005g",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "(Fuma-chan, Hebiko might not be able to become a bride...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There was no choice but to keep fighting. With the lustful cheers of the crowd behind her, Hebiko's fight to the death continued."
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t005g",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

@@ -1,0 +1,793 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc126a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm509",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In the sewers of Yomihara\u2015"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This was the escape route that Shizuru had prepared."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Using these sewers, we would be able to proceed to the entrance of Yomihara without having to pass through the dangerous streets of the city."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m076a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamata no Orochi",
+        "text": "Oohh... It got a lot quieter back there. Looks like we gave those fat-asses the slip."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yamata no Orochi, who had been walking in front, turned around and cracked a smile."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Looks like it..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I also checked behind us, making sure that we were safe."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "These sewers had many branches and were almost like a maze."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With this much of a lead, it was likely the Trolls wouldn't be able to catch us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yamata no Orochi, let's take a short break. I'm worried about everyone's fatigue."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamata no Orochi",
+        "text": "A break? ...Alright, got it. I don't need breaks, but whatever the boss says goes."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The female warrior shrugged her shoulders and sat down by the wall holding her enormous sword."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In actuality, Hebiko, Shikanosuke, and I were not even that tired."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But I still took a break for Sago-san's sake."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004c",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m077a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Is your body holding up, Sago-san?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sago",
+        "text": "Y-Yes... I'm sorry for the trouble, Hebiko-kun."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Due to his cyborg body malfunctioning, Sago-san wasn't able to move properly at the moment."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And even with Hebiko supporting him, this forced march must have been quite hard on him."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sago",
+        "text": "Good gracious, how utterly pathetic I am... Needing a young lady like you to support me..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "C'mon now, don't talk like that! Heberyone's mission is to rescue you, Sago-san!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Don't hesitate to rely a bit more on Hebiko\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sago",
+        "text": "Hehe... You're young, but you're a good Taimanin. Thank you. I'll take you up on your offer."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sago's strained voice softened a little."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko's cheerfulness and bravery seemed to have warmed his heart."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(But from the looks of it... Hebiko and Sago-san can't be counted on in battle.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko was supporting Sago-san and would not be able to participate in combat. And the same could be said about the person with the malfunctioning cyborg body himself."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Which means that our group's firepower is three people...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We had shaken off the Trolls chasing us, but there was something else to worry about in these sewers."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "According to Shizuru, these sewers were also affected by the Gate to the Devildom."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In other words, they had become home to dangerous demonic creatures..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Well then, how will three of us be able to cut our way through this...?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was racking my brain trying to find a strategy in case we should need it."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "s_t001d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "They're gone!? What's going on!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hm?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "From right beside me, I heard a voice that was free of any nervousness."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "s_t001f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "H-Hey, look at this, Fuma!! My snacks have disappeared!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Your snacks...? You were going to eat snacks right now?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Now's the perfect time!! I'm just trying to relieve some of my fatigue during our break."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hm? Fair enough..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Being able to regain strength during a break was a crucial point that could determine the success or failure of a mission."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "So we each had brought our own portable rations of preserved food and snacks."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "But forget about that! My snacks are more important here! The soy sauce cookies I bought at Inageya!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "I didn't eat them and saved them until now, but they're not in my bag!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Pfft, by snacks you meant soy sauce cookies? Aren't those a bit strong-tasting?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "They're super good though!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "s_t001e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "...I mean, they can't hold a candle to Saika-san's cookies that I tried before, but..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Well, that's because Saika's homemade cookies are the best."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Hm...?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Come to think of it, Saika's cookies I had brought with me had also disappeared from my bag..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "s_t001f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "But still! They're not here! You ate them, didn't you? Last night, sneakily, when you got hungry!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huh!? No way I'd eat them!! I mean, my snacks were also eaten! That was you, wasn't it!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Your snacks!? I didn't eat them!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I didn't eat them either!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "s_t001f",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m076a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamata no Orochi",
+        "text": "Hm-hm... You're so full of energy, boys. If you've got that kind of energy, you don't need a break, do you?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Just as we were getting invested in our trivial argument, Yamata no Orochi called out to us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ah, no... it's nothing. Please don't mind us..."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "s_t001f",
+            "RIGHT",
+            "CENTER",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(See!? Because you're so noisy, she looked at us as if we're stupid!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "(Ehhh!?? It's my fault!!?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Lowering our voices, we kept at it."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, at that moment."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(No, wait a second...?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I recalled one more thing."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(On our way to Yomihara, Sana-san's can had also been empty...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had been slightly concerned about it at the time, but had forgotten about it because of the difficulties we had faced on the journey."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "s_t001f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "What the hell, Fuma!? So you're the one who ate them after all!? You just remembered something, didn't you!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No, I just remembered that\u2015Hmmm?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Wait, Shikanosuke, did you hear something just now...?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "s_t001d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Eeeeh!? What do you mean by \"something!?\" Even if you start telling ghost stories in a place like this, I won't fall for it\u2015"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...That's not it. You can't hear anything? There's the sound of something far away coming closer..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Skrrr... Skrrrrr...*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The sound of something like a massive body slithering got closer to us little by little."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "I-I-I can hear iiiiit!!!! What is it!? One of your pranks!? That's what it is, isn't iiiiit!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Dummy, who's gonna play such a boring prank!! Shizuru said before, didn't she!? The reason why nobody ever enters the sewers is\u2015"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm304",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se086"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m072a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Devil Worm",
+        "text": "HRRRRRSSSSSS!!!!!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "ts_m067a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "6",
+            "ts_m067a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Devildomian Wasp",
+        "text": "\u2015\u2015\u2015\u2015"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...Because they're a nest for demonic creatures. That's why they'd be convenient as an escape route..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Y-Yes... She did say that..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hideous monsters appeared from the darkness deep within the sewers."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamata no Orochi",
+        "text": "Oh, looks like our break is over. Show us a good time, you monsters!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "6",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

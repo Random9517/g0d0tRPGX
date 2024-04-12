@@ -1,0 +1,422 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm320",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc060a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hebiko!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As we entered Chaos Arena, we were greeted by the smell of burning flesh and a dreadful heat."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m048a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m049a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "I-It hurts... ahhhh..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The arena was littered with the corpses of red-scaled monsters, and in the middle of everything Hebiko was desperately resisting having her body constricted."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m048a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m049a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t002f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "H-Hebiko!!! Take this, Electric Jutsu: Spark!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t002f",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se030"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc060a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*PZZZ!!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Salamander",
+        "text": "GRR!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Salamander that was squeezing Hebiko turned this way at the pain of the flashy sparks and static electricity."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke's Ninja Art didn't have the strength to seriously wound someone, but at least it could get their attention. In that short moment\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hotaru",
+        "text": "Hebiko-chan!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se027"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*SMACK*...!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hotaru-senpai jumped into the pack of Salamanders and slashed through their scales."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hebiko!! Are you alright!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t005d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Haah... haah... F-Fuma-chan... why are you here...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "We'll talk about the details later. Can you move?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t005g",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "S-Somehow..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Alright, let's retreat!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t005g",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And just as we started running towards the exit."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Spectators",
+        "text": "OHHHHHHHHH!!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The crowd cheered loudly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Fuma! O-Over there..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001d",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As the spotlight illuminated the walkway, we saw a masked beauty slowly walking towards us."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sr_t003a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Snake Lady...!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Snake Lady? So she's the owner of Chaos Arena."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hotaru",
+        "text": "Fuma-kun! That woman has a profound demonic presence. Please be careful."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieee, really?!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Out of the frying pan and into the fire..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Snake Lady came and stopped in front of us with a clack of her high heels."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snake Lady",
+        "text": "Welcome to Chaos Arena\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(I guess we're not gonna get out of here that easily...!)"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sr_t003a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

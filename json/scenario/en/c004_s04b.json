@@ -1,0 +1,406 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm207",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc047a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t005d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "Ninja Art: Petal Frenzy!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Ooohh...!!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Flower petals fluttered through the dark night sky and the guards fell asleep one by one."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Bzzz*..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "Haah!"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se065"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Wuh-Pshh.*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Oooooohhh...!!!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The guard drones that weren't affected by the floral scent were struck down by her fantastically versatile thorny whip."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t005d",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t002b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Amazing... So that's why she's called \"Shizuru the Flower.\""
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t002b",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko watched Shizuru-sensei's gorgeous fighting style with a gleam in her eyes."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Her specialty is infiltration, but she is a highly capable fighter as well... Shizuru-sensei... it appears she's not just a pair of boobs.)"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t001d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "Fuma-kun, would you snap out of it? If we break through here we should reach the forest where they hold experiments, let's go!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t001d",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc048a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t001f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "I can sense a faint miasma..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t001f",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "mi_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Minasaki",
+        "text": "The queen has noticed us...!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah, I can hear an indistinct fluttering sound getting closer..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim",
+        "text": "Is the queen coming for us?!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "mi_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t004d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "They're coming... One... two... eehh?!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Bzzzzz*...!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I could still hear that sound in my ears, even a short while later. It was almost like a strong ringing in the ears..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t004e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "There's a looooot of them!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What's going on?!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t004e",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t001d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "I don't know, maybe they had stayed in the forest to protect the queen... or the wasps that were out hunting came back."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Fuma-chan, what's the plan!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I might have an idea... Shizuru-sensei, may I give orders?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t001b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "Hehe\u2606 For tonight, just \"Shizuru\" is fine. I'll follow your lead! I have high expectations for your ability to issue commands, given the great showing you had when the rebellion happened."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Understood. Alright, make a circle! Support each other and guard each other's blind spots."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se063"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Bzzzz... bzzzzzz...*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The fluttering sound was about to reach us."
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

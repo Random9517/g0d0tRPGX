@@ -1,0 +1,925 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc100a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm207",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m077a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sago",
+        "text": "Ha!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "200"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se031"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "ef005a",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Bam!! Slash!!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Troll",
+        "text": "UGGGHHHRRRR!!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc100a",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se010"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The unpleasant smell of burning flesh was filling the small bar."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m077a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sago's hands had reached extreme temperatures, and with them he was burning through the huge bodies of the approaching trolls one after the other."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(He's strong...!! I can't believe my dirtbag dad had a guy like this as a subordinate...!!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I couldn't contain my admiration while I was also fighting back the trolls."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The cyborg and former Taimanin quickly repelled the group of monsters rushing into the bar."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Hm, but...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At the same time, I felt an inexpressible sadness to see that even a man as strong as him had lost his way\u2015"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sago",
+        "text": "Uuarrgh!!?"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se087_01"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Claaank...!!* *Grriiiind... grriigrigri...!!!*"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "\u2015Sago-san!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It had happened without warning. A strange noise reverberated from Sago's body as he was vanquishing the Trolls with his superhuman strength, and his movements lost their edge."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sago",
+        "text": "Damn it...!! Looks like this body can't even make it through a small skirmish like this anymore...!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(I see...! That cyborg body has almost reached the end of its lifespan...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Since he didn't have access to UFS maintenance, the broken parts could not be repaired."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And now, Sago could only show his former strength for but a brief moment."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m046a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m046a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Troll",
+        "text": "UGGGHHHRRRR!!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Trolls attacked Sago with no regard for his predicament."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sago-san!!? This doesn't look good\u2015"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If I didn't go to his rescue, Sago would be in danger, but\u2015"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I already had my hands full with the trolls that were coming after me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Troll Chief",
+        "text": "Geh-hee-hee-hee!!! Cyborg... Grab!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Troll",
+        "text": "UGGGHHHRRRR!!!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sago",
+        "text": "Urgh\u2015"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sago was down on his knees while a club swung by a troll was barreling toward him. At that moment\u2015"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se027"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m076a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamata no Orochi",
+        "text": "Hooorrryyyaaaaa!!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "CENTER",
+            "linear",
+            "200"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se032"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "ef005a",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Troll",
+        "text": "UGGHHHH!!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Accompanied by a battle cry, a giant blade swung down and instantly turned the Troll's massive body into chunks of meat."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc100a",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "sz_t005f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "\u2015Ninja Art: Petal Frenzy!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se074_01"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Trolls",
+        "text": "\"UGHRR!! UGH... HRR...\" \"UGHH... \""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Flower petals danced through the air and the trolls surrounding Sago began to writhe in agony."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Shizuru!! And Yamata no Orochi!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We were saved\u2015!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Following Shizuru and the Oni warrior, Hebiko and Shikanosuke also came down from the second floor."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "h_t005f",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "6",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Fuma-chan!! Are you okay!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "H-Hey!? What's going on, I was having such a good sleep!?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "6",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "sz_t005d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "Fuma-kun. Just when I was thinking it was noisy down here, it looks like you were really in trouble."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yes... I don't know how, but it looks like our hideout has been discovered."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The four of them moved into position to face the horde of monsters and protect Sago."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He had regained his footing for the time being, but we were not out of the woods yet."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "h_t002f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Fuma-chan! There's a bad smell coming from outside the bar\u2015Heberybody is probably surrounded."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah, seems like it..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Despite the strenuous efforts of Shizuru and the others, the Trolls' offensive did not abate in the slightest."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There must have been several squads surrounding the hideout."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "sz_t005d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "This isn't good... As the commotion is growing, the residents of the underworld are going to gather. That will put us at a disadvantage."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieeee!!! Th-Then what should we dooo!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "Let's see... Fuma-kun!! I'll take care of things here. And you, on the other hand\u2015"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "We'll escape and bring Sago-san with us. \u2015That's what you were going to say, right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "Yes. The escape route is as we discussed in the evening. Have you memorized it properly?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I have a pretty good memory, yeah."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "sz_t005a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "Very good\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shizuru winked mischievously and turned to face Yamata no Orochi."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "sz_t005d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "I'll create an opening for a moment with my Jutsu. Yamata no Orochi\u2015smash through the siege with your sword!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamata no Orochi",
+        "text": "Hm-hm, piece of cake..."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yamata no Orochi grinned and raised her freakish, giant sword."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "We're going too!! Hebiko, take care of Sago-san!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "h_t005f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Got it, Fuma-chan!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko, who had transformed into an octopus, used her powerful octopus tentacles to lift up Sago, who was still unable to move."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "CENTER",
+            "linear",
+            "200"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc100a",
+            "IN",
+            "200"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR01",
+            "IN",
+            "800"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "sz_t005a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "200"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Make sure to stay alive, Shizuru!! Let's meet again in Gosha!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "Hehe, of course. I mean, I've got a class to teach you all at the beginning of the week\u266a"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "sz_t005f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "\u2015Now go!!!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m046a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m046a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Troll",
+        "text": "UGGGHHHRRRR!!!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The horde of ferocious Trolls cried out savagely and attacked."
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And with Shizuru's support, we were able to break right through the middle of them."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

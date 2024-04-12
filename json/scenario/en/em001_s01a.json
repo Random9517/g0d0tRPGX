@@ -1,0 +1,912 @@
+[
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "..."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm506",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc028a",
+            "IN",
+            "3000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Behind Gosha Academy stretched a lush, green mountain forest."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And in this place, which was also used as a combat training ground for the academy, a battle to decide fate was about to begin."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Igawa Sakura",
+        "text": "Looks like the time has finally come, Fuma-kun. Between you and I, who's gonna survive...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sakura was clad in her Taima-Suit, and a calm fighting spirit was emanating from her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "To be honest, I didn't want to fight against you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The situation was on a hair trigger. A tension unbefitting this invigorating forest was stretched tightly between me and Sakura."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Don't say that, Fuma-kun. I mean, the same goes for me\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "I don't feel any resentment toward you. On the contrary, I'm grateful. I hoped we'd always be friends... but that wasn't in the cards."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "The so-called fate of the shinobi, huh? It's tough..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Even if they cared for each other, they sometimes had to fight to the death. That was the sad \"fate\" of the shinobi."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Everything had started with\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR14",
+            "OUT",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "black",
+            "NONE"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Late at night two days ago."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc088a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR14",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In Sakura's room at the Fuma residence\u30fc\nthat is to say, at my home..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The young Sakura, who had come from a different dimension and wasn't able to return, was staying here as a freeloader."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "How could she return to her dimension? She still didn't have any leads, but she also didn't seem to be thinking about it particularly seriously."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "More so than that, she would rather\u30fc"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm401",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "YEAHHHHHH!! Head shot!!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Did you see that, Fuma-kun!? Did you see my amazing play!? YES!! YEEEEESSSSSS!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sakura's voice echoed through the room in the middle of the night. She was super excited and swung her controller in the air."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "H-Hey, I know there's nobody around, but try not to make such a racket!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sakura was currently hooked on numerous games that I had bought with my money, which I had saved up from my New Year's and regular allowances."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I wasn't sure about the detailed workings of it all, but it seemed like the dimension that Sakura was from was slightly in the past compared to this dimension."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In other words, all of my games were quite literally \"next generation\" for her."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Wooooow, this really is amazing! The point of view moves when I just slightly tilt the controller!! And the graphics are unbelievable! Like a photo!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hey, there are still three more enemies!! Don't let your guard down! I'm gonna flank them!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Roger that, Captain!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And in gaining a decent playing partner, my gaming fever had been rekindled as well. Sakura and I were both obsessed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Alright, Sakura, you take the... No! If you shoot now they'll return fire..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Ah~ wait!! No!! Ouch!! Oh crap!! Fuma-kun, no!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hold on!! I'm coming for you!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Yeah, hurry up!! Ah~ you're good! Fuma-kun, you're awesome!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Good, now to attack them from behind! You go too! Now!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Yeah, yeah! Going, going, going! ...YES!! ALRIIIIIIIIGHT!!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Both of Us",
+        "text": "YEEEEEESSSS!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Satisfied with our superb result, we high fived."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Man~! That was great!! Fuma-kun, how come you're so good at this!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hehehe, because I practice every day!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "I see~ Will I also get better if I practice?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Of course you will. Want to play one more round? I'll join you."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Really? Even though it's already this late?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As I looked in the direction that Sakura was pointing, the clock was already showing 3:30."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Which of course meant 3:30 in the middle of the night. Tomorrow was... unfortunately not a day off, meaning I would have to go to school as usual, and normally would have gone to sleep long ago."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It'll be fine. I can just sleep during class."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Fuma-kun, you're such a delinquent..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What? Do you want to stop then?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Ehehe. No, I don't~\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I pressed the \"continue\" button again. That's right, there was nothing stopping the two of us today."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Normally, we can't even fully enjoy games because Tokiko is always nagging us. I'm sure it's fine to go just a little overboard."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Tokiko is out of town on a business trip... This is not a chance you get very often."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Tokiko-san is always so strict~ Saying stuff like \"Only one hour of gaming per day!\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I know, right. God damn, she is just so stubborn\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002b",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "t_t001c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Fuma Tokiko",
+        "text": "My deepest apologies, Master. I returned one day earlier than scheduled."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A shudder ran through the totally still air of the room."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As we turned around in horror\u30fc\nTokiko's cold eyes were looking down upon us."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Both of Us",
+        "text": "GYAAAAAAAAAAAAA~!!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "t_t001c",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR14",
+            "OUT",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "black",
+            "NONE"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Sheesh... that was ridiculously terrifying.)"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc028a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR14",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After that, she had us sit kneeling for three hours until morning, and we received a scolding. We also had to promise to undergo a certain special training."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And that training was\u30fc\ncompetition-style covert training here in the forest behind the academy."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm506",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "t_t002e",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "As you both know, beyond this point is an area for covert training with sophisticated traps set at all over."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "To make it through, you will need not only your physical abilities, but also in-depth knowledge and observational skills\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "And whoever makes it through and arrives at the checkpoint first is the winner."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "H-Hold on. If I'm not mistaken, isn't this the advanced area where even professional Taimanin train and where people regularly get injured during training\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "t_t002b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "Correct."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Tokiko smiled broadly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "I thought this level of stimulation was necessary to whip your self-awareness as a Taimanin into shape, since it's completely languid."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ugh..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "t_t002c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "You are free to interfere with your opponent. How you use your supporters is also fully up to you. However, reaching the goal is something you yourself must do."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We had been told that we could call two supporters each, so a total of four supporters were already standing at the ready inside the course."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "Both of you, are you ready?"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm304",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "t_t002c",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Yes, Tokiko-san! Any time is good!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah... me too."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was finally time. Our tension escalated."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Sorry, Fuma-kun, but... I will claim the right to receive an allowance!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hmph, just try and take it if you can!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yes, this was the reason why it was a \"No-Backdown Battle\"\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The winner would get the right to receive an allowance."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Right now, Sakura's allowance was scraped together from my allowance."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Apparently Tokiko helped her out sometimes, but basically, as the one who had brought in the stray, it was my responsibility to watch and take care of her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(If the right to the allowance goes to Sakura... that would mean it would be like I was the pet dog! I definitely can't let that happen!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This was a matter of life and death. Games and snacks alike... everything requires money."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Hehe..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Shit!! What a sinister look Sakura has in her eyes!!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "All kinds of desires were swirling around in those eyes, from Inageya's ice cream, to cute clothes and new games..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(I-I have to win no matter what...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(I should have a chance. I can't win in physical ability, but knowledge and observational skills will also be important in covert training.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(But if things don't go my way, then I have no choice. When that time comes, I'll have to use any means necessary\u30fc\nNo hard feelings, Sakura.)"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "t_t002f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "\u30fcThen let the training begin!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "t_t002f",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hearing Tokiko's signal, we started running deeper into the forest."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

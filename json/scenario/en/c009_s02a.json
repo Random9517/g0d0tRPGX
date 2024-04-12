@@ -1,0 +1,757 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc100a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm605",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A tall man appeared from out of the shadow of the pillar that the kunai had struck."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m063a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "My apologies. I didn't mean to hide."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m063a",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0077a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "Be careful, Fuma\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shishigami said quietly and got into a fighting stance."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The man showed no signs of hostility and was smiling peacefully."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But Shishigami didn't seem to have the slightest intention of letting her guard down."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Hmm, this guy is\u30fc)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yes, I knew this man's face very well."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It's you\u30fcGaku Shonosuke. What a surprise to meet you here."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "It has been a while, Kotaro-sama. Really, it is quite unexpected."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shonosuke bowed gracefully to me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "...Do you know that guy?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah... He's a high-level underboss of the Nisha Clan you've heard so much about lately."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m063a",
+            "LEFT",
+            "CENTER",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "His name was Gaku Shonosuke\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He was on the same level as their other skilled Taimanin, such as the spear-wielding Dobashi Gonza or \"Mermaid's Sapphire Eyes\" Yao Bikuni."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He was a dual-wielding swordsman who specialized in Iaijutsu and used the same Falcon Jutsu as Headmistress Asagi\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He was known for using his Falcon Jutsu, with specialized movement of both arms, to draw his two swords with unbelievable speed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "Yes, you're right. I'm a servant of the Nisha Clan who has now, regrettably, become your enemy."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "Because of that, it was a little difficult for me to show my face in front of you, Kotaro-sama\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Are you trying to say that's the reason why you were hiding...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "In the end... yes, that's how it goes, hm."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With no sign of remorse, Shonosuke nodded."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "I had no idea my presence would be noticed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "That masked girl seems to have wonderful \"eyes\" and \"ears.\""
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m063a",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0077a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shishigami still remained wary of Shonosuke."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m063a",
+            "LEFT",
+            "CENTER",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Well, I guess that's only natural...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After all, the adversary was a Taimanin and underboss of Nisha, who had started the rebellion."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Of course, I didn't let my guard down either and asked Shonosuke in a firm voice."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Was this trap aimed at me, Shonosuke?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "At you...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That stupid Gaiza surely knows that I came back to life, right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "And, having not learned his lesson, he sent you here. Is that the purpose of this trap?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "No, it's not like that at all."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Well, I guess there's no way you'd answer honestly. If you came to kill me, that is."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "Hehe, we're in a bind, huh..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shonosuke shrugged with a bitter smile."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "I am not an assassin. The fact that you or that girl would come to this store was entirely unforeseen to me\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "Whether you believe me or not is all up to you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hmm..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(He's certainly right about that\u30fc)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had come to this store because of the errand for Kiryu-sensei\u30fcwhich meant that it was a complete coincidence."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In the unlikely event that Kiryu-sensei had been in contact with Shonosuke then it might have been possible to set a trap for me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, it was hard to imagine that that troublemaker-and-a-half would cooperate with anyone other than Murasaki-sensei..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Well, I guess I'll believe you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "Glad to hear that. An unnecessary conflict has been avoided."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Looking at Shonosuke, who was grinning in amusement, Shishigami whispered in a hushed voice."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0077a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "(Is it really okay to believe someone from the Nisha Clan, Fuma?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(I don't completely trust him. It's simply \"for the time being.\")"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "(For the time being...?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Yeah. As long as Shonosuke doesn't make any strange moves, we'll wait and see.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Besides, we currently had more pressing matters at hand."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m063a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "So, Shonosuke, you had nothing to do with this trap, right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I turned back toward Shonosuke and asked him."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Regardless of what Shonosuke's true intentions were, if we didn't get out of here it wasn't worth discussing."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "No... To be exact, I can't say I had \"nothing\" to do with it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Oh? What do you mean?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "This trap was intended for me. Which means, the two of you just happened to get caught in it... I guess that would be the whole truth to it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Intended for you...?"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This was a baffling explanation. But just when I was about to ask for more details\u30fc"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0077a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm404",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "Watch out, Fuma!! Will-o'-wisps!!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Will-o'-wisps\u30fc!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When I looked up due to Shishigami's piercing voice, things resembling black vortices were forming all over the store."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Countless Will-o'-wisps were trying to crawl out from them."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m064a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Will-o'-wisp",
+        "text": "GRR-ROOOOOOOOGHHH...!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hey, hey. Are those things still appearing...?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m064a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "ts_m064a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_PRIORITY",
+        "info": [
+            "3",
+            "10"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "800"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m063a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "It really seems to be that kind of trap."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "No matter how strong one is, their skills will falter if fatigue builds up. That is what this trap is aiming for. It is quite clever."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "This is not the time to be impressed!! We'll talk about this later!! Find the monster that's controlling them, both of you!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m063a",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0077a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "Got it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "So for now we are on the same side. \u30fcUnderstood."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

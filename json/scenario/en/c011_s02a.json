@@ -1,0 +1,1023 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "chrnc0101a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm710",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t003d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "This is the defector from the UFS secret service agency \"G.\" His name is Sago Bungo\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After the brief self-introductions, Shizuru launched into her own explanation about the defector cyborg\u30fcSago Bungo."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "Sago-san is a former Taimanin. Not only that, but he was also a close associate in serving Fuma-kun's father, Fuma Danjo."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "700"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc024b",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Former Taimanin: Sago Bungo."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He was a distant relative of the Fuma head family, and he was the most loyal subordinate following Fuma Danjo in his rebellion."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However after the collapse of the rebellion, as well as the death of the mastermind Danjo\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sago would go on to swear revenge against the Gosha Taimanin, led by Igawa Asagi as their Chief Commander, and even turn his own body into that of a cyborg after defecting to the UFS."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc075a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "From then on\u30fcas part of secret service agency \"G\" he continued to fight for the revival of the Fuma clan and for his vow to take vengeance for Danjo."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, in an ironic twist of fate, the daughter that he had left behind at Gosha had been killed in Nisha Gaiza's rebellion."
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "...As a result of that, something inside him had changed drastically."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc117a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sago, who had never once spared a thought for his daughter until then, suddenly had his flaming will to fight completely extinguished."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Feeling the futility of everything, Sago had decided to leave his fighting days behind."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc017a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "...But of course, secret service agency \"G\" would not afford Sago that choice."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The cyborg technology he had received was a highly classified military secret."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As long as he held that technology, any attempts to leave the organization would be seen as an act of treason\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "All of his power and freedom to act was stolen from him, and he even risked being disposed of in secret."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He had been treated absolutely abhorrently."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After Danjo's death, Sago had given his all to the organization, however, it had come to the point where he now had to flee from secret service agency \"G.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And so he had continued hiding away in the underground city of Yomihara to escape his pursuers..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "chrnc0101a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t003d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "It was one week ago that Sago-san contacted the Japanese government."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "He asked that they provide an escort to the surface in exchange for the information he has."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "And we are the ones who have come to Yomihara to answer his request."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm203",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "chrnc0030b",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "One hour later\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The second floor of the bar had been turned into a cheap hotel."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We had the place rented out so we each went to our rooms to rest before the start of our mission the next morning."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Still... I don't know what it is but I've got mixed feelings about this...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Laying on the filthy bed sheets, I recalled what Shizuru had said."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sago Bungo\u30fcA former Taimanin and defector from a secret UFS agency."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "His life had been totally messed up when the Fuma head family rebelled against the Gosha Taimanin."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In other words, my damn old man was the cause of it all."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(That bastard, he's always causing nothing but trouble for others...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As the Fuma heir, I wasn't even aware of the existence of the defector."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Of course, there were surely many others whose lives were ruined by my old man..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Well... It does no good to worry about that stuff now...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That was what I told myself, however, deep within I was still restless and agitated."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Combined with the excitement of first setting foot in Yomihara, there was no way I was getting a wink of sleep that night..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Oh yeah... That's right, I got some snacks from Saika."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I suddenly remembered and got up from my bed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When I mentioned to her that I was going on a mission to Yomihara she had handed me some snacks, telling me to eat them with everyone on the way."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hehehe... Saika's handmade cookies are just the best...!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I rummaged through my stuff, hoping that eating something would make me sleepy. However..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huh? That's weird...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "They were nowhere to be found."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Saika's Special Ultra-delicious Cookies which I was sure I had put in my bag, had vanished without a trace."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "C-, c'mon... what gives...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko and Shikanosuke were also aware of just how delicious Saika's handmade cookies were."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Was it possible that those two had snuck off with them and ate them...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I don't think they did that though...? Well... whatever. I guess I'll just look for something downstairs."
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc100a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The bar on the first floor was closed up for the night."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Only Sago, the refugee cyborg, still lingered in the deathly quiet, dimly lit room."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m077a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sago",
+        "text": "Young Lord...? Trouble sleeping? Tomorrow's going to be a busy day."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As a cyborg, Sago apparently did not need regular sleep like a normal human being."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And because of that, he had offered to stand watch while everyone else was sleeping."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah, I know, but... I'm a bit hungry."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sago",
+        "text": "I see. There are some snacks on the shelf back there. Take whatever you'd like."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "On the shelf...? Thank you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I took some cheese, nuts, and some other snacks, and went to sit next to Sago."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was perfect. I had wanted to have a little chat with this man."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sago",
+        "text": "...Is something the matter, Young Lord?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Nothing in particular, but... you worked for my old man right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sago",
+        "text": "That's right. It was a long time ago though."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I see..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sago",
+        "text": "...Do you find it strange, Young Lord?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Of course I do! Not only you, but also all the other people\u2015"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Being taken for a ride by that dirtbag and diving headlong into a battle that you couldn't win. ...From my point of view, you are all massive fools."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sago",
+        "text": "Haha. Looking at it from your side now, Young Lord, it certainly must seem that way..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Showing no sign of being offended, Sago let out a dry laugh."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sago",
+        "text": "But at that time... We were all serious about it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sago",
+        "text": "I was proud to be a ninja for Fuma and truly wished for the Fuma Clan to rise to power... I thought that it was more important than anything else."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sago",
+        "text": "I felt sure that fighting for that cause was the be-all and end-all. But... I was mistaken."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Mistaken...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sago",
+        "text": "Yes... It wasn't until had I lost it that I realized what was most important to me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sago",
+        "text": "I... truly was a fool."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...Are you talking about your daughter?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sago's daughter was said to have been killed after getting dragged into Gaiza's rebellion."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sago",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sago did not answer and only nodded quietly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Do you have any regrets...? About fighting for the Fuma Clan?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sago",
+        "text": "I don't know... I'm not even sure if I have any right to regret the past."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sago",
+        "text": "It's just, I... maimed and killed a lot of people during the fighting. If I return to Gosha, I daresay I'll be punished for those sins."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...!? Wait a second!! You'll get killed if you go back to Gosha...? Then what are we here for!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Did we come here to escort this man to the surface only for him to be killed?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sago",
+        "text": "Young Lord. This body of mine is very valuable. It's chock-full of UFS cyborg technology."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sago",
+        "text": "I'll offer this, and in exchange, I will have my \"wish\" granted."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Your wish...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sago",
+        "text": "Yes. ...To visit my daughter's grave."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I see... To visit her grave..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The final wish of a man who had lived through countless battles was far too modest, as well as tragic."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sago",
+        "text": "I was a foolish father who lived by his principles and lost everything. ...I want to pray for her at least once."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "W-Wait a second! What are you thinking? \u2015You'll lay down your life to be able to visit her grave!? Do you think that will make your daughter happy!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sago",
+        "text": "Young Lord...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I'm sure your daughter would also want you to live!! \u2015I'll go and talk it over with Headmistress Asagi!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I'll negotiate for your clemency, so you can live and be able to atone for your sins! So\u2015"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...Hehe, what's wrong, Young Lord? Why do you care so much about someone you've only just met?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No, it's just... it's nothing."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "...This was a man whose life had been ruined by a reckless rebellion and who was now about to march off to his own destruction."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I couldn't help but see in him the image of another \"certain someone\" that I knew so well."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sago",
+        "text": "Hehe, yes... If a piece of junk like me would be allowed to give you one piece of advice, Young Lord\u2015"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sago",
+        "text": "If you are inheriting the name \"Fuma Kotaro\" and trying to change things... then do not be too consumed in thinking about the likes of me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sago",
+        "text": "...Do what needs to be done, Young Lord."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "B-But..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sago",
+        "text": "Either way, I am not long for this world. Without the technology of secret service agency \"G,\" this cyborg body cannot be maintained."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Then... even if he wasn't killed, his body would eventually deteriorate."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sago",
+        "text": "So... before that, I want to fulfill my last wish. That is all I want, Young Lord."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No, I..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Just as I was trying to open my mouth to reply, \"Are you really okay with that,\" Sago suddenly stopped me leaving the words stuck in my throat."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sago",
+        "text": "\u2015Wait, Young Lord. Be careful, something is coming."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What...?"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And then\u2015"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm313",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se012"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m046a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m046a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Troll",
+        "text": "UGGHHHRRRRR!!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "\u300c\uff01\uff01\uff1f\u300d"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Accompanied by a deafening roar, the door of the entrance burst open and a group of monsters rushed in."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(\u2015Trolls!!?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "They were giant monsters, nearly three meters tall."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Although they had low intelligence, Trolls were ferocious, extraordinarily powerful, and extremely tough, and they were said to often be used by the forces of darkness the same as Orcs and Ogres."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m078a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Troll Chief",
+        "text": "Cyborg... Here...!! Kill... Kill...!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "One of the Trolls, who seemed to be leading the group, pointed at Sago and gave instructions to the others. It was clear that he was their target."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "\u2015An enemy attack!!? How did they find this place!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sago",
+        "text": "Who knows."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sago responded nonchalantly and stood up from the counter."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ugh\u2015"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Were we followed!? No, that can't be...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We had been very cautious on the way to this hideout and had taken multiple precautions."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Then how did they find out about this place...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sago",
+        "text": "Save the thinking for later, Young Lord. For now, focus on dealing with them."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah, got it!!!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

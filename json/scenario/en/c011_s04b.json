@@ -1,0 +1,378 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm506",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc120a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Oh man, my bad, my bad. Took me a while to get back."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With an apologetic look, I returned to the spot where everyone was resting."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was about 1 hour after we had escaped through the entrance gate of Yomihara."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We had avoided the territory of the Armed Refugees just in case, and we were heading back above ground using the same way we had come."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "You're late, Fuma. I thought you had been eaten by a worm while you were taking a leak."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "C'mon now, even I'm not that stupid."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We were in the middle of taking a breather in the darkness of the old mine shafts."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "While we were resting out of concern for Sago-san's body, I had just returned from taking a piss and dealing with another errand."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001a",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Welcome back, Fuma-chan. Heberyone was just talking about how hard it's been."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ahh, you mean our mission? Yeah, now that we've made it this far, it might as well be mission accomplished."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001b",
+            "LEFT",
+            "CENTER",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Yeah!! I almost died so many times! It's all thanks to Ms. Yamata no Orochi\uff5e"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke smiled at the female Oni mercenary."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Having made it through that deadly situation together, he somehow seemed to be feeling more at ease with her."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001b",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m076a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamata no Orochi",
+        "text": "Hm-hm... Don't worry about it. I'm a mercenary, you know. I won't complain as long as I get paid."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "There you go again\uff5e You're too modest!! No need to always act so cool."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hehehe. That's true\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Everyone was in high spirits."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However\u2015"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was the only one who didn't join in with them."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m076a",
+            "LEFT",
+            "CENTER",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...That's right. We made it thanks to you. But I wanted to ask you something, Yamata no Orochi."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sago",
+        "text": "Young Lord...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamata no Orochi",
+        "text": "Oh, what is it, Fuma kid? Would you like to ask my measurements?"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm610",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hehe, I'd be interested in that as well. But... what I want to ask about right now is regarding the attack on our hideout."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamata no Orochi",
+        "text": "Ohh? The attack..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The female warrior's attitude suddenly turned cold."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was a minor change that probably only I would have noticed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I kept thinking about how something like that could have happened."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "How...? The UFS set those monsters on us, didn't they? Because they can't enter Yomihara themselves."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "\u2015Even if they did, how did they know where the hideout was?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "That's because... someone followed us on our way there or something like that?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That's unlikely. No one was following us at that time. I'm sure of it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We had moved with great caution when we had made our way to the hideout."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Then... someone let something slip by accident?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No chance of that either. I trust Shizuru."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "She's a professional in undercover missions, there's no way she'd make a mistake that would give away the hideout."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Um? In that case...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Exactly... In that case, the remaining possibilities were limited."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sago",
+        "text": "...Someone intentionally leaked the info."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamata no Orochi",
+        "text": "Hm-hm..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The female Oni warrior laughed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was clearly not amicable laughter. Rather, it was hostile, or perhaps it was laughter hiding the menace of sinister lunacy."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That is what I wanted to ask you, Yamata no Orochi\u2015"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Was it you who set us up?"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

@@ -1,0 +1,523 @@
+[
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "..."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm207",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc042a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Haaaah!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se010"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster",
+        "text": "Uaaarrgh!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "HIYAAAH!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se010"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster",
+        "text": "BLEHRGHH!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "And one more, free of charge...!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se010"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*SMACK!! WHACK!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster",
+        "text": "Eeeeek!! We're sorry!! Stop it, please!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Having been beaten to a pulp, the male gangster was slumped on the ground, holding both arms up."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Hmm? Are you really sorry?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m039a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m039a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster",
+        "text": "Eeeeeeeeeeek!! We are, we are!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster",
+        "text": "What the hell! What's with that brat?! She's too strong!! She's too strong, big sis!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m039a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m039a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Nyahaha\u266a I wouldn't go that far~\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sakura had utterly defeated the gun-wielding gangsters without even using her Ninja Art."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(I-I knew it, her strength is ridiculous...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Well, she's \"Sakura-sensei\" but young, so I guess it should be obvious...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I recalled how I hadn't been able to move for about two days after being beaten up by Sakura-sensei during a training class."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Hmm~? Fuma-kun, don't tell me you were too scared to move even a bit?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "O-Of course not!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I was standing by, ready to provide backup at any moment. So that if you got into a pinch, I'd be ready to help right away!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Damn... she's nagging me about the same exact things as Sakura-sensei...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In reality, the fight had simply been over before I had even had time to think about what to do."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Heh~? Glad I can count on you, Fuma-kun~\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "O-Of course!! Now that that's taken care of, let's head out quickly. We have no business in a place like this."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Yeah, you're right! I'm hungry after all that exercise\u266a"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002b",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We turned our backs on the pummeled gangsters and started to walk away. \u30fcBut then."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Female Gangster",
+        "text": "W-Wait a moment!! You guys, hear me out for a second!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Still sitting on the ground, the female gangster strained her voice to shout."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huh? What's up? Still gonna pick a fight?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "You don't know when to give up! One more then..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Female Gangster",
+        "text": "N-No! Wait! I'm not gonna mess with you anymore..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Hmm? I mean, seems like you don't have the strength left to do anything anyways."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Female Gangster",
+        "text": "I now know just how strong you guys... or rather, how strong she is."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Then what do you want from us?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Female Gangster",
+        "text": "You said you're looking for work, right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Female Gangster",
+        "text": "We were actually looking for strong fighters like you. How about getting in on the action...?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Eh...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Upon hearing the unexpected suggestion from the mouth of the female gangster, we reflexively looked at each other."
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002d",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

@@ -1,0 +1,2725 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc054a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se021"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Gosha academy, after school."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc027a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm502",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Exams hell week had ended, and we were messing around."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ahh\uff5e... It's finally over."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t003b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Uehara Shikanosuke",
+        "text": "You said it..."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was already teetering on the borderline, but this time we had the mission to investigate a witch,"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "so I had thought that my grades were going to be completely decimated from lack of study."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Man, I really got my ass saved...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However with the help of Hebiko and Shikanosuke, as well as Kirara-senpai whom I befriended during the mission,"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had somehow managed to get results just a little below average."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And, right now."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(So bored...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had no urgent mission, exams had just ended and I didn't feel like training."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There were many things on my mind. The demonic power that I had awakened for one, as well as the \"demonic fate\" that the witch had talked about for another."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But that being said, so far I had no new clues about anything related to them..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Girl",
+        "text": "Ahh, Mizuki-san and Aishu-san. Well done on the exams\uff5e!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hmm?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0112a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t001b",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mizuki Yukikaze",
+        "text": "Ah. Well done everyone\uff5e\u266a Those exams were crazy, right\u30fc?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Aishu Hebiko",
+        "text": "Hehe. Did heberybody else manage?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Oh. That's Hebiko and Yukikaze huh."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Our usual member Hebiko had entered the cafeteria, along with the loud and ferocious girl, Mizuki Yukikaze."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t003a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That's a rare combo huh? Hebiko and Yukikaze together."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Is it? They seem to get along pretty well."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hmm..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "I mean, Yukikaze gets along with everyone."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "She's cute, strong, open-hearted and she's friendly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "I think you're the only one who kind of gets in a fight with her every time you talk."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "L-Leave me alone! She's... my natural enemy!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Being rather asocial and a loner, I was her complete opposite. It was quite inevitable for us to get along like cats and dogs."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t003a",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t001b",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Ah. Well done on the exams you two\uff5e"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hey, Hebiko."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As we were talking, Hebiko noticed us and walked over."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The popular Yukikaze was still laughing, looking like she was having fun surrounded by her seniors, her classmates and her middle school juniors."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t001a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "What are you doing? You look like you're just lazing around?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ah\uff5e Nothing special, but if I must say we were in fact lazing around."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t001d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Y-You don't say... So does that mean that you're done with your homework?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Homework?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t001c",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "From Kosaka-sensei, remember? To hand in when the exams are over."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Didn't do that."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Until last week I was focused entirely on the exams, and there was no way I had done anything other than that."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t001g",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Haa... figures. Hebiko will help you, so let's do it together, okay?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t001a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t003b",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Really, Hebiko!? Let's do it!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke stood up as if he had been waiting for this."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Eh\uff5e. I'm gonna pass on this one."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t003d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Why, Fuma!? If Hebiko helps us it won't take long."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Just because. Today is all about relaxing for me!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Considering that exams had only just ended, I definitely was not in the mood to do homework."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t001d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Ehh. But Fuma-chan, you're always relaxing."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That's what you call an unrecognized genius. Anyway, I'll be going home to play games with Sakura today!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t003c",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "*Tsk* Forget it then. Looks like it's just us, Hebiko."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t001a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t003a",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "You're right. Then for today let's just\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t001d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "\u30fcAh... Aaaaaaaah!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...Hebiko?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko suddenly let out a wild scream."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t001g",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hebiko forgot to give the notebook back! Ohh\uff5e Yukikaze-chan left already, didn't she...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko said this as she glanced around the cafeteria with a worried look on her face."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Why did you borrow a notebook from her?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t001a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Eh? Well, because she's helping Hebiko study."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Helping <i>you</i>!? You mean, <i>that</i> Yukikaze...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I could have understood if it was the opposite. Hebiko already appeared to be a brilliant model student as you could see."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t001d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "What are you saying? Unlike you, Yukikaze-chan always gets the top grades in our year."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Whaaat!? She's actually smart!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I-I couldn't believe it... She didn't look like the type at all..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Fuma, you've got some niche knowledge and yet don't know much about this do you. I guess that's because you're a loner."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Don't say that!! A-Anyway... Yukikaze, right..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I also gazed around the cafeteria to check. Just as Hebiko said, Yukikaze was nowhere to be seen."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I tried asking the remaining students, but she had apparently just left saying she had some business to take care of."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I guess she went back home. Well, it should be okay to wait until tomorrow."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t001g",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hmm. But it will be hard for her to study today without her notebook. Fuma-chan, could you bring it to her?"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Haa!? Why me!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "You look like you've got nothing better to do, Fuma-chan. And you're not going to do your homework either, right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No that's not... That may be true, but why should I go through the hassle..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t001g",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As I said that, Hebiko glared at me with a pouty look on her face."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hmm. Fuma-chan, you're so mean..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hebiko always does what Fuma-chan asks, you know? Right, Shikanosuke-chan?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Yeaaah. C'mon Fuma, it's fine right? After all you have nothing to do."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I-I got it...! Shit, treating me like I'm just a layabout... well, I really have nothing to do though."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t001b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Really!? Yaaay\uff5e! Hebiko knew she could count on you, Fuma-chan\u266a Please give this to her then."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah. I just have to bring this note to Yukikaze's house ri\u30fc Hmm?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When I received the note from Hebiko, I realized something important."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Wait, hold on a sec. I don't even know where her house is."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t001d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Eh? Seriously?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Didn't you see that girl off to Yukikaze's house?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No, well, I did but..."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "By \"that girl\", she meant Clear, the young girl that we had met before during all that fuss before."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Clear was an augmented human created by a secret organization of the government, meant to kill demons."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, due to some unknown force, she had been abducted, brainwashed, and sent to Gosha."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Her goal was the assassination of Asagi-sensei."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We were able to prevent that and somehow saved Clear who was being manipulated."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After that, Asagi-sensei, in the interest of Clear's safety, had recommended her to stay there."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And so Clear, who had interacted with Yukikaze quite a bit during the commotion, began to live at her house."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had agreed to guide her to Yukikaze's house but\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "At that time it was cool to accept it, but after thinking a bit I realized that I don't actually know where Yukikaze's house is."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t003c",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t001g",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Fuma, you..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "You need to check this kind of thing first..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "W-Well... I was thinking about what I should do then,"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "but by chance she was eating ice cream at Inageya at that time. So I gave Clear to her there."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Now that I mentioned it, I pretty much hadn't seen Clear since that day."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I hoped she was getting along with Yukikaze at her house though..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "\u30fcSo this is how it is. I don't know but what about you two?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t003e",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t001c",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "No. Come to think of it Hebiko doesn't know either."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Me either!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hmm...?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I looked around the cafeteria and asked Yukikaze's friends who were still there."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In the end\u30fcnobody knew where Yukikaze's house was."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "...This was strange."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had started to catch a whiff of some kind of super-special-important hidden \"secret\"..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Mwahaha. I see... This is getting interesting!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t003c",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t001c",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hey, Shikanosuke-chan. Fuma-chan is making that evil face again."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "He is. He must be thinking something weird again."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I-I am not!! You're curious about this too, aren't you!? Yukikaze's secret house that nobody knows!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t001d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Yukikaze's house?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Well. I guess I am a bit curious but..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Okay! Then it's decided!! Mwahaha, this should be a good way to keep me busy... no, I mean I sense some adventure here!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "\u30fcLet's go you two!! We're gonna find Yukikaze's house!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t003d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t001d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko and Shikanosuke",
+        "text": "Ehhh...?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc005a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Five minutes later."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t003c",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t001c",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Wait, we just wanted to do our homework..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Fuma-chan just does as he pleases, doesn't he\uff5e?"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "J-Just come with me! I beg you!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Going alone would have taken all the adventure feeling out of it and made it a chore."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Well, we can do that. But why are we at the school building?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We were walking the corridor that led to the teachers' office."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "To gather information. We have no clues about where Yukikaze's house could be."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "If we asked someone like Sakura-sensei, she would probably tell us, right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "We're just going to ask someone? Does that still count as an adventure?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke was looking unconvinced."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I-It's okay! I'm all for enjoying this but also taking it easy where we can\u30fcHmm!?"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "This is bad!! Hide yourselves you two!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t003e",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t001d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko and Shikanosuke",
+        "text": "Uh?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "RIGHT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I hurriedly pulled them into an empty classroom and hid them there. And just there\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0112a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Hmm\uff5ehmm\u266a Hmmmm\uff5e\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze came by with a carefree expression, swinging her arms as she walked."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She was still inside the school, so perhaps she had something left to do here."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Mwahaha, perfect. This is it, like a moth flying into the flame..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She passed in front of us, who were hiding, and walked toward the entrance."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If we followed her like this we would be able to get to Yukikaze's house, which was a secret to everyone."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Heeeey, Fuma-chan?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What?"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t001c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko pulled my sleeve."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Shouldn't you just give her the notebook now? Then we won't have to go to her house."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Mwahaha. You're so naive Hebiko.."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t001f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Wh-What!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t001c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "If we do that it won't be an adventure, right!? Yukikaze definitely lives in a crazy secret house\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Like at the top of a tall tree, or inside a strange cave in the mountains\u30fc Anyway, it must be an amazing secret house!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t001c",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t003f",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "A-At the top of a tree? For real...!? Damn, it's making me curious now!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Right!!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t001d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Shikanosuke-chan you too!? Come on!! There's no way Yukikaze-chan is living in a strange place like that!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sheesh. Such a killjoy."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t003c",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "That's because Hebiko has no adventurous spirit."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t001f",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "What is with the two of you!!?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "RIGHT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0112a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Hmm?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Shit!! You're too loud Hebiko!!!)"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hmgggh!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I hurried and covered Hebiko's mouth, and we got down low."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And then\u30fc."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Hmm. Was it my imagination? Oh well. Time to go hooome\uff5e\u266a"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se082"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She didn't seem to really care and nonchalantly walked out of the school."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Alright, we're safe!! Let's follow her!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t001f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "No! Hebiko doesn't want to go!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ehhh\uff5e...? Alright, fine. I'll buy you some ice cream at Inageya, so come on Hebiko."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t001d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "I-Ice cream!? Hmm, but..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t001d",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t003b",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Let's go Hebiko! It sounds like fun!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t001g",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "I guess... Just for a little bit then, okay?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That's the way!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc078a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm506",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This was how we decided to follow Yukikaze on her way home."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Old Lady",
+        "text": "Thank you as always\uff5e. Be careful on your way home, Yukikaze-chan."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0112a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "I wiiiill! See you tomorrow granny\uff5e\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It looked like she had gone out of her way to buy ice cream."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze came out of Inageya and walked as she was eating."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se082"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Hmm\uff5e\u266a Hmmhmmm\uff5e\u266a"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t003f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Oh! Look Fuma, Yukikaze is headed for the mountains!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hmm... I knew it, her house isn't in the village..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t003c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It felt like the mystery had deepened."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "What truths lied in wait for us?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Anyway, keep after her!! We'll buy some ice cream too and then follow Yukikaze!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t003b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Got it!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Yaaay\uff5e. Ice cream\u266a Ice cream\u266a"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se054"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc145a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We went even deeper into the isolated mountains."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze arrived in a tranquil area where terraced rice fields were lined up."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0112a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Hmmhmm. Around here should be good\uff5e"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What is she doing?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze was doing something, looking at a field covered in water."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "She's... fishing? She put some fish stick on a line and is fishing for crawfish."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Whaaat!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Indeed, it was exactly as Shikanosuke said\u30fc."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze was filling her mouth with the Inageya ice cream as she amused herself by fishing crawfish."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "There's something weird about this!! Why was she carrying around a crawfish fishing set!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hehehe. Yukikaze-chan is so cute\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Yes! This is big one\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Did she catch one that satisfied her?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se082"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze stood up and walked along ploddingly again."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Oh!? She's on the move again, Fuma!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Y-Yeah... but, you don't think she's noticed we were following her and is just having fun with us do you...?"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se054"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc004a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze left the terraced rice fields area and went into the mountains."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0112a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Hmmhmm\u266a Hmmm\uff5e\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "She's going deeper into the mountains... So does this mean her house is at the top of a tree...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "She's a feral child who fishes crawfishes on her way back home. I've also heard that she was raised by a huge wild dog."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "For real!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Come on. She's not some kind of forest princess."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As we were discussing and following her, Yukikaze went off the road to head even deeper into the mountains."
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se054"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What in the!? How far is she going exactly!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Right!? That must be some strange monster who turned into Yukikaze to trick us, right!?"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc028a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Hmm?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0112a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At that moment, Yukikaze stopped in her tracks."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We hurried and hid ourselves behind a tree."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se076"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Then, the bushes in front of Yukikaze trembled with a rustling sound."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m058a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m057a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Animals",
+        "text": "Grrrrrr... Hiiiisss..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "S-Something came out!? That's\u30fcAnimal Taimanin that can only be tamed by Sakura-sensei!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "For the defense of Gosha, these animals with Taimanin powers were let loose in the mountains."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "They could only be tamed by Sakura-sensei who was their caretaker, and would mercilessly attack any intruder."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The ferocious animals surrounded Yukikaze, and slowly\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Y-Yukikaze-chan is in danger!! We need to save her\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No, wait, Hebiko!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I instantly stopped Hebiko."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(They're not... attacking her!?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shinobi Bear",
+        "text": "Grrr, grrrrr!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shinobi Snake",
+        "text": "Hiiiiisss\uff5e"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "They were actually being rather submissive to her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "They clearly were afraid and greeting her as if she were their senior."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Hmmhmm\u266a Good work as always\uff5e\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze gave the animals the crawfish she had caught earlier."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And she gave them the stick of the ice cream she had just eaten as if to tell them to throw it away."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shinobi Bear",
+        "text": "Roaar!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The shinobi bear skillfully took the ice cream stick and seemed to be saying \"Understood!!\"."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Wow! Yukikaze-chan even gets along with the Animal Taimanin. So nice\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No, that definitely feels like they're her underlings through brute force..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shinobi Bear",
+        "text": "Roar! Rooooooaaar!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shinobi Snake",
+        "text": "Hiiiiisss!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Hmmhmm\u266a See you later\uff5e\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The animals were lining up single file as if to thank her and see her off."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se082"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "They escorted her, and Yukikaze headed even deeper into the mountains."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "A-Anyway! I don't really get what happened here, but let's go too!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Y-Yeah!! But Yukikaze is really impressive, just as I thought\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At that moment."
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se076"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m058a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m057a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The bushes behind us trembled and the Animal Taimanin showed themselves."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Animals",
+        "text": "Grrr...? Hiiiissss...!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ah."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This was very bad..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

@@ -1,0 +1,678 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc100a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m065a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "AHHHHHHHHHHHHHHHH!!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm605",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As the monster\u30fca Shadow\u30fcdisappeared with a cry of despair, the swarm of Will-o'-wisps disappeared as well, as if they had never been there at all."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Phew. We made it through somehow... But I must say, you have ridiculous strength."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I began talking to the masked girl who had sliced through the Shadow with a single stroke of her sword."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She might have been on the same level as some of the ace Taimanin of Gosha Academy that I knew such as Mizuki Yukikaze or Kamimura Maika."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Her strength in wiping out that many of them, the countless Will-o'-wisps, had been overwhelming."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0077a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Girl",
+        "text": "Not really... Forget about that, you're the one that was amazing."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hm? Me?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Girl",
+        "text": "Yeah, your knowledge about magical traps. Without it, I think I would have been in a bit of trouble. Thanks for the help."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The masked girl held out her right hand in admiration."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I'm not a big deal or anything either... Anyway, I'm Fuma Kotaro."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I shook her hand in response."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Girl",
+        "text": "Fuma!? You're <i>that</i> Fuma...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She stared at me in surprise."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "? Do you know about me?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Girl",
+        "text": "You're the captain of the Independent Commando Unit, right? I've heard rumors."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Haha, I bet it was some kind of stupid rumor?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Girl",
+        "text": "No. It was a rumor about your great efforts. \u30fcI'm Jisai, Shishigami Jisai."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The girl smiled and told me her name."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Shishigami, hm\u30fcYou're a Taimanin, right? Do you belong to a unit working outside of Gosha?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I hadn't known there were people with this kind of potential."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shishigami Jisai",
+        "text": "No. I'm also a student at Gosha Academy, just like you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Eh? You are...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "Yes. Unlike famous you, I don't like to stand out."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It's not like I stand out because I like it, though..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The difficulties with Gaiza, the Independent Commando Unit, and so on... Trouble just found its way to me..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Anyway, what is a student from Gosha doing in this place?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I heard that this store is run by a black market broker who is connected to the Devildom. It's not a place for upstanding people."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Incidentally, I had been asked by Kiryu-sensei to run an errand and go to this store to grab some Devildom-produced materials he had ordered."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Apparently, he had ordered them a few days ago, but they had never arrived."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And no matter how many inquiries he made, the store didn't respond, so he had sent me to get his order."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "I received a tip. From the owner of this store\u30fcfrom the black market broker you spoke about."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "A tip...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "Yes. Information about the Nisha Clan members who recently began to work with Nomad."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "He seems to be connected to \"Dragon Gate,\" so most likely that's how he got the information."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "The Nisha Clan? \u30fcInformation about Gaiza and his men!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "An unexpected name had suddenly come up."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If they were involved, then I couldn't say that it didn't concern me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "Didn't you know? I thought you had come here for the same reason."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Eh!? No, I've just got... a small errand to run..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Compared to the masked girl, it was a pretty idiotic reason."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "An errand?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ah, no, it's nothing!! Anyway, you came here and suddenly you were attacked by those Will-o'-wisps, right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "Yes. The owner I received the tip from isn't here and I really don't get what's going on..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hmm..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Once again I looked around the dimly lit store."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There were only the two of us in the store, and according to Shishigami, there was no indication the owner would show up."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It's kind of creepy... If the all-important owner isn't here, we'd better come back later."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "No, that won't work either."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shishigami calmly shook her head."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Won't work? What do you mean?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "Try it and you'll see. It seems you were able to get in the store... but most likely you won't be able to get out."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huh!?"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc100a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR01",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "No, no, there was no way that I wouldn't be able to get out\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se052"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I quickly opened the door and went outside."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Well, at least I should have been outside..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You're right..."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc100a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "What I saw in front of me was the same dimly lit store."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had opened the door and should have made it outside, but somehow I was inside the store again..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0077a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "See? Do you know why that happens?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Not sure, but... this is probably connected to the Will-o'-wisp trap from earlier somehow..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was only natural when you thought about it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "No matter how many endlessly appearing Will-o'-wisps attacked the intruder, if running away was possible everything would be meaningless."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With the two elements combined, the sealed off space and the monsters, the trap was complete."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "So this is the magical trap you were talking about before."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah... And it looks like a pretty advanced one, as far as I can tell."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A feat like cutting off a section of space was impossible for an amateurish practitioner."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "Hmm, you're pretty knowledgeable. You even know what kind of traps are out there."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "All that time wasted reading books comes in handy in situations like this."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(That being said, what the hell is going on here...?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "For what purpose had a trap like this been set?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was a total coincidence that I had come here... so it was unlikely that it was a trap specifically for me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Then was it aimed at this masked girl\u30fc?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hey, Shishigami. Can you think of anybody who would be after you?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "Hmm...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I don't think this trap was set for me... Which would mean, by the process of elimination, that you were the target."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "I-I see... I mean, I can't say that I've never given anyone reason to hate me, but..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "But I don't think I did something to the extent that someone would set a trap like this for me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hmm. In that case\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It meant that, at the moment, the reason was completely unknown."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "I don't know, but... I think there might be someone who knows the reason."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shishigami suddenly lowered her voice and nodded at me slightly."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And then\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "\u30fcYou over there!! Come out! I know you're hiding!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se006"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She called out with a sharp voice and at the same time threw a kunai\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And with a crisp \"shink!\" the tip pierced the pillar at the back of the store."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Eh!? You are\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Slowly, like a shadow oozing out, a tall man appeared from behind the pillar."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m063a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Ah, my apologies. I didn't mean to hide, but\u30fc"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

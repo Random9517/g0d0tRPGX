@@ -1,0 +1,527 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm312",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc033a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We defeated the Succubi and proceeded further into the mysterious castle."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "sa_t002a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004c",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hey, it seems like the inner citadel is never getting any closer."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "sa_t002c",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Uh-hmm, even though it looks like it's right over there..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004g",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "If only Shikanosuke-chan were here... He has a good sense of direction and could also use his electric waves."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You're right..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I wondered if Shikanosuke had also been able to reach the castle."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Or maybe it was us who were lost? Maybe we should have searched for Shikanosuke and then gone together after all?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The misty rain that was still falling kept soaking my face."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "But I don't think this is simply a case of us getting lost because the way inside the castle is complicated."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "sa_t002a",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "What do you mean?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Remember what the Succubi we just defeated said: \"Stubborn humans who aren't fooled by the illusion.\""
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "sa_t002c",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Does that mean..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "And there's this rain that both you and Hebiko had a strange feeling about. And the missing Shikanosuke. What if these are all connected...?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004b",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Oh? Looks like Fuma-chan had a eureka moment."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...That's it! Hebiko, give me the radio!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "The radio? What are you going to do with something like that..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko rummaged through her bag and found the radio, and I grabbed it from her and turned it on."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Then I moved the outstretched antenna in all directions."
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se056"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kzzz... kzzz..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "If you don't adjust the frequency you won't hear anything, you know?"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se056"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kzzz... kzzzkzzz... krrrrrr...!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As I frantically moved the antenna around, I was able to pick up loud interference from one direction."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Got it! Well done, Shikanosuke!!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "sa_t002a",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Hey, hey! What's going on??"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "If Shikanosuke were lost or trapped, there's no way that scaredy-cat would just sit around and do nothing."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "And he knows that Hebiko brought a radio with her. I wouldn't be surprised if he's crying somewhere while sending out electric waves."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "sa_t002b",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "I see! That means the interference is caused by Shikanosuke, isn't it?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "But even if you know the direction, a maze like this is..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I told you there's a connection between this rain, the maze-like castle, and the disappearance of Shikanosuke, right?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "sa_t002a",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Hmm, would you just spell it out already."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "So here's the thing. There's some kind of trick to this rain. It's probably what's producing the effect of the illusion."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "We've been lured into an illusory castle and we're being forced to go around in circles."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "sa_t002c",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "It's an illusion...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "If it's an illusion, it's understandable that the rumors are different, such as a castle or an old manor appearing on a rainy night."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sakura-sensei, surely you remember how nothing happened when we came during the day."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "sa_t002a",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Hmmm, that's true."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Also, the Succubus said something about 'not being fooled by the illusion \"right away.\"'"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Shikanosuke was the most frightened among us and was in the worst mental state."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "So you mean this rain is affecting our minds and we're being shown illusions!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004c",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "But how do you get out if you're already trapped in the illusion??"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That's where we use this."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I pointed to the radio in response to Hebiko's question."
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se056"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "...Krrr... kzzz... krrr... kzzz..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "...Looks like the only option for now!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "sa_t002c",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Alright, let's go!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We started walking in the direction the antenna was pointing."
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "sa_t002c",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004e",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

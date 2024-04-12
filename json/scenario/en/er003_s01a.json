@@ -1,0 +1,1311 @@
+[
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "..."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm307",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc089a",
+            "IN",
+            "3000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Early afternoon on a day off\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kamimura Maika was in nearby Maesaki City, having left Gosha Village and arriving earlier."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ma_t002a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kamimura Maika",
+        "text": "(Woohoo\uff5e!! I got tons of super cute items!! It's been quite a while since I went on such a shoppin' spree!!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There were many shopping bags placed around Maika."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Her favorite shop had been having a sale, so she had gotten carried away and ended up buying stuff like crazy."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Maika",
+        "text": "(Cuttin' loose every once in a while is alright, I guess! I mean, I couldn't even wear somethin' like this in Gosha...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "By \"something like this,\" Maika meant the outfit she was wearing right now."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In the complete opposite of her usual tough-looking, boyish attire, Maika was dressed in total \"gyaru\"-style flamboyant fashion."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Maika",
+        "text": "(If I wore somethin' like this over there, those guys at the academy would be in an uproar.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Maika",
+        "text": "(Damn it, what difference does it make whatever clothes I wear!!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Looking slightly disgruntled, Maika pouted her lips."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In fact, Maika loved stuff like cute and girly trinkets, as well as gyaru fashion."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But since she was putting on a tough and cool act at the academy, she couldn't openly enjoy them."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And that's why Maika, on her days off, would head out to the nearby city, which the others from the academy didn't visit very often..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "...and would partake in her secret hobby of heartily enjoying her beloved fashion like this."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Maika",
+        "text": "(Well... it's one of my precious days off, so I'll stop my grumblin' about boring crap!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Maika",
+        "text": "(I already had as much fun as I could today... so I guess I'll pull outta here before I run into any rabble from the academy.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And just as Maika was thinking such thoughts while taking a break at the convenience store in front of the station\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Suspicious Man",
+        "text": "Oh my, what's a cute girl like you doing here? Are you free right now?"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Maika",
+        "text": "Huuh!? What's it to ya!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The man was the spitting image of a shady talent scout."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He was completely unfazed by Maika's intimidating gaze."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Suspicious Man",
+        "text": "Ohhh\uff5e no, no\u266a You're super cute, so if you make a scary face like that, it's all going to be for nothing."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Maika",
+        "text": "Y-You're callin' me cute...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Suspicious Man",
+        "text": "Yes. Your fashion sense is spot on, and I bet you're very popular at school, right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Maika",
+        "text": "N-Not really... I mean, a bit, I guess...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Maika was unusually tongue-tied."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She seemed unable to hide her excitement at being complimented in that way, something she didn't experience much."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Maika",
+        "text": "A-And... what do ya want with me...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Suspicious Man",
+        "text": "Ehehe\u266a You're going to be so excited when you hear. Come on, let's talk over there\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ma_t002a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR26",
+            "OUT",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "black",
+            "NONE"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Three days later\u30fc"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc006a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR26",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm506",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "a_t001c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Igawa Asagi",
+        "text": "Frankly speaking, I have something to ask of you all, the Independent Commando Unit."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After school, Headmistress Asagi had called me to her office and began right away without even a word of greeting."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "So it's a mission. And what will it be this time...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I cautiously asked Headmistress Asagi."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The expression on her face was darkened with something like anxiety."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hmmm..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had a strong hunch that the mission this time was going to be just as much trouble as the ones before..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Right. You know Kamimura Maika-san, don't you?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Well yeah, because we're in the same class."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "a_t001c",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ma_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kamimura Maika was a classmate of mine."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had shied away from her overtly delinquent behavior..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "...but since we had been on the same team during the practical exam, we were now able to talk to each other in a reasonably friendly manner."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Contrary to her tough-looking appearance and behavior, she was surprisingly nice once you got to talking with her."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ma_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc006a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR26",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What about her?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When I asked, Headmistress Asagi seemed worried and let out a small sigh\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "a_t001c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Apparently, she's gone missing."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "She hasn't been home for the last few days and her friends also can't reach her\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What...?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "a_t001c",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR26",
+            "OUT",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "black",
+            "NONE"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc042a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR26",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm206",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That evening, in the entertainment district of the nearby Maesaki City\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t002c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Aishu Hebiko",
+        "text": "Hmmm. So she said to look for Maika-chan, huh."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "On our way here, I had briefly explained the situation to Hebiko and Shikanosuke."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Incidentally, this entertainment district in Maesaki City was the last spot where Maika had been seen."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "To be honest, I think this is a bit of an overreaction."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Even if she's been gone, she's a delinquent, isn't she? Isn't she just enjoying the nightlife or something?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t002c",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "s_t001f",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Uehara Shikanosuke",
+        "text": "H-How can you say that, Fuma!! Kamimura-san isn't such an irresponsible person!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "For some reason Shikanosuke lashed out at me mightily."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huh? You're being awfully protective, aren't you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "I-I'm not being protective!! It's just because you said something so insulting about Kamimura-san..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hmmm..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Wh-What is it...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Come to think of it, last time you also talked quite passionately about Maika."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He had gotten pretty worked up, going on about how, \"She's the one I admire\" and \"I want to be like that.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sure enough, you're in love with her, aren't you?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Seeing Shikanosuke turn bright red was funny, so I pushed the matter further."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "s_t001i",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Th-That's not true!! I just want to say that Kamimura-san is a very nice person\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "A nice person, huh?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Y-Yes, that's right! Just the other day, I saw her holding an umbrella over a stray cat that was getting wet in the rain..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Are we in an old shojo manga or something?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t002a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Ah, Hebiko also saw something like that. Maika-chan took a granny by the hand and crossed the street with her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Just how much is this girl getting her choice moments witnessed...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Don't tell me, maybe she was secretly piling up good deeds left and right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I mean, even I won't deny that Maika is a good person."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "You'd better not!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It's just... her strength is top-class amongst our generation."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was said that her aptitude as a Taimanin was on the same level as Mizuki Yukikaze, famed for her Lightning Jutsu."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Someone like her wouldn't just get nabbed by some hoodlums around here."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "So I had guessed that she might have just been hitting the night clubs."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "s_t001f",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Uhh... th-that's true..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t002g",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "That makes Hebiko worry even more. What could've happened to Maika-chan...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "While the three of us were talking, we arrived at the downtown area where Maika had last been seen."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Well, let's gather some information for now. Let's split up and then meet up again after a while."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "s_t001f",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t002g",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR26",
+            "OUT",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "black",
+            "NONE"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc041a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR26",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm203",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Two hours later\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After splitting up and asking around, we had met up again in a narrow backstreet."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "s_t001c",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t002c",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I see... Now it's getting a bit easier to see the situation..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If you added up the information the three of us had gathered, it looked like this:"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Three days ago in the evening, Maika and a suspicious man had been seen walking through the downtown area."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And interestingly, it seemed that Maika wasn't the only one who had gone missing."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We had been told that in this neighborhood several people had disappeared recently."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And the common feature the missing people shared was that all of them excelled in combat."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Beyond that, there were also rumors that people who had disappeared would return with completely different personalities, and so on and so forth..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "So Maika-chan isn't the only one who disappeared."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah. This incident might be more of a pain in the ass than I thought."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The part about them \"returning with completely different personalities\" was especially concerning."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If that was true, then it would mean that a real good-for-nothing was involved in this..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "H-Hey!! Is this gonna be okay, Fuma!? I'm getting bad vibes like crazy!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Always quick to get worked up, Shikanosuke was already starting to freak out."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t002c",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And at that moment\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Furst",
+        "text": "My, my, so it was you three stealthily snooping around about me\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "f_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "\u30fcYou!??"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm313",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It had happened without a moment's notice."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A tall man was standing in front of us like he had seeped out of the darkness of the backstreet."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieeeeee!? Something's here!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Th-This guy is\u30fc!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "\u30fcFurst, the demonologist."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "One of the senior executives of Nomad who had infiltrated the academy as \"Muroi-sensei\" a while back."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He was considered to be the one who had enticed Gaiza and was a target that demanded extreme caution."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "f_t001b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Furst",
+        "text": "Oh-ho-ho... Long time no see, my pupils. I'm glad that you seem well."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Shut up. I'm getting sick just listening to you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He was as unpleasant a man as ever."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "More importantly, what you said just before\u30fc\nAre the rampant disappearances in this area your doing?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "f_t001d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Furst",
+        "text": "My doing? Hmm, who knows?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Furst evaded my interrogation with an innocent look on his face."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I see. Then we'll just have to detain you! There's a lot I want to ask you regarding Gaiza as well."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I sent Hebiko and Shikanosuke a signal with my eyes."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I didn't know what his intentions were, but him coming out on his own was a good opportunity."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Furst",
+        "text": "Oh my? You're some scary children, hmm."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But Furst showed no sign of being distressed at all\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "f_t001b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Furst",
+        "text": "Oh-ho-ho. This is perfect timing, though. In fact, I was just looking for someone to test \"this\" on."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He laughed elegantly and called out to the darkness behind him."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Furst",
+        "text": "Come on out\u30fc\"Maika.\" Those three over there will be your enemies\u30fcTake care of them, and don't hold back."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "f_t001b",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "M-Maika...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Those words were beyond surprising to us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Taken aback, we froze completely, and in front of us\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ma_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Maika",
+        "text": "Yeah, got it, \"Master.\" I just have to kill these brats, right...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Emerging with a displeased look on her face, the woman wearing a Taima-Suit\u30fcKamimura Maika\u30fcaimed her weapon at us."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ma_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

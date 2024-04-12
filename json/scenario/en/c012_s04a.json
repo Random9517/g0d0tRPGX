@@ -1,0 +1,912 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm314",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc035a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m083a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kotaro",
+        "text": "\u30fcAs if I'd let you, old dude!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Hrm!?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se001"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Clang!!*"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me (Kirara)",
+        "text": "F-, Fuma!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I let out a short scream."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The man who had surprise-attacked us was clearly a Taimanin."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When that powerful arm came hurtling toward me as I lay on the ground, the boy who was my junior, Fuma Kotaro, stepped up to protect me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kotaro",
+        "text": "Y-You bastard...! That's some crazy strength..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kotaro was clearly in a miserable state."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Although he had avoided a direct hit by guarding with his arm, the arm he had used was now broken and bending the wrong way."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "F-Fuma...? Your arm..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Perhaps because my internal organs had been damaged, squeezing out even those few words was excruciating."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But Kotaro's injury looked just about as horrible as mine."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kotaro",
+        "text": "Eh...? Yeah... But it's not as bad as your injuries, senpai..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He said it with a grin and stood in front to protect me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kotaro",
+        "text": "Anyway, please just lie there, senpai. \u30fcI'll take care of him somehow."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!??"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I opened my eyes wide."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "\u30fcFor me, men were \"enemies\" who had used and harmed me and my mother."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, this Fuma Kotaro was protecting me even while sustaining these wounds..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With a sense of disbelief, I stared at \"him,\" at his back, as he stood there to protect me."
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc035a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me (Kotaro)",
+        "text": "Anyway, please just lie there, senpai. \u30fcI'll take care of him somehow."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(...That being said, this is going to be tough...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I grumbled in my head as I held my ninjato in my uninjured hand."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had said that to Kirara-senpai so she would take a quick rest, but my injuries were also pretty bad."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had no time to prepare a plan as I would normally."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Besides\u30fcthe problem was my opponent."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m083a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "GUHUHUH... Well, well, Young Lord, chancing upon you here was unexpected."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah... It's been a while, Yaguruma Yaemon."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The giant looked down at the wounded two of us and his face contorted into a grin."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yaguruma Yaemon, an underboss of the Nisha Clan."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He used a superhuman Ninja Art, the Camouflage Jutsu \"Metaphysical Mimicry.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was said to allow him to become one with any inorganic substances other than water and to use them to his advantage."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "For example, when he had done his surprise attack on Kirara-senpai just now, he had become one with the earth."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And then he had created a puppet that looked exactly like him, controlling it to attack his enemy."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Metaphysical Mimicry, the superb concealment technique, and his well-trained herculean strength\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Maybe not as strong as Bikuni and Shonosuke, but this man too, was a mighty Taimanin beyond compare."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yaguruma Yaemon",
+        "text": "Oh my, the world really is a curious place."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yaemon",
+        "text": "I never thought that my humdrum duty of taking care of the witch would lead to such a big catch falling into my lap!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...By big catch, do you mean me?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In order to buy at least a little time, I opened my mouth."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yaemon",
+        "text": "That is correct. It would seem, Young Lord Diot, that you are weighing heavily on Gaiza-sama's mind\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yaemon",
+        "text": "So I shall pluck your arms and legs, Young Lord, and present them to him as ornaments, GUHUHUH..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hehe, very funny..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He most likely wasn't joking, of course."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "These guys would do something like that without hesitation. That was what it meant to be a ninja."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...But Yaemon. Why is someone from the Nisha Clan like you here? Did Gaiza join forces with the witch?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yaemon",
+        "text": "GUHUHUHUHUHUHUH\u30fc!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When I continued questioning him, Yaemon laughed loudly and held his sides\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yaemon",
+        "text": "Why don't you ask him that yourself!? After you become a limbless daruma, that is\u30fc!!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ugh!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yaemon attacked\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I let out a groan and somehow repelled the attack from the huge arm with my ninjato."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se007"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Claaaaang!!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yaemon",
+        "text": "Ooohhh!? What a surprise!! The powerless Young Lord held out against one of my attacks\u30fc!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah. This much is no problem..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That was a lie."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Even if I had become able to hold my own in combat after my resurrection, that was only against lower demonic creatures like those Will-o'-wisps."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I couldn't possibly directly contend with an underboss from the Nisha Clan."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Damn it...!! I'd somehow like to buy enough time for Kirara-senpai to be able to run away...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yaemon",
+        "text": "GUHUHUH!! How delightful!! Then I'll also make sure to put a bit more effort into playing with you!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yaemon's fist swung down on me like a hurricane."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se047"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "His attacks did not stop no matter how much I defended\u30fcrather, they became even fiercer."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ugh... damn iiiiit!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The difference in strength was hopeless."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Every blow pushed me further back."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And then, as I dug my heels in, desperately attempting to hold on a little longer\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yaemon",
+        "text": "Looky here, got you!! You did your best, but you are just the Young Lord Diot after all!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Arrgh!? D-Damn it..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was frustrating, but Yaemon was right."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The moment I was cornered and the pain from my injured arm slowed my movements,"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was quickly pinned down by Yaemon's powerful arm."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yaemon",
+        "text": "Well then, now it's time for the fun part! I'll pluck the appendages off the rascally Young Lord and make him all adorable and obedient!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "\u30fc!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yaemon's giant palm grasped my uninjured arm."
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se077"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With a creaking sound, my shoulder was dislocated and my arm was stretched out\u30fc"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Arrgh!? Uaaaaaaaaaaaaaarrrrrrrrgghhhh!!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yaemon",
+        "text": "GUHUHUH!! What's this, Young Lord!? If you make too much of a fuss, I'll pluck out that noisy tongue of yours too!!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "\u30fcEverything before me went dark from the intense pain."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was true that I had apparently gained some sort of regenerative power."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But would it work even after having my arms and legs pulled off?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And just when such an idiotic thought crossed my mind..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "HAAAAAaaaa\u30fc!!!"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc035a",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se007"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm205",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "\u30fc*Claaang!!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yaemon",
+        "text": "What!? Impossible\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Having been attacked with his guard down, Yaemon jumped back in a flash."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was thrown to the ground violently, and when I looked up in a daze\u30fcI saw her."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "kr_t003b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "...Thank you, Fuma. Thanks to you, I'm able to move a bit again..."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Kirara-senpai\u30fc!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Breathing unevenly, and with blood spilling from the edges of her lips, Kirara-senpai held up her icy claws."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Protecting me from the smirking Yaemon, she stood resolutely."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(W-Wait...!? But Kirara-senpai's body is...!?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yaemon",
+        "text": "Ohoh!? You surprised me!! Little lady, all throughout your body, your internal organs should have been smashed and turned to pulp\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yaemon",
+        "text": "Why are you still able to move?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Hmph! Don't lump me in with normal humans!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "I have my mom's blood\u30fcthe blood of the proud Oni running through my veins!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(O-Oni...!?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was taken aback... but, with that info, some things made sense too."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When it came to the Oni, their exceptional toughness and ability to recover were famous."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yaemon",
+        "text": "Ohoh!? So you're half Oni!? I heard about that, I think\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yaemon",
+        "text": "A Taimanin father killed the Oni mother who bore his child. So you're that pitiable child, little lady?"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Shut up!!! Only I get to decide if I'm pitiable or not!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Kirara-senpai\u30fc)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She's just an unpleasant, nasty senpai... who only says mean things... that's how I had been thinking of her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But that had not been the case. She was\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yaemon",
+        "text": "GUHUHUHUH!! How curious! I'm going to make this mongrel Oni-girl my favorite concubine, no matter what!!!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yaemon laughed loudly and drew a symbol in the air, and then\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m083a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m083a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_PRIORITY",
+        "info": [
+            "0",
+            "10"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As if sprouting out of the ground, countless Yaemons appeared one after another."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "They were Yaemon puppets made from lumps of earth with his Ninja Art."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "\u30fcBring it on then!! I'm going to smash you to pieces, so come at me all at once!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

@@ -1,0 +1,707 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm404",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc133a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kr_t003b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Woman",
+        "text": "\u30fcTake this!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Will-o'-wisp",
+        "text": "GRR-ROOOOGH!!!!"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se111"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Claaang!!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Whoa!? Amaaaazing!!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "For a moment, I forgot that I was also in the middle of a fight and stared with eyes wide open."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The woman's skill was astonishingly brilliant."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A moment after the Will-o'-wisps took the brunt of her attacks, just as they had frozen solid\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Will-o'-wisp",
+        "text": "GR-ROOGH!!!?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se039_01"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "They burst apart, one after another, with a rhythmical series of cracking sounds."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(That's... a Ninja Art that controls cold air!!?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "By charging the chilled air she controlled, she covered her arms with claws of ice..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "...and by swinging them in all directions, she inflicted damage with both the frigid air and her blows."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "From what I had seen, that seemed to be the woman's fighting style."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(She's crazy strong... and, how should I put it, she's got some other features that are pretty crazy too...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As I watched the woman fighting, there was something else that naturally caught my eye."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Specifically, it was her bouncing and swaying giant breasts..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The woman's Taimanin suit was quite revealing, even compared with everyone else's."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And they bounced left, right, and every which way while she was fighting."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There was nothing to say except that I couldn't take my eyes off of them."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Ugh... This is bad... This is really bad...!!)"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kr_t001c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Woman",
+        "text": "Hey?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...Yes?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She called out to me coldly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Before I knew it, the Will-o'-wisps were taking a short break from attacking, perhaps intimidated by the woman's strength."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm203",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kr_t001f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Woman",
+        "text": "Why have you been looking at me like that?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Not good... She had apparently noticed that I had been watching her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No, I was just observing. Thinking how strong you are..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kr_t001c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Woman",
+        "text": "Hmmm. Observing, huh? I wonder."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Wh-What...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Woman",
+        "text": "You were definitely checking me out and thinking about dirty things. Your eyes looked kind of naughty."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "H-Huh!!!? I-I-I wasn't checking anything out!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kr_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Woman",
+        "text": "See, you just stuttered. That's suspicious. You were looking for sure. Aaah, ew, ew. Filthy\uff5e"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The woman looked at me with disdain, as if to say that men were all the same."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As expected of an outrageous beauty, that kind of look had quite the destructive power."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "D-D-D-Don't say something rude like that!! I was simply observing to use you as a reference for fighting techniques\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kr_t001e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Woman",
+        "text": "A reference for fighting techniques? Wow, nice, lol."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Uggh!! I-I mean, I wasn't looking, but... even if I had been looking I don't think it could've been helped!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kr_t001c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Woman",
+        "text": "What do you mean?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Your outfit!! With such a revealing erotic suit, it's like you're asking people to look at you!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kr_t001d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Woman",
+        "text": "Huh!!?? What are you talking about!? It's because if I don't expose my skin, the cold air gets trapped inside!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hmmm? I'm not so sure about that, lol. It's not that you really want people to look?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kr_t001f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Woman",
+        "text": "Hngh!? As if\uff5e You ignorant twit!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sparks flew as the woman and I glared at each other."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The swarm of Will-o'-wisps were encircling us with faces that said, \"What the heck are they doing?\""
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kr_t001g",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Woman",
+        "text": "I'll tell ya, this suit is easy to move in and convenient, but having men look at me with their lewd eyes is the only downside..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Eventually, the woman turned her head to the side and sighed exaggeratedly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Well, to be honest, I <i>had</i> been kind of looking at her with lewd eyes, so I couldn't strenuously object."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kr_t001c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Woman",
+        "text": "More importantly\u30fcwhat about you?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What about me?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Woman",
+        "text": "The number of Will-o'-wisps you defeated. That one earlier was the twenty-eighth for me\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Woman",
+        "text": "<ACTOR>0,kr_t001e,CENTER, CENTER, NONE, linear, 0\nSince you were appointed captain of the Independent Commando Unit, you must've killed quite a lot, right!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With an air of \"I already know the answer,\" the woman asked with a grin."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I defeated... of them."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I didn't want to tell her but had no choice but to answer. I reluctantly told her my result."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kr_t001b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Woman",
+        "text": "Eh!? What did you say!? Fuma-kun, I can't hear you, a bit louder please!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...As of now, I killed three of them..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Compared to her, the number I had defeated was utterly pathetic."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Even having gotten to the point where I could battle some, this had been the best I could muster."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Then the woman smiled from ear to ear, looking delighted from the bottom of her heart\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kr_t001e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Woman",
+        "text": "Whaaaaaaa??? Th-Th-, three!? Only three!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Woman",
+        "text": "That's iiiiit!!? Fuma-kun, you only defeated three of them\uff5e!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Woman",
+        "text": "Even though you're a captain!? And a man!? Only a tenth of what a feeble woman like me did!? Fuma-kun, you're so weeeeeeak\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Urrgh!! N-No, I mean... I'm more of a support specialist, so..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kr_t001e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Woman",
+        "text": "Ohh? You don't say! Then it can't be helped that you're weak\uff5e ...Pfftpfft."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Urrrrghh..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Th-, this nasty senpai!!! She's saying whatever she wants!!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There was no doubt, right from the start, that she had asked me that question to wind me up."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But as much as it pissed me off, facts were facts, so there was nothing I could say in return."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Woman",
+        "text": "I mean, I didn't expect anything from a guy, so it's not like it matters anyway\uff5e"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kr_t003a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Woman",
+        "text": "But if you're that weak, make sure to stay out of my way and fight in a corner. Got it?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She tossed her contemptuous remark over her shoulder and quickly resumed the fight against the Will-o'-wisps by herself."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(...Damn it! What's her problem!? I can't believe I have to work with this nasty senpai of all people\u30fc)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I followed after her, and as I entered the fray I thought back on how things had gotten to this point."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "\u30fcThe name of the woman was Onisaki Kirara."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She was a senpai Taimanin at my school, Gosha Academy."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But even though she was my senpai, we had just met for the first time a few hours earlier."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And I hadn't even known about her capabilities or her Ninja Art."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And as for why I was working together with someone like Kirara\u30fc"
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

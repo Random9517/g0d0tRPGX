@@ -1,0 +1,243 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc002a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t001b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm305",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "Such brilliant leadership. With that, you've passed the additional exam."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Phew... sheesh. Being a commander is tough, but it seems pretty interesting."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "Yes. By the way, the work of a commander is not only during battle."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "It's also important to train your team members, to communicate with them, and to raise their trust in you."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t001b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "Trust will rise when units complete quests with you, so be proactive about including members when you go questing."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "And if you raise their trust, then... woops, it's almost time."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "I'll have you learn the rest in real combat. So you should really wake up."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Really wake up?"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t001b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "Yes. You've been sleeping this whole time, Master."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huh?"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc095a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t001b",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "\u30fc!? Whaaah!?"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm312",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(What's this... flames!? Is this still the virtual reality from before!? No, this is different!!!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A tremendous dark presence, and a thirst for blood. The miasma enveloping me felt \"genuine.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Shit, what's going on!!? Stop screwing around! If this is a dream, wake up!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "<i>...\u30fc</i>"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "<i>\u30fcHehe...</i>"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!? Who's there!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "No one was there. But there was certainly a laugh. From the bottomless darkness, from the flames and this miasma itself."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Who are you!? The one trying to kill me, who are\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "No\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Who\u30fcam I?"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

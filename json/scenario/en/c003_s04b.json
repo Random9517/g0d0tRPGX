@@ -1,0 +1,218 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm312",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc035a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We struggled a bit because there were so many of them, but somehow we had managed to defeat all of the Incubi."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Shikanosuke, the ghost you saw, was it one of these guys?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001h",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "N-No! The ghost was a pale and very beautiful woman!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "A beautiful woman... hmm..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001h",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Is something bothering you?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah, the other day we met Gonza at the castle ruins and had a little skirmish..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That's when he said to Sakura-sensei, \"After I'm done with the ghost woman, I'll definitely kill you.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What if this ghost woman is pretty strong and fought off Gonza like Sakura-sensei did?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Gotcha... let's hope that's not the case..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "sa_t002d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Anyway, it looks like there's definitely something going on here!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "sa_t002b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "We can't just leave those demons wandering around, so let's search this cave a bit more."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Right."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We readied our weapons and headed deeper into the cave."
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001h",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "sa_t002b",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004e",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

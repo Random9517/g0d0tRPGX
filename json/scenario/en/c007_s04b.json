@@ -1,0 +1,538 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm207",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc016a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m053a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Orc Mercenary",
+        "text": "HRGHH!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m053a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "300"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se036"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Drone",
+        "text": "[\u30fc\u30fc\u30fc\u30fc... !!!]"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Hyaah!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002f",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "300"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se035"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "HORIZONTAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Drone",
+        "text": "[!?!?!]"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Via the efforts of mercenaries, especially Sakura's efforts, the drones were getting taken down one by one."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And when finally about half of the drones had been disabled\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m051a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Faust",
+        "text": "All-right!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Faust",
+        "text": "Enemy-unable-to-advance, shift-to-counteroffensive."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mercenaries",
+        "text": "Woooooh!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mercenaries",
+        "text": "Show them what you can do, Faust-san!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "All the mercenaries' gazes converged on Faust."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Faust",
+        "text": "Deactivating-power-limiter, initiating-annihilation\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Faust jumped directly into the enemy formation and wildly fired her two large custom handguns."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se036_03"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*RATATATATATATA!!!*"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se037"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "KABAAAAAAAAAAAAAM!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The drones had no time to return fire and were helplessly knocked to the ground."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Wh-Whoa there... that mechanical woman is ridiculous..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m051a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was no ordinary destructive power. To go along with her body that was like a reinforced cyborg, those handguns must have also had some insane modifications as well."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Oooh~ awesome... Alright!! I won't be outdone!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002b",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "300"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sakura approached a drone in the blink of an eye\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se012"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And she gave one quick punch to the drone's weak spot and then quickly withdrew. She repeated that until she had made drone after drone into scrap metal."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ws_t002b",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m051a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Faust",
+        "text": "Ahaha! Little girl! Impressive skills for someone who's mere flesh and blood!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ws_t002d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Wait!? You can speak like a human!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Faust",
+        "text": "It's an act. Sometimes it's easier to pretend to be a machine!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ws_t002c",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "What the heck, you invented a character?!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Faust",
+        "text": "Little girl\u30fc Wait, tell me your name."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ws_t002a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Sakura!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Faust",
+        "text": "Sakura, let's cut to the center of the enemy formation."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ws_t002b",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Roger!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m051a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ws_t002b",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As Faust and Sakura barged ahead, the mercenary troops continued their heavy offensive."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The enemy drone squad had been routed and all that was left was to take out the stragglers."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Meanwhile\u30fc"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc068a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Okay, here we are..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had quietly snuck onto one of the transport trucks. A crate with the \"cargo\" in it was looming in front of me in the darkness."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "If you'll excuse me... hngh!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The crate opened unexpectedly easily. And inside it\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "This is...?"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

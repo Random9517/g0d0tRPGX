@@ -1,0 +1,1053 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc121a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm716",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Somehow we made it..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We had finally gotten it through the mine tunnels, which had turned into a nest for Devil Worms, thanks to Shikanosuke's Ninja Art."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The ceiling here was high, and it looked like a space that could fit a four-story building."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There were countless vents, and various power cords, water pipes, and gas lines could be seen. They seemed to have been illegally run from the surface and haphazardly laid out across the whole area."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The floor was properly paved with concrete, but the walls were simply hollowed out from the bedrock, leaving the bare rock face exposed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This was an entrance to Yomihara, the Underground City lying 300 meters below Tokyo\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "u_t001d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "This is one of several entrances to Yomihara, basically a checkpoint."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sana-san explained to us as we ducked out of sight."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Are there any guards?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "There are. But money should get the job done here too."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "u_t001d",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001c",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "But... there don't seem to be any guards...? Maybe they went to the bathroom?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke looked at the guard station in front of the entrance and tilted his head."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You're right, the guard station is empty..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Strangely enough, the light was on in the guard station but no one could be seen inside."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "Tch. That's weird..."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t002g",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hebiko has a bad feeling about this..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah. Don't tell me this means...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "Just let me take care of this. There's no point in running and hiding after we've come this far."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "u_t001d",
+            "LEFT",
+            "CENTER",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sana-san made us stay back and took a few steps forward with a wary look on her face."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "u_t001g",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "\u30fcI know you're hiding!! Show yourself!! You UFS robo-broad!!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm314",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m070a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hestia",
+        "text": "...Got yerself a nose like a bloodhound, huh."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "UFS Soldier",
+        "text": "..."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieee!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hebiko knew it!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hestia and the UFS troops appeared from the shadows to block the entrance to Yomihara."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hestia",
+        "text": "Y'all went through so much hassle gettin' by that there nest o' worms, it's a cryin' shame. Y'all's goose's cooked, Taimanin."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Apparently she had anticipated that we would use the tunnel ruins."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She was still a UFS cyborg soldier, and apparently not so easy to fool, after all."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m070a",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "u_t004f",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "Our goose is cooked? We'll see about that."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With a relaxed look on her face, Sana blew out a puff of cigarette smoke."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hestia",
+        "text": "Well, I declare, ya got a mighty fine poker face, Miss Taimanin."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "Aren't you the one bluffing? Your numbers are smaller than back in the flood bypass."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "u_t002d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "You couldn't bring all your forces here... or am I wrong?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hestia",
+        "text": "..."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Sh-She's right!! It's a surprisingly small unit..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah. It's definitely gonna be tough, but it's not an impossible amount..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "They would have had to place troops at the other entrances as well, just in case."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That meant that we should be more than capable of breaking through here\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hestia",
+        "text": "Yer on the money with that one. No doubt about it, we'll be in a right pickle if y'all squeak through here. Can't be followin' y'all down Yomihara way."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hestia",
+        "text": "But did y'all think it'd be as easy as fallin' off a log?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hestia quickly raised her hand and signaled something. At the same time\u30fc"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se087"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*CREEEEEEEEEAK*...!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se088"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Clunk!! Clunk, clunk!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We heard a strange sound from behind."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And as we turned around\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "6",
+            "ts_m073a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm504",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "..."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "6",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t002d",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieeee!? A pincer attack!? There's a dangerous-looking something behind us!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Wh-What is that!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It's a tank!! A multi-legged tank\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "6",
+            "ts_m073a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was about the size of a small car."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It moved nimbly with its six legs and aimed at us with its two giant machine guns."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hestia",
+        "text": "Hahaha!! Mr. Crab is as cute as a button, ain't he!? This is \"Cancer,\" a support-type combat drone of secret service agency \"G\"!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cancer",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Bzzz... bzz bzzzz...*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The automatically controlled camera eyes were relentlessly tracking us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ugh\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "What a nuisance."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was painfully aware of how powerful UFS combat drones were, having encountered them many times on previous missions."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "6",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m070a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hestia",
+        "text": "Surrender!!! Y'all ain't got no chance wedged between Mr. Crab and us!!!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001h",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Uwaaaaah!! A t-tank!? How are we supposed to deal with thaaat!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001h",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "u_t004f",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm205",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "Hehe, quit crying, Shikanosuke. Leave this to me, your reliable senpai\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Huh...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sana-san patted Shikanosuke on the head and then turned on her heel and stepped in front of Cancer."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "u_t004f",
+            "LEFT",
+            "CENTER",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sana-san...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "I've done my duty. In Yomihara, the ones who infiltrated earlier are waiting for you, so you can rely on them for the rest."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "u_t004c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "\u30fcI'll take care of this piece of junk behind us\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You'll what!? How are you gonna fight against a tank!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "u_t004f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "Hehe..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sana-san didn't reply and just gave a small wave of her hand as if telling us to go on."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We didn't have a moment to hesitate."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(We just need to trust her...!!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sana-san should be able to handle that multi-legged tank..."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Shikanosuke, Hebiko, let's go!! We'll take down that cyborg woman ahead of us and get into Yomihara!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t002f",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001h",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Alright, Fuma-chan!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieeeeeee!!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m070a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hestia",
+        "text": "Haaa... y'all aint gonna listen, huh!!! If y'all are raring to take a dirt nap, how 'bout gettin' roasted well done!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se090"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*WOOOOOOSH*\u30fc!!!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Suddenly, intense flames erupted from Hestia's hands."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And she controlled the flames to attack us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "A flame-wielder!? Be careful, you two!!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

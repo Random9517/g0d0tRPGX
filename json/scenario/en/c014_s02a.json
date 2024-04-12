@@ -1,0 +1,1250 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm509",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc156a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There had been some confusion, but I'd been able to get information regarding Shinganji Kurenai from Kanzaki Jyubei, the boss of Senzaki and my childhood friend."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Based on that information, Yukikaze and I started our search."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "So Shinganji Kurenai and Makishima Ayame. They're both from the Fuma Clan, right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Right. Kurenai is also my childhood friend, like Jyubei. I don't know much about Ayame-san, but she's more like Kurenai's follower."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "And? Am I gonna end up fighting these people?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze asked without hesitation, but I faltered in answering."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Come on and spit it out!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "I'm your gun, Fuma. I'll protect you even if I'm not told to."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "But I need to know what I have to protect you from."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze's expression was uncharacteristically serious."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She had never shown me such a face."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Or maybe I was the one who was acting different than usual without realizing, so much so that it caused Yukikaze to react this way."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Talk, Fuma."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...Alright."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "\"A short time earlier\u30fc\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We'd infiltrated a certain city of darkness."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm206",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc111a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I made contact with the target just now and handed over the \"goods.\" I'll head back now."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "\u300eVisual confirmed here as well. What should Heberybody do?\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It went off without a hitch, so no need for backup anymore. Go ahead back to the inn."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "\u300eUnderstood. Fuma-chan, be careful on the way back.\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Roger that. Fuma out."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I ended communication with Hebiko and started moving to return to the safehouse while keeping watch for any tails."
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se078"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc157b",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "From the back street I entered a back alley, and then walked toward an abandoned building."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And right after I entered the building,"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "a lone woman entered it as well."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was being followed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You need something from me?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Using some blind spots in the abandoned building, I snuck around to take her from behind, then called out to her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The woman who had apparently been following me showed no surprise at all from this and slowly turned to face me."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m099a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mine Funako",
+        "text": "Nice to meet you. I'm Mine Funako. You're Fuma Kotaro-kun, right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sakura, standby. Seems like she isn't our enemy."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Funako",
+        "text": "Sakura?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It doesn't matter... Um, I'll give this back to you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I returned the ID that I'd stolen from her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "On it was clearly printed \"Mine Funako,\" \"Cabinet Intelligence and Research Office,\" and \"Director.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In other words, the woman before me was a high-ranking government official."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Funako",
+        "text": "What a surprise. As I should expect from the captain of the famous Independent Commando Unit."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The woman gave me a wide-eyed look, but I hadn't done anything."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Since I'd realized that I was being followed, I had Sakura, who was lurking in the shadows for her part-time job as usual, simply steal her ID to check her identity."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Drop the act, please. You purposely let me notice and steal your ID to get me to trust you, right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Funako",
+        "text": "If that were the case, how did you figure out that I wasn't your enemy?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I at least know who the leader of your Cabinet is, as well as her face. I happened to have a chance to do a lot of research on it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Funako",
+        "text": "Right. Down to business then. I want to talk to you, privately."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Understood. Sakura, give us a moment."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ws_t005c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Is everything okay?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sakura asked as she popped out of my shadow."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Maybe."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ws_t005a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "I'll stay somewhere nearby, so if anything happens, call me!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With that said, she slipped into one of the other shadows in the area."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m099a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Funako",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A person had suddenly emerged from a literal shadow, and then disappeared into one again."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This should have been much more surprising than having her ID stolen, but Funako was calm and composed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What do you want to talk to me about?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Funako",
+        "text": "I'm currently investigating an assassination case, one of a certain man."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Funako",
+        "text": "Sago Bungo. You know him, don't you?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "So that's why you made contact with me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She was from the Cabinet after all."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was sure that she had already researched about me being involved in Sago's escort."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Funako",
+        "text": "At that time, the plan was for us at the Cabinet to keep Sago."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It lined up with the results of the investigation which I had done by myself afterward."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That Gosha Village had been trying to hand Sago over to the Cabinet Intelligence and Research Office."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "For this very reason I'd known the name and face of its director, the highest ranking person in the Cabinet."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "So who does the Cabinet think is the mastermind behind that assassination?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Funako",
+        "text": "The UFS secret service agency \"G,\" the one that was interfering with you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That's the obvious choice."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Mine Funako simply nodded at my sarcastic remark."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Funako",
+        "text": "Yes. Too obvious. But, what if it was wrong?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Funako",
+        "text": "I suspect Igawa Asagi."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Headmistress Asagi!? There's no way it's her!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I replied reflexively."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But it wasn't because her words were unexpected."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If anything, it was certainly a possibility I had thought of."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Igawa Asagi could have had Sago Bungo killed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Funako",
+        "text": "Can you really trust that Asagi is innocent?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Funako",
+        "text": "Many people hold a deep grudge against Sago as the principal perpetrator of the Fuma rebellion."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Funako",
+        "text": "What if she thought about eliminating him before he was brought into Cabinet custody?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "But that's...! That can't be..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Mine Funako showered me with questions."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I tried to refute her, but my words stuck in my throat."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "My feelings notwithstanding, I couldn't logically deny it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Funako",
+        "text": "Right? An irrefutable deduction, isn't it? So we have a request for you. We want you to investigate who ordered Sago's assassination."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Funako",
+        "text": "You'll have peace of mind as well if you can confirm that Asagi is not the mastermind, no?"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...!?"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc156a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm509",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Are you saying that Asagi-sensei assassinated this Sago guy!? Using Shinganji Kurenai and Makishima Ayame!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I don't know."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "What do you mean you don't know!? There's no way she'd do something like that!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se014"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In response to Yukikaze's angry shouts, a few neon lights in the back alley exploded."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That was why I hadn't explained the details before arriving in Senzaki."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "But Makishima Ayame is an expert sniper, so we can't deny that possibility."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "But that doesn't...!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se120"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Boom! Bah-boom!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Calm down a bit. And control your electricity, too. We're standing out too much."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "*Hufffff*\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze let out a long exaggerated exhale from her nose before she spoke again, seemingly trying to get her emotions under control."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "If it's true that Headmistress Asagi assassinated Sago, then the situation is serious."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Shinganji Kurenai and Makishima Ayame, they might end up fighting against Gosha."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I knew what would happen without her telling me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As I fell into silence, Yukikaze peered into my face with a concerned look in her eyes."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Well, now I understand why you kept Hebiko and Shikanosuke out of this."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "But they'll be angry, you know? They'll tell you that you should've called them <i>because</i> it's a serious mission."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No, it just wasn't a smart move to draw attention with a large group for this one."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "So, I thought I should bring only the most skilled Taimanin that I knew on this mission."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "So that's why you brought me?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I couldn't think of anyone else."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Hmph! Now you're talking! Not a bad decision for you, Fuma."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Like I said, Fuma, I'm your gun. Whenever you need me. Don't you forget it!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze finally showed her usual reliable face\u30fcno, it looked even more reliable than usual."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc043a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A nightclub in a back street."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That was our destination."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "According to Jyubei, the real owner of this nightclub, who controlled it from the shadows, was the Shinganji family."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I put Yukikaze on standby, then went in alone first as a customer."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Call Kurenai."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When I said her name to the men serving in black attire, their expressions all completely changed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was taken to a back door by shady men who suddenly appeared."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Well, so far exactly as planned...)"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se082"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc062a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Ten of the nightclub's bodyguards surrounded me."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m023a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Demon Mercenary",
+        "text": "Who are you, kiddo?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Tell her that Kotaro is here, she'll understand. Just call Kurenai."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m043a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "High Orc",
+        "text": "Yeah? And we're sayin' there ain't no woman named Kurenai in this place!!"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm313",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I know she's here. Just tell her it's Kotaro."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Demon Mercenary",
+        "text": "Stop screwing around, ya bastard!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Talk about being turned away at the gates."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was kind of expecting this to happen though."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "\u300eHey. Need my help?\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The transmission came in from Yukikaze through the communication device I secretly had in my ear."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No, stay on standby. I'm waiting for something."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "\u300eAre you sure?\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I'm sure. Let me take care of this."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Demon Mercenary",
+        "text": "Hey!! What're you mumbling about, you bastard!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "High Orc",
+        "text": "You're pretty suspicious. How about we bust you up a little, kiddo?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I could feel the threatening gazes of the bodyguards all fall upon me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Sheesh, I guess this is to be expected too huh...)"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

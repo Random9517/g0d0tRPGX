@@ -1,0 +1,1131 @@
+[
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "..."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm207",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc003a",
+            "IN",
+            "3000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If Asagi-sensei got near us, and if the three of us were in a tight group, she'd just round us up in one fell swoop."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "So I had developed a \"three-dimensional\" battle strategy. Basically a staggered battle line."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Maika! Defend the line you're on with your life!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ma_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Maika",
+        "text": "Got it!! I won't let her get any closer!!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ma_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Maika",
+        "text": "Here we go, Death Bazooka!!!"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "3000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "One after another, explosive spheres flew out from Maika's Death Bazooka and engulfed the area in flames."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "a_t003b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In this way, Maika controlled the intermediate distance with her fire and prevented Asagi-sensei's approach."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Now! Hayate!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "a_t003b",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ha_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hayate",
+        "text": "You don't have to tell me!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And from a safe distance further back, Hayate was attacking Asagi-sensei with her arrows."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Good...!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Several arrows had hit Asagi-sensei and she had suffered quite a few wounds. Only scratches, though."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hayate",
+        "text": "Some of them hit!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah, but our opponent is Headmistress Asagi. Don't let your guard down."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was giving orders and was ready to intercept with a melee weapon."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ha_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ma_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Maika",
+        "text": "Fuma, I misjudged ya! Asagi-sensei's on the defensive! If we keep goin' like this..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "All right, keep your distance. We'll retreat to the woods behind the school building."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ma_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ha_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hayate",
+        "text": "What!? The woods!? But Asagi-sensei will have the advantage in a place with lots of cover!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Maika",
+        "text": "Yeah! She'll easily overpower us if we can't keep our distance!! We'll be at a disadvantage in the middle of all those trees!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You're right, but we can't defeat Headmistress Asagi on this field. And aren't you two getting close to your limit?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hayate",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was right. We were fighting hard but had not been able deal decisive damage to Asagi-sensei."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "On the other hand, Asagi-sensei was focusing on evading our attacks. Which meant\u30fc\nshe must have been waiting for Maika and Hayate to become fatigued."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ha_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ma_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Maika",
+        "text": "Got it! I'll trust your commands!! Ya cool with that, Hayate?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hayate",
+        "text": "Of course. Now, give us your order!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Alright\u30fc\nNow!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ma_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc004a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR01",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As we entered the forest behind the school building, Asagi-sensei used the trees as a shield and closed the distance between us right away."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "a_t003b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "\u30fc\u30fc\u30fc\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "a_t003b",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ma_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Maika",
+        "text": "Here she comes!!! Just like we thought!!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ma_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ha_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hayate",
+        "text": "I will not let this tarnish my grades!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The two tried to block her approach, but Asagi-sensei made clever use of the trees and finally got close to them."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ha_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "a_t003b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Maika",
+        "text": "...Ugh!! She's fast! She's here already...!? Is she a monster!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "\u30fc\u30fc\u30fc\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Maika",
+        "text": "Uargh..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hayate",
+        "text": "From this distance... augh!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi-sensei gave a flick of her long leg and Maika, followed by Hayate, fell to the ground unconscious."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We seemed to have lost\u30fc\nbut at that moment."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "HUAAAAAAARGH!!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "While concealing myself, I channeled all of my strength into my ninjato, and then leapt out from the shadow of a tree to attack Asagi-sensei."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Maika, Hayate\u30fcyour acting is perfect!!!)"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "a_t003b",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "\u30fc\u30fc\u30fc\u30fc"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!?!? She disappe-... hng..."
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR54",
+            "OUT",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "black",
+            "NONE"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And the next moment, everything went pitch dark."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc090a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR26",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Did we... lose...?)"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm208",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The landscape of the forest behind the school had changed into a large, empty dome."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This facility was a virtual training complex."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Not only did it capture the scenery in 3D, but it could also recreate any kind of situation, down to the weather, gravity, smell, and even tactile sensations."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "All the landscapes we had seen to this point had been virtual."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ma_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Maika",
+        "text": "Hey, are ya alright? C'mon."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sorry. That was my fault..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I grabbed the hand that Maika had held out to me and got up from the artificial floor."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ma_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ha_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hayate",
+        "text": "Our opponent was the headmistress. Of course we were going to lose."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hayate..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hayate",
+        "text": "If you're going to feel down, you should come to class more often. Then I wouldn't have underestimated your skills."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hayate patted me on the shoulder while looking away."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Maika",
+        "text": "Oh? Hayate is tryin' to comfort Fuma!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hayate",
+        "text": "Wha-!? No!! That is absolutely not true!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ha_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ma_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Maika",
+        "text": "Hehe, don't be embarrassed. I'm startin' to think more of him too!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hayate",
+        "text": "I'm telling you, it's not what it looks like! Anyway, what I'm trying to say is that all three of us are responsible!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Maika",
+        "text": "Of course! We lost, but I'm glad that I teamed up with ya, Fuma!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Th-Thank you..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ma_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(They are being surprisingly kind... even though we have to take the additional exam.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Actually, those two were strong enough. It's my lack of strength that made us lose...)"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "m_t002a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Murasaki",
+        "text": "Alright! You did a good job. All three of you passed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huh?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Maika",
+        "text": "Eh?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hayate",
+        "text": "What?!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We couldn't believe our ears upon hearing those surprising words."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Murasaki",
+        "text": "What's with those dumb looks?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I mean, we lost..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Murasaki",
+        "text": "Did you really think you could win against Asagi-sama? You have done well in demonstrating your skills."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Murasaki",
+        "text": "And you showed proper teamwork. As long as 1+1+1 is not less than 3 you pass. That's what this test was about."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Whaa-!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Maika",
+        "text": "Really!?! So no additional exam!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hayate",
+        "text": "W-We did it!! It didn't even hurt my grades...!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Quite out of character for the three of us, we clasped hands together and rejoiced."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ma_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Maika",
+        "text": "Alright, Fuma! Party time! Let's have ice cream at Inageya! I'll buy ya one!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hayate",
+        "text": "Now, don't go buying treats! Fuma, come to my house. I have some delicious tea sweets."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Well, um..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Maika",
+        "text": "The ffff...? Is it possible to relax after such a grueling exam with something so prissy!? Ya damn princess!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ha_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hayate",
+        "text": "D-... damn princess!? Don't speak to me in such vulgar manner! You damn delinquent!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Maika",
+        "text": "Hey, Fuma! Ya hafta decide!! Of course it's me and Inageya, right!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hayate",
+        "text": "Alright, Fuma, tell her directly!! Tell her that you choose to come to my house!!!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "O-Okay...!?!?!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Did this mean that I had grown on them?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ma_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Maika",
+        "text": "You're goin' with me, right?!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ha_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hayate",
+        "text": "Tell her that you are coming to my house!!!!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "W-Wait! Don't pull my clothes!! They're gonna rip... aaahh...!!"
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR26",
+            "OUT",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "black",
+            "NONE"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And with that, we had passed the exam successfully. For the first time, I had made it through without an additional exam\u30fc\nBut..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Instead of my allowance increasing, it was reduced to pay for my torn clothes. And for the time being, it seemed my life in poverty would continue..."
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

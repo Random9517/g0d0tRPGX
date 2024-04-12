@@ -1,0 +1,1013 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm304",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc054b",
+            "IN",
+            "3000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Wait, what is this? Yikes, the suckers are latched onto me!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "They're super sticky! Ew, ew. Gross, gross!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "I can't take it anymore. Let me go already! We lost, we lost, I said we lost! The octopus tentacles are gross, let me go nooooow!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001d",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t005e",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "No need to be so disgusted. Hebiko is a little shocked..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze was tangled up in Hebiko's octopus tentacles and unable to move."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t005e",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m059a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Taimanin Recruit",
+        "text": "Haah, haah, haah, haah, haah..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "All of the Taimanin recruits were crouched down. They didn't seem to have the energy to fight anymore."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m059a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001g",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Enough of this. I'm not going to do anything else today. I'm done with getting dragged into dumb fights! I'm not going to do anything!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001g",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se010"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And one more person, Shikanosuke, was howling while lying on his back, spread-eagle."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We had won the battle."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Of course, if we had fought her head-on, even Yukikaze alone would have been too much for us to handle."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "So to prevent Yukikaze from being able to show her true potential, I had made her run around completely pointlessly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In the meantime, we had taken out the Taimanin recruits one by one until only Yukikaze remained."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Then I had read Yukikaze's movements and instructed Hebiko to tie her up."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hebiko, that's enough. Let Yukikaze go."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t005a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Roger. Sorry, Yukikaze-chan."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko released Yukikaze from her tentacles lickety-split."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t005a",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR_PRIORITY",
+        "info": [
+            "0",
+            "10"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Thanks. Man, we lost."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "There's no winning or losing in this fight, though."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Yeah, I guess so."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Surprisingly, Yukikaze didn't look too frustrated."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Rather, she seemed to have lost her motivation from the point when all the girls had been defeated first."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t005a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001a",
+            "LEFT",
+            "CENTER",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm208",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Everyone, are you okay? Can you stand?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Taimanin Recruit",
+        "text": "Yeah, we're fine... Thank you..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The girls finally stood up when Yukikaze called out to them."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "So, how was it? Do you feel a little better?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Taimanin Recruit",
+        "text": "Yes... a little..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Their voices were calmer than before."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It wasn't like they had come to look at me favorably, but at least I couldn't sense any bloodthirstiness anymore."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001g",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Fuma himself isn't a bad person, so go ahead and forgive him."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Taimanin Recruit",
+        "text": "We... know that, but..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "It's fine if you can't, but he seems to have something on his mind as the head of the clan, so can you wait for him a bit more?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As Yukikaze tried to smooth out the situation, one of the girls spoke up."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001g",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m059a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Taimanin Recruit",
+        "text": "Fuma, the bitterness of having someone you love get killed never goes away."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Taimanin Recruit",
+        "text": "But we will be watching what you do next. Don't forget that."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yes, I'll remember it."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m059a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With that they left."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Hmhmm\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze approached me with a grin."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What is it?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "They said they'll be watching you from now on, Fuma\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She tapped me on the shoulder, speaking to me in a strangely overfamiliar way. As always, she was patronizing me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Well, I defeated the Lightning Taimanin who's considered the ace of the next generation. I need people to expect a little bit of me."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Heh...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When I got slightly carried away and made a joke, Yukikaze looked at me in bewilderment and suddenly started laughing."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Ahahaha! Really, Fuma!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Don't tell me you thought that was my full strength? Wrong. Totally wrong. I told you. I was gonna \"kinda\" get serious."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Again with the sour grapes."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t002a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Oh, that's what you think? That's fine. I'll get a bit more serious for you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze was pouting in discontent and slowly pointed her guns at the sky."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t002f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Haaaaaaaahh!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze breathed out sharply."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm304",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In the next moment\u30fc"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se014"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Bzz! Bzzzz!! Bzz, bzz, bzz, bzz!!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There was a violent electrical discharge around her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was more intense than anything I had seen in all of the fighting today."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Countless thunderbolts appeared out of thin air and got sucked into Yukikaze's guns."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Even though I wasn't being directly hit, my body was tingling, my hair stood on end, and a thick chemical odor hit my nose."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieeeeeeeeeeeee!! Crap, crap, crap, crap!!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke, who had still been lying on the ground, let out his loudest scream of the day and clutched his head."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "F-Fuma-chan, doesn't this look a bit dangerous?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Not just a bit. It looked quite dangerous."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "H-Hey, Yukikaze, wait a second."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t002f",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But this was not a woman who would wait. This was the Lightning Taimanin."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Gooooo! Lightning Shot!!"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "3000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A tremendous flash of light."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "ef011a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "3000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A thunderous roar."
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "3000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The lightning didn't fall from the sky but instead stabbed upwards at it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A bolt of lightning stretched out into the sunset, illuminated the area in white, and finally faded away."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc054b",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Yep. I guess that's enough. Still only about half my full power, though."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze puffed out her chest proudly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "......"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Both Hebiko and I were completely speechless."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "\u30fc\u30fc\u30fc\u30fc\u30fc\u30fc\u30fc\u30fc\u30fc\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke was stupefied, as if his circuit breaker had tripped."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Huh? Wait, Fuma, Hebiko-chan, are you that surprised? Shikanosuke... oh, he's out."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Ahaha, did I overdo it a bit?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001d",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "rn_t001f",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akiyama Rinko",
+        "text": "Hey! Yukikaze!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Ah!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "You're the one who just shot that, aren't you! What the hell do you think you're doing in a place like that?!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Oh no, Rinko-senpai found out!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001d",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Whooooosh!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze ran away so fast it made a whoosh. She was already at full speed."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "rn_t001f",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Was that Rinko-senpai... Akiyama Rinko-senpai... the voice just now?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "And <i>that</i> was the Lightning Taimanin... Mizuki Yukikaze..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Still in shock, I finally muttered my reaction."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

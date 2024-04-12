@@ -1,0 +1,1483 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc122a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm604",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t003b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kosaka Shizuru",
+        "text": "Like\uff5eI\uff5esaid, it's Kosaka-sensei, alright? Long time no see, Fuma-kun\u266a"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t003a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The beauty with long, fluttering blonde hair smiled playfully."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She was Kosaka Shizuru\u2015an English teacher at our school, Gosha Academy, and a skilled Taimanin who specialized in undercover work."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She was the Taimanin who had gone undercover in Yomihara ahead of us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "Hebiko-chan and Shikanosuke-kun too. Thank you for coming, and welcome to Yomihara, the City of Darkness."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t003a",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002b",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Aishu Hebiko",
+        "text": "Oh! Kosaka-sensei, thank you for your help earlier!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Uehara Shikanosuke",
+        "text": "For real, actually!! I thought I was dead for sure\uff5e"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t003b",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "You're welcome. It was all for my lovely pupils, so don't mention it\u266a"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t003a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "...Well, there's one troublesome boy here that has yet to come to my class, isn't there?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ugh..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shizuru looked at me with a teasing look in her eyes."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001a",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Fuma...? Ah, I see. You still never come to Kosaka-sensei's English classes, huh."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Th-, that's not true. I've gone when I'm feeling up to it...  Like once a month."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That was what Shizuru meant when she said \"long time no see.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was still frustrated by having been taken advantage of before, so I still tended to skip Shizuru's classes because of it."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t003e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "You really are hopeless. But on that point, I'm glad that Hebiko-chan and Shikanosuke-kun are always eagerly listening to my lessons."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t003a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001b",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Hehe! I mean, your classes are super easy to understand, Kosaka-sensei!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002e",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Fuma-chan, it's no good to skip classes you know?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t003b",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "Hehehe. See?\u2606 Your friends are saying so too, Fuma-kun."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sh-Shut up!! That's got nothing to do with here and now!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had a feeling that things would get worse and worse if I let it go."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t003a",
+            "RIGHT",
+            "CENTER",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "So I raised my voice and forcefully swept the topic under the rug."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "We're in the middle of an undercover mission here!! You said before you didn't need to be called \"sensei\" during a mission, didn't you?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t003b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "Yes, of course. Hiding your true identity is an ironclad rule of undercover work\u2015so, no need for you to call me \"sensei\" this time either."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huh? But... you just said to call you sensei..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "I\uff5ewas\uff5ejust teasing you\u266a"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t003a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "\u2015Hebiko-chan and Shikanosuke-kun, same for you, do you understand?"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001b",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002b",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "O\uff5ekay\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Roger, Shizuru-san!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hngh..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t003a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(This woman, she really throws me off my game...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Once again, it looked like she had me completely wrapped around her little finger."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Well, that said...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As evidenced by her saving us from a tight spot earlier, Shizuru was a first-class Taimanin."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Also known as \"Shizuru the Flower,\" she was a master of a powerful Ninja Art that allowed her to freely control plant life."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(There isn't anyone more reassuring to have as a partner during infiltrations like this.)"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I thought this while looking at the blonde bombshell of a Taimanin teacher standing in front of me when suddenly..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se050"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Thud!!*"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m043a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm407",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "High Orc",
+        "text": "Hey!? You, watch it!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With a repulsive face and a muscular body well over two meters tall\u2015it was a High Orc."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke had bumped into a denizen of darkness who had been walking down the street."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m043a",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aiee!? M-Me!?? You mean meeee!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "High Orc",
+        "text": "Who else is there, you bastard!!? Look, here!! I broke my arm!!!!\n<ACTOR>2,s_t001e,LEFT, LEFT, NONE, linear, 0"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Y-Your arm!? No wayyy!!!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "High Orc",
+        "text": "Huuh!!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001h",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieee!!? Nothing at all sir! I'm so sorryyyyyy!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "High Orc",
+        "text": "You think I'm gonna let this slide with a sorry!!? If you're going to apologize then you should do it with some sincerity... Wait a sec."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "High Orc",
+        "text": "Now that I get a good look at you, you're a cute-looking bitch, aren't you!!! Hehee, perfect timing..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Wa-Waiiiiit!! S-Stop!! I'm a guy!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "High Orc",
+        "text": "Whaat!? A guy!!? ...Actually, you're still pretty doable."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001h",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieeeeee!?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "P-Please wait!!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t003g",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "You over there, what are you doing!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shizuru and I rushed over to intervene."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At that rate, Shikanosuke was about to faint from his fear."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t003f",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m043a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "High Orc",
+        "text": "Huuh!? What's your problem!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "We should be the ones asking you that. Trying to extort someone with such obvious scam nowadays\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "It's not like you don't know whose territory this district is, right? Did you get a business license from Nomad?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "High Orc",
+        "text": "Nomad you say...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Nomad was a criminal organization that held tremendous power in Tokyo's underground society."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was only natural to assume that they held a large sphere of influence here in Yomihara as well."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "I apologize that this child was careless and bumped into you. But it was just a little scrape, wasn't it?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "It might be better for all of us to avoid petty squabbles within Nomad's territory, don't you think?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "High Orc",
+        "text": "...Tch."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He must have concluded that he couldn't easily extort us."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se082"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t003f",
+            "RIGHT",
+            "CENTER",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The denizen of darkness clicked his tongue in annoyance and left."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "He's gone huh... But damn, that's some welcome after we've just arrived."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He said Shikanosuke had bumped into him, but he had clearly been the one to approach first."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It must've been a scheme from the beginning where he'd place blame on Shikanosuke and then blackmail us for money."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t003f",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001h",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "W-What's with this city?! It's way too scary...!!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t003a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "Calm down, Shikanosuke-kun. In this city, you'll paint a target on your back if you show weakness. Act like you own the place."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "O-Okay..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Well, that's Yomihara for you."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Rather, it was probably very lucky that we weren't attacked on the spot."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Located 300 meters below the surface of Tokyo, the City of Darkness: Yomihara."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We stood in a plaza close to the entrance, with streets branching out to other areas of the city."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The nearby street stalls and stands were lined with shady-looking black-market goods, and the people passing by were all demons or scary-looking gangsters."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Richly colored neon lights illuminated everything, and it truly gave the impression of an underground red light district."
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se096"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc122b",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Swoooosh...*"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "So cold! Eh... is this...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Large drops of \"rain\" were pouring down on the plaza. Passersby rushed under the eaves of the buildings."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002d",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t003a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "That's the \"rain\"of Yomihara. The rain from the surface travels through the earth until it gets here."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huh, so this is it... If I remember right this should be rain that fell above ground 10 to 15 years ago, right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had read about it in a book but this was my first time seeing it myself."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "That's right. It has a bit of charm to it, doesn't it? ...Anyway, let's not spend any longer chatting in it though."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t003d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "Let's head for the hideout. I'll explain the details of the mission once we're there."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002c",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Yeah. It's too cold to be hanging around like this."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "700"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "RIGHT",
+            "linear",
+            "700"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Understood. \u30fcHey, Shikanosuke. We're gonna pick up the pace here but try not to get lost. ...Wait, Shikanosuke?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At some point, Shikanosuke had completely vanished from my side."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Huh? Where had he gone...?"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "My eyes darted all around as I looked and\u2015"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc122b",
+            "NONE"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR01",
+            "IN",
+            "800"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m043a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm304",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "High Orc",
+        "text": "Hahaha, what a haul today!! This brat will get us some good money!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Mngghhhhhhhh!!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ah."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was the High Orc that Shikanosuke had bumped into earlier and a group that seemed like his comrades."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Amidst the bustling crowd of people trying to take shelter from the passing rain, Shikanosuke was being taken away, his mouth covered."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Mnggh... buah!!! Aiee!! Not goood!! Fuma help meeeeeee!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "High Orc",
+        "text": "Ah, damn brat!!? I said keep quiet!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Mmhgm!? Mhmghooooh!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "High Orc",
+        "text": "Mwahaha, that's better. ...Anyway, what do you think? Just the kind of brat you like, eh boss?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He covered Shikanosuke's mouth again and called out to the High Orc at the front of the group who seemed to be their leader."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m075a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "High Orc Chief",
+        "text": "Yeah, gehehe... I love me a nice tight-assed little bitch like this."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m075a",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m043a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "High Orc",
+        "text": "Ah. Err... no, boss. Apparently, it's a guy."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "High Orc Chief",
+        "text": "Whaat!? A guyyyyyy!? You idiot, I told you to bring me girls! Hold up.......... He's doable."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The boss carefully examined Shikanosuke's face and body and then nodded gravely."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "High Orc",
+        "text": "Right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Hmmghhhhhhhhoooooooooohhhhhhhh!!!!?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "LEFT",
+            "linear",
+            "700"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "RIGHT",
+            "linear",
+            "700"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002f",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t003e",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Shikanosuke-chan!!???"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That's not good!! And in more ways than one for Shikanosuke!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It seemed he had been kidnapped during the confusion of the passing rain shower."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "I can't believe they'd go after Shikanosuke-kun when there are two beautiful ladies right here...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "I'm shocked... What a freaky bunch!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What are you shocked for!!? We're going after them!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se054"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "700"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "RIGHT",
+            "linear",
+            "700"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

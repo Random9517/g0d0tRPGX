@@ -1,0 +1,726 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm320",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc036a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Succubus",
+        "text": "Taimanin... ye are no more than lowly humans..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Succubus",
+        "text": "O~hohoho... but preparations are complete..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The pale succubus recited some kind of incantation softly as she collapsed to the floor."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se057"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Rumble rumble rumble rumble...*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As she did\u30fcthe area suddenly began to shake, and it soon turned into an earthquake so strong that it was difficult to stand."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "The cave is collapsing!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The natural rock walls were falling apart and loose earth was raining down from the ceiling."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Get out of here!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se057"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Rumble rumble rumble...!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Gyaieee!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "The exit is right over there! Run...!!!"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc028b",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Huaaah...!! We made iiiit!!!! ...But where the hell are we!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After desperately running out of the cave, we were back in the overgrown castle ruins, which looked the same as they had a few days ago."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm408",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t004d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "The castle... is gone..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t004d",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Looks like everyone made it out in one piece..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There was no trace of the castle, and just a stone monument and a signboard stood there peacefully."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001e",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "sa_t002c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004e",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "That means almost all of this was an illusion... But it's still hard to tell what was an illusion and what was reality."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "sa_t002f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "The cave has been completely blocked... I wonder what those demons were doing in there."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "In the end, the ghost woman that Shikanosuke said he saw never showed up, and whatever those demons were doing here got hidden under all this rubble."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "sa_t002h",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Somehow that's not a very satisfying ending..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001h",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "And after all those horrors I went through..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We slumped our shoulders in disappointment as we stood amidst the scenery of the mountain and the quietly flowing stream."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "For now we've defeated the demons. I'm sure the headmistress will look into the rest. Anyway, let's go home."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Y-Yeah, at least we're all safe..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001h",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Wait, ah... aaah! We have a quiz tomorrow... Oh man, I haven't studied at all... L-Let's head home quickly, Fuma! Hebiko!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "If you studied properly on a regular basis you would have nothing to worry about."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Ueeeeehh... out of the frying pan and into the fire..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I'm in the same boat..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "You guys are hopeless, huh. Hebiko will teach you the parts that are likely to show up just this once!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001b",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "H-Hebiko! You're a goddess, no, an octopus goddess!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Eventually the light rain also stopped and we headed down the moonlit mountain path."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001b",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "sa_t002h",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Meanwhile. In the forest a few kilometers from the castle ruins\u30fc"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm312",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc037a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A man looked up at the moon between the clouds, pausing for a moment."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t001f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Nisha Gaiza",
+        "text": "...Is that you, Gonza?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "Yes."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A lump of earth that had risen from the ground quickly took the shape of a man, turning into Gonza, who knelt before his master."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t001f",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "o_t002c",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "The Gate to the Devildom beneath the castle ruins was decrepit and unusable... It must have been closed for hundreds of years."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t001a",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Hm, I see. Nomad's information is surprisingly worthless."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Gaiza replied casually. He had thought that this might be the case from the beginning."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was said that the lord of the castle once made demons and monsters his followers and ruled his people with fear\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But one day, his rule came to an abrupt end. The lord of the castle had lost his power and was easily defeated by the people he had oppressed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If the old stories were true, then those demons and monsters had been summoned from a Gate to the Devildom."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And the moment he had suddenly lost his strength, was, in other words, the moment when the Gate to the Devildom had lost its power\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t001f",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "It's always the humans who are the fools, isn't it?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "Master..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t001a",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "What?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "There was already someone examining the decrepit gate when we arrived, and I've lost quite a few of my men. My deepest apologies."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Oh? It was a difficult battle even with you there?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "...There was a skilled female warrior accompanied by a mysterious demon."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t001f",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Ohh."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t001a",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "I thought the demons were all united under Nomad, but I guess they aren't a monolith."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "It seems so."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "That alone is a useful piece of information, Gonza."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Gonza remained on his knees and watched Gaiza speak those words before disappearing into the forest."
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t001a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "o_t002c",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

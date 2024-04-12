@@ -1,0 +1,437 @@
+[
+    {
+        "type": "WAIT",
+        "info": [
+            "2000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm608",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc048a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Bzzzzzz*..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The queen squirmed on the ground for a moment, but soon curled up and stopped moving."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "We did it...!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t002d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hebiko was really surprised by the size of that thing..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That's because it was the queen..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t002d",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t001b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "Good job\u266a Looks like the strategy worked."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Shizuru! What about over there...?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "The worker wasps also calmed down as though they had never been upset at all. They fell to the ground and are just sitting there like they're dead."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shizuru poked one of the motionless, curled up wasps with her foot."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I see, what about..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Even though Shizuru had fought against that many Devildomian Wasps, she wasn't sweating one bit."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Seems I don't have to ask whether she's alright...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Apparently there were even more Taimanin of great skill among the ranks."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(I guess I'll stop skipping her English class...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "What about the Devildomian Wasps that stopped moving? Even if they're not moving now, leaving them like this seems a bit..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t001b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "The government will collect them as evidence. I called for backup earlier, so let's just leave them for those guys to deal with."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I see..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hm? Where did those critters go?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "What were they called again, Lilim and Minasaki? Given the way they moved, and their craftiness, it seemed appropriate to call them critters."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t001b",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ri_t001a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "mi_t001a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim",
+        "text": "Minasaki, hurry up! You're gonna be seen by Chief again!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Minasaki",
+        "text": "Even if you say that... it's pwetty heavy... hnnngh, haah."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Of all things, Lilim and Minasaki were trying to carry away one of the Devildomian Wasps."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hey!!! Where do you plan on taking that...!!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim",
+        "text": "*Flinch*..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Minasaki",
+        "text": "*Wince*..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The critters slowly turned to look at me, grinning broadly..."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm311",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim",
+        "text": "Seeya!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Minasaki",
+        "text": "Bye-bye!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ri_t001a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "mi_t001a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "...And then they grabbed the Devildomian Wasp and ran away as fast as they could."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hey, stop!! They're planning on trying to sell that off again somewhere, aren't they!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t002g",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Ahaha..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t002g",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t001j",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "What troublesome kids they are. Fuma-kun, let's go after them\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Eeeehh!? Why me??!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t001g",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "You're their chief, right? So take some responsibility."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Like I said I'm not their chiiiiiieeeef!!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t001g",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Those brats... They're definitely going to pay for this...!!!)"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

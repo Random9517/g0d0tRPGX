@@ -1,0 +1,129 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc002a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t001b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm307",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "You've successfully recruited a unit with Gacha!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "Let's add the personnel you acquired to your party right away."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "Fundamentally, a party consists of five units, but..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I only have the one unit I just recruited."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t001d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "S-Someday, I believe you too will have many talented individuals under your wing, Master!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "That being said, commanding a party of one unit is not suitable as an exam. So, this time I will join as a support unit."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "700"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

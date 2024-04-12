@@ -1,0 +1,470 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc120a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm206",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After narrowly escaping the siege, we had gone through a tunnel off of the flood bypass and set foot in the remains of the hidden mine that spread through the underground below Tokyo."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, there we found\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m072a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "HRS... HRSS..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "All of Us",
+        "text": "..."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "u_t003d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "...See? Now you understand why I said this way will also be dangerous, right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "F-For sure... this is dangerous all right..."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001e",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t002g",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "They look super gross... Hebiko... is an octopus, but still gets goosebumps all over..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "I think... I peed a little..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "All three of us had gone pale at the creepiness of the monster crawling right in front of us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Is that... a Devil Worm...?!)"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m072a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Right in front of the tunnel where we were hiding..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "...a worm-like demonic beast called a Devil Worm was crawling by."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Devil Worms were notorious for their ruthlessness and bottomless voracity, and it was said that even Taimanin couldn't avoid a struggle in a head-to-head fight."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "u_t003h",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "Their original habitat is the Devildom. But Yomihara is nearby... so, I guess that's why."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "Before anyone knew it, they started appearing on this side as well and built a nest in these tunnels."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I-I see..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "u_t003g",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "They're a real nuisance. The tunnel survey was halted, and now the tunnels are sealed off can't even easily be used as passages..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Devil Worms were nesting in the remains of the mine."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sana-san had known about them and that was why she had been hesitant to use this route."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "u_t003g",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002c",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Sana-san, those big worms, are there a lot of them in passages?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "u_t003d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "Hmmm, I think so...? I heard from the refugees that there might be a hundred, maybe two hundred or more of them in here."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Th-That many...!?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Ah, no, no!! That's gonna be awful, Fuma!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Before I fight against those huge, gross, scary things, I would rather just fight those refugees and UFS dudes from earlier!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Calm down, Shikanosuke. I mean, I understand how you feel, but..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Devil Worms were easily over a meter in diameter."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "They were almost big enough to fill the tunnel completely and they were so grotesque and bizarre that it was understandable for Shikanosuke to be so afraid of them."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Even if there are lots of them, that's with regard to the whole mine, right. It's not like we have to deal with all of them."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Y-You may be right, but..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "And, however big they are, they are still worms. If you use their characteristics to your advantage, they aren't a daunting adversary."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Their characteristics...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah. Just let me handle them\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I glanced at the giant worm crawling through the tunnel and grinned suggestively."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

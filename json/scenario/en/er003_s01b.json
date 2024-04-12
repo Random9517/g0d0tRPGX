@@ -1,0 +1,1415 @@
+[
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "..."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm207",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc041a",
+            "IN",
+            "3000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The battle between us and the weirdly-behaving Maika had begun."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Stop it, Maika!! Don't you know who we are!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ma_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Maika",
+        "text": "Who gives a damn who ya are!! For now, just dieeeeeeeeeeeeeeeeee!!!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Boom!! Booooooom!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Maika was shooting at us wildly with the weapon in her hand\u30fcthe Death Bazooka."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ugh!? Watch out, you two!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Scatter!! She'll get us if we stick together!!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t002d",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t005d",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Y-Yeah!!"
+    },
+    {
+        "type": "ACTOR_PRIORITY",
+        "info": [
+            "2",
+            "10"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "G-Got it!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t002d",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t005d",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "While evading the explosive shells that were fired one after another from the Death Bazooka, I handed down orders to Hebiko and Shikanosuke."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Maika and I had been on the same team before during the practical exam."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At that time, fortunately, I had been able to grasp Maika's battle tendencies to some extent\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If I hadn't, all three of us definitely would have been vaporized in an instant."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ma_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Maika",
+        "text": "Hey, you guys!! Stop runnin' around, it's annoyin'!! Just get burnt to a crisp already!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Shut up!! As if we'd let that happen!!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Boom!! Booooooom!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "While loud explosions thundered through the back alley, Maika's attacks continued."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ma_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And then\u30fc\nas Furst watched that battle playing out, he called out in a cheerful voice."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "f_t001b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Furst",
+        "text": "Oh-ho. It's just as she said, Fuma-kun. No useful data will be collected if you just keep running around."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "\u30fcFurst!! What did you do to Maika!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Maika had said that she \"doesn't give a damn who we are\" and was unleashing relentless attacks with the intent to kill."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It seemed that anything about us had completely disappeared from her brain."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "f_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Furst",
+        "text": "There's no need for me to answer that, right? Because you're all going to get killed by her right here anyway\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Damn it... you perverted geezer...!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "f_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However... even while tut-tutting, I was analyzing the situation in my head, trying to get to the bottom of it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In the information we had just gathered about the missing persons, there was something about them \"returning with completely different personalities.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That was exactly what was happening with Maika right now."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Maybe if Furst was conducting some kind of brainwashing experiment, and if the missing persons were the victims of his experiment..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "f_t001b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Furst",
+        "text": "Oh-ho-ho..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Perhaps that's\u30fc!?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Something in Furst's hand that looked like an input terminal had caught my eye."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And Furst was enthusiastically operating it while observing the fight between us and Maika."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm205",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "f_t001b",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hebiko!! Shikanosuke!! Target Furst!! That device he has in his hand!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I reached my judgment in an instant and gave them their orders."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Even three against one, it would be hard to win against Maika, and we couldn't afford to hurt her in the first place."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "So to start with, we would attack Furst, who was possibly the one controlling Maika\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t005f",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Got it, Fuma-chan!!"
+    },
+    {
+        "type": "ACTOR_PRIORITY",
+        "info": [
+            "2",
+            "10"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "If this fails then you take the blaaaaame!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "While they each confirmed my orders, Hebiko and Shikanosuke dashed toward Furst."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t005f",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, Furst wasn't going to just stand there silently and suffer their attacks."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Furst",
+        "text": "Uh-oh, can't have that now\u30fc\nProtect me, Maika."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He operated the device in his hand at the same time as he gave the orders\u30fc\nand Maika moved in response."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ma_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Maika",
+        "text": "Ughhh!? ...W-Wait, you shits!! <i>I'm</i> your opponent!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "!? Maika-chan!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieeeeee!? Kamimura-san, forgive meeeeeee!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Maika immediately aimed her Death Bazooka at the two of them and tried to block their way."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However\u30fc\nthat was just as I had calculated."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sorry, Maika. Go take a short nap."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se001"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Bash!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Maika",
+        "text": "Ungh!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ma_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se010"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Maika collapsed with a thud."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If she were to follow a sudden order, inevitably there was going to be an opening in her movement."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I aimed for that opening. I approached her from behind, and hit her hard on the back of the head."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t005a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Fuma-chan!!"
+    },
+    {
+        "type": "ACTOR_PRIORITY",
+        "info": [
+            "2",
+            "10"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "You did it!! Good job, Fuma!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Furst",
+        "text": "Well, I'll be!! So that's what you were aiming for\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Tough luck, you geezer. With that, there's nobody left to protect you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Without Maika's interference, there was nothing to be afraid of."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We surrounded the slightly panicked Furst, but..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t005a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "f_t001b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Furst",
+        "text": "Oh-ho... this isn't over yet, you know?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Even while being surrounded by us, Furst was smiling boldly\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Furst",
+        "text": "The experiment this time is about unleashing the hidden potential of a human being through brainwashing."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Furst",
+        "text": "Well then, let's have her show her true power\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With that, he entered something into the terminal he was holding. And then\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "f_t001b",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Maika",
+        "text": "Uuuuuuuuuuuuuuggghhh!!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "\u30fcMaika!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Maika, who I thought had been unconscious, suddenly started groaning."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A tremendous amount of incendiary energy was released from her entire body."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ma_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The intensely grimacing Maika slowly stood up\u30fc\nand aimed her Death Bazooka at us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Maika",
+        "text": "Damn it... ya bastard...!! How dare ya do that to me...?!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Oh shit!! Do whatever you can to evade her, you two!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I shouted to Hebiko and Shikanosuke."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "You could tell from looking at the incendiary energy enveloping Maika's body."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "\"An experiment to unleash someone's hidden potential\"\u30fc\nnow that she had unleashed it, Maika's danger level was worlds apart from before."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Furst",
+        "text": "Oh-ho-ho-ho-ho-ho!! Finish them, Maika!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Furst",
+        "text": "<i>Now</i> use your full power!! Reduce those cheeky brats to ash!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Furst let out a booming, triumphant laugh."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And the next moment\u30fc"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Maika",
+        "text": "Shuuuut uuuuup, ya damn geezer!! You're the one who's gonna buuuuuuuuuuuuuurn!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Furst",
+        "text": "Oh-ho...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "To our amazement, the one Maika was aiming her Death Bazooka at\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Was her supposed \"master,\" Furst, who was standing beyond us."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ma_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Maika",
+        "text": "\u30fcEat this!!!\n Full power \u226aG\u5c3a\u30e8N\u51e1D\u30e8\u226b!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "3000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se005"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Boooooooooooooooooom!!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "An explosion so big that everything went bright for a moment\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And in the place where Furst had been standing, a spectacular pillar of flame was rising up."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ma_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Maika!? You... but why!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Maika had been brainwashed and should have been out of her mind. But despite that, why\u30fc?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Maika",
+        "text": "Oh, it's Fuma... So it was you that gave me a whack before? That was kinda refreshin'..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Maika replied with a frown, maybe because her head was still hurting from when I had hit her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Maika",
+        "text": "After that... I somehow suddenly felt a surge of power. Not really sure why though..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "A surge of power...?"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Maika was repeatedly tilting her head. It seemed like she herself didn't know how she had come back to her senses either."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Furst",
+        "text": "Oh-ho-ho, I see... It seems that the impact to your head and the release of your hidden potential have invigorated your mind as well."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Furst",
+        "text": "I never thought something like this might happen... I was able to obtain quite an interesting experimental result."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Suddenly, a rasping chuckle could be heard from beyond the flames and smoke."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Furst!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Maika",
+        "text": "You're still alive, ya bastard?!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We vigorously barged ahead and pushed through the blaze and fumes. However\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Maika",
+        "text": "Tch... Looks like he got away..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Furst was no longer there, and only a few swirls of miasma were left behind, most likely from where he had disappeared through a gate of darkness."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ma_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR26",
+            "OUT",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "black",
+            "NONE"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc041a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR26",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm506",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sheesh. But case closed for the time being, I guess?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Furst, the cause of the incident, had escaped, but we had found the missing Maika and brought her back to her senses."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "On the whole, it should be fine to call it mission accomplished."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Pheeew\uff5e That was scary... But I'm glad to see you back in your right mind, Kamimura-san."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ma_t001a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Maika",
+        "text": "Yeah, I've caused ya quite a bit of trouble. Seriously, I owe ya one, so thanks."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001i",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Uwhaaa!? N-No, I mean we just did what all friends would do... eheh, ehehehe..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Being thanked by Maika, whom he adored, Shikanosuke was absolutely elated."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Well, we were about to be turned into cinders quite a few times though..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Maika",
+        "text": "Hehe, I told ya I'm sorry. I'll treat ya to somethin' later, so gimme a break."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Maika put on a fearless grin."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The shock of awakening from the brainwashing seemed to have worn off, and she was almost completely back to her normal self."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001i",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002e",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "But still, this Furst guy really is unforgivable!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Maika",
+        "text": "Yeah, totally!! If I see that geezer again, I'll definitely kick his ass!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Uh huh. Maika-chan, you were in a harrowing situation too, huh. He must've used some super dirty trick to catch you, right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When Hebiko asked, for some reason Maika became visibly distraught."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Maika",
+        "text": "Eh!? Y-Yeah, you're right...!! He set a really dirty trap to catch me, ahaha..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hm? Why are you so flustered?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Maika",
+        "text": "S-Stop being stupid!! Why would I be flustered...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hmmm...? Actually, I had also been wondering about that."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "He's an executive of Nomad, but how did someone as stupidly powerful as you get caught...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Maika",
+        "text": "M-More importantly, I almost forgot!! My family must've been worried, so let's get home already!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Maika said and quickly walked towards the station."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ma_t001a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...Oh well, let's head home too."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "You're right. Good work today as well, guys\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I hadn't been able to hear the reason for Maika getting captured, but she was back safe and sound, and I guess that was all that mattered."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And so the three of us followed Maika and walked toward the station."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ma_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Maika",
+        "text": "(Ugh, damn it...!! There's no way I can tell them...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Maika",
+        "text": "(How I was lured by that geezer with a first-hand course on how to do stylish gyaru makeup...!!)"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ma_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

@@ -1,0 +1,495 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm207",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc048a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se063"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Bzzzz... buzzzzzzz... buzz...*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Were they trying to intimidate us or were they sharing information with each other? The sound of countless wings was echoing nearby."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t001d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "We made a circle, but what do we do next? The swarm of wasps will be here any second."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "We do nothing."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t001e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "Do nothing??"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t001e",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ri_t001a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "mi_t001a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim",
+        "text": "What do you mean, stupid Fuma?!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Minasaki",
+        "text": "If that's your plan, let me give the diwections!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Stop moving already! Do you want to get eaten by wasps?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ri_t001a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "mi_t001a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "sz_t001d",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004d",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Fuma-chan, can you explain it more?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Come on, this is basic stuff. When you encounter wasps, you shouldn't panic or make sudden movements."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Wasps' visual acuity is poor. But their eyes are well attuned to sensing movement, and their field of vision is wide. If we run and hide they'll come after us even more."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "sz_t001e",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "I see. If we stand still they have a harder time finding us."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "But staying like this forever isn't an option. What next?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Then it's time for Shizuru's whip."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "sz_t001b",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "Got it\u266a That's enough explanation."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "sz_t001b",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004e",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Thanks a bunch. Minasaki! Can you sense the direction of the queen?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "mi_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Minasaki",
+        "text": "Over there, stwaight ahead!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "mi_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Good... Then let's go get the queen!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Bzzzz... bzz... buzzzzz!*"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se006"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t005a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "Hey you wasps, the flowers are over here!!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t005a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Flower petals danced around Shizuru, and her whip of shape-shifting thorns struck the wasps."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Devildomian Wasps rushed toward her at high speed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "While Shizuru keeps them occupied, we'll go after the queen! Remember, absolutely no running until we're past the swarm!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ri_t001a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "mi_t001a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim",
+        "text": "Roger, Chief!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Minasaki",
+        "text": "This way, Chief!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Stop calling me Chief!!"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ri_t001a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "mi_t001a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

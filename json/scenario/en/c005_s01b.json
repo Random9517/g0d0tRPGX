@@ -1,0 +1,308 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm604",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc050a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In the martial arts dojo\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se020"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akiyama Rinko",
+        "text": "Men!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "rn_t001c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Instructor",
+        "text": "We have a winner!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The second grade students were in the middle of their swordsmanship lesson."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Akiyama Rinko, the inheritor of the \"Ace Katana Style,\" got a point against her opponent and was cheered on by her classmates."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Instructor",
+        "text": "Well done, Akiyama. You will be the one representing our school next time."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "rn_t001b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "Understood... thank you very much."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Rinko took a bow, and her classmates who had been watching came running up to her one by one."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Female Student A",
+        "text": "Rinko-san, you're amaaazing!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Female Student B",
+        "text": "You just transferred schools but you're already first in the grade!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Male Student A",
+        "text": "I'm looking forward to seeing the trials! I'll be rooting for you!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Male Student B",
+        "text": "Give that delinquent Igawa and that stupidly strong student council president a beatdown too!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "rn_t001k",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "Well, I... ahaha..."
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se021"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Diiing dooong*..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "rn_t001k",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Instructor",
+        "text": "Oh, it's lunchtime. Let's wrap up for today!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Students",
+        "text": "Thank you very much."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "People were still gathering around Rinko even while she was putting away the equipment."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "rn_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Female Student A",
+        "text": "Hey, Rinko-san, let's go to the cafeteria together!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Female Student B",
+        "text": "Eh? No fair, I'm going with her!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Male Student",
+        "text": "A-Akiyama-san, come with us...!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "rn_t001j",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "Ah, I... um... hm?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "rn_t001d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Rinko gave a strained smile as she spotted a frantically running man out of the corner of her eye."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "Isn't that..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Male Student",
+        "text": "What's the matter, Akiyama-san?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "rn_t001c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "Sorry, something suddenly came up...!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "rn_t001c",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "300"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Female Student A",
+        "text": "Ah, Rinko-san! Where are you going!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Female Student B",
+        "text": "Rinko-saaan!"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

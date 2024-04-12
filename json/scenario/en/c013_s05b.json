@@ -1,0 +1,1575 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm313",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc150a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t006d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Hnn... Take thaaaaaaaaaaat!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se006"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t003d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke, who bravely jumped out despite being afraid, let his shuriken fly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Butler of the Netherworld",
+        "text": "\u300eRidiculous!! Shuriken are useless against my immortal spirit body!!\u300f"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t003a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Heh-hehe! Sorry, but this isn't your average shuriken!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t008f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se014_01"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "\u30fcElectric Jutsu: Spark!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Butler of the Netherworld",
+        "text": "Hghgh?!?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se037"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Bzz bzzz\u30fcBOOOOOOOOM!!!!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The shuriken reacted to the static electricity Shikanosuke had released, and they exploded right in front of the butler's eyes."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "These were explosive shuriken, custom-made for Shikanosuke by the Gosha maintenance department."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t006b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Nice, Shikanosuke-chan! Now's our chance\uff5e!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t006f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "\u30fcFour Blade Style - Octo-Strike!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Butler of the Netherworld",
+        "text": "\u300e!?\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As the ghost butler was losing his form due to the explosion, Hebiko assaulted him with an Octo-Jump."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se098"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With the strength of her tough octopus legs and her four ninjato, she cut up the butler's spiritual body and dispersed it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Butler of the Netherworld",
+        "text": "\u300e\u30fcOhohohohoh!! Are you done with your attacks, octopus girl?\u300f"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Ehhhhhhh!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The butler's body, which had been dispersed, reformed like nothing had ever happened."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m093a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Butler of the Netherworld",
+        "text": "\u300eThen, I guess it is my turn now.\u300f"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Uwaahh!? No way!? Hebiko's in big trouble?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se008"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Whizz!!! Whoosh, whizz!!!*"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m094a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Poltergeist",
+        "text": "Aaaaaaaaaaaaaaaaaah!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "These were poltergeists."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "These poltergeists controlled by \"Netherworld Jutsu\" twisted around the furniture and decorations and threw them violently at Hebiko."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "H-Hebiko!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "H-Hebiko's okay... but, this might be a bit rough...!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko parried the attacks from the poltergeists with her Ninjato, but there were so many of them that she could only focus on defending herself."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Well... I guess it can't be helped.)"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And as I watched them struggle I was sneaking on the edges toward the end of the hall, approaching Yukikaze's room."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had expected it to be a hard fight for the two of them."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "More so than that, we knew from the start that we had no chance of winning against that immortal ghost butler at all."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But if they could catch the attention of that ghost old man as a diversion then..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m093a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Butler of the Netherworld",
+        "text": "\u300eInsolent boy!! Did you think that you really think you could deceive me!?\u300f"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hghheeeeeeh!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "All of a sudden\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Smoke arose from the floor right in front of me, and the butler of the Netherworld appeared from within."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...You've got some good eyes, old man. So you realized it was a distraction from the start?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Butler of the Netherworld",
+        "text": "\u300eDidn't I say that I knew you were crafty, Fuma!? You fool!\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The butler of the Netherworld laughed loudly and made the surrounding objects fly around."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hmm? Then do you know what this means?\u30fc\u30fc\u30fc \"Three.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I turned to the ghost old man floating before me, and raised three of my fingers."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Butler of the Netherworld",
+        "text": "\u300e...Three?\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Butler of the Netherworld",
+        "text": "\u300eOhohohoh\u30fc!! I know, boy. This is the time remaining before your death!!\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The furniture and decorations flying around began to spin above my head violently."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Butler of the Netherworld",
+        "text": "\u300eThere!! Three\uff5e, two\uff5e\uff5e!!\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The ghost old man began to count down in high spirits."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As he had said, if he made the flying furniture fall on me it would surely only take an instant for me to kick the bucket."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Mwahaha... I'm so sorry old man, but that's incorrect!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Butler of the Netherworld",
+        "text": "\u300eHnngh!? Incorrect!?\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "While I was avoiding the furniture I sent a signal to my partner who was observing us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah, that's right! \"Three\" is the number of shuriken that Shikanosuke threw!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "He already made one of these three explode. But the two others are still stuck in your body... Shikanosuke!!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t003f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "G-Got it, Fuma!! Here we gooooo!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t008f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Electric Jutsu: Spark!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se014_01"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "800"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se037"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Bzz bzzz\u30fcBOOOOOOOOOM!!!!!\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Butler of the Netherworld",
+        "text": "\u300eHnnghooooohhhhhhhhhhhhhh\uff5e\uff5e\uff5e!???\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke used static electricity to make the two remaining shuriken stuck in his back explode\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The butler of the Netherworld had been completely obliterated and blown away."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Now!! Get to the room you two!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko and Shikanosuke",
+        "text": "Right!!"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "500"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc151b",
+            "IN",
+            "800"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se052"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Clink\u30fc!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We opened the door, rushed inside, and saw a young girl in a uniform with a large headset on in front of monitors."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "chr_t0112a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "There she is!! Yukikaze!!!"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm506",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Uwaaaahh!? Wh-What are you all doing here!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze took the headset off and looked back at us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Naturally, she looked completely shocked due to our sudden entrance."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Waaaaahhhhh!! Yukikazeeeeeeeeeeeeeeee!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Heberybody finally found youuuuu! It was absolutely horrible, that monster butler kept chasing us!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Eh!? Ehhh!? Butler... you mean Uncle!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke and Hebiko had both clamped onto Yukikaze, ready to burst into tears."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "On the other hand, Yukikaze looked like she was still unable to process what was happening."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah! What's the deal with that butler exactly\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "chr_t0112a",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m093a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Butler of the Netherworld",
+        "text": "\u300eWhat!? These people were your friends!?\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "WHOAH!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(He recovered already!?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was the butler of the Netherworld."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He was supposed to have been completely blown away by the two shuriken explosions by Shikanosuke, but he had already reappeared like it was nothing."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "What? Uncle, did you jump to conclusions and chase guests around again?"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Butler of the Netherworld",
+        "text": "\u300eHnngh!? Jump to\u30fc!?\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The butler of the Netherworld looked puzzled by the words of his master, Yukikaze."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Again...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "So he's a repeat offender..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Well, he did seem used to chasing people..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Oh, I'm really sorry everyone. Uncle always seems so desperate to protect me, sometimes he even kills people who visit."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...Are we just going to ignore that bit at the end there?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Hey, isn't that why nobody knows about Yukikaze's home?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "It's a good thing heberybody survived here..."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m093a",
+            "LEFT",
+            "CENTER",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Butler of the Netherworld",
+        "text": "\u300eHmmm\uff5e, I am so ashamed of my misunderstanding!!\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After being told so by Yukikaze, he finally seemed to calm down from his enrage mode."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Butler of the Netherworld",
+        "text": "\u300eThen, friends!! I have no choice but to apologize by cutting my stomach open...\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Wait, you're immortal so what's the point of that!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Butler of the Netherworld",
+        "text": "\u300eOhhh!? That is true isn't it, ohohohoh\u30fc!\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Us",
+        "text": "........."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was a very practiced undead joke."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(I'm sure that old man isn't the least bit sorry...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "(Seems like he'll do it again...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "(He's a real troublesome old man...)"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We nodded to each other with a fatigued look on our faces."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "chr_t0112a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "By the way, why are you three even here? Something to do with me?"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ah!? That's the adventure... I mean, the notebook."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Notebook?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Yes. The notebook Hebiko borrowed before the exams. Hebiko thought that Yukikaze-chan would be in trouble if you didn't have it to study with today."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Ohh, this one!! You could've just given it back tomorrow, you know? But thank you anyway, Hebiko\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze's notebook was safely returned by Hebiko."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Sheesh, case closed I guess.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We discovered the secret about Yukikaze's house and Hebiko returned the notes she had borrowed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And with that today's adventure was over."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Hmm? Hold up?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As I breathed a sigh of relief I finally realized that something was off."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze's room\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It had a completely different feeling compared to all the other old fashioned rooms in the castle."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It had several large monitors, a very high-end PC case, and a gamepad on the desk\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t003b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Hey, Yukikaze. Your room is seriously great."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Looking around, Shikanosuke voiced what I was thinking."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah. This room is clearly that of a gamer."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "chr_t0112a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "You got a problem with that? Even Taimanin play games you know."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Well, I guess they do, but how do I put this... this is like the real deal... hmm?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Wait. Your room, I've seen it somewhere before."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "\u30fc\u30fc!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze stiffened with a start."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "? What do you mean? Fuma-chan, it's the first time you've come to Yukikaze-chan's house, right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah, it is but... hmmm."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "H-Hey, Fuma! If you're finished here, just go home already!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As I was pondering, Yukikaze suddenly panicked and tried to make me leave her room."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No, w-wait a moment. I feel like it's on the tip of my tongue\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(That's it! That chair!!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "This is the same room as Y-kazeX-chan!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That chair too, it's the same chair as the famous streamer Y-kazeX-chan!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "\uff5e\uff5e\uff5e\uff5e!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A silent scream escaped from Yukikaze's throat."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t003a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "? Who's this Y-kazeX-chan, Fuma?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You don't know her, Shikanosuke!!? You're really out of touch man\uff5e, she's a streamer Sakura and I are fans of!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "She descended upon the FPS world like a shooting star! She has a 98% headshot percentage!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Her legendary 30 kills video has over 1.24 million views!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Ehh. I don't really get it, but she sounds like someone really good at games."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "She is! After cheating rumors she started streaming with her face while wearing a mask."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Which is also great. She has twintails, is flat-chested, sun-tanned, plus the mask makes her a very hot topic..."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "..........................Huh?"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "\u30fc\u30fc\u30fc\u30fc\u30fc\u30fc\u30fc\u30fc\u30fc!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The flat-chested, sun-tanned girl with twintails turned away as fast as she could."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(I-I see...!! So this is how it was!!!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had the wrong idea about all of this."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The secret about Yukikaze's house wasn't that it was a castle nor her ghost butler..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The \"real\" secret about it was\u30fc"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm317",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It's youuuuuuuuuuuuu!!? Yukikaze, y-you're THAT Y-kazeX-chan!!?"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Wh-Wh-Wh-Wh-What are you saying, stupid Fuma! I-I'm not! I know nothing about thaaaaaat!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "There's no way it's not you!!! This room, that chair, and that small chest!! It can't be anyone but you!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Th-That's just some kind of coincidence! More importantly, just leave or I'll kill you, stupid Fuma!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m093a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Butler of the Netherworld",
+        "text": "\u300eKill? So this boy was an enemy after all, Miss Yukikaze!? May I kill him and bury him in the backyard!!?\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Aaaaahhh!!?? N-No, Fuma is a friend!!! More importantly, killing is forbidden, Uncle!!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "chr_t0088a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "So? You met Yukikaze?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t001b",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Ah, Clear-chan\u266a"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m093a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Butler of the Netherworld",
+        "text": "\u300eWhat, he is your friend!? Then we need to welcome your friends with the specialty of this house: stir-fried vegetables!\u300f"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t003b",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Ah! I want to eat stir-fried vegetables!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I got it, damn it!! Then show me your gamer ID!!! With that, I can easily check if it's\u30fc"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Just leaaaaaaaaaaaaaaaaaaaave!!! Everyone, get out of my roooooooooooooooom!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The voice of Y-kazeX-chan echoed through the tranquil mountains."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was another peaceful night at the Mizuki castle."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

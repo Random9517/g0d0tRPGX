@@ -1,0 +1,504 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm605",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc062a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Phew... I think we can catch our breath here."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We had escaped the restaurant, but the black market district was already filled with white mist and zombified inhabitants."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "While avoiding the pesky Zombies, we had tumbled into a back alley away from the main street. The white mist had not reached this far."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "So, Yomi Akitsu was it? You're going to lead us to where Gaiza is?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ak_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "Yes. That's the deal I have with Madam."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Deal? You're not one of the underlings of that masked lady?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "Huh!? Underling!? Don't be rude!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Akitsu's face turned into a mixture of contempt and exasperation."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "I've just got a deal with her, you hear, a deal."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "First and foremost, I'm a proud Ryomanin. There's no way I would be so pathetic as to work under someone else."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "A Ryomanin...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Come to think of it, when Akitsu had rescued us, she had also called herself a Ryomanin."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "Hmhmm. You're curious, aren't you? Of course you would be, huh."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Akitsu's face took on a proud look."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "For you ninja of the human world? Taimanin? For you of course, it's a story that I'm sure you can't wait to hear and that you can't stop thinking about\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No, we can leave it there."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "Eh?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "For now, chasing Gaiza is our priority. Ryoma... what was it? Not sure, but let's talk about that later."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "Eh? I-Is that so...? You're not curious...? You guys are ninja too, aren't you...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This time Akitsu's expression turned into bewilderment. Unlike the impression she had given when she had been slicing Zombies in half, well, it seemed that she enjoyed talking."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I can't say I'm that curious... Hebiko, Shikanosuke, what about you?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ak_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t002c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hmmm. She has a lot of legs, but her fighting style is different from Hebiko."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t002c",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ak_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "These are not legs! This is called Magick Gear..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Akitsu rattled the four mechanical arms that sprouted from the mysterious piece of equipment."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ak_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What about you, Shikanosuke?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Eh? What? Romanin? Is it a painkiller or something?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ak_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "That's enough!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "Even if you say you want to hear later, I won't tell you!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What, did you want us to ask about it?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "N-No, I didn't!!! Isn't it obvious that I didn't? Why are all the ninja of the human world so..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Akitsu was still mumbling, but it was true that this was not the best time."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "So, about Gaiza's location."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "This guy stole the CD Virus, so he's most likely being hunted by several UFS organizations."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "He knows that, so he's probably hiding himself securely somewhere. Do you know where he's lying low?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "No, I don't."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hey, then how..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "We just have to use our techniques to follow him."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Techniques...? Are you talking about Ninja Arts?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Did Akitsu also possess some kind of ninja power?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "Hmph. You're not interested, right? Well, I'll start looking for him then."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Akitsu took out something that looked like a little machine and showed it to us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "Magick Gear: Shadow Spider\u30fcHey you, you've got something Madam told you to bring, right? Give it to me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I pulled a faded pouch out from the bag on my back."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "There you go. Gym clothes should be fine?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "On the phone the masked lady had ordered me to \"bring something that Gaiza wore.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "So I had brought Gaiza's gym clothes that had been left behind at school."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "Gym clothes!? Gross... Well, doesn't matter as long as we can get the target's DNA."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "While grumbling, Akitsu tore up Gaiza's gym clothes and threw them into an opening in the center of the machine."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ak_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And then\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Eehh!? Wh-What is that!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Little spider-chans are coming out of the machine!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The machine's exterior crumbled away and turned into hundreds of mechanical spiders."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And then, with the sound of thousands of tiny mechanical legs, the spiders moved toward the main street."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ak_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "Hm. Looks like they caught the scent right away. If we follow those little ones, we'll eventually catch up to our target."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I see, that's awesome. So this is your Ninja Art...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "Y-Yeah!! What!? I knew it... you want to hear about Ryomanin!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No, we can do that later. More importantly, let's follow those spiders. If we lose sight of them, we have nothing."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "Ahh, jeez!! I know that!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Akitsu pouted, puffed out her cheeks, and chased after the mechanical spiders."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Fuma! Let's go too!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah!"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ak_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

@@ -1,0 +1,691 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm410",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc074a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ak_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "Haahhh!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ak_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se033"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Zombie Waitress",
+        "text": "MOUNGGHH!?!?!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Zombies that broke into the private room collapsed one after another to Akitsu's sword handling."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Seeing it from up close, her skill with a sword is amazing. It's almost beautiful.)"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m055a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m054a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Zombie Waiters",
+        "text": "\u25aa Dear-customers... please-be-a-bit-more-quiet...\n\u25aa I-am... coming-right-away..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But the sound of battle seemed to be drawing in even more Zombies."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m055a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m054a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ak_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "You're really persistent, aren't you?! I'm starting to get tired!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ak_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "k_t003e",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "I guess you don't have time to think about it. Captain, will you accept my request? You finished taking the vaccine, I imagine."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...Yeah."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "k_t003e",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I threw away the empty ampoule, shared a glance with Hebiko and Shikanosuke, and nodded."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t002e",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Yes."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t002e",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Of course we will."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001c",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Capturing Gaiza was the most important mission for the Independent Commando Unit. This was Gaiza in possession of a dangerous bioweapon and trying to establish his power in the underworld."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No need to even ask. We're definitely going to stop him."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "\u30fcBut before that, there's just one thing I want to confirm."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "k_t003a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "Oh, what is it?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Why are you asking us to do this? If you're with the UFS, shouldn't it be faster to mobilize your own people?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "I can't. Not at the moment."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Why?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "How do you suppose Gaiza knew about the UFS's top secret CD Virus?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...I see..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In other words, there was a mole within the UFS."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That meant there was a high probability that someone in the UFS was selling information to Nomad."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "So you want to utilize us and deal with this in secret."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "k_t003b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "That's right\u266a And one more thing."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "k_t003a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "You know by now that the UFS is divided into several organizations and that they aren't a monolith."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "And I'm sure that other UFS organizations are already chasing after the stolen virus by now..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "k_t003c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "I want you to go and retrieve the goods before anyone else does."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hmm..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I'm fine with stealing the virus, but what guarantee is there that it won't be used for evil once I hand it over to you?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "There is none. You'll just have to trust me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "Our goal is to destroy or seal any technology from the Devildom. We will show no mercy to anyone standing in our way."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Even if it's another UFS organization?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "Correct."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sheesh... What a ridiculous mess..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...Alright, I'll believe you. It seems best to hand over the virus to you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Such a dangerous virus must be reclaimed and eradicated from this world as soon as possible."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was a larger purpose that went beyond personal interests and bargaining."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "k_t003b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "Hehe\u266a What a lovely answer, Captain."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The masked lady smiled pleasantly and called out to Akitsu, who was holding the Zombies in check at the entrance of the private room."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "k_t003g",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "Akitsu!! Lead them to where the virus is."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "k_t003g",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ak_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "Oh? You finally finished talking, huh!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Akitsu instantly retreated to the window and drove the swords on her back into the expensive-looking glass."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ak_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se039"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*CRASH!!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "Okay, come quickly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Alright. Hebiko! Shikanosuke! Time to scram!! We'll escape to the rear through the window!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "\u30fcWhat about you?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "k_t003g",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "Leave the Zombies to me, now go!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Masked Madam smiled graciously and turned toward the Zombies that came rushing in, preparing herself for battle."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "k_t003g",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(She'll take care of those Zombies single handedly? \u30fcDon't you die like this, masked lady!)"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ak_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "What are you doing!? Hurry up!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Alright!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I jumped through the glass window that Akitsu had smashed and escaped to the back street."
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ak_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

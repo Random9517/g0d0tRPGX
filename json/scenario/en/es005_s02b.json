@@ -1,0 +1,1768 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm313",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc066a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0011a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinka",
+        "text": "Ninja Art: Soaring Purple Smoke!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se035"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Slap! Bam!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Rinka-senpai's super-hard knuckles aimed directly at the soldiers' weak spots and knocked them down one by one."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Special Forces Soldier",
+        "text": "Shit! She's strong!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She was living up to her name as the \"Demon Fist Taimanin,\" as countless soldiers and several multi-legged tanks had already collapsed all around Rinka-senpai. And yet..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m012a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m073a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se036_02"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Ratatatatata!! Dadadada!!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinka",
+        "text": "There's too many of them! I can't take them all out alone!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "More soldiers kept appearing, no matter how many of them she defeated. They must have been calling in reinforcements."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I would have helped her, but I had my hands full with protecting Saya."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(I'm sure Hebiko and Shikanosuke will notice with all this ruckus. But even if those two get here, what will we do about this army...?)"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "chr_t0107a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saya NEO",
+        "text": "Hey, onii-chan, get out of the way for a bit."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "H-Hey!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Saya slowly stepped towards the soldiers."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Special Forces Soldier",
+        "text": "Are you giving up? Good choice. If you surrender quietly, we'll let those Taimanin go."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saya NEO",
+        "text": "Hmm, let's see..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Powered Exoskeleton Soldier",
+        "text": "What are you still hesitating for?! Get over here already!"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se040"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Even with the muzzle of countless guns aimed at her, Saya was completely calm."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saya NEO",
+        "text": "Hmmm..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saya NEO",
+        "text": "You're lying. You're definitely going to kill those two, aren't you?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Powered Exoskeleton Soldier",
+        "text": "I'm not lying. We were told by Hestia-sama to be lenient with the Taimanin."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Special Forces Soldier",
+        "text": "Come on, get over here! Hurry up! If you don't, we're gonna send out that pain signal again!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saya NEO",
+        "text": "Alright."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Saya took one step towards the soldiers. But the next moment..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "ef005a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se032"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Powered Exoskeleton Soldier",
+        "text": "Guaah...??"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The soldier was pierced by Saya's tentacle right through his entire powered exoskeleton."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc066a",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "chr_t0107a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Special Forces Soldier",
+        "text": "Th-That can't be... Why's it not wor-...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saya NEO",
+        "text": "You didn't notice? Thanks to this onee-chan here, all the speakers sending out that sound were destroyed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Special Forces Soldier",
+        "text": "N-, no way..."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Special Forces Soldier",
+        "text": "Stop hesitating! Shoot her! \u30fcUaaaarrrgh!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saya NEO",
+        "text": "Ufufufufu\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "One after another, the armored soldiers collapsed to the floor after getting pierced by Saya. The morale of the troops was broken in an instant."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Special Forces Soldier",
+        "text": "Aaa-aaaahhh..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saya NEO",
+        "text": "Ahaha! So weak!!! Hey, did you know? Being weak is a sin!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(So that's Saya NEO...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Seeing her like that sent a chill down my spine."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(No time to be afraid! We can't afford not to take advantage of this opportunity!)"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se001"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I hurled myself into one group of the scared soldiers and knocked several of them unconscious."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Alright, let's break through here and make a run for it\u30fc)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m040a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se040"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Special Forces Soldier",
+        "text": "What a bunch of slackers! You should know Saya NEO's power by now!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I found only the muzzles of more guns waiting for me. With the worst timing possible, more enemy reinforcements had arrived."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You're kidding me\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se036_03"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*BRRATATATA!!!*"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hngh!!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I managed to barely evade the gunfire by using a technique I had learned in class."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinka",
+        "text": "Fuma!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se012"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Smaaash!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Just then, a demon fist came flying and smashed into the soldiers from the side. Rinka-senpai had helped me out."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinka",
+        "text": "Now! You go ahead!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "\u30fc!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I jumped over the collapsed soldiers and broke through the encirclement, but\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "ts_m012a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se103"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Woosh!!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Still more of them!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A new powered exoskeleton blocked my way."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Just as Saya said, looks like they plan to eliminate us too.)"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se040_02"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With an unpleasant metallic sound, its giant muzzle aimed at me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(This is it!!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saya NEO",
+        "text": "Onii-chan!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Just in time. Using her tentacles like a spring, Saya jumped towards me with great vigor."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se023"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ow!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Her impact threw me several meters back and allowed me to dodge the bullets, but then\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se036_03"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*RATATATATATA!!!*"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saya NEO",
+        "text": "Kyaaaaahhh!!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Instead of me, the rain of bullets hit Saya's body."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saya NEO",
+        "text": "Ugh, that hurts! Ouch!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Saya!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Powered Exoskeleton Soldier",
+        "text": "A-Alright!!! You're next, Taimanin! ...!? Wh-What!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Suddenly, a black liquid splashed across the face of the powered exoskeleton."
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se036_03"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "700"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se023"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Having lost its vision, the exoskeleton wildly fired its gun, the stray bullets causing several of his allies to collapse."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "6",
+            "s_t001f",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "7",
+            "h_t005f",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Fuma-chan! Are you alright!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hebiko!! Good job with that ink!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "F-Fuma! That was close! I thought you were gonna die!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It was perfect timing! Thanks."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "There was no chance to intervene, so he and Hebiko were biding our time!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "We've been watching for a while now, but why did the target protect you, Fuma!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That's..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "6",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "7",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The target. Our mission was to eliminate Saya."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(If we killed her here our mission would be over and \"G\" most likely wouldn't come after us. But\u30fc)"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "7",
+            "h_t005f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "What are you thinking about, Fuma-chan?! Let's get out of here already!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah... you're right."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hebiko, carry that girl!!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "7",
+            "h_t005d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Eh!? But she's..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko looked puzzled, but when she saw Saya sitting in a puddle of her own blood, she nodded, picked her up with her octopus tentacles, and carried her on her back."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "7",
+            "h_t005e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "\u30fcGot it! But Hebiko won't be able to fight anymore!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "We just have to get out of here! Shikanosuke!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "7",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Yes sir! \u30fcHere I go!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se030_01"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Bzzz bzzzz!!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke turned towards the confused soldiers and unleashed his Electric Jutsu."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke's electricity disrupted the night vision goggles and other equipment the soldiers were relying on for their vision, blinding them for a moment. Plus\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "8",
+            "ak_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yomi Akitsu",
+        "text": "Hexagram Spread!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se097"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A golden flash of light knocked down the soldiers and opened up a path in front of us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Akitsu! You came!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "Madam wasn't sure if you guys alone would manage, so I came on her request!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "It's not like I was worried or anything! Come on, let's get out of here!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "8",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0011a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinka",
+        "text": "Fuma!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Rinka-senpai! There's an opening over here! Let's go!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinka",
+        "text": "Got it!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se054"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And like that, we escaped the surrounding UFS \"G\" forces and made it to the city."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm609",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc128b",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "9",
+            "as_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kokawa Asuka",
+        "text": "Good work."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There Asuka was waiting for us. She must have been sent by the masked woman."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "9",
+            "as_t001d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "I didn't expect you to bring her with you. Even if you are a Taimanin, I guess asking you to eliminate her was a bit too much for a student..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "9",
+            "as_t001c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "You've done enough, we'll take care of the rest. Hand over the girl."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No, I don't plan on handing her over."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "9",
+            "as_t001d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "Huh?"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "9",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "6",
+            "s_t001f",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "7",
+            "h_t002d",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "What do you mean, Fuma!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Fuma-chan, don't tell Hebiko you're...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah. We're not going to eliminate her. We'll take her back to Gosha with us."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "6",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "R-Really!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "7",
+            "h_t002c",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Haa... Hebiko had a feeling you would say that."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "That girl got hurt protecting you, didn't she, Fuma-chan?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "And Fuma-chan isn't such an accomplished Taimanin who can simply kill a girl after she saved his life, just because it's a mission."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What does that mean?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "7",
+            "h_t002b",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hebiko is praising you, okay?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko was right. I had seen Saya as a normal girl and didn't have it in me to kill her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But there was one more reason."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "6",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "7",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(She was created as a demon. And my resurrection was also due to my demonic power. Judging her as dangerous and eliminating her just for that is a bit...)"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "8",
+            "ak_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "What are you planning, Fuma? Are you going to go against the request?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I'm not planning to go completely against it. We just have to make sure that the technology from the Devildom doesn't get leaked to the public, right?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "8",
+            "ak_t001a",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "9",
+            "as_t001f",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "Don't just change the request based on your interpretation. Hurry up and hand over the target already."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I can't do that."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "9",
+            "as_t001c",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "Haaa..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asuka sighed deeply."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "9",
+            "as_t003f",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se016"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "Then I guess we'll have to take her from you by force!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "Even though I helped you that much, you really are stupid."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A menacing aura could be felt from Asuka and Akitsu."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Their strength was on another level. Although there were four of us, we still weren't as strong as them, and we were also carrying the wounded Saya."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(What do we do...?)"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "8",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "9",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0011a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinka",
+        "text": "Fuma, I'll hold them off. Take the girl and run."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Rinka-senpai!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinka",
+        "text": "No time to hesitate. Make sure to explain everything to Headmistress Asagi!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...Thank you!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Certainly, rather than all four of us fighting here, it was better to have Rinka, the only one comparable in power to them, stall them here."
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se054"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We said our thanks to Rinka-senpai and started running immediately."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0011a",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "9",
+            "as_t003f",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_FRONT",
+        "info": [
+            "0"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "Hey! Wait!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinka",
+        "text": "I won't let you go after them. You will have to deal with me first, you two."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "I've had enough of Taimanin! Why can't you just do what you've been asked to!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinka",
+        "text": "He must have a reason. You two are fighting for a reason as well, aren't you?"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "9",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "8",
+            "ak_t001a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_FRONT",
+        "info": [
+            "0"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "Hmph. Do you think a human like you can slow us down?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinka",
+        "text": "If I didn't think I could, I would've run away long ago. Alright, come on!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "8",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

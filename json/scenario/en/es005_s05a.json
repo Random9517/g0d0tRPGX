@@ -1,0 +1,567 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm314",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc114b",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Haa... haa..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had crossed the mountain and was frantically hurrying down the path towards Gosha."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "My arm holding Saya on my back was getting numb. Lifting my tired legs, I simply kept moving forward, one step after the other."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(A little further... just a little further. Once I make it into Gosha...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When I looked up, I could see the sky above the mountains beginning to turn white. It was almost dawn."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Then a figure emerged against the light."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Somebody from Gosha!?)"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "k_t004a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "I had been counting on you, but you disappointed me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ugh...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, standing there was one of my pursuers\u30fcthe Masked Madam herself. It couldn't get more dire than this."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Counting on me...? You still didn't seem to trust me though."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Having Akitsu and Asuka watch over us, and even hiring mercenaries. You've been thorough."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "You don't have a chance. Hand over that girl."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm320",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I've never been one to give up."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As soon as I spoke, I jumped into the bushes alongside the path."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc048a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se078"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A wide, precipitous mountain range surrounded Gosha Village."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It wasn't very high, but it was steep, and if strangers made their way into it, they would get lost in no time."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(And it's night. Even if Saya has a transmitter attached to her, that woman still won't be able to follow us so easily.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I knew this mountain like the back of my hand. But it still was not an easy path."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I cut through bushes, over cliffs, and followed along the unmarked path, one step at a time. Gosha Village should have been just around the corner."
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se028"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Woosh...*"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ugh!!"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se023"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Just as I thought that something had come flying at me, a sharp pain shot through my ankle, and I rolled down the slope."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "k_t004a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "It's over."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You got ahead of me!? That can't be..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Even if Saya had a transmitter in her, with just a location it should have been impossible to catch up with us in this mountainous area in such a short time."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And getting ahead of me, unless she knew the terrain really well, that shouldn't be\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(No, there is one possibility. The possibility that this woman knows these mountains\u30fcthat she knows Gosha.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "I've cut your ankle. You can't run along this path anymore. Just give up."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Damn it..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "L-Let me just ask one thing! You've lived in Gosha, haven't you?!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Murasaki-sensei told me. She told me that you're a Taimanin!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "You really are a nosy little boy, aren't you? People don't like that. Or are you just trying to buy some time?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "No need to worry, as long as you hand over that artificial demon, I will forgive your little mischief."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "Let's see, I'll even say that you've completed my request. Isn't that generous of me?"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se076"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Behind me, I could hear the sound of many footsteps coming closer. Those must have been mercenaries hired by her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Tsk... Can't even escape the way I came from.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saya NEO",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saya NEO",
+        "text": "...Hey..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Saya?"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "ef005a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se011"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Slash!*"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It had happened in the blink of an eye. From behind me, Saya had extended one of her sharp tentacles and pierced the Masked Madam."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "Ugh...!? Saya... She still had that much strength...!?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc048a",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se010"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Her stomach pierced, the Masked Madam collapsed on the spot."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Saya! You're awake!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saya NEO",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But seemingly having used all her energy, Saya fell unconscious again."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(For now I have to get away from here! I can't let the opportunity Saya created go to waste!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I roused my aching body and continued down the mountain path again."
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "..."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc048a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "k_t004a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "Such useless resistance..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Only a few seconds later."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Masked Madam was standing there without a single scratch on her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There was only a fallen oak tree in the spot where she had collapsed. That was the power of her Ninja Art \"Decoy Jutsu.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mercenaries",
+        "text": "Madam! Saya NEO is..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "They're still close. After them!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Together with the mercenaries who had caught up to her, the Masked Madam once again continued straight down the path, undeterred."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

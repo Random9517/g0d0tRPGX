@@ -1,0 +1,795 @@
+[
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se095"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Creaaaaaak... slam!*"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm509",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc147a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Haa, haa... sheesh..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Beyond the doorway, we found ourselves in a luxurious space that seemed to be an entrance foyer of sorts."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It had exactly the type of atmosphere one would expect from a noble's castle."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Each furnishing looked expensive, and it felt like we had entered a medieval castle that had been renovated into a hotel."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Looks like we managed to lose those strange scarecrows..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We closed the thick door and pulled down the very medieval-looking drawbar to lock it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The group of scarecrows outside had been noisy for a moment, but they were now quiet."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t003c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "But they'll attack again if heberybody goes out there."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah, then we should just keep moving forward. I want to know who's manipulating those scarecrows."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There was also the issue of Yukikaze and Clear. I couldn't imagine there were many people who were able to win against them..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If by some chance they had been captured by some weird guy, I couldn't just leave them."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t003c",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t003e",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Uhh, what the hell, this is super scary... I-Is there anyone heeeere...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke let out a frightened voice... but the entrance remained silent."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(It's too quiet...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "\u30fcHey. I don't know who's there, but you're watching us, aren't you!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t003d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Fuma-chan?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I stepped forward and raised my voice towards the other side of the entrance."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "The door to the entrance wasn't locked, so this means that you invited us in, right?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t003c",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The one who had released those scarecrows was definitely somewhere in here, observing us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "How about you stop lurking and just come out!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t003d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "H-Hey, Fuma!? Is it okay to say something like that\u30fc?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And then, all of a sudden..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "\u300eOhohohoh\u30fc You say such insolent things, you little thieves!!!\u300f"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t003d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A clear voice resonated through the hall. However, we weren't able to see its owner yet."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Mwahaha, thieves...? Hardly!! We're adventurers!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t003f",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "C-Come on, Fuma-chan! Why are you trying to make things complicated!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "\u300eHmm!? Adventurers you say\u30fc\u300f"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We could literally feel the voice's owner sneer at us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And following that, darkness welled up from the center of the floor, eventually taking shape..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m093a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "\u300ePreposterous!! You ridiculous little thieves!!!\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "\u300eI shall have to teach you a lesson... of the sheer folly it is to intrude upon the Mizuki's castle!!\u300f"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aiiiiiieeeee!? Wh-What is thaaaaaaaaaaaaaaaaat!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Ehhhhhhhh!!? A g-ghost...!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke's, and even Hebiko's, eyes were wide with shock."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "...Well, that was only natural."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "What appeared in front of us was a ghost\u30fcor rather more simply, it was an evil spirit."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was an extremely bizarre skeleton man, dressed head to toe in a black tuxedo."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You've finally shown yourself... So you were the one manipulating the scarecrows outside?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "\u300eIndeed\u30fc\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The voice of the skeleton man resonated clearly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was a strange voice that felt like it was coming from the depths of hell, but at the same time, it also had some brightness to it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I'm Fuma! Who are you!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Butler of the Netherworld",
+        "text": "\u300eOhohohohoh\u30fc! I am a \"butler of the Netherworld,\" a spirit in defense of this castle!!!!\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "A butler of the Netherworld...? And you're protecting this place...??"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(So he's not the Yukikaze's enemy...? I mean, wasn't the butler of the Mizuki family...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hearing the skeleton man's words, I remembered something that had been nagging me. Meanwhile, the skeleton man on the other hand..."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Butler of the Netherworld",
+        "text": "\u300eB-Boy!? You, did you just say \"Fuma\"!?\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Eh? Yeah, I did but..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Butler of the Netherworld",
+        "text": "\u300eSo presenting yourselves as adventurers was a lie, was it!!? How insolent!\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No, I wouldn't call it a lie, it was more something I said in the heat of the moment I guess..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, the skeleton man didn't pay my explanation any mind. In fact, he only grew more furious."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Butler of the Netherworld",
+        "text": "\u300eWhat does Fuma the traitor want!? Surely you must be the minion of Danjo!!\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Eh!? Danjo...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Danjo was the former head of the Fuma\u30fcmy dirtbag old man."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But he died years ago during an insurrection..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "W-Wait a sec!! It's true that Danjo is my father but..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Butler of the Netherworld",
+        "text": "\u300eY-You are Danjo's son!? Hnngg... So the traitor's son has come to steal Miss Yukikaze away!!\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Just listen to me, will you!! It's been a long time since Danjo died! I have nothing to do with him!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Butler of the Netherworld",
+        "text": "\u300eHe is dead!? Haha, so that's how it was. You cannot hide your ulterior motives, boy!!\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Uh? Ulterior motives?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The skeleton man let out a loud sonorous laugh."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Butler of the Netherworld",
+        "text": "\u300eAnd so you have come to avenge that Danjo by holding Miss Yukikaze for ransom in exchange for the Mizuki's vast fortune!!?\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Butler of the Netherworld",
+        "text": "\u300eHnnngh... I cannot forgive this!! Such a villainous plot\u30fc I absolutely cannot forgive this, boy!!!\u300f"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No, that's not... waaaaiiit!! You're not even listening\u30fc what the!?"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se057"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m094a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m094a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Ruumblleeeeeee\u30fc!!!*"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm304",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The entire castle was shaking. As if resonating with the butler of the Netherworld's anger, the pieces of decoration started dancing in the air..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t003d",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Wh-Whoa whoa whoa!!? Wh-Wh-What are we gonna do, Fuma!? That monster is super angry!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Nothing we can do!! He's not listening to me at all!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t003g",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Haa... This is exactly why Hebiko had a bad feeling about this..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m093a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Butler of the Netherworld",
+        "text": "\u300eOhohohoh\u30fc! I will turn you youngsters into slabs of meat!!\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I told you to listen to meeeeeeee!! We're friends with Yukikaze!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Maybe you won't listen to me, but what about Hebiko!? She's one of her female friends!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Butler of the Netherworld",
+        "text": "\u300eHer friend\u30fc!? Do you honestly believe I would fall for such nonsense as that!!\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Butler of the Netherworld",
+        "text": "\u300eIn the first place, there is no way an octopus girl monster like her is a fellow student of Miss Yukikaze!!\u300f"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Th-That's rude!!! Hebiko and Yukikaze-chan get along well!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Butler of the Netherworld",
+        "text": "Silence, sileeeence!! You cephalopoda, coleoidea, eight arms superorder octopus girl!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "G-Geez!! You pervert!! You don't need to go through Hebiko's scientific classifications!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "<i>That's</i> the part that gets you!? W-Well... let's just fight for now!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We braced ourselves as the flying decorations and furniture began to assault us."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

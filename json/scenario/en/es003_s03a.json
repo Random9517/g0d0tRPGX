@@ -1,0 +1,509 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc105a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m037a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Genin A",
+        "text": "Find it! It's been seen around here somewhere!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m001a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Genin B",
+        "text": "Got it!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se054"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Taimanin ran past us while having a pointed exchange."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It seemed like the Taimanin had already cast their net across every part of town."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm604",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "chr_t0084a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "...Seems like the coast is clear somehow."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m061a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah, I figured we'd be safe here."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi-san and I (the boar) emerged from the shadow of a gatepost after the Taimanin had run off."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We had been hiding on the grounds of Gosha Academy."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We had escaped the Taimanin pursuing us by entering the school grounds, which were empty because of the New Year holidays."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "But how did you know about this place?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huh? What do you mean?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi-san questioned me suspiciously."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "I mean, this is a school for Taimanin. How did you know about this place?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Oh, about that... The truth is, I'm a student here in my dimension."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I pointed at the academy building behind me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi-san and I hid behind the school's outer walls and cautiously started to proceed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "You're a student here? ...I see, that explains why you know about the Taimanin."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah, and in my dimension, you're the academy's headmistress."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "600"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "H-Headmistress!? Oh... so that's why you called me \"sensei\" earlier...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "But wait... I distanced myself from Gosha Academy... and I mean, I'm still a student, so...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Wh-Who knows...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Things like one's circumstances and age must have been different depending on the dimension."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Oh, Asagi-san, more importantly\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The whole dimension thing was too much to wrap my head around, and even if I tried thinking about it there was no conclusion in sight."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I changed the subject and asked Asagi-san about something else."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Asagi-san, don't you have any wishes?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Wishes...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I mean, from what you were saying earlier, it felt like you were willing to give up the power of the luck so I can go back home..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "And I would feel guilty if there was something you really wanted."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Hmm... I don't think I have anything in particular that I want."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "R-Really...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi-san responded flatly, as if she were perfectly content."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Well, it's not like I don't have anything I'd like to do... but that's something I should just make happen on my own."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "True."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That was something I really wanted all those guys chasing after me to hear as well."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Oh, but if I could make any wish come true, there's one thing\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "chr_t0086a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "\u30fcHaha, a wish!? That would be to fight a thrilling opponent of course!?"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm406",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There was a sudden shout."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We had tried to hide ourselves and proceed carefully, but a woman leading a unit of Taimanin was now blocking our path."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "ts_m028a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "6",
+            "ts_m042a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_PRIORITY",
+        "info": [
+            "4",
+            "10"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ugh!? They found us!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "...It can't be helped. Looking like that, you can only go unnoticed for so long."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "While we braced ourselves, the Taimanin unit spread out in an attempt and surrounded us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And then the woman leading them triumphantly introduced herself\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sanada Homura",
+        "text": "Sanada Homura, Captain of the Fire Art Squad's Third Division is here!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Homura",
+        "text": "How happy this makes me, Igawa Asagi! To have someone as intriguing as you as my opponent\u30fc!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She flashed the tip of a long, flaming spear at me and Asagi-san."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "\u30fcSanada Homura, hm?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I searched my memory for that name."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "6",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In a way, she was a very famous Taimanin."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Captain of the Fire Art Squad's Third Division, Sanada Homura."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She was an incredibly skilled fighter, but fighting was all she thought about."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A battle maniac, who was nominally a Taimanin\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Homura",
+        "text": "Well then, let's go for the gusto! I'm all fired up for the New Year!!!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

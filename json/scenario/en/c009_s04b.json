@@ -1,0 +1,290 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc102a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm506",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Naturally, even while we were making progress by following the memo, groups of Will-o'-wisps kept attacking us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ouch... That damn Will-o'-wisp bit me as hard as it could..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It hurt, or rather, it was very hot."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Perhaps due to fatigue from the endless walking, I had ended up getting lightly wounded in the earlier hostilities."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0077a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "That sent a chill down my spine. I thought it had bitten your neck for a moment."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah. I thought I was done for too."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Setting aside masterful fighters like Shishigami and Shonosuke, for an ordinary person like me, the Will-o'-wisps were plenty threatening."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "But you reacted amazingly and blocked it with your arm. You didn't look at all like someone who is a support specialist."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Is that so? Well, I guess I'm feeling good today, my body feels lighter. I think it was a fluke though."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "Always so modest... Anyways, how's the wound? Does it hurt?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shishigami asked with concern."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The way she spoke was certainly detached and dispassionate, but as we walked together, I realized that she actually had a kind personality."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hmm... I mean, a wound is still a wound... but it's no problem."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "Really...? But be careful. If you overdo it and collapse, we'll also be in trouble."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No, I'm not overdoing it or anything... it's just my wounds are healing on their own somehow."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "Eh...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shishigami looked at my face fixedly."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Well, I myself don't understand what's going on either...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was the arm that had been bitten, and even burned, by a Will-o'-wisp."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Before I knew it, it had healed to the point where the pain only bothered me a bit."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was a rate of healing would have normally been impossible."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Is this the same as when I was stabbed by Gaiza...?)"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0077a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "The ability to heal your wounds... that's like Murasaki-sensei. Is that your Ninja Art?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hmm... I guess that might be it, maybe."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "What do you mean?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I mean, I don't know anything for sure yet..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Just when I had tried to get a diagnosis for it, I had somehow gotten caught up in this mess."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0077a",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m063a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "Kotaro-sama has awakened to a Ninja Art of healing... That is very interesting."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shonosuke's eyes narrowed as he listened to our conversation."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Don't tell Gaiza about this. Well, I think he already knows though."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "I'll... leave that to your imagination."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shonosuke shook his head theatrically."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "While we were talking like this\u2015we finally arrived at the last door."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Alright, \"8 beyond the flames\"\u30fcthat's the final part of the note. If I'm right, then there should be an exit from the labyrinth ahead."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

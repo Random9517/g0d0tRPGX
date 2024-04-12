@@ -1,0 +1,1305 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm608",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc045a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Got it? Don't ever call me Chief again..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(By all appearances, they don't seem very strong, but they are still demons. Seeing as I don't know the extent of their power, I can't let my guard down.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(I want to get this over with before it turns into a commotion. We had the window breaking ruckus from just a few moments ago, and now there's also some kind of floral scent\u30fc)"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t001g",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "Hold it right there!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A beautiful woman with long, blonde, fluttering hair appeared gallantly\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Shizuru!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But what this hostess was wearing was unmistakably a Taima-Suit."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What are you wearing!!!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t001a",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002b",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Oh? Kosaka-sensei. Good evening!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t001b",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kosaka Shizuru",
+        "text": "Evening, Hebiko-chan\u2606"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Eeeehh!? Hebiko, do you know her!? And wait, you were a Taimanin!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "What are you talking about, Fuma-chan. That's Kosaka Shizuru-sensei, the English teacher."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko said casually."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Kosaka Shizuru... senseeeeei!!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t001e",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "It's because you're always skipping English class, Fuma-kun~"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ugh..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I couldn't deny that at all. More importantly, that meant that I had shown something like that to my English teacher..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t001b",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "Ehehe."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "So you had your fun with me even though you knew exactly who I was? What kind of teacher does that."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t001a",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "So sorry. But thanks to you attracting all the attention of the local yakuza gangsters, I've made good progress with my mission."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Oooh, oooh, so that's what's going on... Thanks to you, I was chased the whole night and almost died."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Kosaka-sensei is an expert in undercover missions! If she's here, then that means that there's something going on in this black market district."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Besides, coming here wearing a Taima-Suit... Does that mean the investigation is in full swing, sensei?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t001e",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "Yes. I found out that those two little squirts are the key to an incident around here. So I was trailing them."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "These brats are...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When I looked down at the brats in question, they seemed to have completely lost interest and were fooling around, scribbling on the ground with chalk."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t001e",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ri_t001a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "mi_t001a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim & Minasaki",
+        "text": "Lilim: I think I drew him quite well though?\nMinasaki: Hmm\u30fcdwaw Chief's face dumber."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Don't tell me that haphazard scribble is supposed to look like me...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim & Minasaki",
+        "text": "Lilim: Draw some nose hair!\nMinasaki: He's so scwuffy! Kyahahaha!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Were these dumbasses really the key to an incident that even the Taimanin were getting involved in...?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ri_t001a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "mi_t001a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "One hour later."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm408",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc046a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We were walking through a tunnel deep inside the industrial district of Maesaki City."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hey, doesn't this lead into the mountains? Are you guys playing a trick on us and taking us the wrong way...?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "mi_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Minasaki",
+        "text": "N-No! Don't be such a meanie!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You're one to talk after getting me into all kinds of trouble..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "mi_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Up ahead there's a factory belonging to Kurowadami Pharmaceuticals, right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Kurowadami Pharmaceuticals... You mean that big company that even does TV commercials? They have facilities here in the countryside?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "They built a large complex as part of the Regional Development Policy. It was on the local news."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Fuma-chan, you need to check the recent news as well, not just those old documents!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Y-Yeah... So in this factory of Kurowadami Pharmaceuticals there's a \"queen\" somewhere?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002e",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ri_t001a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "mi_t001a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Minasaki",
+        "text": "There is! My Yatagarasu power is never mistaken!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "So this Minasaki or whatever she was called, apparently was an incarnation of Yatagarasu, meaning she could sense the location of anything she had seen once... or something like that."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim",
+        "text": "Not trusting in Mina-chan's power... You're quite arrogant for someone so useless, Fuma!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Just as I thought, \"They finally stopped calling me Chief,\" this time they were using my name without adding \"-san\" or anything."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I mean, it only came to this because you sold faulty goods to a pharmaceutical company..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim & Minasaki",
+        "text": "Lilim: Shut up!\nMinasaki: Dumb-dumb!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Their noisy voices echoed through the tunnel."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sheesh..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ri_t001a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "mi_t001a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "According to what Shizuru-sensei had told me along the way, the whole story went something like this."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc046a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "sz_t001d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "Recently, cases of creatures from the Devildom being illegally brought in and sold are increasing... which I think you already knew."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Like the Blood Dog from earlier. It wasn't unusual for fanatics who were into rare creatures to buy them at ridiculously high prices."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "sz_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "The ones who are really after those creatures from the Devildom are not individuals but corporations."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "sz_t001d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "Creatures that don't exist in the human world are a treasure trove for new discoveries."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "sz_t001f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "They're like trees that grow money. Especially for corporations that are developing biotechnologies... such as pharmaceutical companies."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I see."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And those two little devils had also heard about this."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "They had happened upon some wasp-like demonic beasts called \"Devildomian Wasps.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "They had planned to sell them to a pharmaceutical company to get a big payday."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Devildomian Wasps... They're said to be wasps from the human world that evolved some distinctive characteristics in the Devildom."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "With queens and workers, their social structure was also similar to that of normal wasps."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "The workers follow the Wasp Queen's orders. Utilizing this characteristic..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "If someone caught the queen and implanted a control device, then they would be able to freely manipulate the whole swarm..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "sz_t001b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "Perfect answer. Please study English with the same diligence\u266a"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "sz_t001b",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ri_t001a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "mi_t001a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim & Minasaki",
+        "text": "Lilim: Study!\nMinasaki: Stupid Fuma!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ugh... S-So you guys sold this swarm of Devildomian Wasps and the control device to the company as a set?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim",
+        "text": "Yeah! Aren't we smart?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Minasaki",
+        "text": "We made a pwetty good deal, mister."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Then how did it turn into this kind of situation!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim",
+        "text": "Th-That's because..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Minasaki",
+        "text": "There was a tiiiiny pwoblem..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "The device for controlling the queen simply broke down."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim",
+        "text": "I guess repurposing the rice cooker I bought at the flea market didn't work out after all..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In any case, due to that, the uncontrolled Devildomian Wasps went on a rampage."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "They had escaped from the facility and gone wild in the nearby city night after night, going around causing damage by breaking windows."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ri_t001a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "mi_t001a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t002a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "So that's what the \"poltergeist\" that Heberybody saw was."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t002a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t001f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "For now the situation is confined to the black market district, but if it spread to proper society, it would be huge news."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "So that's why the pharmaceutical company panicked and had the local yakuza try to catch the Devildomian Wasps while also searching for those two, since they were the cause of everything."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "And it was me who got caught up in all of this..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In addition, the government had gotten suspicious of the pharmaceutical company and asked the Taimanin to investigate."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "First, Shizuru had disguised herself as a hostess and tried to get information from the company's employees who came to spend time in the city."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t001d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "A man who is feeling generous has loose purse strings and loose lips."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "Collusion with local yakuza, illegal purchasing of Devildomian creatures... I was able to get a lot of information."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If she could obtain proof that the pharmaceutical company had illegally purchased those Devildomian Wasps and was doing research on them, her mission would be complete."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And in the process, she had learned about those two little devils and turned the local yakuza gangsters' attention toward me, so she could observe them while keeping them safe."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "But why were you two trying to catch the Devildomian Wasps?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ri_t001a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "mi_t001a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Minasaki",
+        "text": "It's \"after-sales service\"!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim",
+        "text": "Besides, the only reason there hasn't been any big damage done yet is because the queen is still young!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim",
+        "text": "While the queen is young, the Devildomian Wasps gather nectar from Devildomian orchids or lilies..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Orchids. Now I understood why those wasps had attacked the red-light district. They were after the flowers in those establishments."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Minasaki",
+        "text": "But if the queen gwows up, it will start eating meat..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Are you serious... It'll be pretty bad if she becomes carnivorous in the middle of the city."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "Since the queen doesn't stray far from the nest, she's most likely still in the forest that the pharmaceutical company is using for experiments, exactly as those girls said."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "But if those two entered the facility, they would be caught because people are on the lookout for them, you know?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "That's why they were searching for the worker wasps that were buzzing around the city instead."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim",
+        "text": "But there was no end to them..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Minasaki",
+        "text": "If we get wid of the queen though, the worker wasps will also die! And we have Chief here now\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I told you to stop calling me Chief... But at least you're trying to take responsibility. You might not be as bad as I thought."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim",
+        "text": "Of course! Don't lump us in with you, stupid Fuma!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Minasaki",
+        "text": "Yeah, yeah! Stupid Fuma! Nose hair Fuma!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hnggghhh..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I felt something hot boiling deep within my stomach."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You damn brats... Using secret torturing skills that have been passed down from Taimanin to Taimanin since 1,500 years ago I'll fillet you alive..."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim & Minasaki",
+        "text": "Huagh!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "F-F-Fuma-chan, calm down!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ri_t001a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "mi_t001a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t001e",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "Even Taimanin don't have that kind of secret skill!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huaargh... ehrm... a-alright, for now the queen is first priority..."
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

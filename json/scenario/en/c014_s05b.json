@@ -1,0 +1,1445 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm320",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc161a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "a_t009c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Her eyes had turned the color of blood."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Her deep purple skin shone in the darkness."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There stood Asagi, and yet it wasn't Asagi."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She was no longer a Taimanin, no, not even a human."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She had turned into the very embodiment of \"demonic.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "...Are you all ready to go to Hell?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was as if her words sounded not in their eardrums but directly in their souls."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Giant Cyborg",
+        "text": "D-Don't be intimidated by the hag's tricks! G-Get her!!! Attack her together!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Perhaps the cyborg didn't notice it himself, but his voice was trembling."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ra_t004a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ra_t003a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ra_t003a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_FRONT",
+        "info": [
+            "1"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Fwoo-scree-eeeeeech!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The three Raiden units revved their drive systems and rushed forward to attack Asagi as if competing for the lead."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Less so following his orders, the soldiers were more akin to cornered mice, leaping out of fear straight into the jaws of the cat when they had no other means of escape."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "a_t009d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Too slow."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi raised the two katana in her hands."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "400"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se007"
+        ]
+    },
+    {
+        "type": "EV",
+        "info": [
+            "stv010a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Ka-chii-iinnng!!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The three Raiden units' blades were caught by Asagi's as if they were drawn straight to them."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Heh-heh-heh."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Far from being overwhelmed by the amassed power of the three units, Asagi was even wearing a thin smile."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Put more strength into it. Squeeze out every last drop of blood."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Shink shink shink shink!!! Crackle crackle! Bwoom!! Bwoom!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The engines of the powered exoskeletons were screaming, and inner parts were flying off all over."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was obvious that they were releasing power beyond their limits, or rather, they were forced to."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Raiden Soldier",
+        "text": "\"Ghaaaaaaaaaah!\" \"Ugh-gh-gh-oooooooogh!!\" \"Aggggghhhhhhhh!!\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It wasn't just the Raidens, but also the pilots that were in agony."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Is that all you've got? I guess toys are just toys, after all."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Her voice was one of disappointment."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Debris whirled up from the ground, and Asagi's demonic energy swelled up even further."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Then die."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The smile on her face changed to one that could only be described as \"cruel.\" And then\u30fc"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Haa-aaaaaaaaaaah!!!"
+    },
+    {
+        "type": "EV",
+        "info": [
+            "stv010b",
+            "NONE"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi howled."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Raidens flew backward into the air as if they were plastic toys."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Their solid bodies shattered into pieces in an instant as well."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was a literal storm of demonic energy."
+    },
+    {
+        "type": "EV",
+        "info": [
+            "stv011a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se108_01"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Hagh-haa-aa-aaaaaaaaaah!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi released a cry of frantic rapture."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The three Raiden units and the humans inside were completely demolished. Down to the last scraps of flesh and metal."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Hyaa-aaaaaaaaaaaaah!!"
+    },
+    {
+        "type": "EV",
+        "info": [
+            "stv011b",
+            "NONE"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se039"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Crr-snaaaaaaaap!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In the end, even Asagi's two katana shattered with a piercing sound."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "By that time, the machines and the pilots had been completely destroyed to the point that they were no longer recognizable."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "How fragile."
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se102"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi, standing beside the debris and bits of flesh, casually threw away her swords' hilts that remained in her hands."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc161a",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se103"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Thwaaaam!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Even creating a shockwave as they cut through the air, the hilts slammed into the dumbfounded giant cyborg."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Giant Cyborg",
+        "text": "Gwaghhhhh!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "His massive body was blown away like a feather by just the pieces of the broken weapons."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "a_t008d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "You're next, big guy..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi's cold smile had yet to fade."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She approached her victim as if she still wasn't the least bit satisfied."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Giant Cyborg",
+        "text": "Y-, you...!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m101a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Fighting back his fear, the cyborg stood up."
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se091"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, strange noises came from his massive frame, and his whole body began to leak electricity and smoke."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Giant Cyborg",
+        "text": "I-It can't be!! Impossible!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Having witnessed Asagi's destruction which the word \"merciless\" could only begin to describe,"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "as well as having what he thought was his invincible steel body demolished by her mere broken katana,"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "the giant cyborg could now only inch his way back from her in complete dismay."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Giant Cyborg",
+        "text": "N-n-no way... some... old hag l-like you..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "His mechanized teeth were making chattering sounds."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And then\u30fc"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se121"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Weeee-woo\uff5e\u266a Weeeeee-woo\uff5e\u266a*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The shrill sound of police sirens reverberated through the area."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "They finally arrived, huh..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The sudden sound made her look in that direction for a moment."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With just that everyday motion, the demonic aura that had been veiling her seemed to dissipate slightly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Giant Cyborg",
+        "text": "Ghnghhh!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As if he'd been released from Asagi's curse, the cyborg jumped into the canal below the elevated structure."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And the other soldiers, besides those who'd been mixed up with the powered exoskeletons' destruction, had already fled in all directions like spiders scattering in the wind."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm506",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "a_t008d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Oh, you're running away?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamamoto",
+        "text": "No need to chase them."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "a_t008d",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "6",
+            "ya_t001c",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yamamoto stopped Asagi."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "a_t008c",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi glanced at Yamamoto, and then,"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "I suppose."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She replied with some disappointment."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Her voice was the same as the usual Asagi."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "6",
+            "ya_t001a",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamamoto",
+        "text": "An investigation would be trouble. We'll withdraw, too."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Understood. Are you angry?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamamoto",
+        "text": "Of course. I'm going to have you tell me all about why you kept quiet about the possibility of an attack."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "a_t008a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Yes, yes."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "6",
+            "ya_t001c",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamamoto",
+        "text": "And change your appearance back. It gives me the creeps."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Unfortunately, I can't change back right away. This transformation has a little bit of a lasting effect."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "a_t008c",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "I didn't really want to do it, but it was to protect you. I had no choice."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamamoto",
+        "text": "Good grief."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "a_t008a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "(I'm never going to hear the end of this...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi shrugged her shoulders. It was a very human-like gesture, despite still being in her demonic form."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "6",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc159a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Meanwhile, in the new Cabinet Office building\u30fc"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm206",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc160a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "7",
+            "ts_m099a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Funako",
+        "text": "Report."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cabinet Member",
+        "text": "The Gosha raid failed. The Kanda Brigade was routed and we were unable to recover Clear."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Funako",
+        "text": "Go on."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cabinet Member",
+        "text": "The squad led by Naito also failed to assassinate Yamamoto and Asagi. All the Raiden units were destroyed along with the pilots."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Funako",
+        "text": "Setting aside Yamamoto and Asagi, I can't believe they failed to recover Clear. What a bunch of incompetents the Kanda Brigade are."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cabinet Member",
+        "text": "According to those who survived, they were met with a Taimanin ambush..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Funako",
+        "text": "An ambush, I see."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Funako",
+        "text": "Interesting, Fuma Kotaro. You saw through my scheme and sabotaged it beautifully."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Funako",
+        "text": "But my scheme is a complex and tangled web. Undo one strand and you'll be caught in another... Fufufu."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "7",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc162a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And back at Gosha Village, where peace seemed to have returned\u30fc"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc059a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At an internment camp in a certain place."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A lone figure approached the entrance."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Two Taimanin guards stood in their way."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "8",
+            "ts_m087a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "9",
+            "ts_m037a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Taimanin",
+        "text": "May I help you?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Taimanin",
+        "text": "Apologies, but we can't let anyone pass beyond this point."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Taimanin",
+        "text": "Yes, we're the only guards now because of that raid."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Taimanin",
+        "text": "What!? Even Asagi-sama was attacked!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Taimanin",
+        "text": "Dammit! Is it the Fuma's doing again?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Taimanin",
+        "text": "Huh? An order from Asagi-sama?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The figure presented a piece of paper to one of the guards."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The moment the guard tried to take it,"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se006"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "ef003b",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "8",
+            "LEFT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "9",
+            "RIGHT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Fwish!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A shadowy kunai slit the guard's neck."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Taimanin",
+        "text": "Wh-What're you\u30fc!?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se031"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "ef005a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Stab!*"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se023"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The kunai pierced the head of the other Taimanin and he collapsed to the ground."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc059a",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The internment camp was once again dominated by silence."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The figure slipped inside."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Then, once they stopped before a certain cell, they opened the door with the key they'd taken from the guards."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "What's the meaning of this?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The captive woman looked up."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "10",
+            "ts_m068a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Her name was Major."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She was a cyborg of the secret service agency \"G\" who'd infiltrated Gosha but had been defeated by Fuma Kotaro and captured."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Major",
+        "text": "Are you letting me out?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The figure whispered to Major."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Major",
+        "text": "For those terms? Fine with me. I'll practically worship anyone who'll let me get revenge on those Taimanin."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Major",
+        "text": "Alright, it's a deal."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Major slowly made her way out of the cell..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "as her eyes seethed with hatred."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "10",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

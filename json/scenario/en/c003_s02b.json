@@ -1,0 +1,531 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm605",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc030a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se062"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "GROOOOH..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Spurred on by the roar of the animals behind us, we were sprinting toward the top of the mountain."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After all, it wasn't just normal animals that were chasing us. It was bears and snakes with Taimanin abilities, very dangerous animals."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "sa_t002a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "My cuties... Have you forgotten about me...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Didn't you say they were friendly when you're around!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "sa_t002e",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Uh-huh..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sakura-sensei nodded her head while crying softly. She appeared quite shocked to be attacked by the supposedly friendly animals."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sa_t002e",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002g",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "They've completely returned to being wild animals though!!!? Hebiko hopes Shikanosuke-chan is alright..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sa_t002c",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "But listen everybody! There's something wrong with them!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "They're back to being wild animals and attacking people. In a way that's normal..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "That's not what I mean!! It feels like they're being manipulated somehow..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Manipulated!? The animals are...?"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se062"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "GROOOOHH...!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002f",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Anyway, let's talk after Heberybody has lost them!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sa_t002c",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002f",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "We should be close to the castle ruins!"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc031a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Whoa!!? What's that...!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t002d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Speaking of castle ruins... wasn't there only a single stone monument left standing?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "There should be... All of this wasn't here before... Sakura-sensei saw it too."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "For a few moments, we just stared blankly at the unbelievable scenery."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In front of us was a magnificent castle gate and a path leading inside."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Does that means those rumors were true?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002d",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sa_t002d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Woooooooooow...!!!!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sa_t002b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Amazing!!! It's a mystery!!! A haunted castle!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That's ridiculous. There's got to be some kind of trick..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sa_t002b",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t002c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Let's head inside for now! Hebiko doesn't want to get caught by those friendly animals!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah, you're right."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t002c",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There was no time for hesitation. We rushed through the castle gate and... an ominous creaking could be heard from behind us."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc031b",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When we turned around, the gate was closed."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "sa_t002b",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002c",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "They seem to be welcoming Heberybody..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "The plot thickens!!! I'll be able to boast to onee-chan!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sheesh..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "sa_t002b",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002c",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "For now we had no choice but to keep going. On high alert, we stepped forward\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was at that moment."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Waaaaa...!!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Someone leapt out of the darkness."
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

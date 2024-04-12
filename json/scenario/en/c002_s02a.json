@@ -1,0 +1,1469 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc011a",
+            "IN",
+            "3000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm408",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "There are only expensive-looking shops around here..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Lead by Hebiko, we were on our way to Club \"Persona\" where apparently the information broker could be found."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "It's a big building, so it should be easy to spot... Ah, over there!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko pointed in the direction of a red billboard for Club \"Persona.\" A muscular-looking man in a black suit was standing in front of the entrance."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001c",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Is that a guard...?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002c",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Fuma-chan, what do you want to do?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Nothing to worry about... We're legitimate customers, let's just go through the front door."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001c",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002c",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR01",
+            "OUT",
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc022a",
+            "IN",
+            "0"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR01",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Upon telling the man in black, \"We're here to see Madam,\" we were guided inside surprisingly smoothly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Wh-Whoa...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The inside of the establishment was permeated by alcohol and tobacco, as well as the stifling smell of women, and it was a struggle to breathe."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "All you could hear were flirtatious voices and obscene laughter. Women with silky voices were engaged in suggestive conversations."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(So this is a brothel...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was a brothel, but not one where you just bought a woman for one night for a set price."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was all about the conversations and the drinks, savoring the games men and women play, and if you made the right moves, you might be able to find love for one night."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "For the regular customers, this was far more fun than simply gathering some money and buying a woman. Even if it was all just a dream orchestrated by the women and the establishment."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "k_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Madam",
+        "text": "Welcome. First-timers?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You are... Madam...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I could tell without seeing her face that she was an \"expensive\" woman. She was the owner of this club, known as \"Madam.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Madam",
+        "text": "Sorry, but we don't allow children. Come back again in ten years, boys."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "So you're the Masked Madam that the name of this place hints at? I'll get straight to the point. I'm not here as a customer of your brothel."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Madam",
+        "text": "I see, a customer looking for... \"something else.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I have money."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Madam",
+        "text": "Impatient little boy. We're expensive, you know?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(At least it looks like we avoided getting turned away...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I kept quiet and put the bag on the table, opening it to show what was inside. The bundles of cash we had received from Headmistress Asagi for the mission were sitting there, untouched."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Phew... this much money. Just carrying it around was taking years off my life...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Without letting that show, I looked at Madam with an expression that asked \"How's this?\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Madam",
+        "text": "Hahaha... very well. Follow me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A bewitching smile appeared on Madam's lips."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Alright...! First obstacle cleared...!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Madam's face was hidden behind her mask, making it hard to tell her real intentions. Maybe she already knew what I was here for."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(No point in thinking about it now... let's see where this goes.)"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "k_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1500"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc012a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After a long elevator ride we were led into a refreshingly clean office, completely contrary to the debauchery we had just left."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "k_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Madam",
+        "text": "So? What kind of information are you looking for?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "We're looking for a man called Kiryu Sabato."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "We know that he's in the city, but we want to know the precise location of where he's hiding."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Madam",
+        "text": "Kiryu Sabato... He's that... demonologist that was affiliated with Nomad, if I remember correctly?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "As expected. How about this?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I grabbed a few stacks of cash from the bag and placed them on the table."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I offered a bit more than the going rate. I wanted to avoid wasting time on negotiations and put a bit of pressure on her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Hngh... with this much money I could buy a lifetime supply of Inageya's ice cream.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Madam",
+        "text": "This new Taimanin captain really is an impatient one."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Oh...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Madam",
+        "text": "You're Fuma Kotaro-kun, aren't you?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That name runs in the family, so I'm not really attached to it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I hadn't expected her to know that much about me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(She's a terrifying woman... but it seems like we can trust the information she provides.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Madam",
+        "text": "I know where Kiryu Sabato is. But I cannot sell you this information."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...?! Is this still not enough? What a greedy woman..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Madam",
+        "text": "Please don't get me wrong. I'm saying this information cannot be bought with money."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Not with money...? Then what do you want...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Madam",
+        "text": "Hahaha\u266a It's nothing difficult, so don't be so uptight. I have a favor to ask of you."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "k_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "2000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "About an hour after leaving Madam's brothel."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc013a",
+            "IN",
+            "3000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm407",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Tokyo Kingdom: Port District."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This was one of Tokyo Kingdom's most dangerous areas."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "All of Tokyo Kingdom looked like a lawless area,"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "but in fact, each district was controlled by an underground organization, or sometimes several, and in this way, balance was maintained."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This port district was different though."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Being the gateway for all kinds of supplies entering into Tokyo Kingdom meant that all organizations had competing interests in this district."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And it had become a dangerous area, with skirmishes breaking out constantly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The most lawless of lawless area, somewhere that even evil feared to go. This, of all places, was where Madam's request took us."
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc014a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001c",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002c",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "F-F-Finally we're here..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "This is where it begins. Don't let your guard down. After all, it's the hideout of some super dangerous gang."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001e",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Blech... I've already had enough of gangs..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Guys, be quiet."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In front of us was the hideout of a gang that was using the port district as their base."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We had finally arrived after proceeding carefully and avoiding the watchful eye of loitering criminals the whole way."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "It looks like ruins though...? Is there really a gang in a place like this!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Apparently they're using the basement of this abandoned factory as their base. We just have to get in as quietly as possible and get the data."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Seems like a pretty difficult mission."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah."
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR14",
+            "OUT",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001e",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002c",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc012a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "k_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR14",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Madam",
+        "text": "I want you to retrieve some data from one of the gangs at the port."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Data...? How are we supposed to get something like that?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Madam",
+        "text": "In the abandoned factory that serves as their hideout, there should be a terminal. Simply get it from there."
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR14",
+            "OUT",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "k_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc014a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR14",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(She made it sound so easy...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She hadn't even told us what data exactly. That meant she wanted us to bring back all the data from the terminal."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001c",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002c",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Just as you would expect of a favor for an information broker. This is how she gets her information..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Th-Then let's quickly get the data and scram!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Wait a second. We better get ready for battle first."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Blech!! Battle!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "According to the layout of this factory that I got from Madam, covert infiltration is impossible. That means we can't avoid combat."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "According to the layout, there was only one way leading to the basement, and even once you got down there it was a lot of long, straight, annoying hallways."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A structure that was easy to defend and difficult to attack."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Since there's only one way, it's important that we can detect enemy movement as early as possible. Shikanosuke, that's your job."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001c",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "A-Alright..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke could use his Electric Jutsu to send out electric waves to scan the area. Like sonar or radar."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It could detect enemies even in the dark, particularly useful in enclosed spaces like a basement."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "For instance, it was possible to detect how many enemies were around the corner in a passageway, so it was quite a practical ability."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "I wonder if I'll be okay..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He looked exceedingly anxious."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "We have no choice but to do it. Let's try to reach the entrance leading underground first."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001c",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002c",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc015a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke raised his right hand and stopped us. That was the sign for \"Someone's there.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We quickly hid behind a pillar and held our breath."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001c",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(...)"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m040a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m008a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Soldier",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Elite Soldier",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Eventually armed soldiers appeared."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Gang members on patrol...? No, for gang members, they're too...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The darkness didn't seem to bother the soldiers as they walked past, scanning the area."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m040a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m008a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke silently turned his hand to the side. The sign for \"All clear.\""
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001c",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002g",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Phew\u2500 That was nerve-racking..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "They were wearing night vision goggles. Pretty nice ones at that. Without Shikanosuke's ability, we definitely would've been caught off guard."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001a",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "O-Ooh! I'm being helpful!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002c",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "More importantly, did you see those guys?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah, definitely not some ordinary gang."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "It's not a gang?? Wh-What do you mean!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "There's no mistake from their gear and their trained movement. They're UFS soldiers."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001h",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "...U-UFS, as in \"the\" UFS...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah, the United Federation of American and Pacific States. I did hear about them setting up outposts in shady cities."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "So they're disguising themselves as a gang? Or was the masked lady trying to pull a fast one?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No... she's probably testing us. If we had thought they were mere gangsters and rushed in, we'd be dead."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001f",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "What, that's super mean!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah... but her request is real. I don't like it, but we have no choice but to keep going."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001c",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "A-Alright, then let's get this done with quickly!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke activated his Electric Jutsu and boldly walked ahead."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ah, wait, Shikanosuke."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Clink.*"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "2000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001c",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Eh? Eh? What was that, Fuma??"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se041"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A small metallic sound was followed by a resounding alarm."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Too late..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieeeee!!"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm506",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "When the soldiers passed by earlier, they stepped over something right around here. I was just about to tell you that there might be a wire trap or something like that."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001h",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "It's a bit late, Fumaaaaaa!!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Good thing it wasn't a bomb, Shikanosuke."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieee!! Nothing about this is good!!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "While we were still talking, we could already hear the sound of soldiers running towards us."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002b",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Oh well! Time for a forced entrance\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Correct, I'm counting on you two!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieeeee!!!!"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001h",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002b",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

@@ -1,0 +1,305 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm209",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc042a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Daaaamn it!! How did I get into this mess!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was running through the black market district that I was supposed to be enjoying."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Somehow I had broken through them, but more and more pursuers appeared and came after me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Shit, those damn brats...!! I'll make them pay for this if I ever see them again...!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Then another attacker appeared out of an alley ahead."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m022a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m023a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Orc",
+        "text": "Found him! That's the chief of those kids!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Male Demon",
+        "text": "Apparently he's the leader controlling the kids in this area, so don't let you guard down!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m022a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m023a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Did they surround me?! And this tale is getting even taller!!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I quickly tried to return the way I had come from, but\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Voice of an attacker",
+        "text": "Stop right there\u30fc!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Shit!! Over here too!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was blocked in on both sides and tried to hide in the entrance of a building close to me for the time being."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The black market district, which was supposed to have been fun, had completely turned into an ordeal I might not escape from with my life. And this was all because of those damn demon kids."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...What do I do?! There's no way I can beat all of them...!!!"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se052"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At that moment, the door behind me suddenly opened."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And then a pale hand grabbed my arm\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "This way!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Eh!?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se059"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Slam*\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "...And I was dragged into the building."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc043a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A soft carpet cushioned my body as I fell down from being pulled suddenly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A chandelier was glittering above me and ambient music was playing. It seemed like a high-class club."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t003d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Wh-Who are you...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "Just follow me."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sz_t003d",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "From her appearance, the woman seemed to be a hostess of this club. But why did she help me? What if she was an accomplice of my pursuers...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(No, if she was one of them, she would've attacked me immediately.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In any case, I'd be dead if I went outside."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Haaahh, nothing to do except trust this goddess for now...!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I followed the woman while stumbling over the fluffy carpet."
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

@@ -1,0 +1,475 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm303",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc054a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What do you mean? You were held captive by these things!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "It was a horrible world... all the indigenous species had either been killed or enslaved by those Octo-guys!!!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001f",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m032a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Brain Flayer",
+        "text": "\u226aC-Calm yourselves! Those were bad Brain Flayers!\u226b"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Brain Flayer",
+        "text": "\u226aI, Arsal, am different! I'm an environmental conservationist, I'm on your side!\u226b"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...That's what he's been saying, Shikanosuke. He says he cares about the indigenous creatures."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "That's a lie!! I heard it all before. At first these Octo-guys pretend to be friendly!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "They say they'll provide technologies and stuff like that, and when you let your guard down, they suddenly attack!!!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Brain Flayer",
+        "text": "\u226a...!!\u226b"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...Ahh."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I see. The same methods the invaders in the age of imperialism used. That means the environmental conservationists are more like missionaries."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Brain Flayer",
+        "text": "\u226a...Uuh...\u226b"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Brain Flayer slowly stepped back."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m032a",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "rn_t002b",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "Taimanin are not naive enough to be manipulated by the likes of an octopus, you know?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "But if we take him down, we can't go back to..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "rn_t002d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "Don't try to stop me, little brother."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Set aside personal feelings and slay that which is pure evil\u30fc Rinko-senpai's face showed that kind of righteous determination."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Well, I feel the same way...!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I guess this world was similar to ours. I was sad that I wouldn't get to see Tokiko or Hebiko again, but things would work out one way or another."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ws_t004d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "In the end, let's just eliminate the bad octopus\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Brain Flayer",
+        "text": "\u226aKu...\u226b"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "All four of us pointed our blades at the Brain Flayer."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "rn_t002b",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ws_t004d",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m032a",
+            "RIGHT",
+            "CENTER",
+            "NONE",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Brain Flayer",
+        "text": "\u226aKu... kuu... kuhu...\u226b"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Brain Flayer",
+        "text": "\u226aKuhuhu... KUHUHAHAHAHA!!!\u226b"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Brain Flayer",
+        "text": "\u226aWhen all is said and done, you are just lower lifeforms. I would have even taken you on as my slaves if you had just followed my plan to protect the environment.\u226b"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Brain Flayer",
+        "text": "\u226aI thought it would be useful to have clever slaves, but... Oh well, I'm sure I can find plenty of replacements!!!\u226b"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Brain Flayer",
+        "text": "\u226a@\u00d7%\u25a0?$#\u25cf**...\u226b"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Brain Flayer uttered something in an alien-sounding language."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m032a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc052a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Dimension travel again!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Brain Flayer",
+        "text": "\u226aKukukukuku!! I won't be going through that trouble again!!\u226b"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m032a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Brain Flayer",
+        "text": "\u226aCome on out, my guard dogs!!\u226b"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m032a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m035a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m035a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Dog!? You call this a dog!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Brain Flayer",
+        "text": "\u226aCome on, here's your food, my watchdogs!!!\u226b"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "As if we're gonna let that happen...!!! I'm gonna cut you all into pieces!"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m035a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m035a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

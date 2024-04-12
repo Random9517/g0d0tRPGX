@@ -1,0 +1,676 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm313",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "chrnc0101a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m026a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Blue Oni",
+        "text": "Uh-huh-huh-huh!! Stop getting in my way, you Orcz!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Blue Oni",
+        "text": "I'll put you through the air fryer and turn you into food for Patrasche!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m026a",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m024a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se062"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Patrasche",
+        "text": "GRRRR!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Orc 1",
+        "text": "Hey, you rotten Oni! I'd like to see you try it?!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se047_01"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "500"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se036_02"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Cling!!* *Ratatatatatata!!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Oni, the gangsters, and the Orcs clashed, and fierce battles erupted all over the small bar."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "chr_t0119a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m053a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Uwahwahwah!!? A-Are you all ok!? It turned into a pretty big fight\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Orc Mercenary",
+        "text": "What, don't worry about it. This happens all the time around here!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Orc Mercenary laughed heartily and returned fire."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Perhaps it was due to his combat experience, but even against the vicious gangsters he easily stood his ground."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "chr_t0006k",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "Hmhmm... But it's going to be a pain if this drags on, so I'll clean them up with my strongest..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "kn_t004h",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se016"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With a drunkenly flushed face, Kurenai shakily held up her two swords."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Orc Mercenary",
+        "text": "W-Wait, wait!! You're drunk, Kurenai!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Orc Mercenary",
+        "text": "If you go all out in a tiny-ass place like this, you'll tear all of us to shreds!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "chr_t0006k",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "Hmmm...? Ah, right."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m053a",
+            "RIGHT",
+            "CENTER",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Orc Mercenary",
+        "text": "Argh, seriously! With you two here I can't even concentrate on fighting!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With that, the Orc mercenary pointed to a door behind the bar counter."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Orc Mercenary",
+        "text": "That stupid Oni is after you two, isn't he?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Orc Mercenary",
+        "text": "\u30fcWe'll take care of those guys, so you go out through the back!!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Eeh!? R-Really!?"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "ts_m090a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "6",
+            "ts_m090a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Orc 2",
+        "text": "Yeah! Just leave it to us, Mari-chan!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Orc 4",
+        "text": "In exchange, let me give your tits a quick squeeze later!! Gehehe!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As they laughed merrily, the orc mercenaries gathered and formed a wall to block the gangsters' way."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "6",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m026a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "7",
+            "ts_m023a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "8",
+            "ts_m023a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_FRONT",
+        "info": [
+            "0"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Blue Oni",
+        "text": "Uh-huh-huh-huh!! I won't let you get away that easily!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "7",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "8",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m053a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Orc Mercenary",
+        "text": "Shut up! Leave them alone, you creepy Oni bastard!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se036_03"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Ratatatatatatatata!!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The battle between the gangsters and the Orc mercenaries heated up\u30fc Kurenai took a quick look at it and called out to Mari."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "chr_t0119a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "chr_t0006c",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "Mari, let's take them up on their offer\u30fc We owe you!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Y-Yes! Everyone, thank you very much...!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se054"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Mari and Kurenai gave thanks to the mercenaries, then made a dash for the back door."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

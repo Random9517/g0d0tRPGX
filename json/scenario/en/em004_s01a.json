@@ -1,0 +1,2082 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm506",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc065a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0104a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Knight",
+        "text": "What!? Your sister has been kidnapped by a slave trader!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A spirited woman's voice echoed through a street in Tokyo Kingdom."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Knight",
+        "text": "How despicable... Unforgivable! I will save her, I swear on my name as Devildom Knight Lena!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She was called Lena, a Devildom Knight of Nomad, which was an organization with substantial power in the underground world."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But at present, she would say that she was merely a Devildom Knight who had come to this city while traveling to hone her skills."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lena",
+        "text": "Eh? No, that's fine, no need to thank me. It is a Devildom Knight's duty to help those in need."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lena",
+        "text": "Oppressing the weak is beyond the pale! ...is what Lady Ingrid always said."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lena",
+        "text": "Ah, no, don't mind me! So where did those kidnappers go...?"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "..."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm502",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc129a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Man in Black",
+        "text": "Ahh, thank you so much! I think my master will also be pleased. I'm so glad we reached out to Gosha for help."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No, no, we just did our job. And you, don't go getting lost again."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Chubby Cat",
+        "text": "Mrooow\uff5e"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The chubby, angry-looking cat meowed in a hoarse voice as I handed it over to the man."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The man in black, who seemed to be a secret service agent, got into an all-black car and left while skillfully soothing the cat with some food."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sheesh, it's finally over. What a tedious mission... Ow ow ow..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002b",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001b",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Aishu Hebiko",
+        "text": "Oh, Fuma-chan, your face! You've got a scratch!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Uehara Shikanosuke",
+        "text": "Woah, she's right, you're bleeding from your forehead. You were in quite a tussle with that cat, weren't you, Fuma?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah. That was a crazy street cat."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001a",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Today's mission had been to search for a cat that had escaped in the City of Darkness at the request of a certain high-ranking government official."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This official was known to be a cat lover and had brought his cat with him on an incognito visit to this city. The cat had then escaped from his arms and ran away."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The panicked official had secretly asked Headmistress Asagi for help, and the mission to look for the cat had been handed down to us."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002c",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "But looking for a lost cat... Heberybody is really turning into a bunch of odd-jobbers."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I guess once in a while it's not too bad. If we had to fight for our lives every mission, our bodies wouldn't be able to keep up."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001b",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Mmhmm, I like these more laid-back missions!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We started walking back home while chatting."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001a",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Hmmm... a pet. It makes me feel like I want a pet again too."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Oh, Shikanosuke-chan, you had a pet?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001b",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "It wasn't mine. But my granny used to have a dog a long time ago."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001c",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "But he was already quite old. He died when I was little and I really missed him."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002c",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Yeah, for sure. For a while, you can't concentrate on anything else, right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As was typical of the countryside, there were many people keeping pets in the plentiful spacious houses of Gosha Village."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "For Taimanin who earned a living putting their lives on the line, innocent animals were an important presence, allowing them to relax."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001a",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Fuma-chan, do you not have any pets? Even though your house is so big?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I mean, I want to have one. But Tokiko says no. She says I won't take proper care of it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "That's because you think everything is a pain in the ass. And in the end, Tokiko-san would be the one taking care of it. She can see right through you."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That's not true! I'm even taking good care of the Sakura I found..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Wha-, that's awful. You're talking about Sakura-chan like she's a pet."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "N-No, that's not what I meant! You could say it was more of an analogy."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "If I felt like it, even I could at least take care of a pet. ...Hmm? What's that?"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "400"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "400"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc129a",
+            "IN",
+            "200"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR01",
+            "IN",
+            "800"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I caught sight of a group of large-bodied men making a ruckus in a little nook of the street."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm304",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m036a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m022a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Thug-like Orc",
+        "text": "Ohh!? So this is where you've been!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Armed Orc",
+        "text": "You've got some nerve running away from us, hehe..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It seemed like a couple of rough-looking Orcs were giving someone a hard time. Not an unusual sight in this city."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Are those Orcs shaking someone down? Let's just walk past before we get caught up in it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I said as I began to walk faster."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Wait, Fuma-chan, isn't that a child they're picking on?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hm?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Picked-on Child",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As I stared intently, I could in fact see some small, trembling arms from between the legs of the Orcs."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "LEFT",
+            "linear",
+            "400"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "RIGHT",
+            "linear",
+            "400"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc129a",
+            "IN",
+            "200"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR54",
+            "IN",
+            "800"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "H-Hey, isn't this the time for justice!? We can't just pretend we didn't see anything when a child is in danger...!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke's legs were totally making their getaway from the Orcs, but he puffed out his chest with everything he had."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001f",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002e",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Fuma-chan."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah. Let's see if we can help."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We nodded to each other, quickly decided on a plan, and approached the Orcs from behind."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "400"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "400"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc129a",
+            "IN",
+            "200"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR01",
+            "IN",
+            "800"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m036a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m022a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Ummm, hey guys, do you have a minute?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Armed Orc",
+        "text": "Huh!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Thug-like Orc",
+        "text": "What do you guys want!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And the moment the Orcs turned around\u2015"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hup!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "LEFT",
+            "linear",
+            "400"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "RIGHT",
+            "linear",
+            "400"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc129a",
+            "IN",
+            "200"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR37",
+            "OUT",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se084"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Splash!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Without delay, Hebiko squirted octopus ink in the Orcs' faces."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Thug-like Orc",
+        "text": "Uwaah!? What is this!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Armed Orc",
+        "text": "It stinks! I can't see anything!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And from behind the struggling Orcs, who were shaking their heads in confusion upon suddenly being blinded\u2015"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Hyaah!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "ef002a",
+            "IN",
+            "200"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR27",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se009"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Bonk!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Here goes!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "ef002b",
+            "IN",
+            "200"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR27",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se009"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Bang!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke and I gave them a good whack on the backs of their heads with rocks and scrap iron that had been lying around the area."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc129a",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Orcs",
+        "text": "Uaaaaarrrrgghh!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se024"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That was enough to give even these orcs a concussion, and they collapsed to the ground."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Hehe, I'm getting used to this."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Alright, let's get out of here while we have the chance!!"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se054"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I grabbed the hand of the child who had been quivering behind the Orcs and started to run away."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc011a",
+            "IN",
+            "200"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR26",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We weren't sure just how far we had run. We had made it out of the main road and dashed into a narrow side street."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm208",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Phew. We should be safe here!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Are you hurt? Let's quickly get you back to your parents\u2015"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And as I looked back at the child again\u2015"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "ts_m079a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Child?",
+        "text": "..."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...Uh, what the hell is this!?!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "What the hell is this!?!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Child?",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "What I had taken by the hand, thinking it was a child, was a strange creature with the head of a crow and the body of a girl."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Eeeek... things got too intense to notice before, but is it wearing a mask!? Or is it a Demon!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When she said Demon, I was reminded of a description of the races of the Devildom that I had read a long time ago."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "A crow's head and a child's body... is that maybe a child of the Yatagarasu tribe!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Yatagarasu tribe. It was said that as children they had the head of a crow, and when they became adults they would start to resemble humans."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "CENTER",
+            "linear",
+            "400"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc011a",
+            "IN",
+            "200"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR54",
+            "IN",
+            "800"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001e",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Th-That means she's a Demon?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah. They look strange, but they mean no harm to humans, they form bonds easily, and they don't make much noise, so you can even keep them as house pets."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Keep something like this as a pet!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Who knows...? I guess you just have to think of it like a penguin or something..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "You can't easily keep penguins as pets either, you know."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We were somewhat keeping our distance as we spoke in soft voices."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "400"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc011a",
+            "IN",
+            "200"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR01",
+            "IN",
+            "800"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002b",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "ts_m079a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hey, you two, why are you standing over there? It's kind of cute if you take a closer look! See, who's a good girl?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yatagarasu Child",
+        "text": "...\u266a ...\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko seemed to have already gotten used to it and was petting its shiny black head."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It might be cute, but still be careful. They're docile, but apparently they have a powerful venom in their beaks."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Eh!? Venom!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "If you accidentally get pricked, the proteins in your body will transform and you'll get boxified."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Whoooa!!? It's super dangerous then, isn't it!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002c",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Not sure what \"boxified\" means, but it does sound dangerous."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It should be fine as long as we don't attack it. Anyway, what should we do..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yatagarasu Child",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Yatagarasu child was just staring at us blankly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It's no use, I have no idea what it might be thinking. But the first step to winning over an animal is... food."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I rummaged through my bag and took out a few cookies. They were ones Saika had made and given to me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Here, do you want one?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yatagarasu Child",
+        "text": "...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yatagarasu Child",
+        "text": "...!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Once the Yatagarasu child realized that the cookies were food, it began wolfing them down."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yatagarasu Child",
+        "text": "...\u266a"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002b",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "It looks happy! It must've been hungry."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "400"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "ts_m079a",
+            "LEFT",
+            "CENTER",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yatagarasu Child",
+        "text": "...!! ...!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After finishing the cookies, the Yatagarasu child latched onto me and cooed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "H-Hey, hey. I don't have any more."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yatagarasu Child",
+        "text": "...!! ...!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Ehehe. Seems like it likes you, Fuma-chan. So how about you take care of it?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Good idea. Fuma, you said you wanted a pet, didn't you?"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huh!? I mean, I guess you can't say it's not an animal, but..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yatagarasu Child",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Strangely, once someone brought up the idea, it started to look kind of cute."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "But even this thing must have a family or an owner somewhere, right? Don't you?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yatagarasu Child",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I-I guess we won't be able to understand each other..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(But wait...? Speaking of Yatagarasu, I feel like I've seen this torso somewhere before...?)"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "CENTER",
+            "linear",
+            "400"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc011a",
+            "IN",
+            "200"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR01",
+            "IN",
+            "800"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "6",
+            "mi_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Minasaki",
+        "text": "Ahhh!! Found you, you villains!! If you thought you could get away fwom my Yatagarasu powers, you were mistaken!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah... it's her..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Minasaki."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She was one half of the mischievous duo that had caused me trouble in the past."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Minasaki",
+        "text": "How dare you kidnap my little sister, Fuma! I knew you were a cweep! You're under awwest!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huh?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Minasaki",
+        "text": "Don't twy to play innocent!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Here, have this cookie and calm down."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Minasaki",
+        "text": "*Munch munch*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It wasn't clear what her misunderstanding was, but the cookie was able to make the rambunctious Minasaki quiet down right away."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Minasaki",
+        "text": "*Munch munch* ...Mmmmm!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "So? What's this? Kidnapped your sister? Me?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Minasaki",
+        "text": "Yeah! My sister over there was kidnapped by an undergwound gwoup of slave twaders."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Minasaki",
+        "text": "So I quickly searched for her. You know of my power, wight?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With Minasaki's \"Yatagarasu power,\" she could locate anyone she had met once."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It wasn't precise though, and apparently worked in a \"think it's over there\" kind of way."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That's it? Then you should be thankful. Because we just rescued her from a group of Orcs."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Minasaki",
+        "text": "That's wubbish. I know it's you who's behind all of this."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hmph. You're the one spouting rubbish without any proof."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Minasaki",
+        "text": "I do have pwoof!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Minasaki",
+        "text": "The name of the gwoup is the Black Scarves. They chose that name because their boss is always wearing a black scarf."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Minasaki",
+        "text": "Your black scarf! That's unshakeable pwoof you're the boss of the Black Scarves!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Eh? Black scarf?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I felt my neck. There was indeed a black scarf there."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No, that's different! I got this from Saika... and besides, there are plenty of guys wearing black scarves around here!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Minasaki",
+        "text": "Tut tut tut. How foolish of you to think that that is the only pwoof I have. They say there is a huge scar on the boss's forehead."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Minasaki",
+        "text": "That scar on your forehead, isn't that the scar they speak of!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Minasaki pointed directly at my forehead. And she was right, there was a mark from where the cat had scratched me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No! This is where the cat\u2015"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Minasaki",
+        "text": "Two pieces of evidence. Adding to that how you've tweated my fwiends and me so far, this pwoves that you are guilty!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Objection! Objection!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "6",
+            "CENTER",
+            "linear",
+            "400"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc011a",
+            "IN",
+            "200"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR54",
+            "IN",
+            "800"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001c",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002c",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Fuma, you need to know when to give up."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Tokiko-san would be crying."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "YOU GUYS!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002b",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Ahaha, just joking. Still, it looks like that's the girl that was kidnapped."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002c",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko pointed at the Yatagarasu child. Standing next to Minasaki, they did kind of look like siblings."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "400"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "400"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc011a",
+            "IN",
+            "200"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR01",
+            "IN",
+            "800"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "6",
+            "mi_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Minasaki",
+        "text": "If you still don't admit it, I guess we have to beat it out of you..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Minasaki",
+        "text": "Sensei, please help us!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sensei?"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "6",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In response to Minasaki's voice, a shadow slowly appeared from the back of the alley."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm320",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sensei?",
+        "text": "Hiding in the darkness and kidnapping young girls; I was wondering what villain could do such a thing, but you're still a youngster..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sensei?",
+        "text": "I'm sure you have your reasons. But still, I cannot look the other way on this villainous act!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0104a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sensei?",
+        "text": "I, Devildom Knight Lena, will punish you without mercy!!"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se016"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Shing!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "...The girl unsheathed her long sword and struck a pose with a smug look on her face."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Aahh!? You're\u2015"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lena",
+        "text": "Ah!! You are\u2015"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Damn, once again things are getting complicated...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Lena. The slightly ditzy Devildom Knight who had helped us by coincidence in Yomihara only a few days ago."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lena",
+        "text": "\u2015Um. Have we met before...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(H-, hmmm. Don't tell me she forgot...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lena",
+        "text": "No matter, whether we've met or not, villains must be brought to justice!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Lena raised her sword again."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Minasaki",
+        "text": "Yaaaaay! Do it, sensei!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Crap! No choice, get ready for battle!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

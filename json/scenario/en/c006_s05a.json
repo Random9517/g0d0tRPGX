@@ -1,0 +1,242 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm320",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc060a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sr_t003h",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snake Lady",
+        "text": "That's strange\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snake Lady",
+        "text": "I'm sure I told him to bring you guys here when Hebiko-chan was torn to pieces and not much more than a lump of meat\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sorry, but I'm the impatient type."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "While I made a quip, I confronted Snake Lady with the readiness to be able to attack at any moment. However\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(What? I can't move my body... I don't sense any deadly intent from this woman, and she's even unarmed and full of openings...)"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sr_t003a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snake Lady",
+        "text": "My, my\u266a You ruined the dramatic set-up\u266a But welcome, you must be the Fuma boy\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yes. No need for the hospitality, we're just here to take Hebiko home with us."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sr_t003e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snake Lady",
+        "text": "Oh, you can't do that\u266a The schedule has gotten slightly off track, but it's finally time for the main act\u266a"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sr_t003e",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As the Snake Lady blew a kiss, a gate opened in the air."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "UGHRRRRR..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m046a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m050a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieee!! A T-Troll...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(No, the truly terrifying one is the other enemy. A warrior with the lower body of a snake... This must be... a Nagi!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I remembered reading about them in the archives of Gosha Academy. Even among the demons they were knowns as noble and powerful, and it was said that one Nagi was worth a thousand normal warriors."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hotaru-senpai, that snake monster is dangerous! It's a highly skilled Nagi warrior... probably a Nagi Soldier."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hotaru",
+        "text": "Yes... Fuma-kun, give us orders. We're okay, with our strength and your orders we can win."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "H-Hebiko will do her best as well...! One more fight, two more fights... It doesn't make much difference!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieeeeee!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Even though Shikanosuke was screaming in fear, he was prepared for battle."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Alright, here we go! Commence the battle!"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m046a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m050a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

@@ -1,0 +1,905 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm304",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc035a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m083a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m083a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yaemon",
+        "text": "Come on, come on!! I'll take good care of you, Oni-girl!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The horde of Yaemon puppets sprang up from the ground in succession and came after us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had thought that Kirara-senpai, who had sustained serious injuries, would be in a desperate situation, but\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "kr_t003a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Hmph!! Small fries like you are a million years too early to beat me!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "\u30fcSuper Freeze!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With a piercing voice, she raised her leg overhead."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And then it was rapidly charged with cold air\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yaemon",
+        "text": "A Jutsu controlling cold air!? It's certainly powerful, but how will you deal with these numbers?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Ahaha, you dummy\u266a This is not a Ninja Art!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "It's not a Ninja Art... It's the power of the Oni that I inherited from my mom! The power of the Kijin of Frost!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yaemon",
+        "text": "What!!? K-Kijin!?"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se006"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yaemon looked on in amazement, and right in front of him, Kirara-senpai swung down her leg that had been charged up with cold air."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yaemon",
+        "text": "Hrrrm!? Th-This is\u30fc!!?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se111"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Shiiiing!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A giant ice pillar emerged from the ground she had stomped on\u30fc!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It swallowed the incoming horde of Yaemons and froze them in an instant."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "kr_t003b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Well then, are you ready, you dirty old man? I will make you pay a hundredfold for what you did to me\u30fcand to him!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yaemon",
+        "text": "Eeeeek!? W-Wait!! I got it, Oni-girl, I'll withdraw, so\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Frozen and unable to move, Yaemon panicked and grimaced."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kirara-senpai threw him an icy cold smile and..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "\u30fcSpecial Attack: Go With the Floe!!!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yaemon",
+        "text": "Eeeeeeeeeek!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She charged both her arms with cold air and rushed forward\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se039_01"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She crushed all the encased Yaemons, together with the ice she had created, in one fell swoop."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(A-Amazing...!!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And I was watching the whole thing in awe."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "My arms were badly injured and I couldn't move even if I wanted to..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Well, she probably didn't need my help anyways."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That was Kirara-senpai's \"true\" power\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(She did say something about the Kijin of Frost...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The power to control cold air that Kirara-senpai had inherited from her mother."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had read about the Kijin of Frost in some ancient book before."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If I remembered correctly... they were a mythical race of Oni that were said to freeze all life and bring about the Dark Night."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If Kirara-senpai was descended from them, then her overwhelming strength was understandable."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "kr_t001c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Hnngh... I was gonna give that dirty old man a good beating, but his ability to run away, at the very least, is top-notch...!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Seemingly frustrated, Kirara-senpai looked at the ground littered with shattered ice."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It appeared that Yaemon had barely escaped the wrathful daughter of a Kijin with his life."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm502",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...Thank you very much, senpai. I was talking all high and mighty... and you ended up saving me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I managed to somehow get up from the ground and called out to Kirara-senpai."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As was always the case, my lack of power was utterly pathetic."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "kr_t001d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Eh!? Ah... yeah... Fuma... kun...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kirara-senpai jumped up nimbly and turned to face me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Are you okay? You fought so hard even with such a bad injury\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "kr_t001h",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "I-It was nothing! ...Well, it still hurts a little, but I have the blood of my invincible mom in my veins!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Haha, you're incredible."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Seriously, hats off to her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With such a strong-willed and awesome senpai, I couldn't complain no matter how much she made fun of me."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "kr_t001g",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "...But wait!? What about your own injuries!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "kr_t001f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Your arm was, like, mangled\u30fc Doesn't it hurt!? Are you okay!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Eh? Y-Yeah...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kirara-senpai rushed over to me quickly and grabbed my injured arm."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "...Hmm? What was going on?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The atmosphere was totally different from when we had been running through the subway tunnel."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Was Kirara-senpai terribly worried about me for real...?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "kr_t001d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Wh-What's going on!? Your arm... i-it's healed...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ah, it started, huh."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was the aforementioned mysterious regenerative power."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "According to the demonologist Kiryu-sensei, it was the \"power of demons\" that had been dormant inside me\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "My arm, which had been broken and twisted, was slowly starting to heal little by little."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "A-A Ninja Art of healing...? But I heard that you didn't have the ability to use a Ninja Art..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Well, it's a long story, but I recently became able to use one."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "kr_t001g",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "H-Huh? Recently..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "To be precise, it apparently wasn't a Ninja Art, but there was no need to explain that much."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "For starters, I didn't really understand much about it myself."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(This power is still full of mysteries...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Was there a limit to the regeneration? And what would happen if I kept using it? \u30fcIt was all a mystery."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was quite possible that the regeneration would suddenly stop working at some point."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With that in mind, I didn't want to rely on this ability just yet."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "kr_t001b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "I-I see... But being able to regenerate must be really useful!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "kr_t001i",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "With this it would be easy for you to protect me... Because you would heal anyways!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Well, I guess."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I gave her a wry smile and nodded."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I felt relieved. Kirara-senpai seemed to be back to her usual self."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "kr_t001h",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "B-But...!!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "kr_t001j",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Thank you, Fuma... For protecting me..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Turning away, Kirara-senpai spoke quietly, almost whispering."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No problem. It was only natural. We're members of the same team after all."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "If it's within my power, I'll do anything."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "kr_t001h",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "!? \uff5e\uff5e\uff5e\uff5e!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Senpai?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I wondered what was wrong."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Looking away, Kirara-senpai's face had suddenly turned bright red."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I'm sorry. Did I say something to offend you again?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Huuuuuuh\uff5e!!? A-Are you stupid!? I'm not angry at all!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Okay..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That was good to hear."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "You did <i>nothing</i> wrong at all!! I'm the one who's to blame!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "I'm sorry, Fuma!! I said nothing but horrible things to you! I'm really sorry about that!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You realized <i>now</i>!? No, I mean, I returned fire too..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "kr_t001e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Th-That's right!! Well then, with that being that\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Come on, let's hurry up and find Hebiko-chan and Shikanosuke-kun!! We're off!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I didn't really understand."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se082"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Still not facing me, Kirara-senpai rattled on and on. Then she went ahead of me and briskly walked off."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

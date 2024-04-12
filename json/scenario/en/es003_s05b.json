@@ -1,0 +1,943 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc015a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm321",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0084a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Falcon Jutsu! Transcendent Skill\u30fc\n<i>Whirling Oblivion!!!</i>"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After a fierce battle, Asagi-san's special attack tore the body of the divine beast to pieces."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se033"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m062a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kiyomaro",
+        "text": "HRRAAAAAAAAAAGH!!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The giant boar howled in misery."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se081"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Its mountain-like body collapsed to the ground with an earth-shaking sound."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0084a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "He was pretty tough... His behavior was a bit iffy though."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Right. One wrong move and we could've been done for. But yeah, his behavior was iffy..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi-san and I lowered our weapons and caught our breaths."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kiyomaro had been extraordinarily powerful, as one would expect from a divine giant boar."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Not deterred by the cramped confines within the building that put him at a disadvantage, the giant boar had charged at us,"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "and Asagi-san had withstood the powerful attack with my support, found a slight opening, and unleashed her ultimate attack\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It had been a narrow victory."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm606",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m062a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kiyomaro",
+        "text": "Guhhh... To think I would be defeated... But this, too, is my fate."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kiyomaro",
+        "text": "Tell me your wish, human. I will use the power of the luck slumbering within me to grant it..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The fallen Kiyomaro said, gasping for breath with each word."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "So... Asagi-san, may I use my wish?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As I asked, Asagi-san smiled as if to say \"of course.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Yes. The only thing the old lady at Inageya asked of me was to stop this boar from turning into an inauspicious beast."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "You can use his luck as you please. ...But, I imagine the way you'll use it is already settled."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yes, it is."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "My wish, of course, was to \"return to my dimension\"\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Can you do that, Kiyomaro? I want to go back to my world."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kiyomaro",
+        "text": "That's simple. Come\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The dying Kiyomaro nodded and released the luck that lay dormant within his giant body."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "2000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc052a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se057"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Rumble, rumble, rumble...*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Accompanied by a mysterious bellowing sound that shook the air, a massive energy vortex appeared."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "This... goes to another dimension...?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m062a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kiyomaro",
+        "text": "...Now then, I've opened a portal. You should be able to return to your dimension by jumping in here..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Alright. Thanks, Kiyomaro... Though it's weird to be thanking you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You're the one who dragged me here in the first place."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kiyomaro",
+        "text": "Never mind that. In the end, you are able to go home."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I don't want to hear it from <i>you</i>."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And stop changing up your tone on a whim too."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kiyomaro",
+        "text": "Ahem. Well then... I will fade away now."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kiyomaro",
+        "text": "I have used up all of my power. The next time I appear will be 12 years from now..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...Any last words?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I asked Kiyomaro, whose body was starting to disappear."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(If I really think about it, I feel pity for him...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He was summoned here and chased around because of the power of his luck."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He might have acted a little weird, but maybe I should forgive him."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kiyomaro",
+        "text": "No... I'll simply disappear, in accordance with my fate. ...But if there's one thing I regret..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Regret...?"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kiyomaro",
+        "text": "Just like you humans... I wanted to get engaged to an actress and fly to the moon and things like that... blargh."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1500"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "KIYOMAROOOOOOOO!!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Leaving behind those lonesome words, the body of Kiyomaro, the divine giant boar, vanished."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm503",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...Well then, that's that..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0084a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "...He was quite the troubled individual, huh."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi-san and I sighed, our mixed feelings again showing on our faces."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We felt like we had spent the whole day getting pushed around by the strangest people."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Anyway... Thanks, Asagi-san. I owe you a bunch for today."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Eheh, don't worry about it. I just did what I had to do."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "But good for you. You're able to go back to your world."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Surely this was farewell. Asagi-san held out her hand and I grabbed it tightly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It kind of feels like a shame. Just getting to know each other and already having to say goodbye."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This young Asagi-san literally lived in a different world."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If we parted ways now, most likely we would never see each other again."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "You never know. Recently, demons and other beings with weird powers are showing up more often\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "You might come here or I might go to there. Something like that could happen again."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ahaha, that would be fun."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Hm? Come to think of it\u30fc)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi-san's comment made me remember something."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "So much has been going on that I didn't get a chance, but... There's something I've been meaning to ask you, Asagi-san."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Just then, my consciousness suddenly started to drift away. It felt as if something was sucking me up off the ground."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Hm? What is it\u30fc?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I tried to ask Asagi-san about her younger sister, Sakura, but my consciousness was completely absorbed into the darkness."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Hey, Fuma-kun! How long are you going to keep sleeping~?"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc107a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ugh... H-Huh...? Where am I...?"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm309",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ws_t002e",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Igawa Sakura",
+        "text": "Oh!! You're finally up~! Really, what were you thinking?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Talking about how much you wanted to see the first sunrise together and then falling asleep by yourself!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huh...? No, I..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I got up."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was in the freeloader Sakura's room, back at the ever-familiar Fuma residence."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Right in front of me was a game console that had been left on."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Snacks and magazines were scattered all over the floor."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Everything was the same as before I had left."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Was it... a dream?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I let out a sigh of relief."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ws_t002d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Hmm?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Well, until a minute ago, I was a giant boar in another dimension and everyone was chasing me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Huh~~~~~~~~~~~~~~~~?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "You had one hell of a first dream of the year, huh, Fuma-kun?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Haha, that's for sure\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was... all a dream. Probably."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That was easier to come to grips with than going to another dimension in your sleep."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But still\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ws_t002a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Come on, go and wash your face. I made some New Year's ozoni with Tokiko-san, so let's all eat together!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I stopped Sakura as she was about to return to the living room."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ah, wait, Sakura. Before that."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Hm~? Whatcha need?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It's nothing important, but... are you having fun?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ws_t002d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Huh~~~~~~? What are you talking about all of a sudden?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I-I mean, you were brought here from another dimension. I was just wondering if something was troubling you\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ws_t002b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Not at all! Of course I'm having fun!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Oh. Really...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Yeah\u266a I mean, it was a little troubling at first~"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "But now I'm having so much fun being together with Tokiko-san and you, Fuma-kun!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I see... \"She\" seemed to be doing fine too, so I guess it proves that you're sisters."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "That girl?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hearing me mutter, Sakura tilted her head curiously."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...Yeah, I was just thinking about the dream I had last night."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Yeah, yeah. Get out of dreamland and go and wash your face already!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ws_t002a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Alright then, I'm gonna ask Tokiko-san to put lots of lily bulbs in the New Year's ozoni for me\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sakura grinned happily and returned to the living room."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hey, wait! I'm gonna get more lily bulbs than you!"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

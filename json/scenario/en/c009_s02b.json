@@ -1,0 +1,1093 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc100a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm506",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0077a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "...Phew. That's taken care of."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After we had once again eliminated the monster\u30fcthe Shadow\u30fcthat had been hiding, Shishigami let out a sigh."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0077a",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m063a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "You said you are called Shishigami Jisai? Your skills are splendid."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "Not really... and it doesn't make me happy to be complimented by you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shishigami said, looking displeased."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As expected, she had never let her guard down, seemingly continuing to pay attention to Shonosuke's movements even throughout the fight with the Will-o'-wisps."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(And yet, she's this strong... she's just like a fierce god.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It wasn't just Shishigami. Shonosuke's strength was on par with hers as well."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He had continuously slashed at the Will-o'-wisps with his flowing sword style and driven them away in no time at all."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(If these guys were in my unit, things would be easier for me... but now's not the time for that.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There was something we had to do before the Will-o'-wisps started sprouting up again."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sorry to cut to the chase, but let's search through the store. We've gotta find a clue to get out of this stupid trap."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Why hadn't the shop owner, the black market broker, shown up?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The answer to that was down the stairs at the back of the store."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc101a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0077a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "Is this... the owner...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shishigami looked at the corpse lying in a pool of blood and furrowed her brow as she spoke softly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The semi-basement of the store had been turned into a study and the bloody body was lying in one corner of it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "So... this is your doing, Shonosuke?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "While walking down the stairs, we had received a brief explanation from Shonosuke."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0077a",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m063a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "Yes. This man is the one who tried to trap me. He was quite skilled, so I couldn't capture him alive."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I see\u2015"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m063a",
+            "LEFT",
+            "CENTER",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "According to his explanation from earlier, Shonosuke had been pursuing an underboss of the Nisha Clan who had suddenly disappeared, and he had ended up at this store."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Then he had gotten into a fight with the owner and been forced to strike him down\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "According to what I was able to get out of him before his death, he seems to have been commissioned by \"Dragon Gate.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Dragon Gate... Well, you guys picked a pretty spectacular fight with them."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Just a few days ago, Gaiza and his Nisha Clan had stolen some territory from Dragon Gate using a dangerous Zombie gas."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But of course Dragon Gate would not back down quietly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "That is painfully true...  Anyway, this man targeted me and Onigumo Saburo, both of us subordinates of Gaiza-sama."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "To that end, he set up this magical trap\u30fca space cut off from everything with no way out."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hmm..."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Onigumo Saburo was an underboss of the Nisha Clan, like Shonosuke."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This black market broker who was targeting two Nisha Clan underbosses..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And Shishigami Jisai, a Taimanin of Gosha Academy, who was lured here with \"information about the Nisha Clan\"\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The dots were starting to get connected, and the outline of the situation became clear."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(He wanted them to kill each other\u30fc)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The trap was not just Will-o'-wisps and Shadows."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He locked up opposing Taimanin of Gosha Academy and the Nisha Clan in the same enclosed space."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If things had gone according to his calculations, in all likelihood Shishigami and Shonosuke would have ended up killing each other."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "...By coincidence, I had appeared as an anomaly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(C'mon man... I come back to life and bam, I'm wrapped up in such pleasant things once again.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "\"Sheesh,\" I thought with a bitter laugh to myself."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m063a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "...Kotaro-sama?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ah, sorry. I was just lost in thought. \u30fcPlease continue."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "Yes. So... according to his last words, this enclosed space seems to be a magical trap called the \"Crossroads of Confusion.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "The \"Crossroads of Confusion\"..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "He said that he had asked a prominent sorcerer of Amidahara to create it, and that we would never be able dispel it. He made that remark and then perished."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I mean, he tried to kill two Nisha underbosses. Of course he would at least prepare something of that level."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He must have even prepared so thoroughly that the trap would function even if he got killed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "By the way... Onigumo Saburo? That old man is still alive?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was acquainted with most of the extended Fuma relations."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I often got yelled at by the old codger of the Onigumo Clan for playing pranks on him when I was a kid."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "No, he has been replaced, and now a lovely girl has inherited his name."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You mean his granddaughter!? So the one who disappeared was\u30fc!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "The current Onigumo Saburo... She should be somewhere in this store. At least according to the information I picked up."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hmm... Or maybe according to the information you were \"made to pick up.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The same as with Shishigami, it could be that the owner had leaked the information in order to lure Shonosuke here."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0077a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "Fuma, look at this."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At that moment, Shishigami, who had been silently examining the room, called out to me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Is that\u30fca hidden passage?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hidden behind a giant bookcase, a narrow passage led further in."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0077a",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m063a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "It's definitely a passage..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah... So this must be the main part of the trap. It's just like the \"Biography of the Witch\" said."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "...? Do you know anything about this?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No, but I've read a book before that mentioned the \"Crossroads of Confusion.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was a biography that was said to be written about a witch who really existed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "A vicious witch created a spell to tame a malevolent deity she had summoned."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "She created a labyrinth from which nobody could ever escape and locked the malevolent deity inside. In the end, the malevolent deity gave up and made a contract with her\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "So that spell is the \"Crossroads of Confusion\"...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah. I thought it was just fiction though and didn't expect it to be an actual spell."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Though, sneaking bits of truth into something fabricated was common in the underworld."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "You are very knowledgeable, Kotaro-sama. ...And what did the book say about it?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "The witch in the biography said: \"Enter the labyrinth and seek the exit.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "...I guess that means we just have to go."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "I see. I hope we can make it out before evening..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc102a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm203",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When we proceeded through the hidden passage, we found a strange area you wouldn't imagine was underground."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was a gorgeous room, like a medieval noble's manor."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There were doors on all four sides, each with a small engraving of the respective cardinal direction, and behind each door a series of rooms of the exact same construction."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m063a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "Now, before we proceed, I have a suggestion."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Just as we had resolved to step into the labyrinth, Shonosuke spoke up."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What is it?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "How about a temporary ceasefire until we escape?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "A ceasefire? I have no intention of fighting you now anyway."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "I meant the girl over there. She's been staring at me with murderous intent since some time ago. As such, you must be restless as well."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m063a",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0077a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "Well... of course! You're an underboss of the rebellious Nisha Clan..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hmm... Shishigami, you don't have to worry about Shonosuke."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "Fuma?? What are you saying!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It would be simple to fight with Shonosuke here, but when it comes to fighting the Will-o'-wisps, I want more fighting ability, even just one more person."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "B-But... you said it yourself, didn't you!? That this guy might be an assassin!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah, I did. But now I think he isn't... probably."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m063a",
+            "LEFT",
+            "CENTER",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "Kotaro-sama, thank you for trusting me\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shonosuke showed an immeasurably gentle smile."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I walked over to him, grabbed him by the chest, and pulled him close."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "!? Kotaro-sama...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The eyes of the man who was always calm wavered slightly."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm504",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...Listen closely, Shonosuke. I got killed by Gaiza once."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "But... you are still alive. How...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Who knows!! But let me tell you something, Shonosuke!!! I will meet Gaiza again!! And I will grab that guy by the collar and bring him back to Gosha!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "Kotaro-sama..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It's not just because of the mission. It's because that's what I\u30fcFuma Kotaro\u30fchave to do!! ...Do you understand, Shonosuke?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "...I think your wish will go unfulfilled."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Shut up. I'll kill those who stand in my way. Even you, who I thought of like an older brother when we were kids."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shonosuke's eyes narrowed like blades."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0077a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "\u30fc!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shishigami's hand reached for her sword. The situation was on a hair trigger\u30fcbut..."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m063a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "My goal is to save Saburo. Nothing else."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Is it? Then there's no problem."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I gave a wry smile and let go of him."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Then I turned to Shishigami who was on full alert and nodded to show her that everything was fine."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...Shonosuke. Do you think Saburo is still alive?"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm203",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "His momentary intent to kill had dissipated and Shonosuke had returned to his normal calm self."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "She's not a girl who would die from something like this."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hehe, that's true. I can't stand her but she's part of the clan, so we'll help her out while we're at it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "Thank you. ...But Kotaro-sama, you have changed quite a bit."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Well, I've been through a lot. Of course I'd change."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As I shrugged, I made eye contact with the dumbfounded Shishigami."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0077a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "Are you two really enemies? ...You guys are strange."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

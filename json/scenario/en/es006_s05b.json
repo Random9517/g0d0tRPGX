@@ -1,0 +1,1869 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "black",
+            "NONE"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A few days later."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm604",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc105a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At Gosha Academy, after school."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc006a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0119a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "a_t001a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Igawa Asagi",
+        "text": "The authorities responsible for security in Senzaki have sent their thanks."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "a_t001b",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Looks like you did a good job\u30fcShinohara Mari-san."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Th-Thank you...!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In the headmistress's office."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Mari had been summoned by Headmistress Asagi to receive a commendation for the incident from a few days prior."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A commendation for \"single-handedly defeating a djinn that had suddenly appeared in the city of darkness, and saving its residents from danger.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "For a Taimanin student still in training, it had been an extraordinary achievement."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "a_t001a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "I had heard about your talent and your grades\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "But it was a pleasant surprise to see you also do so well in the field."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Th-Thank you... very much...!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "For the students of Gosha, Taimanin Chief Commander Igawa Asagi was somebody they all looked up to with great admiration."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As she received such warm praise from someone such as her, Mari's heart wouldn't stop pounding."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Yukikaze, Fuma-kun, and now you\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "I am relieved to see that the younger generation seems to be making steady progress."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Shinohara Mari. I think I will also ask you to participate in missions more actively from now on."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "With that in mind, keep up the good work."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Yes! I'll do my best!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc005a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Haah... amazing... Asagi-sensei praised me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Still high on cloud nine, Mari left the headmistress's office."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Another thought immediately came to the forefront of her mind."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "(But... I wasn't alone though...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She hadn't accomplished this \"single-handedly.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Defeating the djinn that had appeared in the shady city of Senzaki..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This had come about thanks to the cooperation of the wandering Taimanin Shinganji Kurenai."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "(And also because of Djinn-san's own\u30fc)"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm320",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc065a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se047_01"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "\u30fc*Slash!!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "Ugh!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The djinn dodged Kurenai's blades and countered with his cane."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After being knocked to the ground, Kurenai groaned as she got back on her feet."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m089a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "...I see. It looks like it's not gonna be as easy as when we fought before, huh?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300eBecause at that time, I had already exhausted most of my demonic power.\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Floating in the air, the djinn answered matter-of-factly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The djinn's power to \"peer into one's mind\"\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Even with it, the djinn hadn't been able to react to Kurenai's attacks when his demonic energy had been waning."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300eBut this time it's different. Fortunately, I can replenish my demonic power as much as I want.\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300eEven with you as my opponent, I won't be beaten that easily\u30fc\u300f"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se006"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The djinn was still sucking the life force from the onlookers through his tentacles made of demonic energy."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Ordinary people had no resistance to anything \"demonic.\" After they collapsed to the ground, all they could do was groan helplessly."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0119a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "...!! Please... stop with this already!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300e...\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Mari had gotten up and called out."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Her legs were shaking with fear."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Having had her life force sucked out of her, her body wouldn't even move properly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The djinn looking down at her with his ice-cold stare was far more intimidating than the Oni and gangsters from earlier."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "(Uuhh... b-but still!!)"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Fuma Kotaro would never run away."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He couldn't even use Ninja Arts, but was still dealing with dangerous denizens of darkness like this."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m089a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300eIf you want to stop me, then you need to fight me yourself\u30fcI believe that's what I said.\u300f"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm205",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "...I'll fight!!! I don't know what you're thinking, Djinn-san..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "But... I'm a Taimanin."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Mari looked at the residents of Senzaki, who were groaning on the ground in pain after having their life force taken."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "...She couldn't lose."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was the Taimanin who protected those in need... those who suffered."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300eHmm...?\u300f"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "...Heh, good to see you so determined, Mari. Then I won't hold back either."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Kurenai-san...!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se074_01"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "kn_t002d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A demonic aura spread explosively from Kurenai's body."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She had unleashed the power that had allowed her to cut down the Salamander in a single strike."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "kn_t002a",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0119a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "I need your power, Mari. Will you help me?"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Yes!! But how\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "kn_t002c",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "Discussing it is pointless. That djinn is going to see right through it and everything will be for naught."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With his power to \"peer into the minds of others,\" the djinn would be able to anticipate their attack."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "Do what you have to do. As a Taimanin, you should know what I mean."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se016"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "kn_t003c",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Keeping her explanation brief, Kurenai then leaped at the djinn."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "CENTER",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "Haaaaaaaaahh!!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0119a",
+            "LEFT",
+            "CENTER",
+            "NONE",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Wh-What I have to do\u30fc!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "(S-Something that I can do...? Against Djinn-san who even Kurenai-san struggles with...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Mari was momentarily confused."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But, the answer was already decided."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kotaro",
+        "text": "It isn't really about having power or not."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kotaro",
+        "text": "If you know what you can do and what your friends can do, you will always be able to find a way to win\u30fc"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc065a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0119a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "(!! What Kurenai-san and I can do\u30fc)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Spurred on by Kotaro's words that she had overheard one day,"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Mari slammed her fist into the ground with all her might\u30fc!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Here I go, Kurenai-san!!! \u30fc\u30fc\u30fc\u30fcEarth Art: Rending Fangs!!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se005"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In an instant, the ground opened up."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The earth rose up in the form of a snake and lunged at the floating djinn."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m089a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300eA coordinated attack? That's easy to tell just by reading your\u30fc\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "That's it, Mari. \u30fc\u30fc\u30fcMy vacuum blades tear all to shreds..."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300e...!?\u300f"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EV",
+        "info": [
+            "stv009b",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "Superb Skill: Whirlwind!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Rooooooooooooooar!!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The wind generated by Kurenai's swords sliced through the earthen form, and\u30fc"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se097"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "what was one solid form then became an infinite number of smaller stones that went careening in the direction of the floating djinn."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300eUaaaargh!!! Aaaaaaaahhhh!!!\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Earth and wind combined\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The artificial sandstorm that transcended human imagination completely enveloped the djinn and tore his body to shreds."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc065a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300eUgh... W-Well done...\u300f"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se023"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The djinn's body shook violently, and then weakly fell to the floor."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0119a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "D-Djinn-san!!?"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se078"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Mari rushed over to him."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "His demonic power leaked out of the countless wounds the sandstorm had caused, and his body began to disintegrate."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm606",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300eFufu... Why are you looking at me like that, Mari?\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300eI tricked you. Contempt and mockery is what I deserve...\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "N-No... I..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300eBesides, you should be proud. You have vanquished a vicious monster that causes harm to people...\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300eThis is something that only you, an excellent Taimanin, can do...\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "\u30fcI see... I was indeed fooled."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "So you put on this pompous act all for Mari's sake."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0119a",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "chr_t0006c",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Eh...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As Mari raised her head, Kurenai was standing next to her, her \"demonic\" power sealed again."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300eWhat are you talking about, Kurenai...?\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "Hmm... I already thought it was a bit weird."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "Even though you usually run away, you decided to fight after your demonic power was completely restored."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "And even trying to incite Mari with your horrible act\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "You wanted us to cut you down."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300e...\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Wh-What do you mean...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hearing Mari's trembling voice, the djinn shot Kurenai a resentful look."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300eOh my... You're quite tactless, Kurenai. Even though I simply planned to fade away without a word.\u300f"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "chr_t0006h",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "Pff, sorry. Letting the villain have his way just isn't my thing."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kurenai shrugged her shoulders. With a small sigh, the djinn looked back at Mari."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300e...I simply wanted to fulfill my original purpose.\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Y-You mean... to cause misfortune to people...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300eFufu... I don't ever want to experience something so horrible as that again.\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300eI was created to <i>fulfill</i> people's wishes\u30fc At least that is what I like to think. So...\u300f"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The djinn who could read people's minds had known Mari's wish."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "How she had heard of the achievements of her friends and wanted to be recognized just like them."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "To be recognized by the adults around her, as well as by one specific male student\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0119a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300eAs far as I can tell, you are strong enough for that, Mari. The only things you need are confidence and experience...\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300eIn that case, I know just the right thing. An evil demonic creature that leads people to their ruin and must be defeated\u30fc\u30fc\u30fc\"Me.\"\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The djinn's power had a curse attached to it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A curse that led those who had their wish fulfilled to ruin\u30fcHowever..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If the djinn fought with all his might and if Mari beat him\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Confidence and actual results\u30fcMari would get the two things she needed at once."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Th-That means...!? Djinn-san... you did all of this for me...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Before she knew it, large tears were welling up from Mari's eyes."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300eFufu... That's what hubris does to someone, Mari.\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300eI simply fulfilled my original purpose... At the very last moment, just one time... no matter how pathetic of a method it is...\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The djinn exhaled deeply in satisfaction."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "His body was fading, turning to sand and disappearing into the air\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300eAahh... But still, it feels good... Thank you, Mari, Kurenai...\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300eHaving my first drink... together with everyone... I really... enjoyed myself...\u300f"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1500"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "700"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "!? D-Djinn-san!? Aaaaaaaahhhh...!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Huddled on the ground, tears were streaming down Mari's face."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In her hand, an old and decaying magic tome had been left behind."
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That was the story of what had happened that night, from start to finish."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm604",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc005a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "According to Kurenai, the people who had their life force sucked out would recover within a few days."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It seemed like the djinn really didn't want to hurt anyone."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And after that\u30fc"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc065a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "chr_t0006c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "You need to make it sound as if you alone defeated the djinn."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "chr_t0006a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "I can't let myself get too much attention, and besides, that is what he wanted."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kurenai said to Mari and took the ancient magic tome\u30fcthe djinn's original form, into her hand."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "Well then, let's meet again one day, Mari. If you need help with anything, reach out to me anytime."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc005a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0119a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "(Thank you, Kurenai-san... and Djinn-san...!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The achievement of defeating a djinn."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was something that had been set up by the djinn himself and might not have been legitimate."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But Mari would just have to make it legitimate with her future efforts."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "No matter how hard the mission or the battle might be\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "(I am strong enough for that... Right, Djinn-san?!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "...Alright, let's go\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Mari smiled and nodded to herself, and took a big step forward."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And there\u30fc"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "s_t003b",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "h_t001b",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Uehara Shikanosuke",
+        "text": "Ah, there she is!! We already heard, Mari! You fought a super strong djinn, didn't you!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Aishu Hebiko",
+        "text": "Eh-he-he, Mari-chan, you're the talk of the whole school. As one of your school committee friends, Hebiko is also proud!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Ah! Shikanosuke-kun, Hebiko-chan! And... Fuma-kun..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Fuma Kotaro",
+        "text": "Hey, Mari! I heard you did a great job."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was her friends Shikanosuke and Hebiko, and also Fuma Kotaro whom Mari secretly admired."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kotaro",
+        "text": "The \"Book Djinn\" is known as a legendary demonic creature. Let's hear how you fought it!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Y-Yes, of course! \u30fcBut... there are also some points that I can't talk about..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kotaro",
+        "text": "Hm?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Ahh!! I-It's nothing..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "(Uwahwah... N-No way I can tell them...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "(How I was able to do my best thanks to you as my role model, Fuma-kun\u30fc)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "(I want to become like you. I want to be recognized by you\u30fc)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Uhm, let's see... I'm not sure where I should start, but..."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And so Mari began to tell her story."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "About the mysterious encounter and the sad farewell she had experienced that night in Senzaki\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "About her own special adventure that she would never forget..."
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

@@ -1,0 +1,831 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm610",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc120a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m076a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamata no Orochi",
+        "text": "Kyeh-heh-heh-heh, what kind of unfounded nonsense is that!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamata no Orochi",
+        "text": "But... are you sure about this, kid? If you go that far, those are fighting words in the Oni world."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A deadly aura so strong that it was almost pricking our skin was erupting from the female mercenary's entire body."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Th-That's right, Fuma-chan!! What are you saying all of a sudden!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieeeee!!! A-Apologize, Fuma! We're so sorry, this guy's a little weird!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke took the initiative and began apologizing to Yamata no Orochi, bowing repeatedly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamata no Orochi",
+        "text": "Hm-hm... No point apologizing now. Even I believe in something called \"trust.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamata no Orochi",
+        "text": "Maybe you're just trying to find some fault in me, virtuous me, so you can dock my pay, Fuma kid?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I wouldn't do something like that. Actually, I'm more worried about you stabbing me in the back."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamata no Orochi",
+        "text": "Ohh? You've got some guts to say that\u2015"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yamata no Orochi crept toward us slowly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But before she could make any concrete moves, Sago-san stepped in between."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m076a",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m077a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sago",
+        "text": "Calm down, both of you. \u2015Young Lord, you must have good reasons for going so far as to say that, right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "\u2015Yes, there's proof. But I'm not the one who has it. My \"collaborator\" does."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamata no Orochi",
+        "text": "Your collaborator??"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The female warrior scoffed intensely, and Sago-san could not hide his bewilderment."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sago",
+        "text": "Young Lord...? You're not talking about me or the other two, are you?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sago",
+        "text": "We don't know anything. But there's no one else you could call your collaborator\u2015"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "\u2015No, there is someone else."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I grinned and nodded to Sago-san."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The hint was the food repeatedly disappearing throughout the mission."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke's and my cookies."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Someone had stealthily been pilfering those when no one could see."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "\u2015Come on out, Sakura!! Show them the \"proof!\""
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "400"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "400"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc120a",
+            "IN",
+            "200"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR19",
+            "IN",
+            "600"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ws_t005a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "200"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Heyyyy! Greetings everyone\uff5e. It's Sakura-chan, the collaborator\uff5e\u2606"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Someone jumped out of the shadow at my feet."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was the freeloader living in the Fuma mansion\u2015young Sakura, the Shadow Art user."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "S-Sakura-chan!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Whaaaaaa!!? Why were you in Fuma's shadow!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "All of them looked astonished."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "...And that was completely understandable."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had also been shocked when I had first realized it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sakura has... apparently been hiding in my shadow and tagging along to kill time."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ws_t005b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Nyahaha\uff5e I mean, I couldn't find a part-time job at all and I was really bored\u266a"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ws_t005a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Shadow Art user Sakura's specialty was the Ninja Art allowing her to enter others' shadows and travel within them."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sakura had used her Shadow Art to enter my shadow\u2015cat napping and occasionally nabbing cookies."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Cat napping...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah. Even when we were chased by Hestia, she was apparently sleeping like a baby."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "S-So that's what happened..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ws_t005b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "I'm truly ashamed of myself!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sakura stuck out her tongue and looked embarrassed."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ws_t005a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "A-Anyways... this also gave us an opportunity."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There was someone lying low that nobody knew about and who could move about freely. It was huge."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I had my suspicions about Yamata no Orochi and asked Sakura to spy on her. The result of that is\u2015Sakura?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ws_t005b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Okey dokey!! \u2015Ta-da\uff5e\u266a It's this communication device!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sakura pulled a medium-sized communication device out of her pocket."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This... was the \"proof\" that we had found."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ws_t005a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sakura had stolen this communication device from Yamata no Orochi's bag during the confusion while we were breaking through the gate of Yomihara."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was a special device that could even be used underground in Yomihara."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "400"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc120a",
+            "IN",
+            "200"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR01",
+            "IN",
+            "800"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m076a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "200"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamata no Orochi",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I took a look at it when I went to have a leak a bit earlier. And... you were in contact with a government official, weren't you?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It looks like you demanded triple your original compensation in exchange for giving them Sago-san, no?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Using the device, I had also briefly talked to the government official."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamata no Orochi",
+        "text": "Hm-hm... So what about it? It was just a negotiation for higher pay."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Right, if only that was all there was to it. But you've also already reported that we, the Taimanin, were killed by the UFS."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What's the meaning of this?"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamata no Orochi",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Killed\u2015? But Heberybody is still alive and well."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That's... because she was planning to take care of that afterwards."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She was going to eliminate us closer to the surface where it was safe and take Sago-san from us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And then she would negotiate with the government official for a higher payment again\u2015."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm320",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamata no Orochi",
+        "text": "Hm-hm... Kyeh-heh-heh-heh!! You really got me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Suddenly, Yamata no Orochi let a maniacal laugh ring out."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamata no Orochi",
+        "text": "Well, I can't help it... I've never been good at elaborate tricks like this."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...So you admit it?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamata no Orochi",
+        "text": "Yes. You really are a clever kid. I might even fall for you, hm-hm..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Why did you hire those Trolls and have them attack our hideout?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I asked, not responding to her flippant remark."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamata no Orochi",
+        "text": "Shizuru is tough, you know. That's why I wanted only you kids to go with me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Splitting us up\u2015"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She had done it to keep the highly-trained Shizuru at the hideout and move forward with us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Why? Why did you set us up?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamata no Orochi",
+        "text": "For drinking money, of course. I'm having a hard time paying my tab this month."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That was the reason\u2015!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But actually, maybe this weirdness was exactly what it meant to be a resident of Yomihara."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamata no Orochi",
+        "text": "So, are you done with your questions? My plan was foiled, but that doesn't change what I'm going to do..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamata no Orochi",
+        "text": "I will kill you kids and steal that broken piece of junk. Then I'll negotiate with that stupid government official for more money\u2015and that will make me very happy\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "What the what\uff5e? I pop out and all of a sudden we're in big trouble!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieeee!!?? Really? Ms. Yamata no Orochi was really a baddie!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah!! And her power is no joke! Everyone, follow my orders!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m077a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "h_t005f",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Fuma-chan!? What about Sago-san\u2015?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "He can't fight with that body. We'll have him take cover behind us!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sago",
+        "text": "\u2015Young Lord. You don't have to risk your lives for the likes of me. If anything goes wrong, just leave me\u2015"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "\u2015Quiet. I'll never abandon even a single Fuma ninja."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sago",
+        "text": "!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "400"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "RIGHT",
+            "linear",
+            "400"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m076a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "200"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamata no Orochi",
+        "text": "Hm-hm-hm!! You're so fired up, kid!! Bring that passion when you're pleading for mercy in hell!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The power of the mythically strong Oni began to surge."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yamata no Orochi raised her giant, freakish sword and lunged toward us."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

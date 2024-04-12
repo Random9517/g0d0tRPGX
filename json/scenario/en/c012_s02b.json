@@ -1,0 +1,423 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "black",
+            "NONE"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "\u30fcAnd that was how we had gotten to this point."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm404",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc133a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Damn it!! They won't give up!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se033"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "\u30fc*Slash!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gargoyle",
+        "text": "HROOOOOAGH!!!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "While turning back, I cut down the demonic creatures who were hot on my heels."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Searching for the separated Hebiko and Shikanosuke..."
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se054"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "...Kirara-senpai and I ran deeper into the subway tunnel."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kr_t001e",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Ohhhh\uff5e? Are you alright, Captain? You're already out of breath\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "If you can't keep up, shall I run a bit slower for you\uff5e?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kirara-senpai stood ahead of me with a grin and called out."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As with before, her strength and physical capabilities were ridiculous."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She was driving back more than twice as many of the creatures as I was, and yet was running with no discomfort or difficulty breathing, and she even had the energy to taunt me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I, on the other hand, was giving everything I had in order to not be left behind."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hmhmm...? Senpai, are you worried about me...? You're surprisingly kind."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kr_t001b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Worried? Nooooot at all\u266a"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kr_t001e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "But I've been asked to take care of you by Asagi-sensei, so if you die on me I would be in a bit of trouble, you know\uff5e?"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That's why!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She did not seem to give a damn about me personally. In a sense, she was a resolute senpai."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Hey, so how about it\uff5e? If you say you can't go on anymore, I'll let you have a quick break."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...No, I don't need a break. I'll follow you no matter what."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I replied against my better judgment."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Usually, I wouldn't do something so irrational. It was foolish to push yourself beyond your limits. But\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Who's gonna keep quiet after being taunted like <i>that</i>!!?)"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kr_t001b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Hmmm\uff5e? Listen to you\u266a Then I'll take you at your word\u30fc"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Eehhh!? W-Wait a second!?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kirara-senpai chuckled and sped up. The distance between us widened rapidly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(She's getting even faster!!?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But I couldn't whine at this stage of the game."
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se078"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I clenched my teeth and followed Kirara-senpai as she sprinted off."
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And then, suddenly\u30fc"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm509",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc035a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kr_t001d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "!? What's this!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Haah... haah... a-a cave...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It had happened suddenly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As soon as I felt the sensation of something like a thin, slimy film\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The next moment, we were standing in a place that was like a strange cave."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kr_t001g",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Wh-What's going on here...?"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

@@ -1,0 +1,1829 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm203",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc144a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Senzaki \u30fc Main Street."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Mari and Kurenai were walking through the streets of the shady city."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0006c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "But still... to wish for something like this. I just don't get it."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0006c",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0119a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Ahaha... Why not? Ah! There it is!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "That's the sign of the bar that you were talking about, Kurenai-san!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "Yeah. It's a pretty decent spot for this area, relatively speaking."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And like that, the two of them walked into the shady-looking bar together."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Only Mari and Kurenai, however. The \"Book Djinn\" was nowhere to be seen."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And as for the reason these two were looking for a bar in a city of darkness..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc066a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0006l",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "...What? You want to have a drink...??"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300eYes. I believe it's been called ambrosia, or perhaps the nectar of the gods?\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300eI would like to taste it just once\u30fc It has been my dream since an age ago.\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The djinn calmly replied to Kurenai who was lost for words."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This was his answer to what he himself wanted to do."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0006h",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "That's it? Then why don't you just give yourself as much booze as you want?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "If you want, I can buy you Super Strong or something at a convenience store."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300eFufu, I appreciate your offer... but it's not that simple.\u300f"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0006l",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "And why is that?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300eBecause I don't have what you would call a \"body.\"\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300eTo be able to have a drink, I would have to possess someone and borrow their body.\u300f"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0006c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "Hmm..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "I see... So that's what you want to do, Djinn-san."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "Then I guess we won't be able to do it after all."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "There's no one who would be interested in lending their body to a suspicious being like you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300e...I'm sure you're right. That is also the reason why I have never had the chance to have a drink before\u30fc\u300f"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0119a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "\u30fcMe! I'll do it!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Mari energetically raised her hand in the air."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "I'll lend my body to you, Djinn-san! If that's all it takes\u30fcthen I will gladly repay the favor!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "...Wha?"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "chrnc0101a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0119a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0006c",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "For crying out loud... I already thought that you were a bit odd, but I didn't expect you to be this reckless."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Ehehe, sorry."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kurenai sighed. But Mari didn't seem to be bothered at all and simply laughed bashfully."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300eI am grateful to you, Mari. Thanks to you, my wish will come true.\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Djinn-san! Don't worry about it... Please just enjoy yourself today\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "From Mari's mouth, the voice of the djinn that had possessed her could be heard."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was somehow surreal to hear the voices of two different people alternately coming out of one person's mouth."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300eMy thanks to you as well. I didn't expect you to give me grace.\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "...That's because it seems like you did save Mari after all."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0006e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "But just for a short while. And if you do anything weird, I'll cut you down right away."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300eFufu. I am aware, Kurenai.\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Mari could feel the djinn in her body gently smile."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "I-It's going to be fine! Djinn-san's... already too weak to do anything like that."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Mari tried to reassure Kurenai. Now that she was being possessed by the djinn, she could tell how much power he had already lost."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0006c",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "I see. Then there shouldn't be a problem..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As they talked, the two of them stepped into the bar."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was a cheap bar where mercenaries, demons, and other ruffians gathered."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Even at this hour it was already full, and the air was filled with the sound of vulgar laughter and yelling."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Uwah... It looks pretty dangerous here. Didn't you say... this was a decent place...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "Yeah. It is decent... relatively."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "R-Relatively...!?"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Then how would a bar that wasn't relatively decent look like...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Mari thought as she timidly looked around."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm314",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m090a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m090a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Orc 1",
+        "text": "Hey, hey!? Look at those bitches over there!!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Uwah!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300eOh? This is interesting...\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was some drunken Orc mercenaries who had been hanging around the bar."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With mugs filled to the brim in their hands, they stood before Mari and Kurenai."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Orc 1",
+        "text": "Hehe, maybe they're whores looking for customers? They look like they can make some lewd-ass faces..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Orc 2",
+        "text": "Hey, girls, how much!? If you want, we'll play with you for a bit\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "Don't touch me. You stinking pig."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se080"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Slap*\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kurenai slapped away the orc's hand as he reached out to her arm with a vulgar grin on his face."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Orc 1",
+        "text": "\u30fcHaaaaahhh!? What'd you say bitch!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After a short moment of silence, the bar went into an uproar."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The other mercenaries, who had been laughing at Kurenai and Mari until a second ago, all stood up as the mood suddenly changed."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0119a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0006c",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Uwahwahwah!? W-Will this be alright, Kurenai-san!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "Who knows?"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kurenai just shrugged her shoulders. And then\u30fc"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m090a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Orc 1",
+        "text": "...Bwahaha!! Calling me stinking wasn't very nice, Kurenai-chan!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Orc 1",
+        "text": "Even we take a bath once a month!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Eh?"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm604",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "That's not enough. At least make it once a week."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Orc 2",
+        "text": "Gyahahaha!! You're as harsh as ever!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Orc 3",
+        "text": "And calling an Orc a pig isn't politically correct, is it!? Isn't that racism!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Orc 4",
+        "text": "Yeah! Don't take the resentment of the vulnerable and weak so lightly!!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0006h",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "Really... Where did you even learn those words."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As Kurenai sighed deeply, the Orcs around her burst out laughing."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was such a peaceful atmosphere, completely turned on its head from just a moment ago."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Eh? Eeeeeehhh!?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0119a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "ts_m053a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Orc Mercenary",
+        "text": "Gahahaha!!! Sorry, little lady!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Orc Mercenary",
+        "text": "Since Kurenai brought someone new with her, we just wanted to pull her leg a bit!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Huh...? P-Pull her leg...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Mari turned around to see a large Orc who appeared to be the leader of the group."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "Hehe... Sorry to startle you. I've known these guys for a while."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "*Phew* ...so you know them..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Orc Mercenary",
+        "text": "That's right! She sometimes works with us mercenaries, y'know."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Orc Mercenary",
+        "text": "And that's how we came to have a drink together once in a while."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "S-So that's why..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Mari nodded with a relieved look on her face."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0006a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "Well... that means you don't have to be scared, Mari."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "They don't know manners and reek like fish at that, but they won't harm you unless you provoke them. They're good like that."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "Even among demons and villains, you sometimes find guys like these."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Orc 3",
+        "text": "What's going on, Kurenai-chan!? You're acting so cheeky today, do you want to play with us after all!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0006c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "Hmph, who'd play with someone like you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Orc 2",
+        "text": "That's right! And Kurenai-chan already has a prince she's after, isn't that right!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0006j",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "Wha-!? You idiot! Don't say that!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "...???"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The mercenaries were jeering and laughing\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But Kurenai, for some reason suddenly red in the face, forcibly changed the subject."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0006a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "W-Well... anyways! We had a lot going on today, so I've brought one of my Taimanin friends with me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "You guys be nice to her, ok?"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Ah! Nice to meet you, everyone! I'm Shinohara Mari!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When Mari politely bowed her head, the mercenaries cheered loudly."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m090a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m090a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Orc 2",
+        "text": "Yeah, nice to meet you! Taimanin Mari-chan!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Orc 4",
+        "text": "Gehehe! Glasses and big tits! And also pretty cute! She's the perfect girl!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Uwahwah... Th-That's a bit..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "ts_m053a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Orc Mercenary",
+        "text": "Gahaha!! Don't trouble the little lady!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "One of the Orc mercenaries raised his mug as he let out a hearty laugh."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Orc Mercenary",
+        "text": "Let's have a welcome toast!! Time to drink the night away boys!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The cheers of the rowdy mercenaries roared through the bar."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "chrnc0101a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "One hour later\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The mercenaries' feast continued, and the small bar was filled with a cheerful mood."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0006k",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m090a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "Uuhh... They all say whatever they damn well please... even though I'm also dealing with a lot..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Orc 3",
+        "text": "I know what you mean, Kurenai-chan. The world isn't always kind to you huh."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kurenai, who seemed to get sentimental when she was drunk, was venting to one of the Orcs."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And not just Kurenai, but the other mercenaries also seemed to be beyond tipsy."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300eI see. This is... quite nice.\u300f"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0119a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Ah, Djinn-san. Did you like the drink?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At the corner of the festivities, Mari's cheeks had flushed red as well."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She was letting the djinn enjoy his first drink after giving up control of her body to him."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300eYes, very much so... The taste of the drink, and also the revelry of drinking with your companions...\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300eI think I have begun to understand why people tend to gather like this...\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Fufu, you're right. Kurenai-san and the Orcs, they all seem to be enjoying themselves..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Mari smiled and nodded."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Dirty jokes and vulgar shouts\u30fcthe inside of the bar was filled with the joyful smiles of the mercenaries."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300e...But Mari?\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300eThere seems to be something bothering you.\u300f"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm408",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Eh? M-Me...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Th-That's not true... I'm also really enjoying myself, just like the others..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300eI see. If you say so...\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After hesitating for a moment, the djinn continued to speak."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300eI apologize for only telling you now, but... I have a certain power.\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300eOnly vaguely, but... the power to peer into people's minds and see their wishes.\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was a byproduct of the djinn's power to fulfill wishes."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "To peer into people's minds..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "(I see... So that's how Djinn-san knew that I was a Taimanin when we first met...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300eYes... That's why I asked...\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300eI had to ask because deep inside you, it seemed like you were worrying about something...\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "..."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In fact, what the djinn said was right on the mark."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She had been worried that she was falling behind the other student Taimanin and she would never be able to catch up."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "During today's fight against the Red Oni as well she had screwed up and had ended up being saved by the djinn. And also\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When she saw Kurenai, who was only slightly older than her, fighting so well and even well-respected by the mercenaries,"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Mari couldn't help but feel even more inadequate..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0119a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "It's... it's nothing! More importantly, drink a bit more, Djinn-san!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Don't worry about me and drink as much as you want\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300e...Yes, I will do that. Thank you, Mari...\u300f\n<BGM_STOP>1000"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Smiling to himself, the djinn within Mari reached for a new glass."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "\u30fcUntil they heard a sudden clamor."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm304",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Bar Patron",
+        "text": "Huh!? What's your problem!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Uh-huh-huh-huh-huh!! You're in my way, you drunkard!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se001"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Bam!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Bar Patron",
+        "text": "Uargh!! Y-You\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "!?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "6",
+            "ts_m026a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "7",
+            "ts_m023a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "8",
+            "ts_m023a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_FRONT",
+        "info": [
+            "6"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Blue Oni",
+        "text": "So thiz iz where you've been hiding!? I found you, you dimwitz!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Who had appeared was a giant Oni, very similar to the one Mari had fought earlier, and more gangsters\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Blue Oni",
+        "text": "Now then, you Taimanin girlz over there!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Blue Oni",
+        "text": "Give me all the information about the djinn before you get hurt! If you don't\u30fc"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se016"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangsters",
+        "text": "..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "6",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "7",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "8",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "ts_m053a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Orc Mercenary",
+        "text": "Hey, hey, what's going on!? Are you trying to pick a fight with our drinking buddies!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Orc mercenaries in the bar stood up all at once with a look in their eyes as if to say they were ready for a war."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

@@ -1,0 +1,805 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm404",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc092a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Yah!"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "ef004a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se107_01"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Vooooom!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Scarecrow",
+        "text": "Geeeeehhhh\uff5e\uff5e\uff5e!!?"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc092a",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t006d",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t003d",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Ohh!? Clear really is strong!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Heberyone was really lucky to win against her that time."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah. We really were..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m094a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m094a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She was really showing off the \"made to destroy demons\" part."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se107_01"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With the blade she wielded, Clear blew the scarecrows and poltergeists away."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "chr_t0088a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Butler of the Netherworld",
+        "text": "\u300eHnngh\uff5e!!? Why is our Clear-chan helping that boy Fuma!?\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The unseen butler of the Netherworld was apparently confused by the unexpected help we received."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Butler of the Netherworld",
+        "text": "\u300eHah!? Is it possible that you seduced the pure Clear-chan into helping you!? Hnngh... I cannot forgive this!!!\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Butler of the Netherworld",
+        "text": "\u300eThat damn Fuma boy!! Not only Miss Yukikaze, he even got Clear-chan and her cute small bosom\u30fc\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Old man. Annoying."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "ef004a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se107_01"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Scarecrow",
+        "text": "Geeeeehhhh\uff5e\uff5e\uff5e!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Clear's blade flashed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Once more the group of scarecrows were blown away in place of the butler who had created an incomprehensible misunderstanding."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc092a",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "N-Nice!! Anyway now is our chance, let's rush to Clear's room!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko and Shikanosuke",
+        "text": "Y-Yeahh!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Yes!"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se078"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc148b",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Mizuki house - Clear's room."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm203",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After shaking off the scarecrows and poltergeists chasing us, we managed to arrive."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "chr_t0088a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Here. My room. I closed door. So good for now."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Thank you, Clear. ...Well now, this is a really nice room huh."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I spoke as I looked around the room."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Clear's room was a girly one, filled to the brim with cute stuffed animals that were all lined up."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Really? Hehehe\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Clear had a happy yet bashful look on her face."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Did someone buy you these stuffed animals too?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Yes. Old man and Yukikaze. Buy everything to me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "For real. I envy you\uff5e"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As you could expect from someone rich living in such a castle."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Apparently, Clear was treated extremely well, even spoiled."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Fuma. Come play next time. Let's play frisbee again. Okay?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Oh, yeah, okay. I'll come. I know where you live now."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t003d",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t001d",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hey, that's not fair to invite only Fuma-chan! Clear-chan, can Hebiko come too?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aaaah\uff5e! Me too, me too!! I want to come and play with Clear-chan too!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Okay\u266a Everyone come!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t003b",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t001b",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Clear smiled and nodded."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "For real? Then we need to add Yukikaze as well and find some game that we can play with the five of us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We were surrounding the smiling Clear in a friendly atmosphere."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "\u30fcHowever, we couldn't just stay here like this."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se101"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Bam bam bam\u30fc!!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Scarecrow",
+        "text": "He\uff5ehehehehehe!!!"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm304",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc148b",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!? They're here\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "From outside of Clear's room we could hear banging on the door followed by some weird laughs."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It seemed that the group of scarecrows had followed us to this room."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "chr_t0088a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Everyone. Go."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Clear raised her blade."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...Clear?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Yukikaze's room at end of hall."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Use door there. Straight and right."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Clear pointed at the end of the room. There was a door, different from the one we had used to come in."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...Got it! The end of the hall down the corridor to the right."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Eh? Clear-chan, you're staying!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "I take care of scarecrows."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Clear looked at the door we entered from and prepared her blade."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The door was creaking furiously on the verge of being destroyed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "I-Is this okay, Fuma-chan!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No problem. Clear is strong enough to fight evenly against Yukikaze."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Ah... That's right."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "On top of that, that ghost butler seemed to be smitten with Clear."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was extremely unlikely that Clear would end up hurt."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Alright, we're going! We're counting on you, Clear!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Yes! Fuma. Let's play again\u266a"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se054"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

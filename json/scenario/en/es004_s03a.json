@@ -1,0 +1,604 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc113a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm506",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Not good, the sun's getting awfully low. Getting that chocolate might already be hopeless..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Looking for Saika, I had come all the way to a dirt road on the outskirts of the village."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Hey hey, you there, mister\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hmm?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Suddenly there was a tug on my sleeve, and when I turned around..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ri_t001a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "mi_t001a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_PRIORITY",
+        "info": [
+            "0",
+            "2"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim",
+        "text": "Long time no see, Chief!"
+    },
+    {
+        "type": "ACTOR_PRIORITY",
+        "info": [
+            "1",
+            "3"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Minasaki",
+        "text": "Thank you so much for the suppowt a few days ago!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Y-You two..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The bad memories came back to me. These damn critters, Lilim and Minasaki, had put me through hell before."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What are you doing in a place like this!?"
+    },
+    {
+        "type": "ACTOR_PRIORITY",
+        "info": [
+            "0",
+            "4"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim",
+        "text": "He\uff5ehe\uff5ehe\uff5e"
+    },
+    {
+        "type": "ACTOR_PRIORITY",
+        "info": [
+            "1",
+            "5"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Minasaki",
+        "text": "Since you're walking out here all alone on Valentine's Day or whatever, we suddenly thought if we called out to you we could sell you some chocolate at a high pwice."
+    },
+    {
+        "type": "ACTOR_PRIORITY",
+        "info": [
+            "0",
+            "6"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim",
+        "text": "Right! I mean you are all alone, aren't you, Chief?"
+    },
+    {
+        "type": "ACTOR_PRIORITY",
+        "info": [
+            "1",
+            "7"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Minasaki",
+        "text": "Ah, bulls-eye, yeah? Woo-hoo, woo-hoo, all alone! Lonely Fuma!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Shut up!! Mind your own business!!! More importantly, how did you know where I was?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Minasaki",
+        "text": "Have you fowgotten about my awesome ability?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Minasaki belonged to a demonic tribe called the \"Yatagarasu tribe\" or something like that, and had the power to detect the location of living beings she had seen at least once."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ah... right, now I remember. But still, you managed to get into Gosha, huh."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Minasaki",
+        "text": "We told them we belong to your unit and we were able to just come in though...?"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huh!? That means now I'm responsible for you!?"
+    },
+    {
+        "type": "ACTOR_PRIORITY",
+        "info": [
+            "0",
+            "8"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim",
+        "text": "Now, now, don't worry so much about the details."
+    },
+    {
+        "type": "ACTOR_PRIORITY",
+        "info": [
+            "1",
+            "9"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Minasaki",
+        "text": "Fowget about that, come on, buy this chocolate for 10,000 yen. If you do we'll go home."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Who would buy that! No matter how you look at it, that's more like 100 yen chocolate!"
+    },
+    {
+        "type": "ACTOR_PRIORITY",
+        "info": [
+            "0",
+            "10"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim",
+        "text": "Tsk, tsk, tsk. Have you never heard the concept of \"value added\"?"
+    },
+    {
+        "type": "ACTOR_PRIORITY",
+        "info": [
+            "1",
+            "11"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Minasaki",
+        "text": "You'll get chocolate fwom these two beautiful girls, so 10,000 yen is almost fwee, don't you think?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I don't even want it for free. Go home already."
+    },
+    {
+        "type": "ACTOR_PRIORITY",
+        "info": [
+            "0",
+            "12"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim",
+        "text": "Hngh! What did you say!? Quite arrogant coming from someone like you, Fuma!"
+    },
+    {
+        "type": "ACTOR_PRIORITY",
+        "info": [
+            "1",
+            "13"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Minasaki",
+        "text": "Wight, wight! Lonely Valentine Fuma!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You two... will you shut up already..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I felt something roiling deep in my gut. If they wouldn't go home, I guess I would just have to make them leave by force."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Perhaps sensing my anger, the two of them cowered in fright."
+    },
+    {
+        "type": "ACTOR_PRIORITY",
+        "info": [
+            "0",
+            "14"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim",
+        "text": "Oh? Did he get angry? Did Chief get angry?"
+    },
+    {
+        "type": "ACTOR_PRIORITY",
+        "info": [
+            "1",
+            "15"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Minasaki",
+        "text": "Kyaah\u266a So scawy!! But we still have our twump card!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "They said and noisily pulled out a big box."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Minasaki",
+        "text": "If you don't want our chocolate, it's time for a shake and bake!"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huh?"
+    },
+    {
+        "type": "ACTOR_PRIORITY",
+        "info": [
+            "0",
+            "16"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim",
+        "text": "This is a shake and bake! Hand over all your money!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You mean a shakedown!"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm404",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim & Minasaki",
+        "text": "Go! Devildomian Wasps!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m067a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m067a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m067a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_FRONT",
+        "info": [
+            "2"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ugh!? You were still keeping those!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Large wasps flew out of the box. Originally living in the Devildom, they were a ferocious species known as Devildomian Wasps."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ri_t001a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "mi_t001a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_PRIORITY",
+        "info": [
+            "0",
+            "2"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim",
+        "text": "Chief, you should be quite familiar with how terrifying Devildomian Wasps are."
+    },
+    {
+        "type": "ACTOR_PRIORITY",
+        "info": [
+            "1",
+            "3"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Minasaki",
+        "text": "If you'd wather give up and get shake and baked, now's the time!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You've gotta be kidding me!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

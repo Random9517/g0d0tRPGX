@@ -1,0 +1,951 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc034a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At the same time\u30fc"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm312",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001e",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Uuuhh... What the hell is this place... Why is there an abandoned school building in a place like this...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke was completely lost."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "That's weird... I'm sure I'm not going in the wrong direction..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "And where is everyone... Leaving me behind is just cruuuuuuel...!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "His face was completely soaked to the extent that it wasn't clear if it was from his tears, or his runny nose, or the rain."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001h",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Uuuh... Hebiko... Please notice, Hebiko... Please..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The only thing he could count on was Hebiko's radio."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If the electric waves he was sending out would reach Hebiko's radio, and if she would realize that the interference was his SOS\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001g",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "I think it should be reaching you... I've sent out so many radio waves..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Radio waves...? Hmm???"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke noticed something strange. Normally, radio waves bounced off of buildings and walls."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He could see a large building. But this scenery and the sensation of the \"bouncing radio waves\"... somehow didn't match."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Eh!? Eh!? This abandoned school building is supposed to be here but somehow it's not!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke sent out radio waves again."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "What, is that all fake!? Ehh, maybe it's really fake!??"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "This abandoned school building... and everything else I can see...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke closed his eyes and concentrated on the \"bouncing radio waves.\""
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "It's completely different from what it looks like... This place is like a cave!? Am I being shown an illusion...!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001h",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Uwaaahh!! I don't get it!! Hebikoooo!!! Fuuumaaa!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001h",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc035a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001h",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Ueeehheh!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Wh-What the hell is this place!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As soon as Shikanosuke shouted, the scenery around him changed completely."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "You're an interesting kid."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Eh!!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001h",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "si_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Good evening."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieeeeeee, it's a ghoooooost!!!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "si_t001d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "I'm not a ghost. I'm flesh and blood."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A woman was casually standing in front of him."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "F-F-Flesh and blood...?!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But even according to the \"bouncing radio waves\" she seemed to be a real person."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "So you're not a ghost, I'm relieved... but also kind of noooot, it's still scaaaaary!!!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Who are you, I am not taastyyyy!!!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "si_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Woman",
+        "text": "Such a rude kid. But you're so cute I want to eat you\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieeeee!! I definitely don't taste good!!! I'm constipated all the time!!!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "si_t001b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Woman",
+        "text": "Calm down a bit."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The woman smiled, caressed Shikanosuke's cheek, and whispered to him. Her voice was gentle, as if she were soothing a child."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "si_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Woman",
+        "text": "You're a Taimanin. With a somewhat unusual Ninja Art... You seem to have seen through my illusion? And you are using that power to guide your friends..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Ehh... ah... umm..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Shikanosuke-chaaaaan...!!!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "si_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At that moment, a voice called out to Shikanosuke."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "!!? Hebiko!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As Shikanosuke peered into the darkness, he could barely make out Hebiko and the others coming out of the darkness of the cave."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001h",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004d",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Hebikooo!! Fuuumaaa!!! Th-Th-This person was...!!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004c",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "This person...? But there's no one here?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When Shikanosuke turned around, the woman who should have been standing there had disappeared without a trace."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "...I knew it was a ghooooost!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke shouted and collapsed to the ground."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se010"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004c",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Ah, Shikanosuke-chan!? Are you alright!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Seems like he wasn't able to process all of this."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc035a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Uuuunnnggghhh..."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm312",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "sa_t002a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004b",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Oh, he's awake! Are you okay??"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "sa_t002c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "I'm glad you're safe! But what the hell happened?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001h",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "S-Sakura-sensei!! I-I thought it wasn't a ghost, but when I turned around it was a ghost after all!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What are you talking about..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "sa_t002e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "A ghost!? You saw one!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Apparently Sakura-sensei hadn't given up on ghosts yet."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "J-Just now, at the abandoned school building..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Shh! Be quiet...!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001h",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "sa_t002e",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004e",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko interrupted their conversation with her hand. Her sucker sensors seemed to have caught someone's presence."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(That's... This time it's a male \"Succubus\"?)"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m018a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m019a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "From the depths of the cave emerged two men in Western clothing from another era."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "They were dressed neatly, but the light in their eyes and their bat-like wings made it easy to tell that they were not human."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "They were probably the male versions of the Succubi we had seen earlier, Incubi who lured women to steal their life force."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Tsk, demons again."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Don't say that like you're disappointed... There must be a reason for demons to be gathering around here."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Right, that's what we need to find out."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sakura-sensei said and got into position."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Come on, Shikanosuke-chan, stand up!!! Let's fight!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieeee!!!"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m018a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m019a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

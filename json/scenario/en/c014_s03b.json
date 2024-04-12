@@ -1,0 +1,130 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc162a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Around that time\u30fc"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm609",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc048a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There were countless shadows stirring in the mountains on the outer edge of Gosha Village."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "They were fully armed soldiers."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ka_t001a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Soldier",
+        "text": "Captain, all units are in position."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ka_t004a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Captain",
+        "text": "Alriiight, let's get the party started!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A mysterious force had suddenly appeared from nowhere."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The assault on Gosha Village was about to begin."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

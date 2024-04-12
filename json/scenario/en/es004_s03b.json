@@ -1,0 +1,307 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc113a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm604",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ri_t001a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "mi_t001a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_PRIORITY",
+        "info": [
+            "0",
+            "2"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim",
+        "text": "Kyaaah\uff5e"
+    },
+    {
+        "type": "ACTOR_PRIORITY",
+        "info": [
+            "1",
+            "3"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Minasaki",
+        "text": "We're sowwy\uff5e"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After a light beating, the two of them quickly yielded, and the Devildomian Wasps calmed down as well."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You two never learn, do you? Stop messing with me already."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim & Minasaki",
+        "text": "Oookaaay..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The two critters surrendered amicably. I had doubts that they really understood though."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...By the way, you two, did you see a woman with long hair and mechanical legs somewhere?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "They had come from the direction of the forest, so there was a chance that they had met Saika. The two of them looked at each other."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Minasaki",
+        "text": "The lady with the hat maybe?"
+    },
+    {
+        "type": "ACTOR_PRIORITY",
+        "info": [
+            "0",
+            "4"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim",
+        "text": "But she didn't have long hair."
+    },
+    {
+        "type": "ACTOR_PRIORITY",
+        "info": [
+            "1",
+            "5"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Minasaki",
+        "text": "Then maybe the lady with the beauty mark?"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That's her! Where is she? You can tell with your power, right, Minasaki?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Minasaki",
+        "text": "Oopsie... All of a sudden I'm sleepy..."
+    },
+    {
+        "type": "ACTOR_PRIORITY",
+        "info": [
+            "0",
+            "6"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim",
+        "text": "Yeah... my memory is suddenly so..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Really, you two... Alright, alright! Here!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I rummaged through my pockets and handed the critters my meager allowance."
+    },
+    {
+        "type": "ACTOR_PRIORITY",
+        "info": [
+            "1",
+            "7"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Minasaki",
+        "text": "Hm, let's see... she's kinda that way."
+    },
+    {
+        "type": "ACTOR_PRIORITY",
+        "info": [
+            "0",
+            "8"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim",
+        "text": "Thank you! See you again, Chief!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I told you to stop calling me Chief!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc114a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm605",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The sun was already setting. I was walking briskly in the direction Minasaki had pointed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I wasn't sure if I could trust those two, but actually I had also had a feeling that Saika was in that direction."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(If I remember correctly, there's a mansion over there that my father used as a vacation home. It would be an ideal place for Saika to hide.)"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

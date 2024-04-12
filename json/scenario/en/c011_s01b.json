@@ -1,0 +1,1718 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc122b",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm406",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Pedestrians",
+        "text": "\"Woah!?\" \"What's with you!?\" \"Don't run through here!!\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sorry, we're in a hurry!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We ran, pushing our way through the heinous-looking crowd of pedestrians."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, the gap between us and the group of High Orcs ahead was not getting any smaller."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There were too many people around to run properly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Gah!! This isn't looking good..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "From ahead of the crowd, we could hear Shikanosuke's plaintive cries of \"Aieeee!\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke was already in a precarious situation in multiple ways."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t002f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "What do we do Fuma-chan? Hebiko could jump over the people ahead of us with my Octopus Jump and..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No... that wouldn't be good either."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t002d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Why not?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Running alongside me, Shizuru also nodded her head in agreement."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t002c",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "sz_t003f",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "He's right. We'll stand out too much if we use our Taimanin Jutsu here."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Ah, right. Heberybody's on an undercover mission after all."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In which case, all we could do was force our way through the crowd."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But would we be able to catch up to them like that...?"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Hey now!! You lot's evildoings end here!!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m075a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "High Orc Chief",
+        "text": "Ahn!? And who the hell are you!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huh?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Just then, we could hear a commotion rise up from ahead of the crowd in front of us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Somebody had blocked the way of the High Orc group that abducted Shikanosuke."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "chr_t0104a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm306",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Kidnapping people, what a bunch of villains you are!! Come on, let go of that kid right now!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "I will not tolerate any misdeeds or violence perpetrated against innocent citizens for as long as I live!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "High Orc",
+        "text": "What'd you sayyyyy!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Pedestrians",
+        "text": "(That's... the \"Storm Knight!!\") (It's a Nomad Devildom Knight...!!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "A Devildom Knight...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Thanks to the intruder's sudden arrival we had managed to catch up."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A crowd of people quickly surrounded the group of High Orcs, determined to get a good view..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "...and having caught up with them, we were able to blend in and go unnoticed."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "sz_t003f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "She's \"Storm Knight\" Lena. If I recall, she's a subordinate under the direct supervision of Devildom Knight Ingrid..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shizuru whispered softly, standing next to me."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!? Isn't Ingrid\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I inadvertently shuddered."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Devildom Knight Ingrid was a senior executive of Nomad and a renowned swordswoman within the underground world."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "chr_t0104a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But I found it hard to believe that such a cute-looking little girl could be the subordinate of such a big shot\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "High Orc",
+        "text": "Shut up you damn bitch!! Get in the way and I'll split you right down the middle!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It seemed he might've had the same thought as I did."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Faces twisted violently the High Orc group all jumped her at once."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Waah!? She's a goner if we don't..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "...No, you don't need to worry about her Hebiko-chan."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shizuru quietly held back Hebiko, who had reflexively tried to jump in."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And then, as we all watched on..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lena",
+        "text": "If you will not listen then I have no choice!! Behold, the Demon Sword: Sakura Blossom bestowed upon me by Lady Ingrid!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lena",
+        "text": "Bear witness to its power!! Haaaaaaa!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "CENTER",
+            "linear",
+            "200"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "ef004a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR27",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se006"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In one smooth continuous motion, the girl drew her blade and brought it down with a booming cry."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And then, enveloping the blade, a wind wreathed in magical power and a massive amount of flower petals danced into the air\u2015"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lena",
+        "text": "Special Attack!! Cherry Flurry!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "ef005a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se097"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Slashh!! Slash slash slashh\u2015!!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "HIgh Orc Chief",
+        "text": "!!? Groaaargh!!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "High Orcs",
+        "text": "Ngh!!! Gyaaaaaaaa!!!"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc122b",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ohh..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was just as Shizuru said."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "chr_t0104a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Despite her adorable appearance, she had defeated all those brawny High Orcs in a single stroke."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lena",
+        "text": "\u2015I will spare your lives. Leave that kid and get out of here!!"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se054"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "High Orc Chief",
+        "text": "D-Damn yoooou!! We'll remember this you damn whore!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Apparently, she had enough leeway to hold back from killing them."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The High Orcs retreated, bemoaning their unsightly defeat."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Letting them get away so easily... Quite lenient, but I guess this is a Devildom Knight.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The girl declared to the High Orcs that she \"won't tolerate misdeeds.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It had been an unimaginably honorable statement for a resident of the underworld."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm604",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "chr_t0104a",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "s_t001e",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Haiee, that was terrifying..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Together with the released Shikanosuke, the Devildom Knight Lena came over to us."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "chr_t0104a",
+            "RIGHT",
+            "CENTER",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lena",
+        "text": "Is this kid with you? Sorry about that, those guys were terrible."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "N-Not at all... In fact we should be the ones thanking you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lena",
+        "text": "Don't worry about it!! This district is part of Nomad's territory. Naturally, it's the role of the Devildom Knights to maintain order here!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Y-, yeah..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She puffed out her chest proudly. She had so much strength and yet in contrast to that some of her mannerisms were so child-like."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lena",
+        "text": "Anyway, what are you guys doing here in Yomihara? You don't look like the scoundrels who typically have business in this city..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ah, about that..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She was staring at us with a very curious look on her face."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Of course, it wouldn't be good if anyone from Nomad found out we were Taimanin."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And just as I was thinking about how to maintain our cover..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "chr_t0104a",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "sz_t003a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "Thank you, Ms. Devildom Knight. We've... come here to search for a friend who's gone missing."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Oh! Nice one, Shizuru!!!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She seemed to be used to these types of situations on her undercover missions."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With a composed face, Shizuru fabricated a fitting reason."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lena",
+        "text": "Wha, a friend!!? Hmm, that is quite the predicament... Hang in there!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "sz_t003b",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "Yes. Thank you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Well that was easy...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We had managed to fool her, but it would probably do this girl some good to be a bit more distrustful."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lena",
+        "text": "It happens a lot in this city. I understand how you would feel. ...And what about these three?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "U-Us...?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "sz_t003e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "Umm, these three...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Maybe it was because she hadn't thought that far, but Shizuru stumbled over her words a little."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "sz_t003b",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "Th-They're my friend's children... they may not look it but they're siblings."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Wait, Shizuru!? Isn't that a bit\u2015!?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Far-fetched...? Is what I had thought and panicked for a second, but..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lena",
+        "text": "Oh, you're siblings!!? I see... Sorry, I didn't even realize since you don't look alike at all!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lena",
+        "text": "Still, having a parent gone missing like that... it must be tough for you all. Stay strong you three!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "s_t001b",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t002b",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Y-Yes!! We'll do our best. Right, onii-chan!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Right, nii-san!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Y-Yeah...!! Let's do it!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It couldn't be helped anymore so we played the part of siblings as best we could."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Come on now, how is she falling for this...)"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "chr_t0104a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lena",
+        "text": "Good, good. Sibling bonds are the best!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lena",
+        "text": "Still... even then it'd be quite dangerous for feeble humans like yourselves to be walking around the city."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lena",
+        "text": "In that case, we, the knights of Nomad, could lend you a hand."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "chr_t0104a",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "sz_t003b",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "No, it's alright... but we appreciate your offer. We are going to meet up with someone who's going to help us right after this."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lena",
+        "text": "I see. If the need arises, feel free to rely on me!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lena",
+        "text": "Lady Ingrid always says that lending a hand to those in need is the duty of a Devildom Knight!! \u30fcFarewell!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se082"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Without suspecting us for a moment, the Devildom Knight Lena bounded off in good spirits."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "sz_t003a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Uuum... Are all Devildom Knights this stupid...?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t002e",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Don't say that Fuma-chan. She was such a nice person."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "And it's thanks to her we were saved. At least we didn't have to do anything too conspicuous."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "s_t001e",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Uwah... but guys, I was super scared...."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ah, that's right, Shikanosuke!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We had completely forgotten about him after the Devildom Knight girl's intense display."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As we consoled Shikanosuke so he wouldn't burst into tears, we followed Shizuru to the hideout."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm509",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "chrnc0101a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In a certain bar in a backstreet of Yomihara..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Wary of being followed, we had taken a series of detours and arrived here."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This place was the hideout Shizuru had prepared for the undercover mission this time."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "ts_m076a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "You're finally back? To think the owner would leave their customer to watch the place..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "An Oni woman was sitting there in the bar."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There were no signs of other customers or staff as she drank alone."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "ts_m076a",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "sz_t003d",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "Quite a thing to say after opening a bottle of bourbon without my permission."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Oh, you found that did you? Well, let's just say this one's on you."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "sz_t003e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "*Sigh*... You're as shameless as ever I see."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sighing exasperatedly, Shizuru turned to face us."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "sz_t003d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "I mentioned this hideout on our way here, correct?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yes... You've infiltrated Yomihara by posing as the owner of this bar, right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And she had also mentioned that she had left the mercenary she had hired for this mission to watch the bar."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "Right. And she's that mercenary I spoke about\u2015Yamata no Orochi, a warrior of the Oni tribe."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "I've had her help me during missions in Yomihara several times before."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "And, she's an Oni...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Um... the same tribe as the impish Goblins and the man-eating Ogres...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We were also quite familiar with Oni since we had fought against them several times during missions."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There are many Oni that come to the human world to earn income as mercenaries."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "sz_t003a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "That's right. But she's not like the other small fries around here. She's a high-ranking Oni with mythical powers."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Mythical...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It sounded so exaggerated that I couldn't help but steal a glance at Yamata no Orochi\u2015the female Oni warrior."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamata no Orochi",
+        "text": "Heheh..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yamata no Orochi twisted her lips into a bewitching smile as she drank alone."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She acted completely listless, and yet we could still feel an immeasurable and ominous power seeping out from her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(This woman really is on another level...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamata no Orochi",
+        "text": "Hm-hm, you flatter me Shizuru..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Maybe because she had noticed my gaze, but the female warrior showed a sickly sweet smile."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamata no Orochi",
+        "text": "No matter how strong you are, without money you're no different from an insect. ...I'm looking forward to the payment this time as well\u266a"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "sz_t003d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "Naturally. In return, we'll make sure you earn your keep."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamata no Orochi",
+        "text": "No need to tell me twice. ...So, since your friends are here I take it it's finally time to start this operation?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "Yes, we make for the surface tomorrow as planned. So try not to drink so much."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamata no Orochi",
+        "text": "Hm-hm, sorry no can do there. If I don't drink all of it, this delicious liquor will weep."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Laughing smugly, the female warrior began to gulp down the rest of her drink."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Exuding an air of decadence, she made you feel restless just looking at her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "...Understood. Knowing you, the booze will have left your system by morning anyway."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "sz_t003d",
+            "RIGHT",
+            "CENTER",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Shizuru... Can we really trust that mercenary?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I asked Shizuru, whispering in her ear."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yamata no Orochi did not seem to particularly care about us and was enjoying her drinks by herself at the counter."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "Of course we can't let our guard down. She's still a resident of dangerous Yomihara after all."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "But her combat strength is off the charts, and so far she's done what she's been paid to do... That's all I can say."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hm..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In a place like Yomihara's underground, sometimes making use of suspicious people was a necessary part of a mission."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "How you handled them could show your skills as an undercover operative."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "sz_t003a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "Alright, time is of the essence. I should explain to you about the upcoming mission."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Ah, been wondering about that. Heberybody only heard about going to Yomihara."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "sz_t003d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "Right. To put it simply, the mission this time is to escort a VIP from Yomihara to the surface."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "A VIP...? Is there someone that important in this city...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "A defector from the UFS has been hiding in Yomihara to escape his pursuers."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "He's a deserter from secret service agency \"G,\" who you also fought against on your way here."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...That organization with the cyborg woman."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hestia, the flame-wielding brute who was able to shoot nanomachines and control the blaze with her modified arms."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had heard that the secret service agency \"G\" that Hestia belonged to was a secret agency in possession of multiple cyborg soldiers."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In other words\u2015they were in search of the traitor from their own organization."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "sz_t003d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "Exactly. I'd like to give you the details after I've introduced you to him\u2015Is he upstairs?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shizuru turned to ask Yamata no Orochi who was sipping her drink at the counter."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamata no Orochi",
+        "text": "Ah? ...Yeah. If you mean that annoying cyborg bastard, he's been upstairs the whole time and keeping tight-lipped."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "I see. I'll go and call for him then, so you all wait here a moment\u2015"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "...That will not be necessary."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The stairs creaked and groaned as the worn-down body of a cyborg soldier came down into the bar."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "6",
+            "ts_m077a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "I'm sorry to have dragged you into this, Taimanin. \u2015I am the defector."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "6",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

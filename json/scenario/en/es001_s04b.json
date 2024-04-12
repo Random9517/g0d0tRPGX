@@ -1,0 +1,424 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm404",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc051a",
+            "IN",
+            "3000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t005e",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hmph! You guys are all talk. Go and cool your heads a little!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko grabbed the forcibly pacified ninja attackers with her octopus tentacles and tossed them into the pool."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "How about some ink for good measure."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Don't do that. The pool will get dirty and we'll get stuck having to clean it."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t005a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Ah, that's right. Hebiko doesn't want to have to do that just for those birdbrains."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The birdbrains in question had gotten sopping wet and left in a hurry."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t005a",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001e",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_PRIORITY",
+        "info": [
+            "2",
+            "10"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Uwuwuh, why did I have to go through all of this because of those morons? I'm not even a Fuma..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t005e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Shikanosuke-chan, you're terrible. He's your friend, right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Yeah, but... I have a feeling that something like this is going to keep happening, and somehow I'm going to get caught up in it every time, you know?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Who knows."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I sympathized with Shikanosuke, who was prone to getting involved in trouble against his will, but brushed him off nonchalantly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hey, you, spectator over there. Would you get out here already."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm208",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001e",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t005e",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Oh, you saw me?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze appeared from the shadows of the locker room and cheekily stuck out her tongue."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Oh, Yukikaze-chan!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "You were watching us from over there?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "I mean, I have nothing to do with the Fuma Clan quarrels."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Neither do I!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Right right, you've got it rough, Shikanosuke. Hebiko-chan and Fuma too... You look like you're going through a lot."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It's because of what happened. I can't help it."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "They were asking a bunch of stuff, and I was wondering about that too."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "About what?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "What are you going to do as the head of the Fuma Clan? You sidestepped it earlier."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I didn't really sidestep it. Honestly, I'm just a little lost on some things."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Is that so?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Because I still don't know anything."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "As I told them, first we're going to capture Gaiza and find out what he's up to. Then we'll take it from there."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It's not my way to decide if things should go this way or that when I hardly have any information."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Hmmm... I guess that's fine then."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Surprisingly, Yukikaze nodded with a convinced look."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Judging from Yukikaze's personality, I thought she'd say I was being wishy-washy or something."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "I'm the same. There's something I absolutely want to do, but I'm not quite sure what the best way to do it is yet..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze cast her eyes downward as she spoke."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Something she absolutely wants to do...?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was curious, but didn't dare to ask."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was sure she wouldn't talk to me about it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We had only known each other for a short time, but I could tell that much from her expression. Hebiko and Shikanosuke also seemed to be able to tell."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Alright, let's go grab something to eat! You only used your head, Fuma, but you're still hungry, right? I'm starving too."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze smiled cheerfully."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001b",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

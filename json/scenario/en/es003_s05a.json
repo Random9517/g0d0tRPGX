@@ -1,0 +1,676 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc106a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm509",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Tokyo Kingdom, warehouse district."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi-san and I had broken through the UFS squad surrounding us and found ourselves in a part of town lined with abandoned buildings."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0084a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "So the real lucky boar is here..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m061a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...No doubt about it. I can clearly feel his presence coming from inside."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Before our eyes was a desolate building that looked like it had been abandoned quite a long time ago."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And Kiyomaro, the auspicious beast we'd been chasing, seemed to be lurking in there."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "It's... 11:30 PM. I guess we just barely made it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah... But we have to defeat him by today, right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In that case, I couldn't relax just yet."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Yes. Let's both be very careful."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "The divine giant boar, Kiyomaro\u30fc\nWe don't even know how great his power is either."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We nodded to each other nervously and stepped into the abandoned building."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc015a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Tracking the presence that only I could detect, we proceeded deeper into the abandoned building."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And then\u30fc\nwe heard the sound of a man and a woman arguing from deep within the darkness."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Man",
+        "text": "Th-That's not true~! I wasn't thinking of anything dirty at all\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Man",
+        "text": "I just want to chat and get to a little friendlier with you, you know\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Woman",
+        "text": "Chat!? And besides, I told you already, I need to catch the last train!! I'm going home!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Man",
+        "text": "Ah! O-Oh no... Don't say you're going home~"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Woman",
+        "text": "Enough! Stop touching me, pervert! I should never have come here with a man like you who's just trying to get lucky!"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se080"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "\u30fc*Smack!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Following the sound of a loud slap, a woman in a flashy outfit walked out, right past our hiding spot."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0084a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m061a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi & Me",
+        "text": "\"Asagi: (Huh...?)\nMe: (Wha...?)\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "...What was that?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi-san and I looked at each other."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Why had we heard such an idiotic conversation coming from where the lucky boar was hiding?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And\u30fc\nmaybe it was because I had been so stunned by what we had just witnessed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "My eyes met those of the man she had left behind."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Ah\u30fc"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm610",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "\u30fcThe man looked exactly like me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Exactly like Fuma Kotaro, my human self."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But right now, the real Kotaro (me), had taken the form of a giant boar."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Which meant the \"Fuma Kotaro\" in front of me was none other than\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kotaro(?)",
+        "text": "Hehehe, a giant boar... You must be the human I summoned as my \"scapegoat.\" You've done well to make it this far..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m061a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "H-Hey, wait a second!? You... Why are you talking like some kind of last boss as if nothing happened!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I instinctively retorted with all my might."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kotaro(?)",
+        "text": "What is it, human...? Don't you know it's rude to suddenly interrupt when other people are talking?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I mean, rude isn't how I'd put it...? Didn't you just get dumped and slapped in the face by that woman you picked up?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kotaro(?)",
+        "text": "No, that's..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "And your tone of voice changed too."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kotaro(?)",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Kotaro doppelganger fell silent."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...Am I wrong?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kotaro(?)",
+        "text": "Hehehe... And what of it, human?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That's what I'd like to ask you! What is a divine being doing picking up girls? And you got dumped to boot."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kotaro(?)",
+        "text": "Even divine beings want to get hot and heavy with the ladies... Hehehe... A mere mortal like you would never understand this feeling."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kotaro(?)",
+        "text": "And she just went home because she had to catch the last train, I wasn't dumped or anything."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "R-Right... If that's what you'd like to believe..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Perhaps unable to stand the sheer nonsense of our conversation, Asagi-san jumped in."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m061a",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0084a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Um... Do you mind if I just kill already? We're almost out of time."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ah, right! Prepare yourself! You're gonna give me back my human body right now!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had almost forgotten. The deadline was just around the corner."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kotaro(?)",
+        "text": "Hehehe... So you're going to fight me? This will be interesting."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kotaro(?)",
+        "text": "The ceremony will be over soon. I'll take on you foolish humans in my true form..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Then\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!? What...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A pale light enveloped me and my doppelganger\u30fc"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1500"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ah!? I-I turned back!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "My form was no longer that of a boar."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When the light faded, I was back in my familiar body."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And, when I lifted my face toward a foreboding presence\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m062a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Whoa!? That's a big-ass boar!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kiyomaro",
+        "text": "Hehehe..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Standing there was Kiyomaro, the lucky boar, in its true form\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The divine boar was so enormous that I had to crane my neck to look up at it."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kiyomaro",
+        "text": "This is my true form... Foolish humans, I'll crush you in an instant... Ah, ow!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kiyomaro",
+        "text": "Oof, I hit my head on the ceiling..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What the hell are you doing...?"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm320",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The ceiling of the building was not very high."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It seemed that he was so massive that his head and back scraped against the it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Behavior and attitude aside... He does seem to be powerful. Don't let your guard down!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Of course!! I'll knock him right out and add the meat to our New Year's ozoni!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi-san and I got into position. Our battle with Kiyomaro, the divine giant boar, had begun."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

@@ -1,0 +1,3641 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc054a",
+            "IN",
+            "3000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "One afternoon."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi-sensei had called me to the headmistress's office."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm506",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc006a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR01",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "a_t001c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Igawa Asagi",
+        "text": "Fuma-kun, the UFS contacted us regarding a joint operation."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Right from the start I had a bad feeling."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Is that masked woman involved again?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Apparently not this time. You know those combat drones developed by the UFS, right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yes, since I've fought against them a few times."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I nodded."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In fact, I knew them not only from fighting against them, but also from the \"part-time job\" that I had done with Sakura."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Of course, I had kept that a secret from Asagi-sensei."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "So, what is this joint operation?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Apparently a developer ran away from a UFS research facility and took all the data with him."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Moreover, he is now trying to sell that data to the mafia in Tokyo Kingdom."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "So the UFS asked us to help them find the researcher and to get back the data. ...That's the gist of it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi-sensei explained up to that point and waited for my reaction."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "a_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She had a cynical smile on the edge of her lips."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Why is the UFS deliberately trying to involve Taimanin in dealing with their scandal? That's too suspicious."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Yes, I'm sure there's something more to it. But we will intentionally act as though we are going along with it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "That's why I chose you for this mission, since you are good at assessing situations. Moreover, there is also the matter from before."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "The matter from before?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Your \"part-time job.\" Did you think I hadn't noticed?"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ugh..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "So she had known all about it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was just as expected from Asagi-sensei, but I was still speechless. I suppose there was nothing to do but accept the mission."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Th-The developer who ran away, is he a normal human?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was a strange question, but among UFS developers, there were more than a few brawny cyborgs."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "a_t001c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "According to the data that the UFS sent to us... yes, he is. Here, look at this."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Watanabe Suzuki...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In the documents that Asagi-sensei handed me was a picture of a man of Japanese descent, with an expressionless face that had no distinguishing features. He also had a strange name, with both parts appearing to be surnames."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "I, too, thought that name was weird... but there's one more matter of concern."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Look at this document. It's the profile of the person who will join the operation with the Taimanin."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When I saw the picture in the additional document she handed over, I was at a loss for words."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...! This woman!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "You seem to know her already."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "How could I not know her? She's..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "a_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "so_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sonia the Homicidal Maniac."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "One of the worst mass murderers the world had ever seen."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She had killed more than 100 people, and those were only her known victims."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She had killed people regardless of their gender or age, even babies, and her atrocities were said to have sown fear throughout the UFS."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Since the culprit had killed not only humans, but also demons, it had been imagined that it was a powerful demon or someone with superhuman power."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But at the end of a major investigation by the entire UFS, the individual arrested had not been a demon or someone with superhuman power, but a normal human."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And she had even been working as a teacher."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The stage for her final act of violence had been the school where she worked. It was broadcasted to the whole UFS over the internet. By her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "During class, she had started by suddenly decapitating a female student who had asked a question, and then she proceeded to kill students and teachers one after another."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She slaughtered several police officers who had rushed in, and she took a few bullets herself, but didn't die despite that."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Fascinated viewers from all over the world had breathlessly watched the whole story until she was arrested, completely covered in blood. I also had been one of those viewers."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After the arrest, an exceptionally quick trial had been held and the decision had been, of course, the death penalty."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "so_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc006a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR26",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "If I'm not mistaken, it was to be carried out the same day\u30fc\nShouldn't she have been executed?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "a_t001c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "It seems that was all for show."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "In fact, her talent for murder was highly valued, and she secretly became a pet of the UFS. Her code name is No.16, Sonia the Homicidal Maniac."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "So this is a mission that undoubtedly has some kind of ulterior motive behind it, and on top of that you're putting me with this psychopathic murderer."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "I considered that, and so I arranged for someone to take a support role."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Support role?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "a_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Suddenly, a single flower petal floated past, right in front of me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hm?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Why is there a flower...?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After being distracted for a moment, I could feel somebody standing behind me."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "sz_t001b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kosaka Shizuru",
+        "text": "Looks like we'll be teaming up again, Fuma-kun."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Shizuru!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "sz_t001f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "Hey, didn't I tell you to call me Kosaka-sensei at school?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The one who had appeared was Kosaka Shizuru."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She was an English teacher at Gosha Academy and also a highly-skilled Taimanin called \"Shizuru the Flower.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She was a devious person who had expertly used me as a decoy when I had previously been dragged around by the strange demons Lilim and Minasaki."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It had been my fault as well though, because I was skipping English class all the time and therefore hadn't known the face of Kosaka-\"sensei.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Feeling bitter about that, I still wasn't attending English class even now."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shizuru looked at my vague expression and smiled amusedly."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "sz_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "Ehehe, you can call me Shizuru this time as well though. I don't want you to be weirdly on edge just because I'm a teacher at Gosha Academy."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "Just treat me as one of your subordinates from beginning to end. What you personally want to call me is up to you, hehe."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Asagi-sensei... I'm starting to get a bad feeling about this."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "sz_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "a_t001c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Maybe that's just what we need. I'll leave the selection of the other personnel to you. Well then, thanks in advance."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi-sensei patted me on the shoulder."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "a_t001c",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR26",
+            "OUT",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "black",
+            "NONE"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc001a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR26",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We entered Tokyo Kingdom right away."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had come to this abandoned city floating in Tokyo Bay just a while ago with Sakura during our \"part-time job.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This time it was a proper Taimanin mission, but there was also a decidedly-not-proper bad apple with us."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm203",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc008a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR26",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "so_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "Hehehe, Tokyo Kingdom. The feeling of this city... I don't hate it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "All around, the smell of blood and death is floating in the air. It gives me a rush."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sonia the Homicidal Maniac stood in the middle of the downtown area, looking truly happy."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We had already finished our introductions."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I knew her appearance from that tragic video and the documents, but the actual person was cloaked in an air of danger that exceeded my imagination."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "To use an analogy, she was like an unsheathed blade constantly dripping with blood. Honestly, just standing next to her sent a chill down my spine."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Until her crimes had come to light, she had been quietly working as a teacher, but now not even a trace of that could be felt."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "so_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "s_t001e",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Uehara Shikanosuke",
+        "text": "Ughhh, why do we have to be with someone like her... I wish I could've stayed home too..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "This always happens when I get involved with you, Fuma... ugghhh..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke was the farthest from Sonia, listing off his complaints."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "s_t001e",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "By \"stayed home\" he was talking about Hebiko."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Due to the fact that the wounds she had suffered at Chaos Arena weren't fully healed yet, she wasn't participating in the mission this time."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...So, Sonia. You and the UFS are the lead on this mission. Tell us your plans."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "so_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The mission was called a joint operation, but right now only Sonia was with us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Other UFS members were already undercover somewhere in the city."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "Plans? There are none."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sonia scoffed as if we were fools."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "All I was told from above was that I was to work with you guys."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "Normally I work on my own and do things my way, so I would usually refuse to work together with someone..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "But you Taimanin seemed a bit more interesting compared to the UFS cowards."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "So, what do you intend to do, Captain? For the record, I hate mucking about."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "If you go on and on about annoying shit, you'll end up as dead bodies even before that runaway researcher does."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The clack of Sonia's footsteps rang out as she approached."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Surely, if she wanted to, she was close enough to slit my throat."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "H-Hey, what are we going to do?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "This psychopathic killer doesn't seem to have the slightest interest in listening to what we say. I don't want to get killed by someone like her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke had already been far away, and now he spoke from even farther away."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(He's too much of a coward... Not like this was the start of that though.)"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "so_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "sz_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "What do we do, Captain?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Meanwhile, Shizuru was smiling calmly as always."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Unsurprisingly, she didn't seem uneasy even in front of Sonia, but this time she was here as my subordinate and was waiting for my orders."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Umm... Sonia, you don't know how the UFS will operate, right?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "sz_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "so_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "Not interested."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Got it."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "so_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I gathered my thoughts."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "We don't know the whereabouts of the runaway developer. But searching for a single person in this city would take too much time and effort."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "so_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "And? That doesn't sound like fun at all."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sonia creaked her iron claws as if to say she might use them. It was a nasty sound."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I obtained one piece of information. A large black market auction will be held in the city soon."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "If the researcher plans to sell the data to the mafia, there's a good chance he'll make an appearance there."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "How about we start by confirming when and where this auction will be held and then take part in it?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "Hmph... A black market auction, huh?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sonia still looked bored."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I gulped, and then delivered the clincher I had prepared."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It's a black market auction held by an underground organization. Among the participants, there will be loads of villains whose deaths won't bother anyone, and they might even be better off dead."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Until we secure the researcher, we don't have to worry about collateral damage due to unforeseen circumstances."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "Hmm...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "Hehe, from the first moment I haven't cared about how many people die as collateral damage. But whatever. I'll follow your plan."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sonia snapped her iron claws shut to indicate her acknowledgement."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "so_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Thank you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was relieved by her response."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "sz_t001d",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "Then let's split into two groups and gather information. The teams will be\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "Whenever I see a beautiful woman or a cute kid, I just want to chop them up."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "s_t001h",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "I-I'm terribly shy around strangers! Right?! Are you listening, Fuma?!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sonia's remark, which didn't sound like a joke at all, and Shikanosuke's remark, which represented the height of cowardice, left me feeling fed up."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sonia with me. Shizuru with Shikanosuke."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "s_t001b",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "sz_t001a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Yaaay! R-Roger!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "Ehehe, roger."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And with that we split into two teams."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Being alone with the Homicidal Maniac... I wasn't happy at all."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "For now, let's go and see an information broker in the city. What do you think, Sonia?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "so_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "I told you, I hate slow progress. ...Over there looks good."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sonia looked around and then walked straight toward a building that looked like a yakuza-run office."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What are you planning to do?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "I'm going to ask someone who knows."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Is she planning to pretend to be a prostitute that was called to the office or something and extract information?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It appeared that I, having thought such a thing, wasn't taking a killer's thought process seriously."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "so_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc012a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR26",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m039a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yakuza Gangster",
+        "text": "Huh? Who the hell are you!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m039a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "so_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "A killer."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sonia suddenly cut down the gangster that had come out."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I didn't even have time to stop her."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yakuza Gangster",
+        "text": "What!? Hey you!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The gangsters inside were in an uproar, and each grabbed a weapon and tried to fight back."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "Hurry up and come here. I'm gonna kill you all\u266a"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR37",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Without hesitation, Sonia rushed into the office and began killing these gangsters she didn't even know one by one."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yakuza Gangster",
+        "text": "Gyaaaaaaaaaa!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yakuza Gangster",
+        "text": "Guaaaaah!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "Ahahahaha! Good, let me hear more! Let me hear your death cries\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Amidst the bullets flying every which way and blood spattering about, Sonia was swinging her blades of death about like she was truly singing and dancing."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Each and every time, the screams of gangsters came in torrents. One, and then another, they continued to be slain as glorious tribute."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yakuza Gangster",
+        "text": "Wh-Who is this bitch\u30fcGuaaaaaahh!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "Ahh, so good! The smell of blood and the sensation of flesh, can't get enough, I'm really feeling it\u266a Let me feel it even more\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Showered by the gangsters' spurting blood, Sonia's face was in ecstasy."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She wasn't merely excited, she was clearly awash in sexual arousal."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yakuza Gangster",
+        "text": "Eeeek! P-Please, wait!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "Ehehe, no~can~do\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Slash!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yakuza Gangster",
+        "text": "Gyaaaahh!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Even though the yakuza must have been used to scenes of fighting, they were terrified by the madness of a true bloodthirsty killer."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "so_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "Aaahnn, what a nice voice. I'm about to come\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...So this is her true nature."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I, too, was horrified to personally lay eyes on this brutal killer."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "Oh, now there's only one guy left. How unfortunate."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yakuza Leader",
+        "text": "B-Bastard, which group's agent are you?! Y-You pull a stunt like this on our turf and think you'll get away\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "Hmhmm\u266a"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yakuza Leader",
+        "text": "Gyaaaaahh!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sonia casually sliced off the arms of the burly man\u30fcmost likely the leader of this group\u30fcwho had tried to put on a brave face at the end."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "I'm not in any group. I just came to ask you a little something."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "I heard that there will be a black market auction in this city soon. Tell me the time and place."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yakuza Leader",
+        "text": "Ugghh... a b-black market auction...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "If you don't know then that's fine. I'll just kill you and ask somebody else."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "If you know then say it quickly. Five, four, three, two, one\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yakuza Leader",
+        "text": "I-It's tomorrow night! The location is the Order of Oryu's secondary meeting place!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "Thank you\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sonia beheaded the yakuza leader with a smile."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Blood spurted to the ceiling and the boss's head fell to the floor with a thud, wearing a slightly relieved expression, as if he had thought he would be saved."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That was a hell of a way to do it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In the blink of an eye, the office had become a mountain of corpses. Even if they were yakuza, it was still not a good feeling."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "Guys like them, aren't they better off dead?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You looked like you were having fun killing them, though."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "Of course I did. I can't help but enjoy it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "Killing is worth more to me than anything else. It's the greatest pleasure, even beyond sex."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I could tell you were getting aroused..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I sighed and sympathized with the evildoers who had become the victims of a brutal killer's pleasure."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "Yeah, and I want to thank you for one thing."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "For what?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "You didn't disturb my killing spree. And you didn't try to help me. Thanks to that, I could enjoy the killing on my own."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "If you had done something unnecessary, I would have killed you right off the bat, ehehe."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That's what I thought."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In fact, I just hadn't been able to move at all."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "so_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Anyway, with that we had gotten the information regarding the black market auction."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR26",
+            "OUT",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "black",
+            "NONE"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc092a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR26",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The next night."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We had infiltrated the black market auction that was being held at the Order of Oryu's secondary meeting place."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm206",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yakuza, mafiosos, hitmen, and brokers. Villains were crowding the place, each with a peculiar trait or two."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "so_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "So you're a freelance hitman and I'm your lover. Quite a delightful premise."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sonia said happily, her arms linked with mine."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "But... wouldn't the opposite have been better? Me as the hitman and you as the lover."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Your face is known too well. Well, some guys seem to have already recognized you though."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "I don't care whether they recognize me or not. Because I'm just gonna kill them if they stand in our way."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Just in case, I'll say it now, but hold off on the killing until the target shows up."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "I know. But I have no interest in doing my duty for the UFS."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "I'm just really looking forward to the moment when I can slice up that traitor's body little by little. It won't bother me having to wait a little bit for that, ehehe."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Slice him up... Wasn't this mission about securing the researcher?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "That's why I'm gonna slice him up nice and sloooowly. So he doesn't die until we get back to the UFS."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...I'm starting to feel bad for this guy."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "so_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "While continuing to respond to Sonia, I looked around the venue and was able to see Shizuru and Shikanosuke."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "s_t001a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "sz_t001a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But we merely exchanged knowing glances and pretended not to know each other."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "s_t001a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "sz_t001a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "For the time being, it was a good idea to do our best to not stand out."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "so_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "Ehehe, looks like it's starting\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sonia's eyes gleamed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She looked happy... Not because the auction was starting, but because the opportunity to kill was approaching."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In any case, the black market auction started."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The items getting auctioned off one after the other were all contraband that could never be shown to the general public."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was reported that a new model of UFS combat drone would also be on display here."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And it would even come with the developer included as a package deal. It seemed that it was the featured item of today's auction."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(There's a high likelihood that it's our target... And even if that's not the case, I'm sure he'll show up.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, the featured item just wasn't coming out at all."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "Tch, how frustrating."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When I noticed the time, it had been two hours since the start. Sonia's mood was just getting worse and worse."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hey, be a little bit more patient."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If she started killing random people just to test her weapon, our plan would be ruined."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "That's not it. I've had a bad feeling since earlier."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "A bad feeling?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "I'd say, It feels like the back of my neck is tingling. I felt the same thing when I stood in front of the electric chair and the UFS suddenly offered me a deal."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah... you're right."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "so_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In fact I, too, had had a bad feeling since a while back."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The feeling as if we had fallen into some terrible trap."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But I mean, I had been working under the assumption that the UFS was plotting something from the very beginning..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With no regard for our doubts, the auctioneer called out loudly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Auctioneer",
+        "text": "Now then, it is finally time for tonight's main item! A new model of combat drone leaked from the UFS. And can you believe it, the offer comes with the developer included!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Has he arrived...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "An individual who looked like our target appeared on the stage."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And with him a large steel chest, several meters tall and wide."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "so_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Is the drone in that chest?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "Hmhmm, there he is\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(It's good that he showed up, but is he really the target, Watanabe Suzuki himself?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With the stage being far away, and his face having no distinguishing features, there was no way I could be certain."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hey, are you sure that's him? He's too far away, so I can't really tell."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "Why don't we just get a closer look."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sonia said and approached the stage without hesitation."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "H-Hey, wait!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As expected, the guards tried to stop her, but also as expected, Sonia mowed them down."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Blood gracefully spattered about the auction hall."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "Hehehe...\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I held my head in my hands."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Damn it, did I make her wait too much?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was another unforeseen situation."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But after getting close enough that she could check the target's face, Sonia said something even more unforeseen."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "That's not him... this is bad, huh!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What!? What do you mean...!!?"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm313",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "so_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "6",
+            "ts_m040a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "7",
+            "ts_m040a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "ts_m040a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At that moment, the steel chest suddenly opened up."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Inside it was... not a drone, but fully-armed UFS soldiers."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "\u30fc!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And they suddenly opened fire from the stage."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The raining bullets were, of course, striking the villains, but they were also coming the way of Sonia, who was supposedly an ally."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Guests",
+        "text": "\u25aa Ughh!?\n\u25aa Gyaahh!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The guys close to the stage were instantly flung away like rags."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "Ahhnn!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sonia had jumped back at the moment the chest had opened, but had still seemingly taken several bullets, and her body was thrown back through the air with a jolt."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had to hand it to her for not getting turned into swiss cheese from that distance."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sonia! Damn it!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I quickly knocked over a table for cover from the bullets, and pulled Sonia behind it as well, since she had luckily fallen down nearby."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "Mmmmhh!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A massacre had begun all around us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The villains were armed as well, but they were no match for an official UFS squad."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The same was true for us. We couldn't fight back in this situation."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "7",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "6",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Seeing as we've been surprise-attacked, we need to withdraw from here immediately and regroup...!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "Ninja Art: Scattering Sakura!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "sz_t005a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Suddenly, the surroundings were covered with a flurry of sakura petals."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Shizuru!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Good. She had blocked us from view."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "sz_t005a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sonia! We're leaving!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I lifted her body."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "Ahhnn, what are you doing!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Shut up!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Amidst the echoing gunfire and screams of agony, we took cover in the sakura, beautiful in how out-of-place they were, and fled."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR26",
+            "OUT",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "black",
+            "NONE"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "..."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc038b",
+            "NONE"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR26",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A short time later, we were hiding in a hotel on the outskirts of the city."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There were few decent human beings in Tokyo Kingdom, but there were plenty of places like this."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm505",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, we had gotten completely separated from Shizuru and Shikanosuke, and I had lost my communication device."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "so_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "Ug... ugh... aah..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sonia, whom I had laid on the bed, let out a low moan."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Does it hurt? Let me see the wound."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "What? No need to do that."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sonia looked at me with an annoyed face."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She insisted that she had only been grazed, but I was sure that she had been shot."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But surprisingly, she just pressed down on the wound with her hand, and even without doing any particular treatment, she didn't seem to be in much pain."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It's not like we have anything else to do."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "You want to see my wound just to kill time? Ehehe, you've got good taste."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Shut up. Just show me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "Aahhnnn..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sonia let out a strangely seductive voice and showed me her wound."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was speechless."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It wasn't just a scratch. It was a pretty deep wound."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Flesh was gouged out, thick blood vessels were torn open, and bone was shattered."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If she were normal, it wouldn't have been strange for her to be dead. Or at least passed out from the pain."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But Sonia's face was completely calm, and her wound was wriggling eerily and recovering at an incredible pace."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This was not at all the body of a human."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "Did you think I was a just a human being? The UFS guys messed around with my body so much that it's gotten to the same level as a mid-ranking demon."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It does seem like it..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "But it's been a long time since I was tormented like this\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "Killing someone is my favorite thing, but I don't hate ending up like this myself."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "Look, my flesh is gouged this deep and bright red blood is gushing out... Ah, I can really feel it... I can't get enough."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sonia was entranced by her own wounded body."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was the same face as when she was killing."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You really are insane."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was appalled, but now that I had seen it I had no choice. I decided to patch her up."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Using the bed sheets, I made an improvised bandage and wrapped it around her wound."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "Ehehe, because you're such a busybody."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I've got ointments and painkillers just in case, but you don't need them, right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "Yeah, no need. Aahhnn..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Don't make such a weird voice."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "Aahhhnn, that's good."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "Tighten it a bit there, enough so the blood seeps out slowly. Make it hurt even more..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Don't make me participate in your perverse hobby."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sonia was enjoying the pain, but it was definitely a serious injury. She probably couldn't move properly yet."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The proof of that was her letting me administer treatment as I pleased."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Who the hell were those UFS guys earlier? That wasn't part of the plan. And they even shot you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "Yeah. They definitely tried to kill me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Don't say that so casually. What's going on?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sonia chuckled at my question and started to explain."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "The UFS is not a monolith. It looks like there was a unit working separately from us. It might even be that they were the main team for this mission."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "So you think they tried to kill the runaway researcher and you, a black sheep within the UFS, at the same time?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "I'm liked by no one. Many have lost friends and lovers in the wake of my destruction."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "It's not like I care about that though."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sonia shrugged her shoulders slightly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You reap what you sow. But even so, why did the UFS get us Taimanin involved?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "I don't know. Weren't they just thinking I'd ignore my mission and we'd kill each other?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "But since we wouldn't kill each other no matter how much time passed, they got fed up and decided to take action themselves?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "Most likely. That sounds like something they'd think up."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Damn it. So we were just used as pawns against you...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I basically spit out my words."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had thought there were some unknown circumstances, but they had been hopeless circumstances."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "Ehehe, you should've just left me and run away."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sonia peered into my eyes with amusement."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You're a perverted killer, but right now you're on our side. It's not like I can just leave one of my people behind and run away."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "You're a strange guy."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sonia said while half laughing."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "Okay then, I'll tell you something nice."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Something nice?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "I have a transmitter implanted in my body. Even if we hide, they'll be coming for us soon. You'd better run away quickly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Why didn't you tell me earlier?!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That was enough to make even me raise my voice."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "I want to kill them all. That's why I'm waiting here, ehehe."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sonia's eyes sparkled."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ugh, where is this transmitter or whatever?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "Here. But I can't take it out by myself. They implanted that suggestion in my mind."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sonia pointed amusedly in the area of her right thigh."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Keep still!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I pulled out my dagger without hesitation."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "Eh? Wait, what?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Then I made a deep cut into the right thigh of the puzzled-looking Sonia."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Her body jerked and stiffened."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "Kaaah... haahh... aahh... aaah..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, it was a sensual voice that came out of her mouth. She seemed even more ecstatic than before."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Don't make weird sounds!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "I mean... I didn't expect... mmhhmm... that you... aahhn... would cut me... like this... aahhh... amaaazing..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "There was no other way! Where's the transmitter?!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Her body, which had been modified to the level of a mid-ranking demon, tried to push back the blade as if it had a will of its own."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In order to pull out the buried transmitter, I had to gouge out her flesh with all my might."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "Hyaah... mmaahh... good... it's... it's around there... uuuhhh... Gouge it out... spin that dagger... and pull it out..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Found it! Here it is!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Shunk!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "Aaaahhnn!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Her sensual voice had almost made me feel weird as well, but I had finally been able to gouge out the transmitter."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I smashed it immediately and wrapped a bandage around the brand new wound on her thigh."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Let's get out of here right now!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "You really have strange tastes, ehehe."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I lifted Sonia up again and this time she clung to me, strangely happy."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "so_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc016a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR26",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, it seemed that we had been too late. They had already figured out our location long ago."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm402",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "6",
+            "ts_m040a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "7",
+            "ts_m040a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "ts_m040a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Barely after we had left the hotel, UFS soldiers appeared."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "Oh, what a shame. Looks like we didn't make it out in time."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sonia said in my arms. She didn't sound like she thought it was a shame at all though."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There were more than ten enemies."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was a number I couldn't handle on my own. And Sonia, my last ray of hope, was still recovering."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Shit, it ends here, huh."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "But you still don't intend to leave me and run away, right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I wish I could! But that goes against my principles!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "In that case, put me down. I'd rather die fighting. I'll take as many of them with me as I can by myself."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "7",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "6",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sonia seemed to at least be able to walk, but she wouldn't listen to me anyway if I told her to run. I lowered her to the ground."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "so_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "Come on guys, don't be shy. I'm going to savor this final pleasure\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Even in the face of certain death, there was a bewitching smile on her face."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And while I knew her as a serial killer, I still thought she was beautiful when I looked at her from the side."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "so_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And just before our deadly battle was about to begin\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "sz_t005b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "Ninja Art: Petal Frenzy!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A curtain of sakura petals spread through the night sky and became a poisonous flower storm that struck the UFS soldiers."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "Just in the nick of time, huh."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Shizuru-sensei!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "Oh, you finally called me \"sensei.\""
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "sz_t005b",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "s_t002f",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Fuma, we came to save you!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Shikanosuke! I'm saved!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was a perfectly timed rescue."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The UFS soldiers were thrown into disarray by the surprise attack from the two of them."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sonia! Let's drive them back!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "...Yeah. Let's kill them, I guess."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Now that we had escaped the crisis, Sonia nodded her head almost as if bored."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "sz_t005b",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "s_t002f",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR26",
+            "OUT",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "black",
+            "NONE"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "..."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc016a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR26",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Phew, that was close."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After we had somehow repelled the UFS soldiers, I let out a sigh of relief."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "sz_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "It looks like the UFS set us up."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shizuru, who had demonstrated her \"Shizuru the Flower\" specialties, also let out a sigh."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yes. It seems the mission to secure the runaway researcher was just a pretext and the true goal was killing Sonia and us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "Originally, the UFS probably wanted Sonia and us to kill each other. I imagine."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Probably."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "sz_t001a",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "s_t001c",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "What's wrong with them. Gimme a break. Damn it!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "s_t001c",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "sz_t001a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "so_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "Don't complain to me. Even I was fooled by them."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sonia, the root cause of all of this, said with a completely unconcerned expression."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "The story about the researcher still bothers me, but we have no obligation to go along with anything beyond this."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Right. Let's go back home."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Yeah!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "Same for me. I don't care about the mission anymore."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sonia smiled as if to say she had other things to do."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What are you planning to do now?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "I'm going to kill, of course. Kill those who set me up."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Her reply was exactly as I had expected."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm320",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I see. Suit yourself."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We especially had no obligation to go with her. It was time to bid her farewell."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "But before that."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She jabbed toward me with her iron claws that were stained with the blood of UFS soldiers."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "I've taken a liking to you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "That why I feel like I want to kill you right now. As thanks for slicing open my thigh, ehehe."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The eyes of the Homicidal Maniac shined brilliantly."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "so_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

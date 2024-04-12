@@ -1,0 +1,691 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc006a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm502",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After the afternoon combat training was over, we went to the headmistress's office."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "a_t001a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Igawa Asagi",
+        "text": "Thank you for coming, you three."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "u_t001a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There was another woman besides Asagi-sensei in the headmistress's office."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She sat on the couch with a cigarette in her mouth and gave us a slight nod."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(She's not one of our senpai... right? I haven't seen her around the academy before.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "(A-And look!! She's drinking alcohol, isn't she? Is that okay, in the headmistress's office...?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(B-Beats me...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "While we were whispering, Asagi-sensei started to speak."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "a_t001a",
+            "LEFT",
+            "CENTER",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "So... I heard the story, Fuma-kun."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "The incident the other day\u30fcthe Nisha Gaiza incident, it must have been hard on you. How is your body?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ah, y-yes. I seem to have made it out in one piece somehow..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Unfortunately it had ended up being a report after the fact, but I had also told Asagi-sensei about the fight with Gaiza."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I'm sorry. I went and acted without your orders..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "a_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Yes. But that isn't a problem. The Independent Commando Unit was designed to function without direct orders from the beginning."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "You are free to act at your own discretion if you deem it necessary."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Th-Thank you very much..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I guess that was how much she trusted me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(But it also means that I can't do anything unwise...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi-sensei's calm trust made my whole body tense up."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "a_t001b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "More importantly, you are physically in good health. I have high hopes for you, and I would be in a bind if you were to step down from your post now."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No way I'd...!? I absolutely won't quit until I catch that bas\u30fcuntil I catch Gaiza with my own hands!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Hehe. That's the spirit. So, once again, I have a new mission for you all\u30fcSana."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "u_t003f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Oh. Introductions finally?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "On Asagi-sensei's cue, the woman who had been sitting on the sofa with a cigarette in her hand stood up."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kozuki Sana",
+        "text": "Nice to meet you, yeah. You're the kids of the Independent Commando Unit. I'm Kozuki Sana. I've heard about you from Asagi-san."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "N-Nice to meet you, Kozuki-san..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "u_t003c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "Way too formal. Just Sana is fine. I mean, I'm a graduate of this school, and we'll be doing the mission together after all\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She spoke in a casual manner and grinned."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She didn't really give off a Taimanin vibe... but still seemed oddly impressive."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t003e",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "(H-Hey, Sana...! I'm Shikanosuke...!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hey, Shikanosuke... You're so jittery you're hardly making a peep."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t003d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Ah!? Uh, um... nice to meet you, Sana-senpai. I'm Uehara Shikanosuke..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "Oh! Fuma and Shikanosuke, got it. That means you over there must be Hebiko, the octopus ninja, right?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "h_t001d",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Y-Yes, Hebiko here... Um... Sana-san, you really are a Taimanin, yes?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Perhaps having the same thoughts as me, Hebiko asked Sana timidly."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "a_t001b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Hehe. Hebiko, despite how she looks, Sana is a swordswoman of the Ace Katana Style."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "The Ace Katana Style\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Ace Katana Style was a Taima Sword Art that Akiyama Rinko-senpai and the recently encountered Shishigami Jisai, among others, were proficient in."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Come to think of it, Sana-san had indeed strapped a large sword to her shoulder."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "a_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "I can vouch for her strength as a Taimanin. And although she is acting like a bad girl right now, in reality she is serious and hardworking."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Eh? Really?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "a_t001a",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "u_t001e",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "Wha-!? Asagi-san, gimme a break~!! I-I'm not a hard worker <i>at all</i>!!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "u_t001i",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "Umm... See? I'm a \"bad girl,\" just look at me!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "a_t001b",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Hehe, alright, alright. Whatever you say."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi-sensei laughed as if she found the flushed and flustered Sana-san amusing."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Mmhmm... There sure are all sorts of weirdos in the Taimanin.)"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "u_t001a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "Enough about me already! Asagi-san, let's talk about the mission."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "a_t001c",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm203",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Yes, you're right... What I'm asking you to do this time is an undercover mission."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi-sensei turned to us and got straight to the point."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "You will infiltrate the \"Underground City\" Yomihara together with Sana."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Y-Yomihara\u30fc!?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "h_t001d",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t003d",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Um...? You mean... the infamous...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Whaaaaa!? I already got a really bad feeling about this mission...!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

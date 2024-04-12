@@ -1,0 +1,806 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "black",
+            "NONE"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "One hour later."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm611",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc146b",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Night had fallen, and the entire area was covered in darkness."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ohhhh! It's giving a nice atmosphere to it! Hebiko, Shikanosuke, let's go! Let's infiltrate this castle!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t003b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Yeahhh!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t003a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The real \"adventure\" was finally starting.  We were going to infiltrate that castle and find out the secret hidden in Yukikaze's house!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t003a",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t001g",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Come ooon. Why are you two so excited over this? Don't come crying to Hebiko if anything happens."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Despite her grumbling, Hebiko followed along with us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Relaaax Hebiko. I'll buy you another ice cream when we get back."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t003b",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "I'll buy you one too!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t001h",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "F-Fine... But it's not like Hebiko is coming with you just to get ice cream, got it?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hebiko is just worried that you two will do something weird in Yukikaze-chan's house..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Mwahaha, don't you worry. We'll get out of there quick if need be."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t001g",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "O-Okay...? Hebiko's still worried though..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As we discussed those things, we suppressed our presence and approached the castle."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When suddenly\u30fc"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se074_01"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Swiiiiiiiiiiiiish!!*"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aiiiee!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Kyah!? Wh-What's this weird wind\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A cold wind caressed our necks."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And then?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...?"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se076"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Rustle rustle...*"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t003e",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t001g",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "H-Hey, Fuma, isn't it suddenly a little..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Y-Yeah... I've got chills..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hebiko's got a bad feeling about this..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se076"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The bushes all around us were swaying and rustling."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Were they swaying because of the wind?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "...No, it wasn't that."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It wasn't the wind..."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm207",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m092a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "\u30fc\u30fc\u30fcBwaah!!!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aiiiiiiiieeeeeeee!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Suddenly, something came flying out of the bushes."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Wh-What is this!? A scarecrow monster?!?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m092a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m092a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_FRONT",
+        "info": [
+            "2"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Scarecrow",
+        "text": "He\uff5ehehehehehe!!!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Crap!! They've surrounded us!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "An uncountable number of scarecrows came out from the bushes around us. And on top of that..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc146c",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Snap\u30fc!!!*"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t003d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Wha-Wha-Wha-Wha-Wha-Wha-Whaaa!?!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In an instant, our surroundings became dark as if filled with ink."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Did someone turn the mansion's lights off??!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "This is... did they notice us trying to infiltrate the castle!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If that was the case then these strange scarecrows were a trap for repelling attacks."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t003d",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t001d",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Was it Yukikaze-chan?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It can't be. If she found an intruder she would probably want to deal with them directly."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t003e",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "S-She probably would... So this means that it could be that girl, Clear!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No, I don't think Clear is able to use scarecrow monsters like this..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In other words\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m092a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m092a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m092a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_FRONT",
+        "info": [
+            "2"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The person who was controlling this group of scarecrows was neither Yukikaze nor Clear."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But that was weird."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "\u300eYukikaze is also living alone right now, so I think it will work out perfectly.\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi-sensei had said so herself after the incident with Clear, didn't she?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Scarecrow",
+        "text": "He\uff5ehehehehehe!!!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Ooohhhhhh, they're comiiing!!! Wha-Wha-What do we do, Fuma!? Should we just go home!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "We can't leave when it's just getting this good! \u30fcWe're breaking through them!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aiiiieeee, for real!? We're so finiiiiiiiiiished!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Shikanosuke-chan, you were so excited just moment ago..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

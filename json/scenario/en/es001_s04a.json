@@ -1,0 +1,1177 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc079a",
+            "IN",
+            "3000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "DIIING DOOONG, DIIING DOOONG\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The lunchtime bell rang."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Fuma-chan, you're going to the cafeteria, right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah, I'm hungry after all that fighting today. Shikanosuke, you're coming too, right?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "I'm about to collapse I'm so hungry. I could eat a horse."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And just as I was about to leave the classroom with the hungry pair, numerous figures suddenly blocked our way."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm304",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc005a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR01",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m002a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Fuma Fire Ninja",
+        "text": "Hey, wait, Clan Head."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A fire ninja of the Fuma Clan approached me with a harsh look in his eyes."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "ts_m038a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "6",
+            "ts_m038a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_PRIORITY",
+        "info": [
+            "4",
+            "10"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And he had brought some of his men with him. Not a one of them seemed to be friendly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Fuma Fire Ninja",
+        "text": "You're going to grant me moment of your time."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(So... these guys were Gaiza's subordinates, but they were ones who hadn't participated in the rebellion.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Nevertheless, it didn't mean they were loyal to me, and that was clear from looking at their attitudes."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m002a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "6",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002e",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Heberybody was about to have lunch. What do you want from Fuma-chan, bringing all those guys with you?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Before I could say anything, Hebiko suddenly called out to them belligerently."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Fuma Fire Ninja",
+        "text": "I have no business with the Octo-Bitch flunky. Stay back."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Huh? Are you here to pick a fight? You're gonna get inked up! Hebiko is hungry right now, so it's gonna be a lot!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002e",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m002a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Fuma Fire Ninja",
+        "text": "Ggh, we just need to talk to him as the head of the Fuma Clan."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Fuma Fire Ninja",
+        "text": "He's the head of the clan but he can't even talk to his own clan members!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The troublesome nature of Hebiko's ink was well known within the Fuma Clan."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The men looked frightened, but repeated that they wanted to speak to the head of the clan."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You want to speak to the head of the clan? Well, I can tell by the look on your face that it's not going to be a pleasant conversation... But that's fine, I'll go with you. Just me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Fuma Fire Ninja",
+        "text": "Yeah. Come on."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m002a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The fire ninja jerked his head and I followed him."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002c",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Fuma-chan, will you be okay?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You two go ahead to the cafeteria."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "O-Okay."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001h",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "H-Hey, Fuma. No more fights or anything like that on the campus, okay?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It'll be fine."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Both of them seemed to be worried about me."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001h",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002c",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Well, I have a feeling it's going to be more than just talking though.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That's when I suddenly noticed another set of eyes on me."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "How long had she been there? Yukikaze was looking at me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Unlike Hebiko and Shikanosuke, she seemed to be amused that I was being taken away by the Fuma ninja."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Well, the whole story didn't concern her at all, so that was no surprise."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When her eyes met mine, she giggled as if to say, \"My sympathies.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I gave her a look as if to say \"Sheesh...\" and shrugged my shoulders. Yukikaze giggled even more."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m002a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Fuma Fire Ninja",
+        "text": "What are you doing? Come quickly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah, yeah."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m002a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR26",
+            "OUT",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "black",
+            "NONE"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc051a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR26",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m002a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "ts_m038a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "6",
+            "ts_m038a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR_PRIORITY",
+        "info": [
+            "4",
+            "10"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm203",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was taken to the poolside."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You use Fire Art, what are you planning to do in a place like this?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Don't tell me, you want the clan head to teach you how to swim? For the record, I'm not even a good swimmer."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Fuma Fire Ninja",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "They didn't twitch a muscle at my light-hearted jokes."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "For fire ninja you guys are pretty cold. Anyways, what did you want from me?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Fuma Fire Ninja",
+        "text": "As the head of the clan, don't you have anything to say to us?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "As the head of the clan?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Fuma Fire Ninja",
+        "text": "With the rebellion caused by Gaiza, the trust in the Fuma Clan has hit rock bottom."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Fuma Fire Ninja",
+        "text": "What are you planning to do with the Fuma Clan from now on?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Whatever I might want to do, for now I have orders to capture Gaiza. That comes first."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "My answer made the group of fire ninja grow even more angry."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Fuma Fire Ninja",
+        "text": "That's an order from above, from the Taimanin village. I'm asking you, Fuma, as the head of the clan, if you have any ideas of what to do?!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Even if I told you, I don't think you'd listen to my orders. It's not like you've suddenly changed your opinion of me, right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Fuma Fire Ninja",
+        "text": "Tch."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Fire Ninja clicked his tongue in annoyance."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "His subordinates were also complaining, \"This guy is useless,\" or, \"Is he really the head of the clan?\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Fuma Fire Ninja",
+        "text": "I mean, look at you... hah, we would've been better off following Gaiza."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Fuma Genin",
+        "text": "That's right!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Fuma Fire Ninja",
+        "text": "Do you have any idea how shameful it is to be a Fuma in this village?!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sheesh... so that's why you came asking me to do something?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "If you had joined the rebellion with such naive thinking, you would've gotten killed a long time ago."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Fuma Fire Ninja",
+        "text": "What!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You've been treating me like a fool, calling me \"Diot,\" and now you're whining. No wonder Gaiza didn't ask you to take part in the rebellion."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Fuma Fire Ninja",
+        "text": "You son of a..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Fuma Genin",
+        "text": "What the hell are you talking about, Diot?!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Fuma Genin",
+        "text": "You're a disgrace to the Fuma Clan!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "They were furious and came toward me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Now I had done it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I hadn't meant to go that far, but I had let out my true feelings."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It seemed like I would have to take one or two punches for this. I'd just let them give me a good beating and get it over with quickly."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And just as I was bracing myself\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m002a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "6",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Who are you calling an embarrassment to the Fuma Clan?!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Eh...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I looked up at the source of the sonorous voice and saw Hebiko looking down at us from the roof of the locker room."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm313",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t005f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "All you do is whine and complain. You guys are pathetic."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "And you're coming after Fuma-chan with that many people, even though he can't even fight properly on his own."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hebiko won't let that happen!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko had already turned into an octopus and was ready to fight."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t005f",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001e",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR_PRIORITY",
+        "info": [
+            "2",
+            "10"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Uwuwuh, Fuma's quarrels don't even have anything to do with me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Ah, Shikanosuke was also there."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He was being held by Hebiko's tentacles and forcibly dragged along."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "H-Hey guys, stop the fighting. If you have to fight, then do it when I'm not aroooound..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "What are you talking about, Shikanosuke! Fuma-chan is in trouble! Let's go! Octopus Jump!!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieeeeeeeee!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001e",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t005f",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc051a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR19",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko, and the wrapped up Shikanosuke, jumped down to the poolside."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001e",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t005f",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR_PRIORITY",
+        "info": [
+            "2",
+            "10"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Ow, owowowowow..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Fuma Fire Ninja",
+        "text": "Let's get them all at once!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Fuma Genin",
+        "text": "Yeah!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "They came at us shouting cheesy lines like villains from some C-grade movie."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(So in the end it comes down to this... sheesh...)"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001e",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t005f",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

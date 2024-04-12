@@ -1,0 +1,626 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm207",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc126a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Shikanosuke, this is our chance!! Use that Jutsu!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Y-Yeah!! Here I go!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Electric Jutsu: Multi-Spark!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t002f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se030_01"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*\u2015Bzzbzzbzzz!!*"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m072a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se086"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Devil Worm",
+        "text": "HRRRRSSSSS!!!!???"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We had been confronted with these monsters once in the ruins of the mines, so I knew how to handle them."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Devil Worm writhed in agony from the shock the static electricity caused to the surface of its body."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Alright!! Next up are those things!! I'm counting on you, Yamata no Orochi!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m076a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "700"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamata no Orochi",
+        "text": "Hm-hm... You're pretty good, Fuma kid. I like those orders of yours!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yamata no Orochi leapt towards the swarm of Devildomian Wasps who had lost their leadership with the Devil Worm going into a frenzy."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamata no Orochi",
+        "text": "\u2015Get crushed, insects!! Haaaaaaaaaa!!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "ef004a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR27",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se027"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Smash!!!*"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "ef005a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se079"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Splat!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Devildomian Wasp",
+        "text": "\u2015\u2015\u2015\u2015\u2015\u2015!!??"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The giant bee-like demonic beasts were smashed one after the other by the iron sword brandished by the female warrior."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc126a",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m076a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Just seeing her display of tremendous power sent a shiver down my spine."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "W-Wooow, Fuma!!! Sana-senpai was amazing, but this one's crazy strong too!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah. As expected from an Oni with mythological powers..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had already caught glimpses of her strength during the fight with the Trolls, but now I was able to witness her power in full."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(It's certainly reassuring to have her as an ally. But if by any chance she'd\u2015)"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "400"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc126a",
+            "IN",
+            "200"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR01",
+            "IN",
+            "800"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "h_t004f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "200"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "The way is open, Fuma-chan! Let's go!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah...! Everyone, let's make a dash to the entrance of Yomihara!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se054"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I gave my command and ran off into the darkness deep within the sewers."
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm509",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc127a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We made it out of the sewers and arrived on the outer edges of Yomihara."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was a business district, but this street was quiet, with not too many people around."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "We should be safe here."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Having made it this far, the gate to Yomihara was just a stone's throw away."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There was also no sign of enemies. We had apparently succeeded in losing our pursuers."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m077a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "h_t004c",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sago",
+        "text": "...That form will stick out here like a sore thumb. I'm fine now, Hebiko-kun."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "h_t004d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Ah, yes... you're right."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "h_t002c",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko undid her octopus transformation and let Sago-san stand on his own two feet."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m077a",
+            "LEFT",
+            "CENTER",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Can you walk, Sago-san?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sago",
+        "text": "Yes... somehow..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Maybe because his condition had improved since earlier, but he began walking on his own, albeit still a bit unsteadily."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sago",
+        "text": "My body's... cooling system is damaged. When I move too energetically, it temporarily ends up like that."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I see..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Now that time had passed and his body had cooled down, he must have been back to the point where he could walk again."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "But even though you're able to move again, please leave the fighting to us, Sago-san. It's too dangerous with that body of yours."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sago",
+        "text": "...Understood. I'll do as you command, Young Lord."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Thank you. ...Well then, we're finally here, everyone."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I nodded to Sago-san and turned to face the group."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "The entrance of Yomihara is right in front of us... There might be people watching the gate, so let's proceed carefully."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

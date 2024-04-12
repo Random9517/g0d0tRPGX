@@ -1,0 +1,528 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc115a",
+            "IN",
+            "3000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm605",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Here it is..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A secondary residence of the Fuma Clan, located a short distance from Gosha Village."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Currently it was uninhabited, with only Saika visiting occasionally to clean."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Whatever it had been used for, I hadn't been allowed inside when I was a child, but now it was basically the perfect spot for Saika to hide."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc116a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "All the rooms were closed off and the inside was only dimly lit, but it was so neat and tidy that it was hard to believe that the house had been standing empty for so long."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Everything is so clean. I guess that's because Saika has been taking care of it.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I silenced my footsteps and slowly proceeded forward."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "\u30fc...think?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Hm?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I thought I had heard a voice."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "That certainly is an exceptional offer."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Right? You won't regret it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(That's Saika's voice! ...And one other person's. They're coming from over there.)"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se078"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I quit trying to step quietly and ran in the direction of the voices."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc038b",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0041a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saika",
+        "text": "But please don't get the wrong idea. I'm not some cheap secretary who will make a move based on an offer."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0041a",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m068a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Hah! I suspected as much! In that case I'm going to have to use force."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Saika!!!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saika",
+        "text": "Young Lord!? How did you find me here...!?"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm313",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When I reached the bedroom, I found Saika\u30fc\nand a woman hoisting a metal bat was confronting her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Woman",
+        "text": "Ohh, this guy!! Isn't he Danjo's son!? That's an unexpected catch!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What!? Who are you...?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m041a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m011a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m011a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When the woman touched some kind of communication device, drones that had been hiding somewhere appeared and swooped in."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "ef004a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR27",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se027"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saika",
+        "text": "\u30fc!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc038b",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0041a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m068a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Saika instantly tried to hurry over to me, but the woman's metal bat stopped her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Major",
+        "text": "Hey there, your opponent is me, the fabulous Major. Got it?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saika",
+        "text": "Hngh..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Major",
+        "text": "Hehe. The tedious negotiations are over. It'll be a snap if I take your beloved young lord hostage!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m041a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m011a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m011a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "While still unsure what was going on, I had no choice but to desperately fend off the drones."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

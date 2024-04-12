@@ -1,0 +1,457 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm506",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc041a",
+            "IN",
+            "3000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After I explained the situation to Shikanosuke, who had finally managed to calm down,"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "we started to take action with the help of the sonar created by his Electric Jutsu."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "I have to say, this place is really messed up..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke muttered in astonishment while looking at the suspicious townscape around us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "I thought we were in the mountains behind the academy a few moments ago, but now we're in a place like this."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001c",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "as_t005c",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "Yes. It seems like... we are in the downtown area of Maesaki City. Most likely this is also someone's \"fantasy world.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asuka said while looking around, same as Shikanosuke."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In reality, it would take about 3 hours by bus and train from Gosha Village to Maesaki City."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Normally it was not a distance you could walk from the mountains behind the academy, but it looked like this world was ignoring things like distance or location."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Since Shikanosuke had indicated \"I think over here is kind of weird,\" we had walked down the mountain pass and only shortly later had arrived in this downtown area."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "But, someone's \"fantasy world\"? What does that mean?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It's what it literally means. We are walking through the world of someone else who is also trapped in here."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "For example, could be a UFS soldier? Whoever it is, we are in that person's \"fantasy world.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I guess the worlds of those who were in the same place when the witch used her Ninja Art are all connected, just like my world and your world were connected, Shikanosuke."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "Mm, you're probably right."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I tried to give a simple explanation and Asuka nodded in agreement."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "I see... So this is someone's \"fantasy world\"..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001c",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "as_t005a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At that moment, the noisy voices of a man and woman could be heard out of the window of a nearby brothel."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Woman's voice",
+        "text": "You ugly pig!! If you want a reward then beg for it!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Man's voice",
+        "text": "Oh!! Please!! Please fuck me!! I'm begging you!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And then the sharp sound of a cracking whip followed\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It seemed that someone was having his \"fantasies\" fulfilled in a room of the brothel."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "as_t005h",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "...Haah. Men really are hopeless."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Why are you looking at me!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Besides, it's a \"fantasy,\" so thinking about anything should be fine!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "as_t005h",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Just as I was trying to defend the owner of this fantasy even though I didn't even know him\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m017a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Succubus",
+        "text": "Oh? Are you all customers\u266a Why don't you enjoy yourselves at my establishment?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The door of the brothel opened quietly and a girl with black wings appeared."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "(Aieee!? Fuma, I've seen those before!! That girl, she's a demon\u30fca Succubus!!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(...I know. Don't say anything thoughtless and provoke her.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I also had seen someone like her during the haunted castle incident."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She might look like a cute girl, but she was, in fact, a dangerous demon called a Succubus."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Succubus",
+        "text": "How about it? I'll give you some great service, so why don't you play at my place\u266a"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Wow, I really would love to. But unfortunately we're in a hurry. Maybe next time\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Succubus",
+        "text": "Hmmm. So you're not gonna come...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The mood of the Succubus changed and her expression turned to one imbued with a cold hostility."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Succubus",
+        "text": "Either way, I can't let you pass through here."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm207",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Succubus",
+        "text": "I have orders from my mistress\u30fcto eliminate anyone who has woken from their dream."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Her disturbing whisper seemed to have been a signal, and more and more Succubi appeared out of the brothel."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m017a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001h",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "as_t005c",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "Oh my, looks like we're in trouble. It seems we've been found out."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieee!! F-Fuma!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I nodded to both of them."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Then we have no choice. Let's take them down and move on!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001h",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "as_t005c",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

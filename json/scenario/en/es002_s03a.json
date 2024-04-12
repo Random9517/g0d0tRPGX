@@ -1,0 +1,385 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm304",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc030a",
+            "IN",
+            "3000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "First, I'll introduce myself\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "My name is Uehara Shikanosuke."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I'm a student at Gosha Academy, a Taimanin training institution."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At school I'm an unremarkable cadet who's barely scraping by\u30fcbut that's not the real me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Those who make fun of me at school don't know, but in reality I'm\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m058a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shinobi Bear",
+        "text": "GROOOOOOOOGGHH!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The roar of a ferocious beast echoed through the nighttime forest."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The beast in front of Shikanosuke was a Shinobi Bear that had been trained for combat."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Its body was large enough that he had to raise his gaze, and it had the strength to smash a tree in half\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "On top of that, it was an extremely dangerous hunter of the nighttime forest, tracking down prey with its un-beastlike high intelligence."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m058a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Uehara Shikanosuke",
+        "text": "Damn it!! Am I surrounded\u30fc!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "These fiendish beasts encircled Shikanosuke."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001f",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m015a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ninja",
+        "text": "You're trapped like a rat, kid\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Then someone who appeared to be a ninja stepped out from behind the Shinobi Bears."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It seemed like this man was leading the ferocious Shinobi Bears."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ninja",
+        "text": "Give up and hand over what you stole from the mansion. There's nowhere for you to run."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It sounded exactly like the threatening words of a villain."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "\"What I stole\" was a top-secret document that had been kept in the mansion the ninja worked for."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was evidence of wrongdoings that, if left unchecked, concerned the lives of hundreds of people."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Pfff\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Surrounded, with nowhere to run."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It truly was a desperate situation, but Shikanosuke smiled boldly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Nowhere to run? The same goes for you!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ninja",
+        "text": "What...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The ninja tilted his head in confusion at the seemingly weak Shikanosuke's surprising retort."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Was this pipsqueak still going to fight back?"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm207",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Hmph\u30fclisten here, evil ninja. I'm going to give you a special treat and show you the power of the \"real me.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke brandished his ninjato and whispered with his eyes closed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "\"Seal Undone\"\u30fcrelease the Devildomian Power bound within my left hand."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At the same time\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A sparking, black radiance covered the arm in which Shikanosuke held his ninjato."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ninja",
+        "text": "What!? You bastard, what is that power!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The ninja was thunderstruck."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Shinobi Bears also roared with astonished expressions."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Haha, do you see this radiance? This is the jet-black lightning that is said to strike in the far reaches of the Devildom\u30fcThe power of darkness that my lousy dad sealed within me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ninja",
+        "text": "N-No way\u30fcAre you the descendant of the \"Dark Lightning Taimanin!?\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Hahahaha!! Once you've realized, it's already too late!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke laughed loudly and held his ninjato in a cool pose."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Take this, you villains!! I'll punish each and every one of you!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m015a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

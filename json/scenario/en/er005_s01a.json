@@ -1,0 +1,1356 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm506",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc003a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was a beautiful afternoon."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Classes had already finished for the morning, and for the first time in quite a while, I was basking in the sunlight shining through the trees while reading a book."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Now that I had actually come face to face with demons and peeked into the world of darkness, going on a reading spree like this again was quite enjoyable."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Back when all I knew was the world of books, I thought demons were nothing but terrifying, but in reality, there are all kinds of them huh.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(I mean, the same goes for Taimanin. From those that lurk in the darkness, as you would expect of a ninja, to others who go wild in spectacular fashion\u30fc)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mizuki Yukikaze",
+        "text": "Hey, Fuma! I said, Fuma!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0112a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Suddenly my book was snatched away and a familiar tanned face appeared in front of me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Oh, it's you, Yukikaze. What's with you all of a sudden? Give me back my book."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "I've been calling you for a while though!? Taking a nap as soon as it gets warm out, you're still a deadbeat, huh Fuma!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Mizuki Yukikaze. She was one of my classmates, and on top of that, she was the \"Lightning Taimanin,\" whose future prospects were highly anticipated."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I wasn't napping. I was absorbing knowledge in my role as a captain. Don't lump me with you who's only ever sleeping or rampaging."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Can you not talk about me like I'm a pre-schooler!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You are pretty similar though. I mean, you seem to be the one with nothing better to do, coming all the way here just to get on my nerves."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "That's not it. There was a girl hanging around in front of the academy who wanted to meet you, Fuma, so I brought her here with me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Meet me?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I stood up on the spot. And then, from behind Yukikaze\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0112a",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0111a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Girl",
+        "text": "Are you Fuma?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "\u30fcOh?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A girl's face suddenly popped into view. There were horns on her head and wings on her back."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What!? She's a demon!! You let her into the academy\u30fcwhat were you thinking?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "I thought it was possible she was involved with you. I mean, you seem to make friends at random, from demons to cyborgs..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Well, I guess that's true. But never mind being involved with her, this is the first time we've met... right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Metier",
+        "text": "Yes, I'm Metier. I'm a succubus."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "A succubus... so, um, one of those sexy dream demons..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Metier",
+        "text": "Yes. To be exact, I'm a Nightmare Succubus."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(A succubus...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I reflexively gulped."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0111a",
+            "LEFT",
+            "CENTER",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A Nightmare Succubus was a demon who gave men lewd dreams and stole their vigor."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Since seducing men was their calling, they were said to be bewitching beauties."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And there were also incubi that showed lewd dreams to women, who were said to look like handsome men."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In any case, when it came to Nightmare Succubi, you usually imagined beautiful creatures arousing the desire of the opposite sex. However..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(This docile-looking girl is after a man's vigor...?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The succubus in front of me was more adorable than bewitching, and her expression looked sincere."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Although the top of her shirt was boldly opened up, her breasts were a bit insufficient to arouse a man's desire. \u30fcBut, maybe there were men who preferred that?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0111a",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0112a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Hello? What are you thinking, Fuma?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As I was absentmindedly fantasizing about what would happen next, Yukikaze butted in with a suspicious look on her face. She was only perceptive at times like this."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ah, no, I was just wondering what the succubus might want from me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Metier",
+        "text": "I am searching for a succubus called Lilim who has absconded to the human world."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Lilim..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ahh! One half of the little critter duo!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Lilim. A member of the pair that kept showing up around me and creating troublesome incidents."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Metier",
+        "text": "And I heard that someone from Gosha called Fuma was one of Lilim's close friends."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "We're definitely not close friends!! Who said something like that!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Metier",
+        "text": "The kindly Zocht-san."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Zocht... that bastard..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I could see Zocht's crude smile in my mind's eye. I'd have to pay him back for that another time..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "But why are you looking for Lilim?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Metier",
+        "text": "Because\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ri_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Back when Lilim was still in the Devildom..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Lilim was famous even among the succubi as a good-for-nothing."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She was terrible at seducing men, she couldn't do succubus-like work at all, and on top of all that, she had a rotten personality."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If she just made mistakes while working diligently then there would be no problem. But she often abandoned her work to go play or got bribed by someone she was supposed to be seducing."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Her succubus seniors had finally gotten fed up with her pathetic performance, so she ran away and fled to the human world."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And if they let her go unchecked, her disgrace as a succubus would even expand here."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Fearing this, the succubus virtuosos set out to recover Lilim."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc003a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0111a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Metier",
+        "text": "And that's when I received information that Fuma-san from Gosha was a good friend of Lilim's."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "So that's why you came to me. But wait, then Lilim is a succubus?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Metier",
+        "text": "It's not surprising you haven't noticed..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Anyways, we are definitely not good friends."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Metier",
+        "text": "But you do know her?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah, I guess... I don't really want to admit it though."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Metier",
+        "text": "In that case, would you please assist me in catching her?"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hmm..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Frankly, I didn't want anything to do with Lilim. But if you thought about it as earning the gratitude of the succubi, a powerful faction among the demons\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And to tell the truth, it was also a fact that I was a bit interested in the succubi themselves."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Plus, if I can deliver Lilim to them and cut my ties with her, then it would all work out as I wanted.)"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0111a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...Alright, I'll give you a hand."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Metier",
+        "text": "Thank you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Metier bowed deeply."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And so, immediately the next evening..."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm203",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc066a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had been led by Metier to a construction site in a certain city."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0111a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Metier",
+        "text": "This is where Lilim was last seen."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Metier",
+        "text": "She seems to be causing mischief in this area, showing herself now and then, but then we end up losing her right away..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hmm, I see. Then she's probably still close."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Metier",
+        "text": "What makes you so sure?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "She's always quick to run away when she's at a disadvantage, but she's surprisingly persistent when it comes to mischief."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Metier",
+        "text": "Oh my!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Metier's eyes lit up."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Metier",
+        "text": "You understand her quirks well! As expected of her good friend."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I told you we're not friends... It's because she's given me quite a bit of trouble. Anyway, let's get to catching her."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I took out a bamboo basket, stick, and string I had brought from the shed at home, and quietly set them up on the ground."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That should do it..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I shoved the stick into the ground a bit to secure it, then balanced the basket on it at an angle, and then tied the end of the string to the stick."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "To finish it off, I placed a cheap snack under the basket and then grabbed the other end of the string and urged Metier to hide in the shadows."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Metier",
+        "text": "I see, it's a trap where pulling the string makes the basket fall."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Metier",
+        "text": "...Hey, don't look down on succubi!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Metier",
+        "text": "There's no way a proud succubus would fall for such a primitive trap, not even Lilim..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Shush, she's here!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Lilim showed herself, and Metier and I waited with bated breath."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ri_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim",
+        "text": "Hmhm? Hm? There's a suspicious basket, hm?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Lilim quickly noticed the bamboo basket, scampered over to it, and looked it over intensely."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Metier",
+        "text": "(See? She suspects something.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Just watch.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim",
+        "text": "Hmm... hmm... hm?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Lilim noticed the snack I had placed under the basket."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim",
+        "text": "Oh!! This is not just the pinnacle of snacks, \"Sugoibo,\" but the high-end \"Premium Super Sugoibo\"!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim",
+        "text": "I see, so this must be something like a break room where you can eat snacks!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim",
+        "text": "Ahhh, how considerate and thoughtful\u266a *Munch, munch*"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Lilim took the snack and sat under the bamboo basket as if she were relaxing under a beach parasol."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Metier",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I couldn't believe she had fallen for it so magnificently."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Looking on next to me, I saw Metier with her mouth open so wide in shock that I thought her jaw might fall off."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim",
+        "text": "*Munch, munch*... *Munch*... Mhmm, premium\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Watching Lilim stuff the snack in her face, I calmly pulled the string."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "There!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se104"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Thud.*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim",
+        "text": "Uwah!?!?! Wh-What's going on!? The ceiling!? The ceiliiing!?"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se105"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I grabbed the basket with Lilim squirming inside. What an easy job this had been. All that was left was to hand her over to Metier."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim",
+        "text": "Fuma! So this was your scheme! How wicked of you!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I mean, what can I say, you really are a moron..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0111a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Metier",
+        "text": "Absolutely, how pathetic..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim",
+        "text": "Ugh, Metier!? What are you doing here?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Metier",
+        "text": "I came here looking for you. Mireille is worried that you might expose your disgraceful behavior even further."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim",
+        "text": "Urgh, Mireille!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Lilim made an exaggeratedly unpleasant expression upon hearing that name."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Metier",
+        "text": "Yes, as you know Mireille is an excellent succubus."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Metier",
+        "text": "She's worried about you. Of course, I am as well."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim",
+        "text": "Hmph! As if someone like her would worry about me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim",
+        "text": "She's alllllways so arrogant and stuck-up, just making fun of me!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Who is this Mireille?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Metier",
+        "text": "One of our companions. She's a skilled succubus who brings down any man she has set her eyes on, without fail."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Oh-hoh."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Surely she was a looker. And in the split second I was imagining her\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim",
+        "text": "Hmph! This is nonsense! Hup!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ri_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ah!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se078"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had goofed. Lilim slipped out of my hands and ran into a backstreet across the way from us."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "This is bad, if she goes that way, we'll never find... her..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And just as I was about to hurry after her..."
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se088_01"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hm...!? Hmmm... !?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A mechanical clanking sound could be heard from the backstreet where Lilim had disappeared."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Wh-What is that!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The sound grew louder and louder\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "\u300eDum du-dum, dududummm\u266a\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hmmmm????!"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm402",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "\u300eShred the darkness, pierce the light! Clutch Fuma's wallet tight!\u300f"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m080a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim-Muo",
+        "text": "\u300eThe absolutely invincible dream warrior... its name is Succubus Brave Lilim-Muo!!\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim-Muo",
+        "text": "\u300eTa-dah!\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Wh-Wh-What the hell is that?!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Instead of Lilim, who we thought had fled, some kind of strange mecha appeared."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Metier",
+        "text": "It's hovering..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim-Muo",
+        "text": "\u300eHaha! I got you, Fuma! In fact, I fell for the trap on purpose!\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That's your voice, isn't it, Lilim? Are you piloting this weird mecha?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim-Muo",
+        "text": "\u300eHeheh, pretty cool, don't you think? I had a scientist friend of mine build it for me.\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim-Muo",
+        "text": "\u300eAnd it's called the Succubus Brave Lilim-Muo!! It's my secret weapon!\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You really are always up to no good..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As I looked to Metier at my side, something inside her seemed to have snapped from the shock, and she had sunk to the floor in a daze."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim-Muo",
+        "text": "\u300eHehe, looks like you're speechless before my super mecha. Get ready to be stripped of all your belongings, Fuma!\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hah, who's gonna get beaten by such a childish mecha? I bet it's just a toy anyway..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim-Muo",
+        "text": "\u300eLet's see about that. Initiate power charge!\u300f"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se106"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Light began to flow into the scythe of Lilim-Muo, or whatever it was called. It was pretty well-made for a toy."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim-Muo",
+        "text": "\u300eEat this! Pretty Devil Scythe!\u300f"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "ef004a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se107"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Woooosh!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It made a wide slash that left a trail of light behind it. The blade aimed straight for my neck."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Metier",
+        "text": "Watch out!"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se010"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It missed by a hair's breadth as Metier pushed me down and the scythe swept just over my head with great force."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc066a",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And then as it swung and missed me\u30fcit instead sliced clean through the steel beam behind me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Uwah!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Metier",
+        "text": "Looks like it isn't just a toy!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Damn it! This irritating little devil."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m080a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilim-Muo",
+        "text": "\u300eMuhahahaha! Prepare yourself, Fuma!!\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Getting completely carried away, Lilim(-Muo) began to wildly swing her scythe in my direction."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

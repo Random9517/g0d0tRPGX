@@ -1,0 +1,467 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm203",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc142a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0019a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "Phew. Victory is mine!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Having revealed her true form, Cerastes had constricted the basilisk with her overwhelming strength and shattered its scales."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Perhaps the basilisk had finally remembered that this woman, a Nagi, was its master and seemingly shook its tail in surrender, but it was too late."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Having taken bullets directly in its bare flesh, it sank into the underground lake in the midst of its death throes."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Brilliant."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "What's with that thing? Its body was huge but in the end it wasn't even that big of a deal?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No, that thing definitely is a big deal. You being a Nagi saved our asses. Thanks to you, we were able to rescue our comrades."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "I don't really get it, though. Explain it to me properly, what exactly is this basilisk?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "In the Devildom, basilisks are known as underlings of the Nagi."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "Underlings... I see. So that's why its petrification and poison didn't work on me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "But then, why was it being called a Serpent God and sleeping in a place like this?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "This is just a hunch, but... long ago, there used to be a Gate to the Devildom around here, and a castle was built on top of it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "The lord of that castle apparently brought demonic creatures from the Devildom through that gate and ruled his people through fear."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "So that thing was one of them huh?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah. Eventually, the gate closed and it couldn't return to the Devildom, so it must have fallen into a slumber here."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "And I guess people happened to witness it and that's how it turned into that Snake God story."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "Hmm. As long as that's not my future form, then whatever."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Don't worry about that. I know a Nagi who seems to have lived for hundreds of years yet has still retained her beautiful looks."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0115a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "What did you say!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The moment Cerastes returned to her human form, she grabbed me by the collar and snapped at me so vigorously that I involuntarily leaned back."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I-Is that so surprising?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "You're acquainted with a Nagi? Let me meet her!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Well, maybe acquaintance isn't the best way to put it..."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "sr_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was Snake Lady, the Nagi warrior who had abducted Hebiko to Chaos Arena."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Her personality was brutal and ruthless. Even out of all the people I had met so far, her strength was on a totally different level."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Those eyes... Just remembering them sends chills down my spine.)"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She was definitely on a different level even amongst the Nagi, and surely calling <i>her</i> a Serpent God would have been fitting."
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc142a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0115a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm604",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "I've been treated as an outcast since I was little and it was my dream to meet a kindred Nagi."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "And even in this cave, I thought there must be some connection between the legend of the Serpent God and the Nagi, so that's why I came all the way out here."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I see. ...But she's not my acquaintance and I also don't know where she is now."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "I see... But she's in Japan, right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Probably."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I'll let you live for now\u30fcThat was what that woman had said."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(If we keep fighting like this, I have a feeling that she'll show up again someday.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "Alright, then I've decided! I'll be staying in Japan for the time being, so let me know if you find her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I don't mind doing that, but..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "Of course, I'm not asking you to do it for free. I'll even help you with your ninja work if you want. I'm actually pretty confident in my skills!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Cerastes forcefully carried on the conversation and pushed her contact info on me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Well, she seems to be pretty skilled, and I guess it's good to strengthen our forces...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I thought about how, when we eventually battled Snake Lady again, she would become our ally\u30fcor, maybe our enemy\u30fcand accepted her contact info."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "Oh, right! Next, let me take a picture!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huh? A picture? Of me?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "Who else is there!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I mean, I'm kind of still on a mission, so that's a bit..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "Come on, I'm taking it. Please do a ninja-y pose."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Cerastes didn't listen to a word I said and pointed the camera of her smartphone my way."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huh? Eh? I said stop it\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se115"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Click*\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "No good, one more!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Uwaaah...!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

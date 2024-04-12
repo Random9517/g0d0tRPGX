@@ -1,0 +1,381 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc102a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We drove away the swarm of Will-o'-wisps and made our way deeper into the labyrinth, but\u30fc"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se052"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc101a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm206",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0077a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "N-No way...? Is this... the first room...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As soon as we entered the new room, Shishigami froze."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...So it comes back around to the start, huh."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "What appeared in front of us was the semi-basement study we had found when we had first gone down the stairs."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It also wasn't a case of it being a different room built to simply look the same."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The corpse of the broker lying in the corner of the room\u30fcwithout a doubt, it was proof that this was the first room."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0077a",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m063a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "Needless to say, we won't be able to break out by just walking around blindly..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "Even so, the fact that we ended up back where we started..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "It seems like it's that kind of trap. I'm not sure if the time or the number of the rooms play a role, but we'll be sent back to this room eventually."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "That can't be..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shishigami and Shonosuke sounded dejected. They probably didn't want to admit it, but they looked as if they thought that the situation was quite hopeless."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But I thought differently."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Wait, it might actually be fine."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "Fuma...? Huh, what!? What are you doing over there...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What am I doing? A body search, I guess."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had crouched down beside the corpse lying in a pool of blood and was rummaging around the body."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "Kotaro-sama? I also checked whether there was something like a key or a tool for the spell, but there wasn't really..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah, how should I say it, but... After going through it once, I realized that this labyrinth is strikingly similar to the one I read about in the \"Biography of the Witch.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "And...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "From the structure of the labyrinth to the interior of the rooms, it is exactly the same as the description in the book... But that's impossible."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sorcery inevitably contain the tendencies of the person who cast them. No matter how much the creator tries to make a spell look the same, there is always a limit."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "What do you mean...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "My guess is that... the broker lied about just one thing."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I explained while I continued to search the broker's body."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "He said that he had a sorcerer from Amidahara make this trap\u30fcbut that's probably a lie."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It's hard to believe, but it was the actual witch from the biography who created this labyrinth."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "The actual witch!? No way... is that possible!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "This guy must have gone through a lot of trouble to find her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Those whose biographies are written are not always dead. Because sorcerers and witches and the like often live oddly long lives."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "But even if it's true that the witch herself created the labyrinth... What does that mean for us...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Right. Now here's the real issue at hand."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I grinned as I searched the bloody corpse."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Looking at me would objectively give one the impression I was a psychopath, but there was nothing to do but have them bear with me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "The \"Biography of the Witch\" said that she had made notes on how to get out of the labyrinth in case she got lost. And\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "My fingertips touched something on the reverse side of the inner suit pocket."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "And in her biography it said that she had hidden those notes in the fabric of her jacket so nobody would find them. \u30fcGot it!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When I pulled my hand out, there was a small piece of paper between my fingers."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0077a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "F-Fuma!? Is that really the memo on how to get out of this labyrinth...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Probably. Let me see... \"First it should be too many. Then proceed 6 and verily insomnia is inevitable\"\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It seems to be some kind of cipher... but I should be able solve this in a minute."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

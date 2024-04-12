@@ -1,0 +1,454 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm404",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc028a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "o_t003e",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "Huaarrghhh!!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Gonza attacked Sakura with all his might."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, in the spot where the blow had landed, Sakura was nowhere to be seen."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "o_t002e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "Damn it!! Again!! Where did she go?!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(She avoided the attack by diving into her own shadow!!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Ninja Art of Taimanin Igawa Sakura was called Shadow Jutsu."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She could hide in the shadows and move from shadow to shadow. A forest with sunlight shining through the trees was the perfect battlefield for her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And also\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "o_t002h",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "!!! Guys!! Get out of the way!!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "o_t002h",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se016"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc028a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Woooooosh!!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sharp shadow blades shot out from the shadows here and there."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Group of Genin",
+        "text": "Ugyaaaaaahh!!!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Despite Gonza's warning, the shadow blades sliced through his men in an instant."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "You planted weapons in the shadows...!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "Fucking hell!!! You coward!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Gonza was using his spear to block the shadow blades and trying to keep Sakura-sensei within his range."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But he was struggling against her as she immediately dove into the shadows."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Wahaha\u266a What did you say? Are you ready to tell us about the ghost?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "o_t002h",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "Damn it!!! Don't underestimate me!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Being attacked from the shadows beneath his feet, Gonza couldn't do anything with his long spear."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Amazing... To be honest, I thought she was riding her sister's coattails... but Igawa Sakura's power is overwhelming.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(But this one-sidedness is also due to the match up. Since he's getting attacked from such a short distance, there's no room for him to properly use his spear art.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was still nice to see Gonza get beaten in such a lopsided way though."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "o_t002d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "I get it! Stop!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The shadowy attacks finally made Gonza throw in the towel."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "It's disgusting how strong these Igawa girls are, even the rumored useless sister."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Who you calling a useless sister!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Well, with the way she usually behaves... I can understand the sentiment.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Come on then, tell us your ghost story."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "o_t002c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "Yeah, that. Here's the thing... who's gonna tell you, dumbass!!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "o_t002c",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Gonza dove using his Earth Jutsu and quickly disappeared underground."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sa_t002g",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "H-Hey...!!? You could've just told me!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "<i>Remember this, useless sister!!! After I'm done with the ghost woman, I'll definitely kill you!!!</i>"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The sound of Gonza's voice coming from beneath our feet was becoming more and more distant."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm604",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sa_t002h",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Aw man, he's gone."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Gonza... I thought he was all about attacking.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A good Taimanin knew when to back off. The fact that he knew when to run away was a sign that he wasn't just a muscle head."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(The next time they fight, he will definitely come prepared with countermeasures to her Shadow Jutsu. That being said...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A haunted castle on a rainy night. And the ghost of a beautiful woman."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sa_t002a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Hey, hey, Fuma-kun, what do you want to do? Should we try to find the beautiful ghost woman?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Let's head back for now. I'll ready my squad and return. Looks like things are about to get a little interesting."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We descended back toward the school in the waning sunlight."
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sa_t002a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

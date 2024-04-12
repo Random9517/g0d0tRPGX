@@ -1,0 +1,265 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm314",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc006a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t001c",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ht_t001a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hotaru",
+        "text": "As my fight with the Harpies became a struggle, before I knew it, F\u00fcrst and Hebiko-chan had disappeared."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hotaru",
+        "text": "\u30fcIt was all my fault..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "So that means that Hebiko was abducted by that F\u00fcrst...!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hotaru",
+        "text": "Most likely."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "We need to send a rescue party right away...!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t001e",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Unfortunately, all rapid response units are out on missions. Right now, the only squad that can go to rescue Hebiko-chan is..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "My Independent Commando Unit."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t001c",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Yes."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hotaru",
+        "text": "Let me go with you too."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hotaru-senpai stepped forward with a pained look on her face. She must have felt responsible for Hebiko getting kidnapped."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It would be reassuring if you'd come with us, Hotaru-senpai. Enough so that I wanted to ask you to. But before that, I have something I want to say as the captain."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hotaru",
+        "text": "What is it, Fuma-kun?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hebiko is also a Taimanin. She was kidnapped due deficiencies in her own abilities. It's not your fault at all, Hotaru-senpai."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hotaru",
+        "text": "...You're right. Hebiko-chan is a fine Taimanin as well."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "We will absolutely save her. But..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I recalled the time we had fought against F\u00fcrst here."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "F\u00fcrst had created a gate in space and disappeared through it. If it was the same as then, how could we follow\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "We've got a lead."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Really!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t001e",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Someone who calls themselves the \"Snake Charmer\" has contacted us. They mentioned you by name, Fuma-kun. They said if you want to save Hebiko, come to the designated location."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That means Hebiko was taken hostage to get me!? I was their target all along!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "I'm not sure. But for now, we have no choice but to go along with it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Damn it..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t001e",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ht_t001a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The chance of this being a trap was high. But right now we had no other leads."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Why me... no, now's not the time to think but the time to act.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I contacted Shikanosuke (on his day off) right away and, together with Hotaru-senpai, began preparing for our departure."
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

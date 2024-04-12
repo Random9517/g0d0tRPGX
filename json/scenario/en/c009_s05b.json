@@ -1,0 +1,1299 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc103a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm321",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The battle with Onigumo Saburo had reached its climax."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m066a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Onigumo Saburo",
+        "text": "HYAAAAAAAAAAAAAAA!!"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se027"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With a metallic roar, the giant spider's deadly claws swung down."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But Shishigami\u30fc"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0077a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "\u30fcAce Katana Style: Blade Dance of Divinity!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Her sword shimmered with divine energy."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se047_01"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It didn't just block the vicious claws, dripping with powerful poison, it repelled them in an instant\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Onigumo Saburo",
+        "text": "HYAAAAAAAAAAAAA!???"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Due to the heavy blow, the giant spider crashed into the wall, and the impact threw Saburo, who was riding on its back, down to the ground."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m063a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "!? Saburo\u30fc!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shonosuke dashed toward her."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m065a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m065a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "ts_m065a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_PRIORITY",
+        "info": [
+            "3",
+            "10"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shadow",
+        "text": "AHHH... AHHHHHH..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Countless Shadows appeared in order to block his way, but\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se033"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shadow",
+        "text": "AHHHHHHHHHHH!!!??"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "...I'm sorry, but I don't have time to entertain small fries."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Shadows were cut down one by one, while Shonosuke didn't do anything."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "\u30fcNo, it wasn't that he didn't do anything."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shonosuke was a practitioner of Ninja Art: Falcon Jutsu, specially enhancing his arms."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As he had passed by them, he had unleashed his dual-wielding Iaijutsu with godlike speed and cut down all of the Shadows."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And then\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m063a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "Forgive me!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Bam*\u30fc!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Onigumo Saburo",
+        "text": "Ugh!!?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se023"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The girl, who had been trying to get back on her feet, swayed and then collapsed to the ground with a thud."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shonosuke had drawn his sword and struck her with the back, too quickly to be seen with the naked eye."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "This is insane..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There hadn't even been time for me to support them with my commands."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She was an excellent Beast Art user who had inherited the name \"Onigumo Saburo\" at a tender age, but she was being controlled."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It seemed she had stood little chance against the two Taimanin swordsmen, Shishigami Jisai and Gaku Shonosuke."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(\"It's going to be far harder than killing her,\" huh... Turns out I had nothing to worry about with those two.)"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m063a",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0077a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "Way to go!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "Yes, I have rendered her unconscious for the moment. With that she should come back to her senses soon\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As soon as Saburo had fainted, the giant spider also suddenly quieted down."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Like Shonosuke had said, it should have been the end of the matter, but..."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "\u30fcIt's not over yet!!! Don't let your guard down, you two!!"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm709",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There was a tremble in the air of the underground passage."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The soul-shattering howl of an apparition reverberated, drowning out my shouted warning."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m065a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shadow",
+        "text": "OHHHHHHHHHHHHHHHHHH!!!!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke & Jisai",
+        "text": "Shonosuke: Ugh!?\nJisai: More Shadows!? And Will-o'-wisps!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Noticing that Saburo, who they had been assigned to guard, had been defeated,"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "6",
+            "ts_m064a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "7",
+            "ts_m064a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_PRIORITY",
+        "info": [
+            "3",
+            "10"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Will-o'-wisps and Shadows appeared everywhere in the passage, in a last-ditch attack from the magical trap."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "6",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "7",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m063a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "What a tremendous amount..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m063a",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0077a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "This is dangerous! We can't deal with that many...!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Then let's get out of here!! The exit is already open, so both of you, run!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "Okay!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "As you command\u30fc!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shonosuke gathered up the unconscious Saburo."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se054"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And led by Shishigami with her tachi at the ready, we ran through the monster-filled passage towards the exit."
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "..."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc098a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hngh... ughh... wh-where am I...?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0077a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "Are you awake?"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm604",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...Shishigami? Um... we broke out of the magical trap... didn't we?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was already night."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had woken up outside the black market broker's store."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "You don't remember?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "At the end I was too busy running toward the exit... Come to think of it, you really helped me out a lot."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Every time I had been about to be caught by the Shadows, Shishigami had driven them away."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "It was nothing special. I mean, we only made it out of the trap thanks to you, Fuma."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I guess we helped each other."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I nodded with a smile\u30fcand then noticed that Shonosuke and Saburo were gone."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hmm? Where are Shonosuke and Saburo?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "Before you woke up, he took the girl and went somewhere. He said, \"Let us meet again at the far edge of fate.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What does that even mean?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "Don't ask me..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Right. Hmm...? Well, Shonosuke has always loved to act all mysterious."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It seemed that he and Saburo were safe, so there was nothing to be concerned about."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "So what are you going to do now, Fuma?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Well... I'm done with what I came to do..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I pulled out the item that I had stuffed in my pocket and checked it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was the Devildom-produced material for experiments that Kiryu-sensei had sent me on the errand to retrieve."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The store owner he had been doing business with had died, so I had \"reluctantly\" taken it off the shelf."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "What's that?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Nothing special. More importantly, Shishigami, aren't you hungry?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "Oh! I am. Starving to be honest..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I know, right. I mean we were stuck in that dreadful place since morning..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I've got some money left over, so do you want to grab a bite to eat? I'll pay for it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "Really!? I'm in, I'm in! Let's go!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shishigami's voice instantly brightened up."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Wow, you sure jumped at that offer."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "Because I'm starving... Besides, you said you would pay!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hm?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "What should I eat~? Go all out and get a steak...? Ah, but... that Italian place on the west side is hard to disregard..."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hey, hey!? It can't be anything too expensive!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "What are you talking about? I saved your life, didn't I?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "We were just saying that we helped each other, right!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shishigami and I walked toward the downtown area while quarreling with each other."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Today had been a really crazy day\u30fcbut I had made a new friend, so I guess it wasn't all bad."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "One day earlier."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Tokyo Kingdom, in a district under control of the Fuma Ninja Forces\u30fc"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm312",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc096a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "8",
+            "g_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "If he's... if he's really alive, dispose of him. Can you do that?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "8",
+            "g_t001a",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m063a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "...Leave it to me, Master. I, Gaku Shonosuke, will give it my all."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shonosuke bowed quietly and turned to leave the room."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "No... Hold on, Shonosuke."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After hesitating for a moment, Gaiza stopped him."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "? Is there a problem?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "8",
+            "g_t001f",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "That guy... he's always irritating me. Always..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "Master? What do you mean...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Gaiza didn't respond to the puzzled Shonosuke."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He just sank deep into his own thoughts\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "(I've cut off everything for the Fuma Clan... I even killed him...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But was that really the case?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "...No, he hadn't cut off everything."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "(I couldn't kill my honorable mother... Even though I knew very well that if I didn't kill her, anguish was sure to follow...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Was it his own weakness?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Gaiza asked himself."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "(Did he come back to life as the result of my weakness\u30fc?)"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "8",
+            "g_t001a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "...Shonosuke. This is my and his fate."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "Fate...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "If he gets in my way again, I'll take care of it myself. No matter how many times it takes, with my own hands\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The last of his words faded away as if he was talking to himself."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "Then... I should leave Kotaro-sama alone?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "For now, yes. Instead, I have another mission for you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Saburo did not contact me as scheduled. I'm sure she's fine, but find her just in case."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "As you command, Master\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shonosuke bowed to his deeply troubled master and left the room."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "8",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

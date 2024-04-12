@@ -1,0 +1,1558 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "black",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm208",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Christmas was just around the corner, and it was that time of year when Christmas songs were playing even in Gosha Village."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc039a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t001b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Aishu Hebiko",
+        "text": "Ahh, there you are! Fuma-chan, over here!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had been summoned out of the blue by Hebiko, so I had come to Maesaki City, a smaller city that was the one nearest to Gosha Village."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Christmas lights? Why do we have to go out of our way to see something like that during the busy time right before exams..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t001e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "\"Gohrenarie\" only lasts until Christmas, so it would be over by the time exams end! There'd be no chance to go!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko had made me come because she wanted to go see the \"Gohrenarie\" Christmas light festival that was starting this year in the city."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "One more time, Hebiko will lend you her secret notebook full of important points for the test later. Fuma-chan, you're going to pull an all-nighter anyways, right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ugh, th-that's... Sheesh, seems like I don't have a choice..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko had seen right through me. I couldn't resist her secret notebook and obediently started to walk after her."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc110a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The December sunset came early in the evening. We killed time by walking through the streets until the \"Gorenarie\" Christmas lights were scheduled to come on."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "All the shops had put up decorations to celebrate the arrival of Christmas, each more dazzling than the last in its own way."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Ehehe, so wonderful\u266a ...But still, winter is quite warm this year. You can even wear short sleeves."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Apparently it's a record-breaking warm winter. But, no matter how you look at it, wearing summer clothes is..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Oh, octopuses are always in the water. Wearing a t-shirt even in 10\u2103 weather would be no problem at all~"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Fine, but don't catch a cold. Anyways, this place is chock full of couples everywhere you look, bleh..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t001b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Oh my, Hebiko and Fuma-chan might look like one too\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko said and tugged on my sleeve."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Stop it, dummy, you'll stretch it!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Ahaha! You're a real mood killer, Fuma-chan\u266a"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "\u25c7Go... to helllll...\u25c7"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hm?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At that moment, I thought I had heard a growling voice from somewhere and looked around."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "What's the matter, Fuma-chan?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Well, just now... I heard a really scary voice..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "\u25c7Go... go to helllll...!!!\u25c7"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Again!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t001d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Eh!?"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se074"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At that moment, a cold wind suddenly blew between us. And\u30fc"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm406",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m060a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "\u25c7Go to hell... go to helllll!!! All you stuuuupid couples!!!\u25c7"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Ehh!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What the hell is this?!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A huge, evil-looking snowman was blocking the path directly behind us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "You there, watch ouuuuuuut!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What now!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Ah! Fuma-chan, move!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I jumped out of the way as if I had been knocked back by Hebiko, and a large fireball headed toward the snowman."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ooh!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The fireball was about to hit the snowman perfectly\u30fc\nbut just before impact, it suddenly shrank until it fizzled out completely."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "chr_t0080a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Ahh!! I failed again! Maybe the incantation was wrong? Um... <i>Eigel Eiglyph Daas...</i>"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When I turned around, I saw a blonde girl struggling to cast a spell. While she was reading from something that looked like a cheat sheet."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...Um, was that... magic? Did you do that??"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Yes, I did! I'm\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Just as the girl threw out her chest in pride, the snowman interrupted her."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m060a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snowman",
+        "text": "\u25c7Mwa... mwahaha!! That was some pretty lousy magic! You irritating little witch!!\u25c7"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "chr_t0080a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Silence! Your evil deeds end here! In the name of a merry Christmas, I punish you!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She snapped into a perfect pose and her large breasts swayed heavily. At her feet, a white dog showed its face."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "chr_t0080a",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "chr_t0080b",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "White Dog",
+        "text": "<i>Lilith, he's making a run for it.</i>"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilith",
+        "text": "...Ah!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "During her expository interlude, the snowman had started to scramble away."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilith",
+        "text": "Oh no!! Why you, stop right therrrrre!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ah, wait a second! What the hell is going on!? And what the hell is with that talking dog..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "White Dog",
+        "text": "<i>I'm not a dog! I'm the Ancient Dragon of...</i>"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilith",
+        "text": "I'm Lilith Abel Bindernagel! The Great Witch, renowned throughout the Devildom... is my grandmother! And this is my companion, the talking dog Berylic!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Berylic",
+        "text": "<i>...</i>"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Berylic, the talking dog, er... ancient dragon, sighed in resignation."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Berylic",
+        "text": "<i>No matter, we best look for the Snowfiend...</i>"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t001c",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "The Snowfiend? Do you mean that snowman?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilith",
+        "text": "Yes! That thing is an evil spirit that appears in winter once every ten years to ruin Christmas."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "To ruin Christmas? Why?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "chr_t0080b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Berylic",
+        "text": "<i>That's because...</i>"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This is how it went according to Lilith and Berylic."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Berylic",
+        "text": "<i>Christmas has both a light side and a dark side. Everyone has at least one sad Christmas-related memory.</i>"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "For instance, being the only one not invited to a Christmas party among friends, or feeling lonely when your parents couldn't be around because of work."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Among all these sad memories, the worst were always about relationships. Confessing your feelings and being rejected was still on the lighter side of things."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But things like\u30fc\nfinding out that someone you thought was your sweetheart spent Christmas with someone else..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was no wonder that those who had these terrible experiences came to hate and resent Christmas itself."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Berylic",
+        "text": "<i>Those dark memories have gathered and manifested into an evil spirit, which then possessed that snowman. A conglomeration of resentment, if you will.</i>"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "chr_t0080b",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "chr_t0080a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilith",
+        "text": "And that's why it tries to ruin Christmas, and it especially attacks happy-looking couples."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t001c",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "So that's why Hebiko and Fuma-chan got attacked."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That's one frightening spirit. It's not like I can't understand how it feels though."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Berylic",
+        "text": "<i>Furthermore, while the evil spirit amasses grudges, it becomes more powerful as it feeds on snow and cold air.</i>"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t001d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Cold air? Oh, is that why it's not cold at all?!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilith",
+        "text": "If we don't stop it by Christmas, the whole world will drown in sorrow and resentment! Vegetables will also die off from the warm winter!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t001f",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Ehh!? But then no one would be able to make hot pot or osechi!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilith",
+        "text": "Worry not, for I, the Great Witch Lilith, will do whatever it takes! This is also part of my witch training after all."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilith",
+        "text": "We need to determine its location first. Um... so a dowsing spell... <i>Saga Shimohno Wanan</i>..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t001c",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The self-proclaimed Great Witch opened up some kind of map and began chanting a spell while clutching a pendulum."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t003a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "No need for any of that, Hebiko will find him with these, lickety-split!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko, who had transformed into an octopus at some point, twitched her suckers."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hey!? Transforming into an octopus in the middle of the city... I mean, your scent detection as an octopus is amazing and all, but still."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t003b",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "It's fine. With Lilith-chan and her barky-buddy around, they'll think this is some kind of character."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Berylic",
+        "text": "<i>B-Barky-buddy...</i>"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She was right, the people passing by didn't seem particularly surprised."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t003c",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "*Sniff, sniff* ...Hebiko smells snow from over there! He ran that way!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko wriggled her tentacles, whose suckers boasted a sense of smell on par with highly responsive sensors."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilith",
+        "text": "Wh-Whoa! Those tentacles, could it be that you're the legendary archdemon, Nairuato-or-whatever-sama!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Berylic",
+        "text": "<i>Ohh, that's reassuring. Please assist us in defeating that evil spirit.</i>"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t003a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Demon? These tentacles are just normal octopus legs... But, sure thing on the assistance though! Right, Fuma-chan?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Guess we have to. The couples can get blown to smithereens for all I care, but I'll do it for the delicious hot pot!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We set off running, following behind the legendary archdemon, er... Hebiko."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc111a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm407",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We reached the middle of the city. This area had quickly flourished after Maesaki City had started bringing in businesses as part of the new development plan."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t003c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "It should be somewhere around here... There's kind of a sweet smell mixed in too, so it's kind of tough to tell."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hm? There's a crowd of people over there. That's..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "chr_t0081a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "chr_t0083a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akiyama Rinko",
+        "text": "Christmas cakes! Now taking pre-orders!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shinohara Mari",
+        "text": "Yes, yes~ please form a line! We kindly ask that you fill in your order form."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t003d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Rinko-senpai... and Mari-chan!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Mari-chan... oh, you mean Shinohara."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "chr_t0083a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shinohara Mari was in the same year as us and was the representative of another class. Despite her looks, she was a powerful Earth Art user."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko was also class representative, so she must have met her many times."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Those outfits...? Are they doing Christmas part-time jobs? That's a long line of people, business must be booming."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "chr_t0080a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilith",
+        "text": "And it's nothing but men standing in line."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "chr_t0080b",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Berylic",
+        "text": "<i>By all appearances, they seem like guys without girlfriends, but I suppose they are just very fond of cake.</i>"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Then Rinko caught sight of us."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "chr_t0081a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "chr_t0083a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "Ohh, what are you two doing here?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Fuma-kun and Hebiko-chan~! Did you come here to pre-order a cake?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ah, no, we..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "Please put in an order if you'd like. It might be because of the warm weather, but cake sales have been a bit slow."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Even though there's that many people standing in line?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "Last year there were three times this many. Thanks to that, our outfits have been getting skimpier at the same time."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Th-That sounds tough... But sorry, Rinko-senpai, we are actually trying to track down the cause of this warm winter."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "The cause of the warm winter?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Fuma-chan!!! Over there!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko suddenly pulled on my arm, and when I looked in the direction that the toe(?) of her octopus leg was pointing\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m060a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snowfiend",
+        "text": "\u25c7...Get blown up, normies... *Grumble*...\u25c7"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Wha-!? He's standing in line!?! To order a cake!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "He might be comfortable since there are no normies around here."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snowfiend",
+        "text": "\u25c7...*Grumble*... *Grumble*...\u25c7"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "chr_t0081a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "Ooh, so that snowman is the reason for the warm weather? It's... not a demon, so is it some sort of vengeful spirit?"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Bravo, Rinko-senpai, you're always quick to figure things out. He's a mass of grudges against Christmas, and he's been eating up all the snow and cold air."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm207",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "I see, he sure is a nasty one."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "chr_t0081a",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "chr_t0083a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "For the sake of our pay... No, for the sake of justice, we have to stop him!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Rinko and Mari stepped out of the pre-order booth and leapt toward the Snowfiend with their Santa costumes still on."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snowfiend",
+        "text": "\u25c7Gegeh!? You all!? Crap!!!\u25c7"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The snowman quickly slipped out of line and ran."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "chr_t0080a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lilith",
+        "text": "Stop right there!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And this was how we came to chase after the Snowfiend together with the two Santa Taimanin, the self-proclaimed Great Witch, and her talking dog companion."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

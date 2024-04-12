@@ -1,0 +1,725 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm407",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc130a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Tokyo Kingdom, port district."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In a quiet corner of the district, a heavily armed group was bustling with activity."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m040a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m008a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Soldier",
+        "text": "My apologies! We've lost her!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Soldier",
+        "text": "We can't reach the first platoon! They're believed to have been wiped out."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m070a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hestia",
+        "text": "What're ya doin'! Y'all are pathetic!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The one scolding the heavily armed soldiers was Hestia\u30fcthe cyborg woman with a remarkably conspicuous Kansai dialect."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hestia",
+        "text": "Aghh, so disappointin'... Still, goes to show Saya NEO's an opponent ya can't lose yer focus on."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "While Hestia was moaning and complaining, several men who appeared to be scientists started pleading with her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Scientist",
+        "text": "Hestia-sama, please capture her at all cost!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Scientist",
+        "text": "Saya NEO was built by combining the biotechnology of our agency \"G\" and the best medical techniques from the Devildom, she is the fruit of our labor."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Scientist",
+        "text": "If she were to fall into the hands of another organization, or even worse, into the hands of the DSO..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hestia",
+        "text": "Sure, sure, I gotcha."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "From the shadows, a girl was watching all of this unfold."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Girl",
+        "text": "..."
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1500"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A few days earlier."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm203",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc012a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "\u30fcSo the request is to eliminate this artificial demon?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "k_t003b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "Correct. You'll do me the favor, I hope?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In the high-class club, \"Club Persona.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had been summoned by Madam, the information broker, and had come to her secret office on the club's upper floor."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I refuse.\n<ACTOR>3,k_t003c,CENTER, CENTER, NONE, linear, 0"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "Why? I will make it worth your time."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It's too big of a risk."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Her request had been this\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "An artificial demon the UFS's secret service agency \"G\" created behind closed doors had escaped from one of their research facilities."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "\"G\" was trying to re-capture this demon, but her request was for me to eliminate it before they got their hands on it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "First of all, this agency \"G\" that created the demon is also a UFS organization, isn't it?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Then why don't they just use the UFS military or whatever and take care of it themselves?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "k_t003e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "Unfortunately, it won't work that way. How much do you know about agency \"G?\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Just that it's called \"G\" and that it's a secret service agency affiliated with the UFS state department..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Their name had come up several times."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was said that they had once been connected to my father... to Fuma Danjo, but I decided to keep quiet about that for now."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "k_t003a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "If you talk about the \"UFS\" in Japan, you usually mean the \"DSO,\" which is affiliated with the department of defense, but \"G\" is totally different from that."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "They excel at cyborg technologies and actively adapt medical technologies from the Devildom... if I remember correctly?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "k_t003b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "You seem to know a bit about them."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "k_t003a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "Contact with dark forces, and forbidden techniques that even distort someone's life in exchange for strength."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "The DSO and \"G\" have opposing views on how to handle such things."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "So different ethical viewpoints?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "Not only that. There's a lot of uncharted territory regarding technologies from the Devildom, it is way too risky."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "k_t003c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "So we cannot just stand by and watch those kind of technologies leak out."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "So that's why you want me to eliminate that artificial demon. But I must say you've been quite talkative, even though you were so full of secrets just the other day."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The masked lady didn't even try to hide any longer that she was a DSO member belonging to the UFS."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "k_t003a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "That just shows how much I'm counting on you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I see..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The DSO couldn't openly eliminate the artificial demon of secret agency \"G,\" with whom they had a delicate relationship, so that's where we came in."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I understand the situation, but it's simply too dangerous. Try asking someone else."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "k_t003b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "Oh, do you think that's wise?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What do you mean?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "You still owe me, don't you? From the time Nisha Gaiza stole the CD virus..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ugh..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The CD virus, the biological weapon that Gaiza had stolen from the UFS."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had tried to get it back in return for information from Madam."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But our plan had failed and we were beaten back, nearly getting killed in the process."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "k_t003a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "Once again, normal people could get dragged into it as we stand by and watch. Do you want a repetition of last time?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Damn it, alright, I got it. So what can you tell me about this artificial demon?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "<ACTOR>3,k_t003b,CENTER, CENTER, NONE, linear, 0\nMadam gave a relieved smile as I sat down on the sofa again."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "k_t003a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "Her name is \"Saya NEO.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...NEO?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "She's an artificial demon created based on a little girl..."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "..."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm509",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc021a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In an abandoned subway tunnel connecting Tokyo Kingdom to the mainland."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shortly before reaching the mainland, Saya NEO had been spotted and surrounded by soldiers."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "chr_t0107a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saya NEO",
+        "text": "Stay away from Saya."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Soldier",
+        "text": "This girl's unbelievable. I didn't expect her to wipe out a whole squadron..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The little girl\u30fcSaya NEO, was unarmored and unarmed. Only from her back, several sharp spiked tentacles were wriggling as if to protect her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Soldier",
+        "text": "Careful. Don't get fooled by her appearance and let your guard down. Move in cautiously for capture."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The soldiers readied their guns and slowly narrowed their circle around her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saya NEO",
+        "text": "Hmmm... Do you want to play with Saya that much?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Soldier",
+        "text": "Wh-What...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Saya's tentacles came down upon the soldiers like a snake that had found its prey."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

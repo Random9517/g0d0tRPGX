@@ -1,0 +1,462 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc065a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm314",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Wh-What do you mean...? I don't know what you're talking about, Kurenai-san..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kn_t004b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "Stop your lousy act. You can't fool my \"eye\"... you should know that, shouldn't you?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The bewilderment on Mari's face disappeared."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "...Now I've realized, this was your goal all along, wasn't it?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "You took advantage of Mari's kindness and made her drink alcohol so she would lose control of her body\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kn_t004e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "That way, even with your demonic power almost spent, you could then take over her body."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "...Why would I do something like that?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "How would I know what a villain like you thinks."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "But... maybe you were planning to use Mari's body to replenish your demonic power, and then escape when you had the chance."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kn_t004f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "No way I'll let you get away with such a foolish plan."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kurenai gazed straight at Mari, her eyes glowing red like blood."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But what she was looking at was not Mari, but the \"thing\" lurking within her."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kn_t004e",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0119a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari?",
+        "text": "\u300e...Fufu, oh dear. I thought I could buy a little more time...\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Suddenly, a different voice came out of Mari's mouth."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "Is Mari safe?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari?",
+        "text": "\u300eOf course. I would never do anything to hurt my savior. ...I did take a bit of her life force though.\u300f"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kn_t004f",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "I see. An answer expected from a rotten being like you. \u30fcLet her go right now."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "You'll just waste time even if you try to use Mari as a shield. With my sword, I can sever just your \"existence\" from within her body."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kurenai raised her two swords. The tips of their blades were not turned to Mari, but to the \"Book Djinn\" within\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari?",
+        "text": "\u300eFufu, your Evil Eye is truly fearsome... Very well then.\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari?",
+        "text": "\u300eI have received as much power as I needed. I have no use for this body anymore\u30fc\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Following his whisper, a thick darkness flowed out of Mari's body, and then\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se010"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Thud!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Uwah!? U-Ugh..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kn_t004e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "...There you are, \"Book Djinn.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Mari collapsed to the ground and moaned weakly. Kurenai held up her two swords at the ready. And standing in front of them was\u30fc"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m089a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300eHmm... I cannot thank Mari enough.\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300eThanks to her, I can move a lot better\u30fc\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The \"Book Djinn.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But all the deep wounds on his body had healed, and he was veiled in a swirl of demonic energy."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Uuhh... D-Djinn-san...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Onlookers",
+        "text": "\"Wh-What's going on!? A fight!?\" \"No, that's a monster!!\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There was a murmur of voices all around."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The noises of the fight against Meifeng had reached the ears of people in the main street, and now onlookers were gathering around Kurenai and Mari."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "Tsk, what a pain\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Y-You tricked me...? That can't be... Why would you do something like that...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300e...Because that was what I really \"wanted to do.\"\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "What he had really wanted to do was not to drink alcohol, but this."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300eThe sorcerer, my creator made me to bring ruin and misery to the world.\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300eThen, I will simply fulfill my duty until my body turns to dust\u30fc\u300f"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se112"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The djinn made the cold statement as he looked down at Mari before he unleashed his dense demonic power."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A myriad of hands stretched out from the swirl of demonic energy like tentacles. They immediately caught the onlookers around them and began to suck their life force to enhance the owner's demonic power\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Onlookers",
+        "text": "\"Uarrgh!!\" \"Wh-What is this.... aaaaaaarrrrghhh!!!\""
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "!? Th-This can't be\u30fc Please, stop it, Djinn-san!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Mari's grief-stricken cry rang out. However..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300eIf you wish me to stop, then you need to stop me yourself, Taimanin.\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The djinn responded callously, as his hands of demonic energy then reached out to assault Mari and Kurenai."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

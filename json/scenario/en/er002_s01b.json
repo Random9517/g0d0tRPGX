@@ -1,0 +1,586 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm207",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc016a",
+            "IN",
+            "3000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Haah... haah... Did she finally calm down...? What the hell is wrong with her..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sonia was a true homicidal maniac."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Attacking us for her own pleasure, Sonia had been more vicious and tenacious than the UFS soldiers who were just following orders."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "For the time being, we hadn't killed her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We had wounded her so severely that she couldn't move, and then we had put her to sleep with Shizuru's poisonous flowers."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001h",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieeeee, she's passed out happily, completely covered in blood. Homicidal maniacs are super scary."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Tell me about it...)"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "sz_t001d",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "We ended up having to fight her, but what was that all about?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This time, even Shizuru was making a puzzled face."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "There's no way to understand how a homicidal maniac thinks."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "That's fine with me. Let's hand this homicidal maniac over to the UFS and go back to Gosha quickly. Or let's just leave her here."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "I'd be okay with that, but it's up to you, Fuma-kun."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "If we do that, she's going to get killed by the UFS."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "F-Fine with me!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "sz_t001a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "But I guess it would leave a bad taste in your mouth, right, Fuma-kun?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Well, that's true..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "Then what do you want to do?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shizuru seemed somewhat amused. She might have already known my answer."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It is what it is. Let's take her home with us for now."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shizuru",
+        "text": "Roger."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "H-Hey, n-no way!! I don't want to go back with this psychopathic killer!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "The mission doesn't end until we return home. She a little, well no, she's quite insane, but she's still in our unit. We can't just leave her like this."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Do you think this is a field trip?! You gotta be kidding!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Captain's orders."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I ignored Shikanosuke's shouts of \"No! No!\" and picked up the bloody Sonia once again."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "sz_t001a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR26",
+            "OUT",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "black",
+            "NONE"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "..."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc054a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR26",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And a few days later\u30fc"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm208",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc006a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR26",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was called to the headmistress's office again."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "a_t001c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "I apologize for this. I got you and your team caught up in the internal problems of the UFS."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The always strict Asagi-sensei apologized to me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "We were in a real rough situation. By the way, what happened to that researcher?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In the end, the Japanese-looking researcher with the weird name, where both parts sounded like a surname, hadn't shown up."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "It seems like he was eliminated. Sonia was just an extra target to kill during the operation."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "And us Taimanin were an extra target on top of the extra target? What a pain."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "a_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Yes, I'm thinking of paying them back for this someday."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi-sensei smiled. It was a scary smile, but in a different way from the smile of that homicidal maniac."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "By the way, where is Sonia?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I didn't really want to ask... but still did."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I hadn't seen her since we had come back home and handed her over to Asagi-sensei."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "She went back. Saying that her wounds had already healed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Is she going to kill everyone who betrayed her?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Most likely. She seemed to be really looking forward to it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Haha..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I could picture the smile on her blood-covered face, and it sent a chill down my spine."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Ah, and this. A letter for you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi-sensei handed me an envelope."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "To me? From Sonia?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had nothing but bad feelings."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Asagi-sensei, what are the contents?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "I'm not as tactless as to read other people's love letters."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "a_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...Love... letter..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I didn't want to look at it, but I opened the envelope."
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm310",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "so_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "<i>Fuma, I felt the most wonderful ecstasy when we fought each other.</i>"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sonia",
+        "text": "<i>Please cut me open again someday. As thanks, I'll pierce your heart with my claws. See you again.</i>"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That was the gist of the letter, which had been written in English."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "so_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And it even had a bloody kiss mark."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc006a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR26",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sheesh... give me a break..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Someone truly dreadful seems to have grown fond of you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Even Asagi-sensei was sympathizing with me."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

@@ -1,0 +1,418 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm506",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc054b",
+            "IN",
+            "3000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "By evening, Asuka and I had finally managed to lose the girls."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "as_t005h",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "I-I'm beat... Really, what's up with those fantasies of yours..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We had been running all over the academy, so Asuka was exhausted and out of breath."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Please, don't talk about that... I'm a little taken aback myself..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Was that the world I had always wanted...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I mean, I was a healthy, young male."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "So of course I had thought about how I would love to be popular with all the girls in the academy."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But still, having it shown to me so blatantly was honestly shocking."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "A-Anyways!! I got the message that this world is built based on my fantasies."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "So please, continue your explanation. Why are we here...?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "as_t005c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "Right. I was in the middle of explaining that."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asuka nodded and resumed her explanation, which had been interrupted by sudden intrusion of the girls."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "I don't know how much you know about it, but... the impetus for all this was a \"Gate to the Devildom.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "A Gate to the Devildom...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That sounded like it rang a bell."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I might have had read an old document related to it in Gosha Academy's archives\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "If I remember correctly, it was a gate that connects the human world and the Devildom. And in an area overrun with demons, there's a high probability one exists."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Trade with the Devildom generated enormous profits."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And \"Gates to the Devildom,\" considered the only entry points to the Devildom, were very rare."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "The Gate to the Devildom was newly discovered\u30fcThat's how this whole thing started."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I bet that caused a pretty big uproar..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As a \"Gate to the Devildom\" could generate a fortune, lots of underground organizations would try to find them in a frenzy."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "Correct. And that uproar resulted in the situation as it stands\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asuka shrugged slightly at my words and continued her explanation."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "The first group to find the gate was a UFS task force. Apparently they wanted to claim the area in secret, but there was a stumbling block."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "A stumbling block...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "I explained before briefly. The \"Phantom Witch\"\u30fcthe Taimanin who uses a Ninja Art that shows powerful illusions to people."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "This time, the \"witch\" created a world that embodies people's fantasies and desires in an attempt to stall the enemy forces."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Trapping people in a comfortable world where their fantasies had become reality."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That was the exact situation I had been in until just a short time ago."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "The UFS task force got caught in this illusion\u30fcand at the same time, your Taimanin unit did too."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "And as far as I heard, you became aware of the UFS task force's movement and came here to investigate."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah. I've slowly started to remember things..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "as_t005c",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "While I listened to Asuka's story, my memories were slowly coming back to me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "\"Investigate the newly emerged Gate to the Devildom\"\u30fcI think that was the order I had received from Headmistress Asagi."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...And what about you? Why didn't you become trapped in the illusion?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The UFS troops and I were caught, but Asuka had been able to retain her sanity."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "as_t005d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "Me? That's because I had intel in advance. Here, look\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asuka showed me a device on her ear that was shaped like an earring."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "as_t005a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "This device neutralizes any Taima Particles the \"Phantom Witch\" creates\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "Thanks to this, I was able to remain my usual self, even when I got caught in the illusion."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I see. Always be prepared... as they say."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Taima Particles were the source of the unique Ninja Arts that Taimanin used."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This all meant that Asuka had prepared a method to deal with the Ninja Art of the \"witch\" before she had gone on this mission."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Did the masked woman prepare that device as well?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The last time I did a mission that involved the UFS, Asuka had been acting under the command of a strange masked woman called \"Madam.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "Hmmm. I'm not going to comment on that."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huh? What's up with that?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "You sure are nosy~ Lovely ladies are chock full of secrets."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asuka didn't answer my question and readily changed the subject."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "as_t005c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "Well, it is what it is, so I want you to cooperate with me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "To get out of this illusionary world, we need to find the creator and beat her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "But I have no idea where she might be hiding\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hmm..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With regard to that, I had something in mind."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The words \"illusionary world\" had reminded me of an earlier mission."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A mysterious, illusionary castle that had appeared in the rain\u30fcAt that time, a certain someone had been reacting very sensitively."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Let's find Shikanosuke. He was also on this mission with me and\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I imagine he's fully enjoying himself in this fantasy world... er, I mean, he must be wandering around somewhere."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "as_t005c",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

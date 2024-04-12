@@ -1,0 +1,353 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm407",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc042a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was now late at night and the downtown area was overflowing with people."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I quickly passed through the crowds. I had been defeated my pursuers for now, but I couldn't be certain that more weren't on their way."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Damn it... why is this happening to me? Damn demon brats!!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(If I keep wandering around like this, it will be hard to meet up with Hebiko... Isn't there anywhere I could hide for now?)"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc044a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A backstreet."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It seemed like I could lie low here for a bit. I breathed a sigh of relief."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In that moment\u30fc"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se062"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "GRRR..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I turned toward the low growling sound\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m024a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hey, hey... is this..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Cold sweat ran down my forehead."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was large in stature, resembling both a cow and a dog, with sharp fangs and claws, its entire body enveloped in a miasma."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(That's a \"Blood Dog\"... A demonic beast that resides in the Devildom. It looks exactly as I read in the archives of Gosha Academy.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Normally Blood Dogs were hunters of the Devildom, but lately it wasn't rare to see them in the human world either."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Those from the Devildom were frequently bringing them into the human world and some humans were willing to pay a lot of money for them."
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se062"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "GRRRR..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Blood Dog kept sniffing me while growling deeply. Most likely it was confused by the stink of octopus ink and the scent of soap."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(If I could somehow leave without riling it up...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I backed away very, very slowly."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m024a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m025a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Red Oni",
+        "text": "Hyuk-hyuk-hyuk! Seems my hunting dog has caught its prey."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Now it's an Oni...!?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It had a completely red body, anachronistic armor, and a spear in its hand. It was exactly as you would expect a Red Oni from a fairytale to look."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Oni were a race of fearsome fighters living in the Devildom. The Blood Dog gleefully ran back to where the Oni was standing."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "An Oni... Are you also one of those mercenaries the yakuza gangsters hired?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Red Oni",
+        "text": "Hyuk! I am not required da answer that."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "If possible I'd like to avoid unnecessary combat..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Red Oni",
+        "text": "No use arguing!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "W-Wait! At least listen to me!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I desperately tried to recall the knowledge I had gleaned about Oni from the archives of Gosha Academy."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Oni. Their fighting prowess was formidable. However, they had a simple-mindedness embodied by their inability to think ahead and a weakness to instant gratification."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Recently they were often hired by humans as mercenaries, but many of them became addicted to the pleasures that the human world provided and acted like money grew on trees."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And if they ran out of money, they would put their lives on the line to earn it as mercenaries and once again indulge in pleasure."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The method of hiring Oni for that purpose at high wages, and then forcing the Oni to spend the same money in their employers' establishments, had become normalized among humans operating in illegal channels."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Rather than fighting him directly... this calls for negotiation.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "How about we solve this with money?!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Red Oni",
+        "text": "Hyuk-hyuk!? M-Money...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Red Oni",
+        "text": "Taking a closer look, you seem like a good young man. Depending on your attitude, I might be able da let you go."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Good, it's working...! This money is my precious funds that I was going to spend on women, but it can't be helped.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I took out the money that I had been concealing in my pocket."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was 15,000 yen."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Take this, I beg of you! Life is invaluable!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Red Oni",
+        "text": "Hyuk!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Red Oni",
+        "text": "Are you looking down on me?!! I won't forgive you, kid!!! Go die!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Oni turned even redder. It looked like I had made him angry."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Eeehh!? Why!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(That's weird... Wasn't money supposed to be their weakness...?!)"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m025a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

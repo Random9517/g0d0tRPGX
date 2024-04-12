@@ -1,0 +1,1302 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm304",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc146b",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ka_t002a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Soldier",
+        "text": "What can a few ninja do! We'll crush you all toge\u30fc"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The soldier's face suddenly froze solid."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "ef009b",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se031"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A red diagonal line ran from his shoulder to his side, and he collapsed to the floor as his upper body slid off his lower half, blood spraying everywhere."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc146b",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se023"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "u_t006f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "Heh-heh, guys who ambush never expect to be ambushed themselves."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "From behind the soldier who'd been cut clean in two, Kozuki Sana appeared with a katana in her right hand and a can of liquor in her left."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "u_t006f",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "chr_t0077a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "...This is where you all die."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shishigami Jisai had also appeared."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Nearby lay the corpse of a soldier who'd been cut down before he had a chance to scream."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ka_t002a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Soldier",
+        "text": "Wha-!? Where'd they come from!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "You don't have time to be shocked!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "ef009b",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se031"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Slash!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Soldier",
+        "text": "Ghagh!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se023"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc146b",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Soldier",
+        "text": "D-Don't panic! It's just two more of them! Get in position\u30fcgwaaghh!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "u_t006f",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "chr_t0077a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "Just give up."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "What she said!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se097"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "RIGHT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Swish!! Swish-swish-swish!! Slaaash!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Soldier",
+        "text": "\"Hnnngh!!!\" \"Y-You monsters!!\" \"Whaaaaaaaghh!!\""
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se024"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The soldiers fell into a complete state of panic as their bodies were chopped to bits as if put through a wood chipper."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Not only that\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "s_t002f",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "h_t005f",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Let's go, Shikanosuke-chan!!!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Hohhhhhhh-ohh!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko sprinted in with Shikanosuke held in her octopus tentacle."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Electric Jutsu: Multi-Spark!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se030_01"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Bzrt! Bzrt! Bzrt bzrt bzrt!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Small sparks of static electricity crackled in succession."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "They struck the exoskeletons's heads where all their important sensors were concentrated."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "ra_t002a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "6",
+            "ra_t004a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Raiden Soldier",
+        "text": "\u300eSh-Shit! The monitors\u30fc!?\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Raiden Soldier",
+        "text": "\u300eAn error!? What's going on!?\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Raiden Soldier",
+        "text": "\u300eThe Lightning Taimanin isn't supposed to be here, right!?\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The soldiers inside the exoskeletons became further disoriented as their sensors began to fail them."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "6",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Heh-heh, depends on how you use it, you know? Now, Kirara-senpai!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "7",
+            "kr_t003b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "I'm all charged up, too!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kirara quickly raised her leg overhead."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Super Freeze!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She stamped the ground with her foot charged with the power of ice."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "7",
+            "CENTER",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se111"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Ka-chii-iiiiiiing!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Huge icicles emerged from the ground with clear, piercing sounds like fracturing glass, and froze all of the powered exoskeletons in an instant."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "8",
+            "ht_t001a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "9",
+            "rn_t002b",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "Now it's our turn."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hotaru",
+        "text": "Yes! We'll dismantle each and every one!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was Akiyama Rinko."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And with her, Kise Hotaru."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The two who boasted the greatest destructive power even among the Taimanin, approached the frozen iron coffins."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "8",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "9",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm314",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc048a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "10",
+            "ka_t004a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ka_t001a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Soldier",
+        "text": "Come in! Hey! Respond!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Captain",
+        "text": "Shit! What's going on!? Status report!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Soldier",
+        "text": "C-, communications currently down!! Status completely unknown!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Captain",
+        "text": "Don't be ridiculous! Keep calling until you get someone!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Soldier",
+        "text": "Y-Yes sir! This is HQ! This is HQ! Come in!! Come in!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Captain",
+        "text": "Grngh, what the hell's happening...?"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "10",
+            "ka_t004a",
+            "LEFT",
+            "CENTER",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The captain of the raiding party ground his teeth at the unexpected circumstances."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It should have been an easy mission."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "One to trample outdated ninja underfoot with state-of-the-art powered exoskeletons."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That was how it was supposed to go..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Captain",
+        "text": "Hm...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He hadn't even realized that the communications officer's loud voice could no longer be heard."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He was slumped over the communication equipment before him as if he had suddenly fallen asleep."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Captain",
+        "text": "What're you doing!? Did you get an answer!? ...Huh?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was not just the communication soldier who'd fallen silent,"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "but all the other soldiers too."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "To be precise, every one of his subordinates around him was lying sprawled on the ground, motionless like sandbags."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Captain",
+        "text": "Wh-, what?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He had yet to notice..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "that an arm had soundlessly grown from out of the soldiers' shadows and cut them down one by one with the ninjato in its grip."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Captain",
+        "text": "H-Hey! Why're you all sleeping!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Did they use sleeping gas on them?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Or perhaps it's one of those weird Jutsu that those ninja used?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Ahaha\u266a They're not sleeping."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Captain",
+        "text": "!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A voice came from nowhere."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was such a cheerful voice that it felt out of place."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "10",
+            "ka_t005a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Captain",
+        "text": "Wh-Who's there!? Who are you!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Irrepressible fear welled up."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se036_03"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "10",
+            "ka_t006a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Bratat!! Bratatatatatat!!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Captain",
+        "text": "Where... where the hell are you!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He fired his gun randomly in confusion."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "10",
+            "ka_t005a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Ka-chik, ka-chik, ka-chik, ka-chik\u30fc*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Even when the magazine went empty, his finger wouldn't stop pulling the trigger."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Uh ohhh, out of bullets, huh?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Captain",
+        "text": "Wh-Where the hell are you!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Fwiiish\u30fc*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A woman suddenly appeared behind the fear-stricken man."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Right here\u266a"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "10",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Captain",
+        "text": "Huh!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "11",
+            "ws_t004a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "You shouldn't underestimate the Taimanin, y'know\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Those were the last words the man heard."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "11",
+            "CENTER",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "ef003b",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se006"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Slice!*"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc048a",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The man's throat had already been cut, his fear still plastered on his face."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "11",
+            "ws_t004a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Ee-hee-hee\u266a Mission complete."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "11",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

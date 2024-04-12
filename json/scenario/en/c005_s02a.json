@@ -1,0 +1,563 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm401",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc051a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Haah... haah... running away is the only thing I've gained confidence in..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Unlike that black market district, I knew Gosha Academy like the back of my hand."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had somehow managed to lose the Taimanin led by Sakura-sensei and escaped to the swimming pool."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(They were mainly Fire Art users so... I might be able to hold out when there's water close by...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Phew..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I took a deep breath, calming my breathing with a special technique. This was a basic technique for every Taimanin, no, for every ninja."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Why do I even have to run away!? And also..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had noticed something strange while I was running away. Among the students I had passed by, there was not a single face I recognized."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(I can't even ask for help. This is like a nightmare... no, how nice would it be if this really were only a nightmare.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, it didn't seem like I would be able to wake up by pinching my cheek or washing my face."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Hey, you there."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!!!!? Did they find me already!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "Aren't you the first year student Fuma-kun?!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "rn_t001d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Rinko-senpai...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was Akiyama Rinko, the \"Slasher Taimanin,\" whom Shikanosuke and I had been talking about just earlier."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That very Rinko-senpai was calling my name with her eyes wide open."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "R-Rinko-senpai... you know my name?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "rn_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "And you also seem to know who I am."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I-I'm... so relieved!!! There was no one I recognized...! And Sakura-sensei keeps chasing me..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "Yeah, it was exactly the same for me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Eh!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "rn_t001e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "To tell you the truth, I was also sent to this strange world not too long ago."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Eeeh!!? ...Does that mean this is a parallel world or something like that?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "Probably..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Rinko-senpai explained what had happened to her."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "rn_t001e",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A few days ago, she had been training by herself when all of a sudden she got dizzy, and before she knew it, she had arrived in this world."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This world\u30fcshe had arrived in a world that was a little different from the world where the \"Gosha Academy\" we knew was located."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, she hadn't noticed that at first, so she went to the headmistress's office because she had something to discuss with Headmistress Asagi. But when she arrived at the office, she found someone else there."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When the surprised Rinko had gone back to her class, her seat wasn't there and she didn't know any of her classmates."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It nearly caused a scene, but by coincidence she met \"this world's Rinko.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Thanks to her cooperation, they were able to make up a story about Rinko being \"a distant member of the Akiyama Clan whose Taimanin powers had suddenly awoken.\""
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "rn_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "And so I decided to attend the school as a transfer student while trying to figure out what was going on."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Wait a second. The Rinko-senpai of this world!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "rn_t001b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "She's young but quite intelligent."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Young...?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "rn_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "Yeah. You did see this world's Sakura-sensei, didn't you? This world's Sakura-sensei is a student just like us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I felt like my head was about to explode. Not even my brain could cope with this situation."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Uhmm, so... that means this world is..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "rn_t001c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "It's like the past of our world. But most likely not our exact past."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "In my opinion, there are infinitely many dimensions and flows of time, and..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That sounds really complicated..."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t005f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "There you are, you scoundrel!!! I'll have your head on a pike!!!"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm311",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!! Not good...! Sorry, Rinko-senpai, gotta run!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t005f",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m014a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m013a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Taimanin A",
+        "text": "I'll saw you in half!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Taimanin B",
+        "text": "I'll boil you alive!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However the pool was surrounded on all sides by fresh Taimanin troops."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Can you at least get on the same page as each other?!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "Fuma-kun, what on earth is going on?!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m014a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m013a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t005e",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Rinko-san, get away from him!!! He's probably a sex offender!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Don't say that someone is \"probably\" a sex offender!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t005f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "The fact that you're here is proof enough! You must have come here knowing full well that the girls' swim class is about to start soon!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "I-Is that so, Fuma-kun!? I misjudged you!!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Eeeeh!? Rinko-senpai!!?"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t005f",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

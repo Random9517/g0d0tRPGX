@@ -1,0 +1,860 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm207",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc062a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0119a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m025a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Red Oni",
+        "text": "Hyuk-hyuk-hyuk!? Quite some skills for a cute girl like you!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Th-Thank you very much! I was feeling a bit unconfident, so I'm happy to receive your compliments."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Red Oni",
+        "text": "Hmhm!? You're thanking me!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Red Oni",
+        "text": "Are you... are you trying da mock me!!?"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "N-No...! I didn't mean to..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "(Wh-Wh-Wh-What do I do!? Ah, that's right, Fuma-kun said to\u30fc)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Mari once again recalled the time she had eavesdropped on Fuma and Shikanosuke."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He had mentioned something you call a new opponent to show appreciation for their effort."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "U-Uhm... Red-Oni-san, you're a noob!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Red Oni",
+        "text": "Wha-!?? Did you just call me a noob!? I won't forgive that!!!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Huh!? Wh-Why!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Red Oni turned even more red in his rage and came after Mari."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Mari, however, blocked his attack with her Earth Jutsu and used the opening to counterattack."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "H-Hup!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se001"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Thud!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Red Oni",
+        "text": "Ugh!! What a way da go\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se023"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Mari's powerful punch hit the Oni, causing him to lose his balance."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Yay! Now's my chance\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But just as Mari was about to use her Jutsu to finish him off..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "(Ah, but... I have to use a little less power so I don't hurt him too much...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Her innate gentleness caused her to hesitate right before her attack. And seizing that moment\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Red Oni",
+        "text": "Just kidding\uff5e!! That was just part of my performance!! Francois, get her!!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se062"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m024a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Francois",
+        "text": "GRRRRR!!!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Kyaah!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was the hound from the Devildom that the Red Oni was apparently keeping as a pet."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Taking advantage of the short moment Mari had diverted her attention, the hound jumped at her from behind while aiming for her neck\u30fc"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se050"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc062a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR01",
+            "IN",
+            "400"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se011"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Monster",
+        "text": "\u300eUargh!!!\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Just before the hound's razor-sharp fangs reached Mari's throat\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m089a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The wounded monster had shielded her with its own body."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Red Oni",
+        "text": "Hyuk-hyuk!!? Why are you defending this human!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Monster",
+        "text": "\u300eIt was her who tried to help me first... That should be enough of a reason.\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Monster",
+        "text": "\u300eNow, my lady, don't let this chance go to waste...\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The monster whispered to Mari, its breathing ragged from the pain."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Still puzzled by the unexpected turn of events, the Red Oni and his hound had stopped moving."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0119a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Ah!? Y-Yes!! Earth Art: Terra Blast!!!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se057"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As Mari's fist smashed into the ground..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "the ground beneath the Red Oni and his hound broke open, and spikes of earth of various sizes shot towards them."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se005"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Red Oni & His Hound",
+        "text": "\"Uoaaaaaaaaaargh!?\" \"Woof!!?\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Red Oni and his hound screamed and yelped. Mari used her Jutsu to pile up even more earth and trap them within."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "I-I did it!! I think I've won this time..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m089a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Monster",
+        "text": "\u300eYes. You have done well, Taimanin Shinohara Mari... Now, let's get out of here while we can.\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The monster with the top hat unsteadily stood up and whispered to Mari."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Eh? How did you know I'm..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Mari was wondering how it knew that she was a Taimanin."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Maybe the creature had guessed it from seeing her use her Earth Jutsu just now?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Monster",
+        "text": "\u300e...What's the matter? That Oni is a formidable foe. He will be back on his feet right away.\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Ah, you're right...! Let's go!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se054"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc066a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm509",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0119a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m089a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Leaving the back street, Mari and the monster had stopped at a deserted construction site."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Monster",
+        "text": "\u300eUgh, my apologies... I would've preferred to go a little further, but...\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The monster sank to its knees."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Did the Red Oni do this to him? His body had countless wounds and his demonic energy was leaking out little by little."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "N-No, it's alright... please rest for a bit..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Monster",
+        "text": "\u300e...Thank you, Mari. You have been a great help.\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "That's not true... It was you who saved me earlier..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Mari said while steadying the monster that looked like it was about to collapse at any moment."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If the monster hadn't shielded her with its body earlier,"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Mari could have died as her throat was ripped open by that hound."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "(Hnn... I screwed it up again...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Mari had wanted to save the monster, but because of her usual clumsiness, it had been her who had needed saving..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Monster",
+        "text": "\u300eFufu... You don't have to worry about that. This all happened because of me to begin with.\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Monster",
+        "text": "\u300eBesides, I wouldn't be able to bear seeing a good girl like you get hurt...\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "(This guy is some kind of monster... but he doesn't seem like a bad guy...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Demons and monsters were dangerous beings that caused harm to people\u30fcThat was what Mari had been taught at the academy."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But the one in front of her seemed to be a little different."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se010"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Monster",
+        "text": "\u300eAghh...\u300f"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0119a",
+            "LEFT",
+            "CENTER",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "While Mari was lost in thought, the monster doubled over in pain."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Aahh, are you alright!? W-We have to get you patched up!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Those wounds\u30fcdid that Red Oni do this to you!? Would a hospital be able to do something about this!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Monster",
+        "text": "\u300e...Do not worry about it, Mari. My body is already...\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "\u30fcGet away from him!!! It's an evil and deceitful djinn!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Eh...?"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The sudden, sharp voice caused Mari to turn around."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And standing there..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "kn_t004e",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shinganji Kurenai",
+        "text": "...I finally caught up to you. You're really not making this easy for me, \"Book Djinn.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Her cold gaze was directed at the cowering monster."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Wielding two swords in her hands\u30fc It was Taimanin Shinganji Kurenai."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

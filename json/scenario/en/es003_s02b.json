@@ -1,0 +1,503 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc004a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm404",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m061a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Haaaahhhhhhhh!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se045"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "\u30fc*BAM!!*"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se010"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Demon Mercenary",
+        "text": "Gaaah!!? D-Defeated by a boar..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After being rammed into a large tree, the demon spat up blood and passed out."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I (the boar) had charged with all my might and sent the last demon standing in our way flying."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Phew! I don't know if it's good or bad, but I'm getting better at using the boar body..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I mumbled and gave my body a shake."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "No, it was definitely not a good thing."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Oops, I can't just be standing around here. Where's Asagi-san...?"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When I turned around, I found Asagi-san and the demon girl called Felicia right in the heat of battle."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0084a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "\u30fcTaima Kill: Katana Kick!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "chr_t0087a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Felicia",
+        "text": "Hehehe\u266a Something like that won't work on Felly."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se007"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Clang!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi-san's sharp kick was repelled by the dark aura enveloping the girl."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "For now, it was an evenly matched battle."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The demon girl seemed to possess strength that rivaled that of the young Asagi-san."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Are you alright, Asagi-san!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Yeah... But she's a tough opponent."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Not letting her guard down, Asagi-san nodded to me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Felicia",
+        "text": "You're also pretty strong, miss. Felly's heart hasn't raced like this in a while."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The girl flashed Asagi-san a mysterious smile."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Indeed... If we keep this up, then one of us will certainly die here."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "But there'd be no sense in that. Won't you please let us pass?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Felicia",
+        "text": "Nope. Felly wants Mr. Boar over there."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Even if it might cost your life? Why?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Felicia",
+        "text": "Even then. There's something Felly wants to do no matter what."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Felicia",
+        "text": "Whatever it takes. Even if Felly has to kill every last person on Earth\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The girl whispered with a ghastly look on her face."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(A desire she's willing to go that far for...? What could this girl possibly want...?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At that moment..."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se038"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Rrrring...*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Felicia",
+        "text": "Oh, a call from papa!? Sorry, miss. Wait a sec."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The girl's face lit up and she pulled a smartphone out of her sleeve."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Huh? Yeah, alright, but...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The girl paid no mind to the dumbfounded Asagi-san and started talking on the phone."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm208",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Felicia",
+        "text": "Yes, hello? It's Felly. C'mon, papa, you can't keep being a bother like this. It was just getting to the good part."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Felicia",
+        "text": "Huh? What's Felly doing? Playing tag with Mr. Boar."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Felicia",
+        "text": "If you catch Mr. Boar and kill him, your wish will become true or something like that. Yeah. Anything you wish for."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Felicia",
+        "text": "Eh? Because you promised you'd do hatsumode together today so Felly even made beautiful kimono..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Felicia",
+        "text": "But then you said you can't go because you're busy with work..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Felicia",
+        "text": "That's why Felly wanted to kill Mr. Boar so Felly could do hatsumode with you, papa... Huh? You'll go!? You don't have work anymore?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Felicia",
+        "text": "Whoa!? For real!? Yeah, let's go, let's go! Let's go right now!! OK, Felly is coming, papa\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The girl ended the call."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "U-, um...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi-san had watched the whole scene unfold with her mouth agape."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Felicia",
+        "text": "Oh! Sorry, miss. Felly doesn't need Mr. Boar anymore\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Y-You don't...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Felicia",
+        "text": "Nope! Felly's busy, so gotta go! Do your best to not get caught, Mr. Boar\u266a"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se078"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The girl said and cheerfully disappeared deeper into the forest."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi and me (the boar) were left with the unconscious group of demons."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m061a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Um... What just happened...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "D-Don't ask me... Anyways, at least we made it through in one piece..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We nodded to each other, our mixed feelings showing on our faces, and then resumed our pursuit of the lucky boar."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

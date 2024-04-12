@@ -1,0 +1,2002 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm307",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was a few days after I had been appointed as captain of the Taimanin Independent Commando Unit."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was like a new man, studying zealously and working up a sweat in training\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Just kidding, I was still living the same aimless school life that I had been up until now."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "...Ma..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "...Ma ...st ...er..."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc003a",
+            "IN",
+            "1500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Fuma Tokiko",
+        "text": "...Master!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I awoke from my slumber to a familiar voice."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hm...? Tokiko, time for breakfast?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t001c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "Please stop fooling around and get up."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Against a backdrop of gentle sunlight, Tokiko was peering at me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ahh... I must've fallen asleep..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t001e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "Your afternoon classes already began ages ago."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "English class? Taimanin don't need English."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "Again with that..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I'm now the captain of the Independent Commando Unit. No matter how many classes I skip, I won't be expelled. That's one of the perks, Tokiko."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There were many students who went on missions as Taimanin while attending school."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Those students would not get expelled even if their attendance was lacking."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "You won't be expelled, but you may have to repeat a year... It's uncool to be the captain who remains a student forever."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "125"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ugh..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That means Hebiko and Shikanosuke would become my senpai. That definitely wouldn't be great..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...Okay, I'll try to attend classes. So what's up? Did you need something from me?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "Yes. Take a look at these. They are letters for you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Letters...? For me?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "Yes, they are requests made to the newly established Independent Commando Unit."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Requests? We got that many?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I slowly got up and took the stack of letters from Tokiko."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Let's see..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I read the first few letters\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "\"It seems like ghosts are haunting the nearby castle ruins. Please investigate.\" \"Someone has been breaking tons of windows as a prank. Catch the culprit.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "\"My girlfriend doesn't trust me anymore so I'm running away. Don't come looking for me.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...Huh?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What the hell are these... Do they think I do odd jobs?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "It just shows how much attention you are getting."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Heh, Tokiko, you look happy about it."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t001b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "Of course I'm happy! My master is getting so much attention...!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(I'm not exactly pleased with the kind of attention they're giving, though...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "So that's what you needed to tell me?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "Of course not only the letters! Headmistress Asagi also has a direct order for you!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t001b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "Rejoice, it's your first mission!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "My first mission..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Tokiko seemed really happy."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Maybe it really is something to be happy about...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "People kept calling me \"Diot,\" and I've always been treated like a failure."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And now Igawa Asagi, the Taimanin Chief Commander, had acknowledged my efforts and was giving me direct orders. It still felt like a dream."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t001c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "She said, \"Come to the headmistress's office at 15:00.\" You absolutely cannot be late!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I know, I know."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Oh well, I guess it's not so bad.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At any rate, seeing Tokiko happy didn't put me in a bad mood\u30fc"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t001c",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "black",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Three days later."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc007a",
+            "IN"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm305",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "\"Tokyo Kingdom,\" the abandoned city floating in Tokyo Bay\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The man-made island about half the size of Sakurajima was once a major project of the government called \"Tokyo Kingdom City.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It had been expected to be a second city center for Tokyo, where the population had been increasing steadily. \u30fcHowever..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Attempts to attract businesses failed, and construction of the Tokyo Bay Subway was delayed, making it an isolated island with inconvenient transportation, so residents left one after another."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And then, before anyone knew it, smugglers, criminals, anarchists, and all sorts of demons had started to move in..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At present, it had become a major slum of pleasure and decadence."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc008a",
+            "IN",
+            "1500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The air was warm and humid, and the stench of garbage and spices\u30fcas well as the unadulterated scent of sex\u30fclingered in the air."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This was the downtown area of Tokyo Kingdom."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had... I mean, we had set foot on this island after receiving direct orders from Headmistress Asagi."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Hmm... so this is Tokyo Kingdom, one of the most infamous Cities of Darkness in Japan...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Once a City of Darkness formed, women with nowhere else to go would also turn up, following the scent of money that gathered there."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The downtown area we were in had now become famous as Japan's, no, Asia's mecca of debauchery."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Back in the old days, I'd be old enough to get married. I would like to have a bit of fun with the ladies though...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There should be time. I had also received quite a bit of money to prepare for the mission."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(However\u30fc)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I glanced at my companion walking next to me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Nah... I should behave myself for now...)"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR01",
+            "OUT",
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR01",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ooh, is that an Oni? First time I've seen one..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "And those prostitutes over there are Succubi? They really are something to look at. Is that a centaur!? So many different beings from the Devildom..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "m_t003f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yatsu Murasaki",
+        "text": "Don't look around like that. You'll attract attention."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Murasaki-sensei...! But there are all these demi-humans walking around that I've only seen in books so far!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ooh, what's that...? That's some crazy armor..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Murasaki",
+        "text": "Good grief, we aren't here on vacation. This is Tokyo Kingdom. Be sure to keep a low profile."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Are you really the right person to be telling me that!?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "...Is what I had wanted to say, but I managed to keep my mouth shut."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yes, the one accompanying me on this mission was Yatsu Murasaki-sensei. She was a Taimanin famous for her bravery, and also a teacher at Gosha Academy."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She was honest, with a strong sense of justice, overwhelming strength, and unparalleled beauty. She was admired by the students at Gosha Academy."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(She really is a tough one to deal with. You could say she throws me out of whack...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The woman standing before me was a beauty with an alluring figure."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But in spite of that, it was almost like the opposite\u30fcI felt a sense of intimidation as though a muscular gym teacher were standing before me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Um... Murasaki-sensei, I have a question."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "m_t003c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Murasaki",
+        "text": "What is it, Fuma?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Why did you pick me for this mission?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "m_t003d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Murasaki",
+        "text": "Hmph, that's your question?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I'm just curious."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This was the first mission for the newly formed Independent Commando Unit, appointed by Igawa Asagi."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was to cooperate with Taimanin Yatsu Murasaki to infiltrate Tokyo Kingdom and bring back the demonologist Kiryu Sabato, who was on the run."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And Murasaki-sensei had picked me to go with her. It was quite a surprising choice. Tokiko had been as happy as if she herself had gotten picked."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(But why me?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Even though we were called the Independent Commando Unit, it wasn't like we had any achievements as of yet. So why did she choose me?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "m_t003a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Murasaki",
+        "text": "I heard from Asagi-sama about your actions during the rebellion. You quickly noticed that the chaotic battle was just a diversion and ran to protect Asagi-sama faster than anyone else."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I think... Headmistress Asagi would have been fine even without my help."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(And the real reason I went to the headmistress's office was to stop Gaiza...)"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "m_t003g",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Murasaki",
+        "text": "Of course. Asagi-sama wouldn't be defeated by the likes of F\u00fcrst or the greenhorn Nisha Gaiza!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Murasaki-sensei's face became flushed as she talked about Asagi-sensei."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Then why?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "m_t003c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Murasaki",
+        "text": "It's important that you saw through the enemies' plans. I'm counting on that brain of yours."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "My... brain?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "m_t003f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Murasaki",
+        "text": "What, dissatisfied?"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "125"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No, not at all! It's an honor, thank you very much."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I held back the urge to say \"Yes ma'am!\" but still thought that her choice was a bit surprising."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Murasaki-sensei's Ninja Art was an Exelemental Ninja Art called \"Immortal Awakening.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It gave her the superhuman body of a nearly immortal being and the godlike strength to match it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She was your typical heavy hitter, said to be strong enough to destroy the armor of a tank."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Of course she was well aware of her own abilities and preferred tactics that allowed her to utilize that brute strength."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And now someone like her was counting on my \"brain.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Maybe she's actually not a Taimanin who's only focused on power...)"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "m_t003d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Murasaki",
+        "text": "Interesting."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Eh?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Murasaki",
+        "text": "Fuma, I know you are analyzing me right now."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ah... I'm sorry. It's a habit."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Murasaki",
+        "text": "It doesn't bother me. Analyzing is your job."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(My job...?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Murasaki-sensei said no more and resumed scanning our surroundings."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ah, while we're at it, there was something I wanted to ask about..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "m_t003a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Murasaki",
+        "text": "Something else?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "About this mission. I heard Kiryu didn't switch sides to Nomad..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "But according to these documents, Kiryu is a former Nomad demonologist. Wouldn't it make sense for him to return back to Nomad...?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "m_t003f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Murasaki",
+        "text": "No. He's just sulking."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I see, he's sulk-... what?!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "m_t003c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Murasaki",
+        "text": "He had noticed that Muroi was actually F\u00fcrst. So the question of why he didn't report that turned into a problem at a meeting..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Turned into a problem...?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "m_t003h",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Murasaki",
+        "text": "I-I was a bit too harsh, and he ran away sulking!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "What the hell."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had read about Kiryu Sabato in the documents I had received before the mission."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He was a demonologist that used to work with Nomad, but Murasaki-sensei had captured him, and now he was living in the basement of Gosha Academy."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He had become an important asset, sharing his knowledge in Devildom medicine and surgical practices with the Taimanin, and helping with the treatment of demonic toxins and wounds."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "m_t003c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Murasaki",
+        "text": "Someone like him, a demonologist who excels in not only medicine, but also in modifications and enhancements, is going to be sought after by everyone."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Murasaki",
+        "text": "If he fell into anyone else's hands, he would be an extraordinary threat."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I'm rather surprised he has cooperated with us until now."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Murasaki-sensei looked like she was sucking on a lemon as I spoke."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "m_t003h",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Murasaki",
+        "text": "Anyway, we can't just let him roam free. If the government finds out, they'll put a hit out on him..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "So you don't want to kill him then?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "m_t003f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Murasaki",
+        "text": "More importantly, are you investigating the area Kiryu is hiding in?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Y-Yes! I've dispatched members of the Independent Commando Unit in advance to infiltrate the area and investigate. We should be able to get some information when we regroup."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "m_t003c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Murasaki",
+        "text": "Have you already found Kiryu's hiding spot?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No, not yet... First of all, I had them investigate if there was any place in this town where we could gather information."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Murasaki",
+        "text": "Hmm. When in Rome, do as the Romans do? Then I'll leave you to deal with locating Kiryu."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Eh?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "m_t003f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Murasaki",
+        "text": "From here on we'll act separately. I have another mission to deal with. Be careful when dealing Kiryu Sabato, got it?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Be careful... of what?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Murasaki",
+        "text": "That guy is the opposite of what you would call righteous and is rotten to the core."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Is it alright to let someone like him to be a demonologist that treats Taimanin...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Murasaki",
+        "text": "You won't be able to deal with him by ordinary means, even if you can find him. His character is completely tainted by evil."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was a harsh way to put it."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "m_t003h",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Murasaki",
+        "text": "In case you ever have trouble dealing with him, use this."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Murasaki-sensei held out a single envelope. On the back side it was tightly sealed with wax."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Some kind of... important document? Maybe some information Kiryu wants...)"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "m_t003g",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Murasaki",
+        "text": "Listen, absolutely never open it. If you open it, Fuma, I'll have to kill you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Eh... u-understood."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "m_t003c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Murasaki",
+        "text": "Very well. I wish you luck."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "m_t003c",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Murasaki-sensei left me with those words and simply disappeared into the darkness."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was left behind alone in an alleyway in the City of Darkness. In my hand, a single thin envelope."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "\"Open it and I'll kill you\"... Wh-What the hell is in here...?"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "2000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1500"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc016a",
+            "IN",
+            "3000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001c",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002c",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm208",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Uehara Shikanosuke",
+        "text": "Hey, Hebiko...!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Aishu Hebiko",
+        "text": "What?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "I hate to say it, but..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Spit it out already."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aren't you lost?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002f",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "So what!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The agents who had infiltrated Tokyo Kingdom in advance\u30fcHebiko and Shikanosuke\u30fcwere completely lost."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "250"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001h",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieeee!! I knew iiiiit!!!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hey, Shikanosuke-chan!! Stop making a fuss!! You'll attract attention!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "But, but!! We're lost in a city full of villaaaaaaaains!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke complained in a tearful voice. After walking around blindly, they no longer even knew which direction they had come from."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002f",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hebiko told you you're too loud! This is a dangerous neighborhood!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "What should we dooooo?! We have to quickly regroup with Fumaaaa!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster",
+        "text": "Dear, oh dear~ Are you two in trouble?? Do you want this nice guy to help you??"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002c",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001c",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke & Hebiko",
+        "text": "No thank you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A dangerous-looking gangster had called out to them. They both replied immediately and quickly tried to leave."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster",
+        "text": "No need to be shy~ Look how cute you are~"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He must have been on drugs or something. The man stared at them with wide, lifeless eyes and came closer."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002k",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001h",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke & Hebiko",
+        "text": "Aieeeee!!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "H-Hey! He seems to like you, Hebiko! He thinks you're cute!! Go get him!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Kyaaah\u2500!! Hey!? Don't push Hebiko, you traitor\u2500!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "L-Look at his eyes! Those are the eyes of a murderer!!! Maybe even the eyes of a murderer who eats his victims!? Please let us go!!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002f",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Th-Then why are you pushing Hebiko towards him!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The two of them were squabbling in front of the wide-eyed gangster."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002f",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster Girl",
+        "text": "What's going on? Are you picking fights again?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m007a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m039a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "From the back, an equally dangerous-looking gangster girl appeared."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster",
+        "text": "Whoa, big sis!!! There's a kid that you'll love right here~ You already used up the previous kid, didn't you?!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieee!!!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Sh-Shikanosuke!! You're her type!!! Go, go!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Whoa!? Stupid! Don't push me, you stupid!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The tables were turned, and this time Hebiko was pushing Shikanosuke forward."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster Girl",
+        "text": "Hmm\u266a You're right, he's cute\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieeeeee!! Hellllppppp!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The woman's deep red nails reached for the both of them\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster Girl",
+        "text": "She's somewhat lacking in sex appeal, but she has nice titties\u266a"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t002d",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Eh."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Her fingers were prodding Hebiko's breasts."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster Girl",
+        "text": "What a lovely shape\u266a I really want to squash them\u266a"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "250"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Eh!? H-H-Hebikoooo!?!?!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster Girl",
+        "text": "Of course\u266a"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t002h",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Aieeee!! Heeellllppp!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t002h",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m007a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke was watching Hebiko and the gangster girl chase each other in circles with a distant look in his eyes."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Hebiko... I will never forget your sacrifice...!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But he too was being pursued by an evil entity\u30fcright behind him."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001c",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m039a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster",
+        "text": "Y-You look delicious!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Ghaiee!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangster",
+        "text": "S-S-Such a firm ass\u266a"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001h",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Me tooooo!? Stooop!! Don't touch my buuuuuuutt!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The pitiful screams of the two echoed through the skies of Tokyo Kingdom."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1500"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001h",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m039a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

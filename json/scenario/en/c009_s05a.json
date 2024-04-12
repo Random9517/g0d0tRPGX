@@ -1,0 +1,550 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc102a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm203",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Behind the last door\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se052"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc103a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "was a vast underground passageway, different from the strange rooms that had stretched on and on."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m063a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "Is this...?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0077a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "!? Did we get out of the labyrinth...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Oh. Good, it seems I was right."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If I had been wrong, I had intended to think about it however many times, but it felt good to get it right on the first try."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "If we've made it this far, the goal should be near. If we continue onward, we should be able to break out of the \"Crossroads of Confusion.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "Fuma, amazing..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "Yes. You are just full of surprises today..."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Oh, am I? But it's too early to rejoice. We still need to find Saburo and\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "HYAAAAAAAAAAAAAA!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Suddenly, a bloodcurdling shriek echoed through the underground passage."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What was that!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We stared down the passage. And there\u30fc"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm320",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m066a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Kill... kill... eliminate intruders..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There was a giant, monstrous spider with demonic miasma all over its body\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And on its back sat a girl in a school uniform, her eyes distorted into emptiness."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0077a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "Wh-What... the hell!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That's Saburo. The Onigumo Clan is known as a clan of Beast Art users who control giant spiders, but..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0077a",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m063a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "...But there is something wrong with her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Even when she looked at me and Shonosuke, she gave no indication she recognized us. Rather\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "It definitely seems like she's being manipulated."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m066a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Onigumo Saburo",
+        "text": "HYAAAAAAAAAAAAAA!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The giant spider that Saburo was riding roared and scratched the floor with its rigid limbs."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The spider was gathering its strength. It was ready to pounce on us at any moment."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m063a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "Kotaro-sama, Saburo is...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shonosuke eyes darkened ever so slightly as he asked me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Did we have no choice but to kill the crazed Saburo\u30fcthat's what he was asking."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It will be fine. She's just been taken over by a Shadow."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "Then...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yes. Even without killing Saburo, we can expel the Shadow if we knock her unconscious. But\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I observed the giant Oni-spider that was giving off a sinister aura."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Honestly, it's going to be far harder than killing her. Knocking Saburo out while she's being protected by the Oni-spider, I mean."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shonosuke smiled with a look of relief and quickly moved forward."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "\u30fcThank you, Kotaro-sama. Leave this to us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Following after him, Shishigami also drew her sword and moved forward."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m063a",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se016"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0077a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "So that's how it is."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m066a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Onigumo Saburo",
+        "text": "HYAAAAAAAAAAAAAA!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The two sword-wielding Taimanin stood in the path of the charging Oni-spider as it roared."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

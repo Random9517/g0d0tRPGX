@@ -1,0 +1,1133 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm203",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc131a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Avoiding towns and crossing over several mountains, we had finally made it to Maesaki City, the closest city to Gosha."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t002d",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Phew, I think we somehow managed to lose them."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Haa... haa... It's been quite a while since I ran this much."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t002c",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Good thing Heberybody managed to ride in the back of that truck on the way."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That damn masked woman, I didn't expect her to even hire mercenaries. She's really trying to get rid of Saya at all costs without exposing herself to \"G.\""
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saya NEO",
+        "text": "Hngh..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "We're almost to Gosha. Hold on for a little bit longer."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se037"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Craaash!!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Uwah!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As we were talking, a fireball suddenly rained from the sky and crashed into the ground before us."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Uwaaah!? Wh-What was that!? A meteorite!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "No! It's her!"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm304",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "How long are ya gonna keep on runnin'!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A familiar voice echoed from the middle of the sparks the impact had sent flying."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m070a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hestia",
+        "text": "Too bad though! I'll burn y'all alive! Oh, and I'll be taking Saya NEO from ya."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hestia..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Who had appeared was Hestia, one of the pursuers from \"G.\""
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "How did you know where to find us!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Judging from how the soldiers had behaved earlier at the construction site, most likely a transmitter or something like that had been implanted into Saya's body."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Fuma! What do we do!? She's pretty strong, isn't she!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We had fought her before, so we had some data on her. But the same was true for her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hestia",
+        "text": "What're y'all just standin' around for?!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se090"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Wooosh!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But before I even had time to make a plan, Hestia's flames licked at my feet."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Uwah!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hestia",
+        "text": "Yer the one with the \"brains,\" so I'll crush ya first!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se090"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Roooaaar!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ugh!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Another attack. I stumbled as I lost my footing, as well as my hold on Saya."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hestia",
+        "text": "Gotcha! I'll turn ya into spit roast!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Another flame sparked to life in Hestia's modified arm."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Damn it\u30fc)"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Fuma!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se014_01"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Bzzzzzzzzz!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hestia",
+        "text": "Ouch!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At the last moment, electricity ran through Hestia's arm."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Her flames sprayed in the wrong direction, setting fire to weeds that had been growing beside some flower beds."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t004f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Fuma-chan! Saya NEO-chan!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko stretched out her octopus tentacles to rescue Saya and me out of the sea of fire."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m070a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hestia",
+        "text": "What in the? Looks like ya still don't know when to give up..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, the next attack was immediately aimed at me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hestia",
+        "text": "This time I'll crush ya for sure!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "H-H-Hey, wait!! Y-Y-Y-You'll have to d-d-d-d-deal with me first!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hestia",
+        "text": "Huh!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m070a",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "700"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t002d",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "700"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Hop.*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "To my amazement, Shikanosuke had jumped in front of Hestia."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The reason he looked to be trembling was not simply because of the electricity he had gathered around his body though."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hestia",
+        "text": "Hm? Ain't you the kid who threw that lousy shuriken at me the other day?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hestia",
+        "text": "Do ya wanna get burned for good this time? Huh?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t002h",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieee..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t002f",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "N-No! I-I'm gonna beat you this time! B-B-B-Better prepare yourself!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke was backing away slowly, but his gaze was fixed on Hestia."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Hebiko! Look after Fuma and Saya NEO!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "G-Got it... But your legs are shaking, Shikanosuke-chan!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t002d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Th-There are times when a man has to fiiight!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "What he said sounded cool, but he looked like he was about to cry and his legs were trembling furiously."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Shikanosuke-chan, you kind of look cool and uncool at the same time!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Sh-Shut uuuuuuup!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hestia",
+        "text": "What, yer kinda funny, kid. I'll do my best to roast ya well done!!!"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se015"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Roaaaaaaarr!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The largest flame she had created so far formed in Hestia's hand."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t002f",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieee! N-No, I won't lose!"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se030_01"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Bzzz bzzzz!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Determined, Shikanosuke gathered electricity around him."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hestia",
+        "text": "Hmph, I guess you never learn. That ain't gonna work on me, you should remember from last ti...!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Battery on! Eat this, Bambi-no Spark!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se030_01"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t005c",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_PRIORITY",
+        "info": [
+            "2",
+            "10"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Before Hestia could unleash her flame, a powered-up electric fawn attacked her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hestia",
+        "text": "Wahahaha! What is that!? Are ya kiddin' me!? An electric deer!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hestia laughed loudly at Shikanosuke's attack."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t005e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Go, aim for her arm!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The electric fawn jumped at Hestia's arm."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hestia",
+        "text": "What, something like that ain't gonna work against my cyborg arm...!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se030_01"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Bzzzzz!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sparks shot out wildly from her cyborg arm."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was over in a second, and it looked like there were no scratches on her arm, but\u30fc"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hestia",
+        "text": "Uaaarrgh!? My arm!? What'd ya do to it, ya little shit!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t005b",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Haa... haa..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hestia",
+        "text": "And why are ya out of breath!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t005c",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "S-Static electricity has a weak current, but a super high voltage!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Even though it had been only for a second, the electrical arm had been short-circuited by the high voltage of static electricity and could no longer be used as a weapon."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "That's why static electricity and machines don't mix! Remember that!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hestia",
+        "text": "Hrm, ya scared the shit outta me... Whatever! My legs are enough for ya!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t005d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "F-Fuma! What are you doing!? Go ahead already, hurry!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "But..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t005e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "J-Just goooo!!! Just let a man do his thing!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "A-Alright. Don't you die on me, Shikanosuke."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se054"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Spurred on by the desperate look on Shikanosuke's face, we started running."
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "..."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm509",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc113b",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was now the middle of the night. We were running down an old road without any street lights, relying only on the moonlight."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hidden alongside this road was the start of a mountain path. That was the entrance to the path leading to Gosha."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t004g",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hebiko hopes Shikanosuke-chan is alright."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That scaredy-cat allowed us to come this far. We have to do all we can to bring Saya back to Gosha."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t004e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "You're right! But wait, Fuma-chan!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko quickly stopped me and pointed at the tip of her octopus tentacle. That was the sign that her sucker sensors had detected something."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t004f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "You there, behind the rock! Come out already!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ak_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "Phew, finally you're here. I thought you had gotten killed by those \"G\" guys."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Akitsu...!!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

@@ -1,0 +1,1921 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc119a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm506",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That night\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Led by the wannabe \"bad girl\" Taimanin Kozuki Sana, we made our way toward the Underground City Yomihara."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "u_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "So, Sana-san, what exactly will we do on this mission?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "We only heard up to the point of infiltrating Yomihara from Asagi-sensei."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "u_t001c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "Yeah, I don't know either."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002d",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Three of Us",
+        "text": "Shikanosuke: Eh?\nMe: Huh?\nHebiko: You don't know?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sana looked at our shocked expressions and laughed heartily."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "u_t001c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "I mean, my job is only to guide you guys to Yomihara. Ask someone on the ground there if you wanna know the rest."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "So there are other Taimanin who already infiltrated the city?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "u_t001f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "Seems like it. The plan is for them to contact us once we've arrived."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I see..."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was a widely used method for undercover missions."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Each agent was given as little information as possible in case they were captured by enemies."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...Hm?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As I was thinking to myself, someone lightly tugged at my clothes."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Hey, Fuma, what is this place...? It's dark and creepy... is Yomihara really just beyond here...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was Shikanosuke. I supposed it was because he had always been afraid of the dark, but today his jumpiness was above and beyond."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Nope. I wouldn't say \"beyond here,\" because Yomihara is 300 meters below ground, so we need to go deeper."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We were walking through the new outer flood bypass for the capital region located beneath Tokyo."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was a structure that had been built 100 meters underground, even farther down than the capital region's 50-meter deep original outer flood bypass."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It had been being built as a guard against local disasters, but the plan had stalled out midway."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At present, the unfinished project lay neglected, and..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "...it was pretty much the only way to reach the lawless, underground city of Yomihara, located 300 meters below Tokyo."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "W-Wooow... even deeper...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What, are you scared, Shikanosuke? Your voice is trembling."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "I-I-I-I-I-I'm not scared!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "It's j-just... 300 meters... is too deep, don't you think!? Why is it in a place like that!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001d",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002c",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Shikanosuke-chan. That's because there's a Gate to the Devildom down there."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001e",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "A Gate to the Devildom...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yes. It's an accessway to the Devildom from the human world, rumored to be in the deepest part of Yomihara."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Which is why Yomihara is called \"the closest city to the Devildom in Japan\"\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Eight out of ten residents are from the Devildom, and I've heard they are constantly struggling for power..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I guess in a way, it's a more dangerous city than Tokyo Kingdom."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In other words, Yomihara was the human world's trade port with the Devildom."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The profits to be had there were far beyond those of Tokyo Kingdom, and that alone led to dangerous people gathering."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Eeeeeehhhhh!!!? More dangerous than Tokyo Kingdom????"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hmhm? Are you scared, Shikanosuke?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "N-N-N-N-N-Not at alllll!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "B-But... my stomach started hurting so I'll head to the bathroom for a bit..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "u_t002c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "Ahaha!! You guys are overreacting! Once we get there, you'll see that Yomihara isn't that different from other cities."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sana joined the conversation, putting an arm around the terrified Shikanosuke's shoulder."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "u_t002c",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001d",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "R-Really? Sana-senpai...?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "u_t002f",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "Really, really. I've actually gone undercover there and returned many times."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001b",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "I-I see... Then I guess we're safe..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "u_t002c",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "Well, some of the partners I went there with are dead though. Ahaha!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "It's not safe at all!!!??"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke was almost crying. It certainly wasn't a laughing matter."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "u_t004f",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "Nah, it only happens once in a while. Listen, calm down, Shikanosuke. Here, have a drink."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As she spoke, Sana-san took out a drink can and showed it to us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I mean, even if you tell him to calm down... And wait a minute, that's... alcohol, isn't it?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "u_t004c",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "Yeah, and?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In response to my skeptical expression, Sana-san tilted her head as if to say, \"What's the problem?\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "LiLiTH Super Strong!! Man, it's really good."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "There's no way a student can drink alcohol!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Unfazed by what I said, Sana-san thrust the can in my direction while laughing."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "u_t004f",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "You're a student, but also a Taimanin. It's alright, it's alright."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Nah, no way it's alright..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I replied in disbelief, but Sana-san just smirked without any concerns."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "u_t004f",
+            "LEFT",
+            "CENTER",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "What, Fuma, are you the serious type? It goes down surprisingly easy and tastes great."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I mean, to begin with, we are on a mission right now..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "u_t004c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "You are all so stiff, you know that. The only thing I want to be stiff is \"that thing,\" ahahaha!!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001e",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "(H-Hey, Fuma!? She's super cute, but she acts like an old dude!!!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Y-Yeah... It's too late now, but something about this mission stinks to high heaven...!!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke and I were abuzz with discussion of whether or not we were going to be okay working with this person, in more ways than one..."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "u_t002a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002f",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Sana-san!! Please don't pull Fuma-chan and Shikanosuke-chan down the wrong path!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hebiko!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As expected. Hebiko, who had the qualities of a class representative, sternly warned Sana-san."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "The wrong path? That's just mean. LiLiTH Super Strong is nice and tasty~"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "It's not about the alcohol being nice and tasty or whatever! Besides, this is a mission right now. Be a bit more serious."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "u_t004b",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "Hehe, it's alright. I'm serious when I have to be. More importantly, Hebiko..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "u_t004f",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "You're so angry... I wonder why? Wait, is it that!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sana-san snickered to herself and walked closer to Hebiko."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Wh-What is it...?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "u_t004b",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "Ehehe... which one, I wonder~? Fuma? Or Shikanosuke?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002i",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "~~~~!?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002f",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "R-Really! Hebiko doesn't know what you're talking about!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002h",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se082"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se082"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "u_t004b",
+            "LEFT",
+            "CENTER",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "For some reason Hebiko turned red and rushed ahead of us."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "u_t002c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "Ahaha! Hebiko~ wait! Let's have a heart-to-heart girl talk~\u266a I'm fine with the one left over!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se082"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sana-san followed after her, already in an unpleasant and intoxicated state."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001e",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Hmmm. I don't really get it, but she's astounding, in a variety of ways..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Well, let's get going too..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Yeah..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We nodded to each other with serious faces. And at that moment..."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se083_01"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Clang, clang...*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hm? Is that a...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had accidentally kicked something that looked like an empty can of juice."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was probably the can of LiLiTH Super Strong that Sana-san had tried to give us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But for some reason it was empty."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "What's wrong, Fuma?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ahh... No, it's nothing..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There was no one around us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Who drank this and when...???"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I followed after the others, tilting my head."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc119a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After walking for a bit, Sana-san's relaxed expression became tense."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "u_t001d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm406",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "Ahh, right here."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "Guys, proceed with caution from here on. It's gonna get a bit dangerous."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...Are you talking about those lights over there?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I peered into the darkness. The vast underground flood bypass was dotted here and there with inexplicable lights."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "Those are Armed Refugees. They up and settled in this flood bypass and claimed it as their territory. If you provoke them, things'll get messy."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Armed Refugees...!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "u_t001d",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001h",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Whoa, that sounds dangerous..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "Yeah. They're genuinely dangerous. With the financial crisis on the mainland, people are washing ashore here in large numbers, from the poor to criminals."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "They have nowhere to go on the surface, so they claimed this hole in the ground."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "u_t001d",
+            "LEFT",
+            "CENTER",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You're right, they do look dangerous..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "That's because their backs are against the wall. Murder, kidnapping, robbery... they'll do anything for money."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "u_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "But I've already cleared it with them, so we'll be fine as long as we don't do anything unnecessary."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "There's a toll?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sana-san had infiltrated Yomihara many times, so she must have known how to handle things."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "I gave them a good amount. It's what you would call a \"necessary expense.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I see..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m069a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m069a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Armed Refugee",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "While we were talking quietly, a group of Armed Refugees appeared from the darkness."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "(Fuma-chan, these guys...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Yes... Stay alert, Hebiko.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Armed Refugees were pointing their guns at us and there was a hint of disquiet in the air."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The atmosphere was not welcoming at all."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "u_t001f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "Hey, Mister Wang!! Let us through your territory."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sana-san called out in a friendly manner to the man who looked to be their leader."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She must have sensed their hostility the same way we had, but she didn't show it in her behavior at all."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "u_t001f",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m069a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Armed Refugee",
+        "text": "Oh... Look who it is, the young lady Taimanin."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "If you understand, then could you lower your guns? It's so friggin' terrifying I'm gonna wet my pants."
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se040"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Armed Refugee",
+        "text": "Heehee... I'd love to do that, but I also want to do this..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "u_t001d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "Huh?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sana's expression changed. She slowly reached for the weapon on her shoulder."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "u_t001g",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "Hey, dude, are you for real...?"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm313",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "u_t005g",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se004"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The sense of murderous intent swelled\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc119a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR01",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002f",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001h",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "This is bad!! Hebiko, Shikanosuke, scatter!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke & Hebiko",
+        "text": "Shikanosuke: Aieeeeeee!!! I knew this was going to happen!!!\nHebiko: Yes!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se036_03"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1500"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*RATATATATATATATA*\u30fc!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At almost the same time as my yell, there was loud gunfire all around us\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We moved and took cover, right before being fired on by the Armed Refugees under Wang's command."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "u_t005g",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m069a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "What the hell do those bastards think they're doing!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Armed Refugee",
+        "text": "Heehee, the toll has gone up!! Especially for you lot!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

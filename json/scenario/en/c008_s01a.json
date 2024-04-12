@@ -1,0 +1,1366 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm312",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc056a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A few days after the \"part-time job\" with Sakura."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc071a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Hmm, what's the meaning of this...?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The machines lined up all over the room looked complex."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I picked up one of them and repeatedly tilted my head in contemplation."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(This is the \"cargo\" that Faust and her gang were trying to transport with such great care...?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After defeating Faust and her crew, who had tried to kill us to keep us quiet, only this \"cargo\" had been left in our hands."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We had brought it back to my house for now since we couldn't just leave it there, and now I was trying to analyze it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(It kind of looks like part of a drone weapon, but not at all like ones I've seen before. Maybe it's state-of-the-art...?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(State-of-the-art... no, it might also be the exact opposite.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I didn't know the particulars, but looking at the mechanisms one by one, they seemed to be old-fashioned and out-of-date."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In other words, it was junk."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I mean, it wasn't completely worthless, but I couldn't possibly imagine it was something you'd assign escort duty for when transporting."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(On top of that, the destination had been a baby goods company without any ties to the underworld. After all of this, there are still too many things that don't add up.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Don't tell me, there's more to that incident than meets the eye...?)"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se038"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Pipipipi*..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hm? A phone call? Who is it...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was a call from an unfamiliar number."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "\u30fcHello?"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc072a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "k_t003a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "<i>It's been a while, Captain. Do you know who I am?</i>"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "k_t003a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc071a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You\u30fc!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There was no way I wouldn't recognize that voice. The incident from a while ago reappeared in my mind."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In exchange for Kiryu Sabato's information, we had we had gotten stuck with breaking into a secret UFS facility. Come to think of it, that had been the first mission of our Independent Commando Unit."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "The masked lady from back then? You helped us with the Kiryu case."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I guess I don't have to ask how you got this number."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This woman was working as an information broker. Finding out a phone number was a piece of cake for her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "<i>Yes. And I think there's something else you should be asking right now.</i>"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What do you want? Why did someone like you go to the trouble of contacting me?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "<i>Hehe... it's about some \"cargo\" you brought back with you. Does that ring a bell...?</i>"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I looked at the machines lined up in the room."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...It's like you can see in here. Do you know what this junk is?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(The masked lady belongs to some kind of UFS organization. She must've heard about the escort mission somewhere...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "<i>Oh my, so you already noticed. What you guys transported was just junk\u30fc</i>"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "<i>In other words, a diversion. The \"client\" was after something else.</i>"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Something else?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "<i>Yes.</i>"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "<i>Shall we meet and talk about the details in person? I also have a job for you.</i>"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "A job? Hold on a sec. I'm not a handyman."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "<i>Hehe, I'm sure you'll take this job as soon as you hear the name of the \"client.\"</i>"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What do you...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "On the other end of the phone, I could hear the woman take a small breath."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "<i>The name of the \"client\" is Nisha Gaiza\u30fc</i>"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Madam",
+        "text": "<i>So? Are you ready to hear me out?</i>"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm505",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc008a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The next night."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had arrived in Tokyo Kingdom with Shikanosuke and Hebiko."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001h",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Uehara Shikanosuke",
+        "text": "T-Tokyo Kingdom. This place looks as bad as ever. Let's just get this over with and go home..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke was looking around while trembling as always. It was understandable."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Tokyo Kingdom was an abandoned artificial island. A city of depravity and pleasure was growing wild there."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The entire island was slums and red-light districts. It was a lawless area dominated by criminals and residents of the underworld, and nothing good would come from setting foot there."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Don't get lost, Shikanosuke. If the bad guys kidnap you, you'll never be able to come back."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "D-Don't say stuff like that!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001d",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Aishu Hebiko",
+        "text": "But what is Gaiza-chan planning to do in a dangerous place like this?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Who knows... I don't know any more than I just explained to you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had explained the most important points to the two of them, about the \"cargo\" and about the \"client.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "We're talking about Gaiza. It's definitely going to be something stupid."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Don't say stuff like that, Fuma-chan. Gaiza-chan might have his reasons."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "He's the one who started a rebellion for the \"revival of the Fuma Clan\" or something like that. What kind of reasons could there be...?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002g",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "H-Hebiko isn't sure, but... Gaiza-chan has been a fellow student since you were little, right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hebiko just thinks it's a little cold, Fuma-chan, to speak ill of someone while you don't know anything."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You say \"fellow\"... He tried to kill me, you know..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Hebiko is kind of confrontational today...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Was she in a bad mood? As I was puzzled over that, Shikanosuke looked at me with a smirk."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002g",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Hehe~ Don't you get it, Fuma? Hebiko is sulking. Because the party to celebrate her leaving the hospital got canceled."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002f",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Ah, ah, hey! Shikanosuke-chan!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ahhhh..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "So that's what this was about."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Originally, we were supposed to be celebrating Hebiko's discharge from the hospital today."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But unfortunately the appointment with the masked lady had fallen on the same day, so we had no choice but to do it another time."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Is that why, Hebiko? Are you sulking because we couldn't celebrate your release from the hospital?"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Th-That's not true!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hebiko is not a child who'd sulk about something like that! Don't say anything weird!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001b",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "But you were talking about what we are going to eat tomorrow and about how you are looking forward to it, weren't you?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002f",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Shikanosuke-chan~~~~"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001b",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko pulled Shikanosuke's cheeks and stretched them, making him look like a frog."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "In that case, let's go somewhere after we're finished. Since we came all the way here from Gosha."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Eh? Is that okay, Fuma-chan?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I don't know if it's okay yet, but... I guess it'll work out somehow. Today we're just going to listen to what she has to say anyways."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It shouldn't be too much trouble... at least I hoped so."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002b",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Oohoho, right, right! If Fuma-chan insists, then Hebiko can go along too!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001b",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Yeah! I guess it can't be helped! I'll go with you too!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...As if it wasn't all in your own interest..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Still, better for things to be cheery than gloomy. Let's get this over with quickly.)"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001b",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002b",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "..."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc016b",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "H-Hey, Fuma..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "I know Tokyo Kingdom is supposed to have bad air, but..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "But still, no matter how you look at it, isn't this strange...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A white fog suddenly surged up around us... or was it smoke? In any case, the whole street was shrouded in some kind of white gas."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "I can't even see your face anymore, Fuma!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah, be careful! Don't breathe in the fog unnecessarily\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001d",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And at that moment\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Kyaaaaaaahhh!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!?!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Don't come near me!! Don't come over heeeeere!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Damn it!! Go to hell, you monster!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se036"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se039"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The whole place was in an uproar. Screams, the sound of something breaking, and even gunshots could be heard."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We kept our heads down and exchanged confused looks of \"What the heck is this?\""
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001e",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t002c",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "F-Fuma... should we... really keep going?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah, I'm not sure... Hebiko, can you sense something?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t002e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Wait a second..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t004e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko turned into an octopus and twitched her suckers. The suckers on her octopus tentacles had a sophisticated sense of smell and could act like sensors."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t004g",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hmmm..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "It smells weird and Hebiko isn't sure what it is, but... this smoke gives off really bad vibes..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Bad vibes...?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001h",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieeee!! Hebiko's hunches are really good!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t004c",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Hey, Fuma!! Let's run aw-... no, let's withdraw for a moment!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke seemed to have gotten scared and tried to run away in panic."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t004d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Wait! Don't run! If you run with no vision like this..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se050"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*THUD!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Ahh!? S-Sorry!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As expected, Shikanosuke had bumped into someone in front of him and fallen to the ground."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I told you so! Calm down a little bit. I'm sorry, this guy's freaking out."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t004d",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I spoke to the figure in front of us. However\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m054a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Figure",
+        "text": "MRUNGHH...?"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Huh...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Eh...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The person emerging from the haze had bluish-black discolored skin and gave off a nose-piercing stench..."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm709",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieeeeeeeeeeeeee!! It's a Zombiiiiieeeeeeeee!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Shikanosuke, you moron!! Don't provoke it!! Ahh, too late\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Zombie",
+        "text": "MRUUUUUUUUUUUNNNGGGGGGGGGGHHHHHHHHH!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In response to my and Shikanosuke's shouting, the Zombie cried out."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "F-Fuma-chan! They're also behind\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Before we noticed it, the silhouettes of several Zombies had appeared around us."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m054a",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m055a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Zombie Gangster Girl",
+        "text": "MOOUNGHH..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Zombie",
+        "text": "MRUUNGGHH..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Fuma, what do we doooo!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No matter what I say we have no choice but to do this!! \u30fcHebiko!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Got it, there's no other way!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Zombie",
+        "text": "MRUNGGGHHHH!!!!!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Zombie Gangster Girl",
+        "text": "MOUNNGGGGHHH!!!!!!"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m055a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m054a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

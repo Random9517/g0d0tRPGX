@@ -1,0 +1,1269 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm304",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc077a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Demonic potions."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Forbidden drugs created by using Devildomian medicine and sorcery."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Their effects are versatile. Some are used as aphrodisiacs or love potions, and some are even used for suicide. They say that the drugs let you die while having the most euphoric dream..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In any case, the drugs show intense effects. They quickly spread throughout the human world along with the influx of demons, and the number of addicts has kept increasing."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m102a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "(So... he used a demonic potion to enhance his own body...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "His sickly, emaciated face and his unnaturally built body were most likely due to the effect of the drug."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Enrokkaku",
+        "text": "What's wrong!! Take a swing at me won't ya!?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se006"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "400"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "ef006c",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Whoosh!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "Ugh...!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se007"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "ef001a",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Clash!!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Tsubaki's sword parried Enrokkaku's attack by a hair's breadth."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc077a",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m102a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, the impact running through her arms was enough to make her realize that directly receiving his weapon\u30fcthe Rokkakuto\u30fcwith her body would be fatal."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Enrokaku",
+        "text": "If you don't even try to fight back... you'll just be dead you know...?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "400"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se007"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "ef002a",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "800"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se007"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "ef002b",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Clash! Clannnng!!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The furious exchange of bladework between Tsubaki and Enrokkaku left the Fuma ninja standing dumbfounded and unable to do anything besides watch."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc077a",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m102a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Enrokkaku",
+        "text": "AHAHAHA\uff5e\uff5e\uff5eHAH! My body feels light! Power! It's filling me up! Exhilarating!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Enrokkaku laughed maniacally, riding the high of his excitement as he brandished his Rokkakuto. The blades emanated great whooshing noises as if they were giant fan blades."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "(It appears that he's only swinging randomly, but each strike is precise.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Tsubaki could still afford to observe Enrokkaku's movements, but was being pushed back by his relentless attacks into the corner of the street."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Enrokkaku",
+        "text": "I got you\uff5e!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Rokkakuto blade approached Tsubaki at lightning speed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "(Now...!)"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "400"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se007"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "ef001a",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*CLASH!!!!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Tsubaki had been waiting for that moment."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se031"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "ef005a",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She parried the massive blade to make an opening and instantly swung her sword to strike Enrokkaku's body with all her strength\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However..."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc077a",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m102a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Enrokkaku",
+        "text": "AHAHAHA!! Good\uff5e... I love it when it hurrrrrts!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "What...!!!?"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se039"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*SNAP!!!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Tsubaki froze when he grabbed the sharp blade of her sword with his bare hand and easily snapped it in two."
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se028"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "Ughhh...!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Still holding the broken blade in his grip, Enrokkaku then buried his stone-hard fist into Tsubaki's stomach."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "Ugh...!? Aghh... gh...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Enrokkaku",
+        "text": "Hahah\uff5e... flesh, so warm\uff5e... your guts... so hot...!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Enrokkaku's face was enraptured as he stirred inside her stomach with his fist. The broken blade protruding between his fingers mercilessly gouged Tsubaki's flesh."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "Owww...!!? Aghhh!! Arghhhhhhh....!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Tsubaki's face twisted in agony, growing paler and paler."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She lost consciousness and collapsed to the ground\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Enrokkaku",
+        "text": "Hahah! It's over!!! How boooooooring! ....Ah?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Enrokkaku",
+        "text": "...Eh? What...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "\u30fcor so he thought, but <i>he</i> was the one who couldn't move his body."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Enrokkaku",
+        "text": "Ah... ah? AAAH...?"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "His body began to shake, and his muscles deflated just like a balloon that had lost its air. No matter how hard he tried, Enrokkaku couldn't pull his fist out of her stomach."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was as if her guts and flesh coiled around his fist and wouldn't let him go."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Enrokkaku",
+        "text": "Wha-What's... going... on...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "Hmph..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Enrokaku's face was pale in confusion, but on the other hand, Tsubaki's beautiful rose-pink tinge was returning to her cheeks."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Tsubaki grabbed his arm, pulled his fist out of her stomach, and then lunged forward\u30fc"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se001"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Enrokkaku",
+        "text": "UGHHHH!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Using her momentum to spin around Enrokkaku's body she then struck him with the back of her sword."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As she did so, the huge hole that Enrokkaku had created in her stomach grew smaller and smaller, and her body seemed to have already regained its strength."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "tk_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Enrokkaku",
+        "text": "Wha-... What the fuck was thaaat..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After being mercilessly slammed into the ground, Enrokkaku lost consciousness as he let out a moan."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This was Tsubaki's unique skill."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She had used her own blood as her weapon\u30fcthat was her Ninja Art."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Since she awakened to her demonic power, she had become able to absorb her enemies' blood and use it to heal herself or enhance her physical abilities."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She used the power to close her wound and accelerate the circulation of her own blood to heighten her movements. And as a result, she had defeated Enrokkaku in the blink of an eye."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "\u30fcHe seemed to see through it though."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Tsubaki murmured quietly to herself as she sheathed her sword."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm509",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se122"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Clap, clap, clap...*"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "tk_t001a",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "o_t002a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_FRONT",
+        "info": [
+            "1"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "We have the winner."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With a satisfied grin, Gonza approached Tsubaki as he clapped his hands."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "Impressive! I can't believe you're a human."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "Gonza... would you like to be next?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "o_t002f",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "Absolutely... is what I would like to say, but that's enough for today."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "o_t002c",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "Guys! You're satisfied, right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Gonza looked around and asked his subordinate ninja."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "Or, does anyone still want to challenge her?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Fuma ninja",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Nobody stepped forward\u30fcafter all, most of them were mere students from Gosha Academy who had tagged along with Gaiza."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "Now, Gonza. Explain to me exactly what's going on here."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "It's like I said. Some people just don't like it when a mercenary like you acts high-and-mighty."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "I already heard that. What of it?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "...I guess a more thorough explanation's in order. Look\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "These guys here gave up living in Gosha and followed Gaiza, risking their lives. Some of them even left their families behind."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "You think they're happy when a mercenary like you has a more trusted position in our force?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "Well, having said that. Our Master definitely needs your strength right now."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "...That's why you made me prove my strength right in front of their eyes, huh?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "o_t002a",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "Exactly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "I'm sure they already know by now that we need you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "I understand now. But, those are your issues, not mine."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "How do you think I feel after I've been forced to fight against an insane junkie to satiate your subordinates' jealousy?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "o_t002b",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "Hahaha! Very true! Of course, I won't let you go home empty-handed."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "o_t002a",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Gonza threw a roll of notes toward Tsubaki."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "A mercenary's work is never free, right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Tsubaki caught the bills out of the air and looked them over."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "I'll let it slide today, but there's no next time."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The murderous aura that had been exuding from Tsubaki began to dissipate little by little."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "But, what are you going to do about him...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Tsubaki pointed at Enrokkaku who was lying in a sprawl on the ground."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "o_t002c",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "Just leave him."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "It looks like he's been abandoned by both Dragon Gate and even his subordinates."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "It was nice that he decided to join us as soon as I dangled some money before him\u30fc But look at that. I don't think he's gonna be of use anymore."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Gonza laughed dryly. Unsure of how to really handle Enrokkaku, he had thrown him at Tsubaki not really caring if he ended up dead."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "o_t002f",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "I heard he used to be known as a decent martial artist, but..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "...I see how it is."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As Gonza had said, his appearance, his weapons, there was some trace of the martial artist that Enrokkaku once was."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "If he just hadn't relied on drugs like this he would have been a great warrior by now..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "Maybe he didn't have the potential from the start."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "o_t002a",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "I don't think I need to tell you, but this is just between us, ok? See ya!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se082"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Gonza and his squad of ninja took their leave, which left Tsubaki alone with the\u30fcsupposedly\u30fcunconscious Enrokkaku."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "How long do you intend to lie there?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Enrokkaku",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "...Maybe I should just end your life now?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m102a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Enrokkaku",
+        "text": "Eeek!? Forgive meeee! I surrenderr! I'm not gonna go against you ever again!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Enrokkaku sprang to his feet."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "His body, which had looked like a deflated balloon before, was already completely recovered."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "Impressive. Is that thanks to your demonic potion?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Enrokkaku",
+        "text": "Y-Yes..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "Enrokkaku, was it? Your swordsmanship was quite remarkable."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "If you ever decide to give up your drugs and live as a warrior once again, I can be your opponent anytime."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se082"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m102a",
+            "LEFT",
+            "CENTER",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And with that, Tsubaki turned and began to walk away."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Enrokkaku",
+        "text": "H-Hey..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A gleam flickered in Enrokkaku's eyes."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "They were the clear eyes of a genuine warrior, shimmering with pure hope to cross swords with the strong on an even field."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Enrokkaku",
+        "text": "Hey! Wai-... please, wait..."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Enrokkaku",
+        "text": "Damn it! I don't need this shit anymore...!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Enrokkaku tried to throw away the drugs that he always had with him."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He \"tried\" to throw them away."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He tried again and again."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But his hand simply held tight and could never relinquish them as he wished."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Enrokkaku",
+        "text": "Ahh, Arghhhhh!!! Damn it!! Drugs, these damn druuugs...!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Enrokkaku powerlessly collapsed on the spot and began to cry, hugging his drugs."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Turning away from him, Tsubaki started walking in silence."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With each step, she could hear his frantic screams fade further and further into the darkness of the night."
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

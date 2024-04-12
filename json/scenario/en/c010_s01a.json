@@ -1,0 +1,1750 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc027a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm502",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At lunchtime, in the school cafeteria\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Amidst the rowdy Taimanin students, I was partaking in lunch with Shikanosuke and Hebiko."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t003b",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t001a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Uehara Shikanosuke",
+        "text": "Mmmm. Mommy's tamagoyaki is so good! *Nom nom*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Aishu Hebiko",
+        "text": "Wow, that looks delicious! Shikanosuke-chan, is it your mother's home cooking?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t003a",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Yup! Would you like to try some?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t001b",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Really? Yaaay. Well then, thank you very much! *Om nom* Ehehe, so sweet and delicious\u266a"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t003b",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Hehe~, right!? Getting this exquisite sweetness takes pro-level techniques~"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "That's true... It's never that tasty when Hebiko makes it."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t003a",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Ah. But that might actually be good, you know?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t001a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Why?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t003b",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "If you could make tasty tamagoyaki on your own, you would scarf it down, wouldn't you?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "And you'd put on more and more weight... like that giant octopus monster from the folk tales..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t001f",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Like a kraken!? Oh c'mon, Hebiko can't get that huge!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t003a",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Hehe... that carelessness will do you in..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "I-It's not carelessness! Shikanosuke-chan, when you're like this, you're so... right, Fuma-chan!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t001c",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "...Fuma-chan? Are you listening?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ah?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I looked up from the book I had been reading as Hebiko suddenly included me in the conversation."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was reading a book while eating the daily lunch set\u30fcin a display of dexterous eating ability, to toot my own horn."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hey, hey, Fuma-chan. Were you listening to what Heberybody was saying?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah. Of course I was."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Get outta here. You've been reading the whole time. Besides, reading a book while eating is bad manners, you know?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Manners schmanners, it's just you two. Besides, I <i>have</i> been listening to you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Really?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You got fat again, didn't you, Hebiko? Because you stuff your face with all the tamagoyaki you made for yourself."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t001f",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "You're completely wrong!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Oh, is that so...?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t001e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Well, I couldn't deny that I had only been listening with one ear."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As I was still tilting my head, Shikanosuke asked me with a curious look on his face."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Is that an interesting book? I know you're a bookworm, but it's rare for you to go so far as reading while eating."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Nah, more so than interesting, I'd say it's... practical."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t001c",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "A practical book?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah. It's a book about stuff like sorcery and ancient rituals."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t001d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke & Hebiko",
+        "text": "Shikanosuke: Oooh\nHebiko: Sorcery...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The two still looked at me curiously."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "This book is... I mean, do you remember? When I was stabbed by Gaiza and almost died?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It had been more than \"almost.\" My heart had gotten pierced and I had completely died once."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t001g",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Yeah. That happened."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t003c",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Yeah. At that time Hebiko kept bawling and it was really tough."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t001f",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Sh-Shikanosuke-chan! Don't talk about that!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "D-Did she...? Anyways, somehow I didn't die and came back to life."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t001a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Right! Hebiko was so surprised~"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t003b",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Yup! I didn't expect you to awaken to a Ninja Art of healing~"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "We even held an impromptu party for that!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t001b",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "That party was soooo fun. Ehehe."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "L-Let's set the party aside... So after that I went to find out what had happened to me in detail."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You know him too, right? Kiryu-sensei, who's always holed up in the underground lab of the academy."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t003c",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Ahhh, that guy. We met him on the mission before."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t001a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "He's a weird guy. It's surprising you were willing to go and ask him to investigate, Fuma-chan."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I mean, it seems like he's skilled... So I had to do this, that, and the other, but I finally got him to examine me\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Indeed\u30fc. The result of that examination had also been problematic."
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm203",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc099a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ki_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kiryu Sabato",
+        "text": "Hmm, so this is err... this is not a Ninja Art."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...Excuse me?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I could only counter with a question after having it declared so plainly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At this point I had returned from my errand to the black market broker's store and the brief examination had concluded."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After looking at the results of his examination, demonologist Kiryu Sabato had spoken completely unfazed."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ki_t001c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kiryu",
+        "text": "There is no evidence of Taima Particles being used in your Regeneration."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ki_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kiryu",
+        "text": "In other words, you are still a dick cheese stain who can't use Ninja Arts."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ehh!? Th-Then..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Taima Particles were like the driving force that allowed Taimanin to use Ninja Arts."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Those connected to a Taimanin lineage were born with the ability to control Taima Particles\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And this ability allowed them to command various Ninja Arts that did not follow the normal laws of physics."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(But if this ability was different, then\u30fc)"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ki_t001c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kiryu",
+        "text": "It's obvious. If this is not a Ninja Art, then it's the power of \"demons.\""
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "D-Demons!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I accidentally raised my voice."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The power of demons was something mainly used by the inhabitants of the Devildom."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was a power that didn't follow the natural principles of the human world."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There were theories that Taima Particles were a part of the same power, but in that regard, researchers' opinions differed, and it was a confusing topic, so I wasn't sure what to think either."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But there was an even more pressing question\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Why can I use the power of demons...?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kiryu",
+        "text": "If I recall, you said your body worked better after your death... or something like that, didn't you?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yes, I guess..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kiryu-sensei continued talking while I was still in a daze."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had also told him everything that had happened at the broker's store."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kiryu",
+        "text": "Hmm... I guess that's also because you awakened to the power of demons."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kiryu",
+        "text": "And this is just a hypothesis, but... the more you die, the more your power will awaken."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Th-The more I die!? That's ridiculous... Wait, Kiryu-sensei, what are you doing...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kiryu-sensei had rummaged through his equipment and pulled out a very thick syringe."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ki_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kiryu",
+        "text": "Hehehehe, such an interesting lab rat wandered right in front of me... Ah, no, it's nothing."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kiryu",
+        "text": "It just looks like your body needs some more thorough tests. Come on, have a seat right there, Fuma-kun."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Wh-What are you gonna do...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kiryu",
+        "text": "It's alright, it won't hurt."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What won't hurt!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I quickly stepped back upon smelling danger. And then\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ki_t001g",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kiryu",
+        "text": "Oh, shut up already!! One more death will help clear things up, so just let me kill you!!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "N-No way!! I won't die for your experiment!!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc027a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And, fearing for my life, I had desperately made my escape from the underground lab."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t001d",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t003d",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "The power of demons...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "So you didn't awaken to your Ninja Art, Fuma..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko and Shikanosuke looked quite surprised as well."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah. I was shocked too..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(What the hell is going on with my body...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "To be honest, I had thought, \"Knew it,\" when I was told that it wasn't a Ninja Art."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There were almost no examples of people as old as me awakening to their Ninja Art."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And I myself hadn't felt like I had awoken to my Ninja Art either."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(That being said, the power of demons...)"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I recalled what the snake woman had told me in Chaos Arena when Hebiko had been abducted."
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc060a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "sr_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snake Lady",
+        "text": "Your eye, your \"lost right eye\"\u266a It has a bedeviling secret\u30fc"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc027a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(A bedeviling secret...? Shit!! I'm getting more and more confused...)"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The \"secret\" that that snake woman had mentioned... was it related to the power of demons that apparently was within me...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As I was getting lost in my thoughts to some extent\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t001a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t003a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm307",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Hmm. What do you think, Hebiko? Should we throw another party?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "You're right. The power of demons is different from a Ninja Art, so Hebiko thinks it's okay to celebrate once more."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko and Shikanosuke were discussing frivolous matters."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "N-No, we don't need to have a party... I mean, aren't you guys worried?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I have the power of demons\u30fcwhich means I'm a being similar to inhabitants of the Devildom, like Incubi or Orcs."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t001b",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hm? But, Fuma-chan, you always seemed to be thinking about lewd things. You becoming an Incubus wouldn't really change anything."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t003b",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "True. Fuma, you've always been a pervert, so I wouldn't bat an eye if someone told me you were an Orc!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I-I see... I mean I'm not actually an Incubus or an Orc per se... but thanks."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I smiled and nodded at my two friends."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t001a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t003a",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Even if I turned out to be some weird creature, they would treat me the same\u30fcthat fact somehow made me happy."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Anyways, it seems safe to say my regeneration ability wasn't a Ninja Art after all."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "So then thought I wanted to do some research about it."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t001b",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hmm. And that's why you were reading a book about sorcery. You're very studious, aren't you, Fuma-chan?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Finally Hebiko and Shikanosuke looked convinced. At that moment\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "chr_t0041a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Fuma Saika",
+        "text": "Young Lord. I found the books you were looking for, so I brought them here."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Oh. Thanks, Saika."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Fuma Saika had arrived, carrying several books in her arms."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t003b",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t001b",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke & Hebiko",
+        "text": "Shikanosuke: Ah, hello Saika-san!\nHebiko: Hello!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "chr_t0041a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saika",
+        "text": "Yes, good afternoon, Aishu-san, Uehara-kun."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko, Shikanosuke, and Saika, all familiar with one another, exchanged greetings."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Saika used to be my father's secretary, and after various things happened and he died..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "she had stayed at the Fuma residence with Tokiko and the others to serve me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In particular, Saika was tasked with managing the residence and books that had been passed down in the Fuma head family by my father."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Were they hard to find?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saika",
+        "text": "No, not at all. Your instructions were very easy to understand, Young Lord."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I see. That's good to hear."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "chr_t0041a",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t001a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Fuma-chan, are those books also related to the sorcery stuff you were talking about before?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yes. This time, I wanted to delve into it deeply, so I had Saika assist me."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t001b",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "So that's why. Thank you for your efforts, Saika-san."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saika",
+        "text": "Ah, no, not at all... It's a pleasure to help the Young Lord."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t003a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Mmm, how nice, Fuma. I wish I had a kind secretary like Saika-san..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "D-Don't be silly. When Saika's strict, she's super strict... right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It somehow made me embarrassed when someone complimented a member of my clan. I spoke to Saika a little bluntly."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "chr_t0041a",
+            "LEFT",
+            "CENTER",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saika",
+        "text": "Hehe, yes I am. When it's called for, I am strict, of course..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Saika smiled slightly and gave me a respectful bow."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saika",
+        "text": "Well, Young Lord, my business here is done, so I'll be taking my leave."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Oh? If it's alright, how about you have lunch with us?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saika",
+        "text": "No, I still have work left to do. So don't worry about me and enjoy the time with your friends\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Then Saika nodded as if she had suddenly remembered something."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saika",
+        "text": "Ah, before that\u30fcYoung Lord, I have been asked to deliver a message from Headmistress Igawa."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saika",
+        "text": "After the afternoon training, she wants you to come to her office with Aishu-san and Uehara-kun. It seems she has a new mission for you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "A mission? I wonder what it is."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saika",
+        "text": "I do not know the details... but she said it wasn't that difficult of a mission."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hmm?"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se021"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Ding-dong*..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "While we were talking, the bell for the end of lunch break rang."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ah, lunchtime is already over!? Thanks, Saika!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I said to Saika and shoveled what was left of my lunch into my mouth."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If I didn't hurry, the afternoon combat training would start before I got there."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saika",
+        "text": "Well then, Young Lord. Aishu-san, Uehara-kun, please look after the Young Lord."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke & Hebiko",
+        "text": "Shikanosuke: It's no problem, Saika-san!\nHebiko: O~kay. Roger\u266a"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se082"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Saika politely said goodbye to those two, who had long ago finished lunch, and then left."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Ugh!? Am I the only one who hasn't finished eating...!?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I suppose it might not have been that good of an idea to read a book while eating..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "While I thought about that, I hurried and set my chopsticks into motion."
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    }
+]

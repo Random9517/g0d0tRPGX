@@ -1,0 +1,1040 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm320",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc060a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m043a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "High Orc",
+        "text": "DIEEEEE!!!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Too slow!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se028"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Shunk*...!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko's kodachi cut down the umpteenth High Orc."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t002e",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Announcer",
+        "text": "<i>And the winner is... Miss Hebiko!!!! Unbelievable, she took them all down!!</i>"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Spectators",
+        "text": "WOOOOOOO!!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Spectators",
+        "text": "Hebiko-chan, so strong!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Spectators",
+        "text": "A new star is born in Chaos Arena!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t002k",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Haah... haah... C'mon, what is going on!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Orcs had been pretty strong, but they were no match for Hebiko who, despite being a student, had accumulated experience as a Taimanin."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t002a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Good thing Hebiko diligently attended the training lessons... And Hebiko's head feels clearer after moving around."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Maybe her blood had started to circulate because of the battle, but Hebiko's memories were becoming clearer little by little."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Going to the Nisha mansion with Hotaru-senpai and getting abducted by F\u00fcrst, who had appeared during the mission."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t002c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Which means... maybe this is F\u00fcrst's hideout?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t002c",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Announcer",
+        "text": "<i>Honored attendees, we've kept you waiting long enough!!</i>"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Spectators",
+        "text": "WOOOOOOOO!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The crowd cheered especially loudly, interrupting Hebiko's thoughts."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t002d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Wh-What is it this time...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Announcer",
+        "text": "<i>At last, it's the person you've allllll been waiting for!!!</i>"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In the area illuminated by the spotlight, a lone woman was walking down the aisle, basking in the raucous cheers."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She approached Hebiko slowly and traced her cheek with her fingernail, looking as if she was going to lick Hebiko's face."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t002d",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sr_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Woman",
+        "text": "Oh my, aren't you a cute one\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Y-You are...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Woman",
+        "text": "I am Snake Lady. Nice to meet you, my dear\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "N-Nice to meet you...?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sr_t003b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snake Lady",
+        "text": "You're called Hebiko-chan, aren't you? Hmhmhm, we're both named after the same animal, perhaps we're linked by fate\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Y-Yeah, maybe... ahaha..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Ehrm, umm, considering the snake connection... could you please let Hebiko go back home...?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sr_t003a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snake Lady",
+        "text": "Sorry\u266a That's not a proposition I can consider\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Ugh... knew it. Th-Then at least tell Hebiko! What on earth is this place is?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sr_t003g",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snake Lady",
+        "text": "This is Chaos Arena\u266a An arena for female warriors\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Chaos... Arena?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snake Lady",
+        "text": "Yes, Hebiko-chan, you're now one of Chaos Arena's exclusive female warriors\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Eeh!? What, no way! Hebiko refuses!!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sr_t003d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snake Lady",
+        "text": "Oh\u266a So you would answer my kindness with spite?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "K-Kindness...? What kindness is that exactly...?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sr_t003a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snake Lady",
+        "text": "The kindness of buying you from that bald scoundrel F\u00fcrst\u266a For a really high price\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "S-So that's how Hebiko got here..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She was finally able to connect the dots between her abduction by F\u00fcrst and her current situation."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sr_t003b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snake Lady",
+        "text": "Did you want to try going to that baldie's place? You surely would have had a really, really bad time there\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Ah, that's... umm... thank you... very much... ahaha."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She thought she was having a thoroughly bad time right now, but Hebiko swallowed her complaints. There was nothing for her to gain in upsetting Snake Lady."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "B-But why did you save Hebiko?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sr_t003a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snake Lady",
+        "text": "I'm interested in Hebiko-chan's friend\u266a So Hebiko-chan is a hostage, or more like bait to lure him out\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "H-Him?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Was it Gaiza or Fuma? Or Shikanosuke... no, no chance of that. Either way, if she was a hostage, then at least she most likely wouldn't be killed for now."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "I-In that case... Hebiko will sit down quietly and be a great hostage...!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sr_t003e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snake Lady",
+        "text": "You can't\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snake Lady",
+        "text": "Look at the spectators\u266a At their burning vengeance and desire!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sr_t003a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko looked around at the spectator seats as she was told to, and the enthusiastic guests were shaking their fists and screaming half-crazed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Spectators",
+        "text": "Kill her, torture her!!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Spectators",
+        "text": "Smash that stuck up bitch Taimanin to pieces!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Ugh..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hearing the raw sadism in their yells, Hebiko began to feel nauseated."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sr_t003a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002e",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snake Lady",
+        "text": "The female warriors of Chaos Arena, you see, are a spectacle and also an object to bet on\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snake Lady",
+        "text": "There's plenty of money being wagered on you as well, money that will multiply with each win\u266a"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sr_t003b",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snake Lady",
+        "text": "But if you lose, you will receive a terrible punishment\u266a A punishment for making people lose their money\u266a"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002f",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Th-That's not fair!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sr_t003a",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snake Lady",
+        "text": "While everyone hopes the fighter they bet on will win, they are also expecting those fighters to experience a punishment worse than death when they lose...\u266a"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sr_t003e",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snake Lady",
+        "text": "Win or lose, they can enjoy themselves. Isn't this the greatest show imaginable? Hmhmhm!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "A punishment worse than death... but then..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sr_t003a",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snake Lady",
+        "text": "Oh, don't worry, Hebiko-chan. You will have a special guarantee on your life\u266a Because you're my hostage\u266a"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sr_t003b",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snake Lady",
+        "text": "Though, via battle or punishment, you may lose a limb or whatnot...\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Snake Lady patted Hebiko's head as though she were enjoying herself. Her demeanor was completely unguarded, showing not even a shred of wariness."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Rather than throwing herself into a fight that could mean her end at any moment..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "What about cutting down Snake Lady right here and escaping?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko discreetly grabbed her ninjato, but at that moment..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002e",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sr_t003b",
+            "LEFT",
+            "CENTER",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snake Lady",
+        "text": "Do you intend to challenge me?"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When had she moved? Snake Lady stood behind Hebiko, lifting Hebiko's hair up and licking her ear all over."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hyaah...!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sr_t003e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snake Lady",
+        "text": "I don't mind if we start with a game to decide who is punished, though."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Ah... I-I won't challenge you..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko had goosebumps all over her body. Snake Lady's lack of vigilance had not been carelessness. It was the confidence that she could take down Hebiko at any time."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sr_t003b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snake Lady",
+        "text": "Your next opponent will be a bit stronger\u266a Go on, hang in there and survive\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Announcer",
+        "text": "<i>After winning her exhibition match, Miss Hebiko will now attempt the battle as an official female warrior of Chaos Arena!!</i>"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sr_t003e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snake Lady",
+        "text": "Your next opponents will be those sweeties\u266a"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sr_t003e",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In response to Snake Lady's voice, a beast-like roar could be heard from the entrance to the arena."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m046a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m047a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Monster",
+        "text": "UGHRRRRR..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "!? Are those... Trolls!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Lumbering into the arena came monsters with giant bodies, at least three meters tall."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "They were Trolls, a race of demi-humans dwelling in the Devildom. They had low intelligence, but were ferocious and monstrously strong, and above all else, they were said to be tough as nails."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Their favorite food was the flesh of women. They would capture other species indiscriminately and eat them alive."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m046a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m047a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t002e",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Didn't a teacher say... if you're caught by one, suicide is recommended. Haha, good thing Hebiko is always studiously attending lessons..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t002f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "...Not the time to be joking around! Hebiko has got to get serious right from the start..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t002f",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko prepared herself for the worst and unleashed the power of \"Beastified Taimanin.\""
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t005e",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "It's alright... Hebiko will get through this!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Announcer",
+        "text": "<i>Now then! Miss Hebiko's real fight begins!</i>"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Spectators",
+        "text": "WOAAAHHHHHH!!!!!"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t005e",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

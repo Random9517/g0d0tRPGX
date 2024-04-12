@@ -1,0 +1,492 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc017a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm407",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I wasn't sure how long we had walked while avoiding and defeating enemies."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "But man, this place is huge. I can't believe the UFS built a full-fledged base like this completely in secret."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001c",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002c",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "All the more reason getting caught would be bad."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "...Hm? Hey Fuma, looks like there's a large open area over here."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "What do you mean, over here? No matter how you look at it, isn't that a wall? Are you tired, Shikanosuke-chan?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Maybe I am..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No, wait. This isn't a wall... it's a door!"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc018a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Oooh...! Good work, Shikanosuke, there's a terminal."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There was a discreetly hidden door in the wall of the hallway, and behind it a room with rows and rows of terminals."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Without Shikanosuke we would have never noticed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I'll try to get the data right away. You guys watch for enemies."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001a",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Alright!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Sure thing!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Okay, let's see...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I approached one of the terminals and tried to access the network."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "[Password: \u25a0_]"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Password protected. Well, I guess it would be...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I hadn't expected accessing the terminal would be easy. But our client was an information broker."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(She called it the \"gang hideout terminal access code\" though...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I entered the string of letters, hand-written on a note decorated with a gold butterfly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ah... we're in."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had gained access to the UFS network almost too easily."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Hey, hey... this is an access code for the UFS network. Where did she get this? Who is that masked woman...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But that could wait until later. I began downloading all available data onto a high-capacity storage device I had prepared."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(That's a lot of data. Looks like it's going to take some time.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At that moment\u30fc"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "250"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "For some reason bright red letters began flooding the screen with English text."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Security... buri... chi? Shit, this is what I get for always skipping English class...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "For now the data transfer seemed to be continuing, so we would just have to hold out until it was completed. I prayed while staring at the remaining time."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t002d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Fuma-chan, why is the screen bright red?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko noticed and came over, looking closely at the letters."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t002c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Security breach... unauthorized data transfer. \"Unauthorized data transfer in progress, security has been notified.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Oooh, as expected of a top student."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t002f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "This isn't the time to be impressed! The data transfer has been reported to security!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t002f",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Wh-What happens once it's been reported??"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Our enemies will be notified of this location. That means all enemies still left in the base will come rushing here."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001h",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieeeee!! That doesn't sound okay!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah, in the worst case we'll get cornered in here. Another... 5 minutes until the download completes."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t002e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hebiko has a bad feeling about this."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001e",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Heeeey!! L-, l-l-let's get outta here already!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "We'll have to fight even if we run away. Get ready and defend this place until the data transfer is complete!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I could hear the clamor of enemies starting to gather outside the room."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Are they coming...!?)"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1500"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001e",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t002e",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

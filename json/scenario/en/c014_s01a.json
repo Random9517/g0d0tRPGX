@@ -1,0 +1,913 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm203",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc144a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Senzaki, one of the most prominent criminal cities in the metropolitan area."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was a city that had formerly been developed as Tokyo's dormitory city."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, since the influx of war refugees, its center had become a slum,"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "and inhabitants of the Devildom and criminal organizations had flowed in as well. Now it had grown into a large downtown area filled with corruption."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Also, due to Senzaki's strategically important trading port,"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "intense conflicts were frequently erupting between the forces of darkness who wanted to use it as a base of operations."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was infiltrating that dangerous city at that time."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And as for who my partner was\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Hey, can't you tell me already?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hmm? Tell you what?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Come on! How many times do I have to ask you!? I'm talking about the mission details!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sorry, but I can't tell you that."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Huh!? Hebiko and Shikanosuke aren't even here with us!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You'll know the reason soon."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Geez what's with that..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The dissatisfied Yukikaze began to pout."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Since we left Gosha Village, we had repeated similar conversations like a broken record."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had my own reasons for not giving her specific details regarding the mission."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, this didn't go well with the personality of Yukikaze, who loved being frank about everything."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Ahaa!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Aaah, I see, I see. So that's what this is about. Nooow I get it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze, who'd been grumbling the whole time, suddenly let out a strange exclamation."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Get what?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze came around to my front and looked up at me with a triumphant look in her eyes."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "You used this mission as a pretext to have a date with me, didn't you?"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huhh!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "You always move as a squad, but this time it's a two-man cell!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "I see. You wanted to be alone with me\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Fat chance of that."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Stop with that act already! I didn't know you were such a shy boy, Fuma. It's okay. You don't have to hide it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "This time it's better with fewer people. You're reading too much into this."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Well, if you want to have a date with me that badly, I don't mind it, you know."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "But keep this a secret from Uncle. He'll kill you if he finds out about it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Oh, and it's better to keep it secret from Clear too. And Hebiko, and Sakura. Is there anyone else?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Her face clearly showed she was teasing me, as she continued to prattle on her own while counting her fingers."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I told you it's not that!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "It's okay! Hey, I wanna eat something!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "While she pointed at a stand with one hand, Yukikaze suddenly yanked at mine with her other."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Wha-!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "My heart skipped a beat for a moment as her soft hand touched mine. It made me feel as if I were actually on a date with her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "H-Hey! Listen to me! We're going over <i>there</i>!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I pointed at the large building that I saw right in front of me."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Oh in there? Is it any good?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It's not a restaurant! It's a casino."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "A casino!? But I'm hungry."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I beg you, just stay away from the food."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "What about if it was a date?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Stay even further away."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Geez. You're no fun."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze let go of my hand as if tossing some trash to the wayside."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sheesh. We're gonna meet with the boss of Senzaki to get some information."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "The boss? Hmm. So you can meet those kind of people. You're pretty good at this, huh?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Well, they are an old friend after all."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Then, let's go meet that boss or whatever\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I wasn't certain about what she was expecting, but she gave me a beaming smile."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc155a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "An enormous casino spread throughout the basement of that building."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The place was crowded with men and women of all ages, from gentlemen dressed in luxurious suits and accompanied by beautiful women to gamblers aiming at striking it rich."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Bills and chips flew about, and I, who was always quite lacking in the money department, felt quite out of place."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "On the other hand, the well-off Yukikaze looked completely unfazed."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Is this old friend of yours really here?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah. Well, there are many different people in the Fuma Clan."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Oh, so it's someone from your clan, huh?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze, replying inattentively, was looking at the video game-type casino machine that had been quite popular recently."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "FPS, racing, fighting... They even have puzzle games. Wow\uff5e"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Just so you know, we're not here to play."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "I'm just looking. Woaahh\uff5e I don't even know about these games\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The top-notch gamer Y-kazeX-chan was itching to show her skills."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Just as I was thinking her gamer side was going to cause us trouble..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m097a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Hey, hey, who was it? Who let Gosha trash inside my territory?"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Wha-!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze's movements were swift."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm313",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m097a",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t002d",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se040"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Before I could even react to our predicament, Yukikaze had already pointed her guns at the person who'd picked a fight with us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was a showy blonde man with some lackeys in tow."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Can I beat him up?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Hmm, you're also a gunman, huh?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The blond man grinned, and his followers also drew their guns in unison."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m098a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m007a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se040"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Woman",
+        "text": "Don't you know? The use of guns is the biggest no-no in here."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Guard",
+        "text": "Throw those away if you don't want to turn into Swiss cheese."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t002c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Hey! Didn't you say he was your friend?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "He's supposed to be."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She was one to talk considering she had been the one to draw first."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was par for the course for Yukikaze to speedrun us into peril."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

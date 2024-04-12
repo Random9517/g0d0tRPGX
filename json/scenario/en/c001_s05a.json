@@ -1,0 +1,829 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm206",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc006a",
+            "IN"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "mu_t001d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Muroi",
+        "text": "Yes... such power is wasted on a human, Igawa Asagi\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Muroi-sensei, no\u30fcMuroi stepped over Gaiza and faced Asagi-sensei."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "mu_t001d",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "a_t003e",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "You must not be human... What are you?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "mu_t001a",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Muroi",
+        "text": "I'm not obliged to answer your question, Asagi-san."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "a_t003f",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Then I'll force you to answer."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "mu_t001d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Muroi",
+        "text": "Hehe, what an arrogant woman you are. Even though you're a lowly human being. How very unpleasant."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "mu_t001d",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "a_t003f",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Hey, wait... don't talk like I'm not here..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t001i",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Gaiza!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Gaiza slowly lifted himself from the bloodstained floor."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Gaiza! Stop moving, you're bleeding..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t001c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Shut up!! I can still... ugh..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Perhaps because of the armor, or maybe because Asagi-sensei had gone easy on him, Gaiza wasn't mortally wounded. But he still had wounds all over and must have been in a lot of pain."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, Gaiza reached for his sword anyway."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t001c",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "mu_t001c",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Muroi",
+        "text": "Gaiza-san, stop already. We'll withdraw."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t001d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "What!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Muroi",
+        "text": "The potion I gave you is about to wear off. Keep going like this and you really will die."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "mu_t001a",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Muroi",
+        "text": "And we've achieved our purpose anyway."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t001a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Tch... you're right..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Muroi took Gaiza and began to casually leave the headmistress's office."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At that moment\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "a_t003e",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "100"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "You're not getting away that easily."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(When did she...!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi-sensei, who had been standing in front of her desk until just a second ago, had gone around behind Muroi in the blink of an eye. And then\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "a_t003f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "HAAAAAA!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "a_t003e",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "mu_t001a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t001c",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se011"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "ef005a",
+            "IN",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Slaaaaaash!!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Muroi",
+        "text": "AARRGHH!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi-sensei swung her sword as easily as cutting through a piece of paper. Muroi crumbled into two lumps of flesh after being cut cleanly in half."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ew..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Even I couldn't look at the scene before me. Asagi-sensei, however, still didn't lower her guard."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc006a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "H-Hey, Fuma, i-i-is that..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huh...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Prodded by Shikanosuke, I looked toward Muroi and saw a swirling cloud of miasma rise above the lumps of flesh."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001h",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "I-It's still not over? What's going on...!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Stop tugging! I don't know either!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001h",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The lumps of flesh that had been Muroi until a few moments ago seemed to get dissolved by the miasma. What at first just seemed to be a black fog eventually took human form and appeared as the figure of a man."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "f_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "F\u00fcrst",
+        "text": "*Sigh* What a violent woman..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "You are... F\u00fcrst...!!? Why is a senior executive of Nomad like you..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(F\u00fcrst...!?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "F\u00fcrst. I, too, had heard that name before."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A high-ranking demon and one of the senior executives of \"Nomad,\" the remarkably fast-growing organization within the newly formed coalition of humans and demons."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He was also said to be an authority on \"Devildomian medicine,\" researching abominable body modifications and evil drugs."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(So Gaiza strengthened his power by taking a drug he made...!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(But why is someone like him is here at Gosha Academy in the first place?!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "F\u00fcrst",
+        "text": "Are you surprised that I, a senior executive of Nomad, infiltrated Gosha Academy? I'm sure you are, I'm sure you are."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Traces of Muroi could still be found in the expression of the laughing F\u00fcrst."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "f_t001d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "F\u00fcrst",
+        "text": "This is what I call a \"Flesh Disguise,\" made possible by gathering the best of my Devildomian medical techniques."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "F\u00fcrst",
+        "text": "Deceiving the eyes of you lowly humans is a simple task for someone as noble as me."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "f_t001d",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "g_t001c",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Lowly, lowly... just shut up, old man..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "f_t001a",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "F\u00fcrst",
+        "text": "Aaah, my apologies. I forgot you were also a human. Oh-ho-ho..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "F\u00fcrst",
+        "text": "So, Gaiza-san. No need to stay any longer. Let us return."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As F\u00fcrst waved his hand around, the miasma started to swirl until eventually a gaping, dark opening appeared."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Wait, Gaiza! Don't tell me that you joined forces with Nomad?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What are you planning to gain from that!? Is that the kind of Fuma Clan you want!? Answer me, Gaiza!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "f_t001a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "g_t001c",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Gaiza's left eye looked this way for just a second and then\u30fche disappeared with F\u00fcrst into the darkness."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hey, wait\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Fuma-chan, watch out!! Something's coming!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Just as I jumped back upon hearing Hebiko's voice, the sound of growling accompanied the emergence of deformed creatures from the hole Gaiza and F\u00fcrst had just disappeared through."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m005a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m006a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "GRAAAAAAHH..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Damn it...!! He summoned monsters!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "So he's trying to stall us. Now we can't chase the two of them anymore. Anyway, let's take those monsters out!"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "2000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m006a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m005a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1500"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

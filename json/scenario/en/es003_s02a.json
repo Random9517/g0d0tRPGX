@@ -1,0 +1,667 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc004a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm506",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m061a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Indeed. I really can feel his presence..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I (the boar) muttered while pressing my snout to the ground to sniff around."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kiyomaro, the lucky boar, who had turned me into his \"scapegoat,\" had apparently taken human form and was hiding."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Once that happened, it was difficult to find him because he could not be identified by his hulking body."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, since I was summoned to this dimension alongside him, I shared a part of his soul and could detect his presence."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And that was why Asagi-san had told me, \"If anyone, you should be able to sniff him out.\""
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m061a",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0084a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "So, got anything?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah. Judging by the scent, he came down the mountain and is heading toward the village..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Well, the best place to hide a tree is in a forest."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If he had disguised himself as a human, it would be convenient to hide in the village, where there were lots of people."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "...That's a bit of a pain. We could lose sight of him if he blends in among the townspeople."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah... And in a place with so many people, his presence should be weaker..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "We need to hurry. But, do your best not to stand out\u30fcPfft!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi-san looked at me and burst out laughing."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Asagi-san!? Wh-What the heck, suddenly looking at someone's face and...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "N-No, I'm sorry..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "It just felt a bit silly to be talking to a boar with a totally straight face... Pfft!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hey now!! Take this a bit more seriously!! It's a critical moment that will determine if I'm a boar for life or not!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Hehe, I know. Don't worry, I'm serious too\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi-san's giggle switch was stuck in the \"on\" position."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Alright, if you say so..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "While I thought \"Sheesh,\" I asked Asagi-san about something that had been weighing on my mind."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "By the way, Asagi-san, how did you know I was the \"scapegoat\"?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The group of Taimanin from the encounter earlier had attacked me (the boar) without listening to reason."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But Asagi-san seemed to presume that I was the \"scapegoat.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Oh, that... I was with the old lady from a shop called Inageya when I first learned about you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Inageya...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She must have been talking about that shop that also existed in my dimension, a popular hangout for the students of Gosha."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "That old lady and I know each other from a minor incident last year... We were just about to do hatsumode together, partly as thanks for that."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I see, so that's why you're wearing such a fancy kimono."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There had been so much going on that I hadn't noticed, but Asagi-san was dressed in an elegant kimono for hatsumode, the traditional first shrine visit of the year, even though we were in the middle of the mountains."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Oh, this? It doesn't suit me?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "N-No, it looks pretty good, I think."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In fact, it looked ridiculously good and cute on her, but I was embarrassed, so I left it at that."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Hehe, thank you\u266a It's a hand-me-down from my grandmother who wore it when she was young."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huh!? It's a hand-me-down!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "S-So what if it is!? It looks good on me... It does look good on me, doesn't it?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ahh!? Y-Yes, of course!! Sorry for saying something weird...!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That was close. I'd be in big trouble if I offended her and she wouldn't help me with the boar hunt."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "A-Anyway... The old lady at Inageya gave me some advice. She told me it was possible there was a \"scapegoat.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "A scapegoat... So that's me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "That's right. Apparently this ceremony was also performed once when the old lady from Inageya was still young."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "And a scapegoat was used then too\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I see..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "But the other factions don't have intel about a scapegoat yet."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Not only the Taimanin, but also demons and the UFS\u30fc\nthey're all after the power from the luck."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Since they don't know you're a scapegoat, they'll come and try to kill you like they mean it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "C'mon man..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had gotten dragged into something much worse than I had thought."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "But, wait!! If you tell them, wouldn't that just, bam, take care of it?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You're the leader of all Taimanin. I'm sure they'd listen to you..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "I'm the leader of all Taimanin? I can only give orders to the Igawa Clan. I keep my distance from the Taimanin of Gosha."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huh? Is that so...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(She was the headmistress of Gosha Academy in my dimension... but not here, I guess?)"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When I tilted my head in confusion, Asagi-san asked with a suspicious look on her face."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Just who are you? You seem to know about the affairs of Taimanin...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Oh, uh, I'm..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I stuttered, unsure where to start, when\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Hehehe. Fooound you, Mr. Boar\u266a"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm406",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi & Me",
+        "text": "\"Asagi: !?\nMe: What!?\""
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "chr_t0087a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We turned around, and sure enough, there was a young girl in a kimono."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Young Girl",
+        "text": "Happy New Year, miss. Sorry, but can you hand over Mr. Boar there? Consider it a New Year's gift for Felly\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "...A demon."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Without replying to the girl, Asagi-san muttered with a stern look."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m061a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0084a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "A demon...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "I told you, remember? There are several factions after your power, including demons and the UFS."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "B-But...!! I'm just a fake!! They won't get any power by killing me, right!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Yeah. You were just a victim of circumstance..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That's messed up!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As Asagi-san and I were bickering under our breath, the girl puffed out her cheeks like she was annoyed."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "chr_t0087a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Young Girl",
+        "text": "Hmmph... You're ignoring Felly. Then Felly will be the one to start playing with you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The young girl snapped her fingers."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Simultaneously, a group of armed demons appeared behind her."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m023a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Demon Mercenary",
+        "text": "You called, Lady Felicia?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m022a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Orc Mercenary",
+        "text": "The power from the luck belongs to Lady Felicia!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Running away... doesn't seem like an option. I'll handle the girl! You take care of the small fries!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "G-Got it!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If it came to this, then we had no choice."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We readied ourselves as the group of demons charged at us."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

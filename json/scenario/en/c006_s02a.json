@@ -1,0 +1,967 @@
+[
+    {
+        "type": "NAME_PLATE",
+        "name": "Hotaru",
+        "text": "It all happened yesterday, early in the morning..."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm506",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc023b",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t002e",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ht_t001a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Um... it's just up ahead, Hotaru-senpai."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hotaru",
+        "text": "Got it. Hebiko-chan, from here on out, please be vigilant."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Understood."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "They were in a desolate hamlet not far from Gosha Village. Hebiko and Hotaru sprinted while avoiding being seen."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t002c",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "The Taimanin whose attacks were rebuffed, how are they doing?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hotaru",
+        "text": "They're being treated by the medical team. After the treatment is over, it seems Asagi-sensei will question them."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t002g",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "So their lives are not in danger. That's good... or is it..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The two had received orders from Headmistress Asagi and were on their way to investigate a certain incident that had occurred the previous night."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The site of the incident was the Nisha mansion near the outskirts of Gosha Village\u30fcin other words, Gaiza's home."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t002g",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ht_t001a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "According to Headmistress Asagi\u30fc"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc006a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "a_t001c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "There was an incident in which some Taimanin who attacked the Nisha clan without approval were beaten back."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "It seems that some Taimanin, burning with righteous indignation, acted on their own. Those were, of course, not my orders."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Only Gaiza's mother and one housekeeper live in that house. I heard that Gaiza's mother took leave of her senses long ago."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Attacking the house where only his powerless mother resides, just because Gaiza acted against the Taimanin, is unforgivable."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "The Taimanin were most likely repelled by Gaiza, but that would be legitimate self-defense."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "With regard to this incident, we have no intention of blaming him."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "a_t001c",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc023b",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "\u30fcTheir mission this time was explaining the situation to Gaiza's mother and investigating the attack."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And Hebiko, who had known Gaiza and his family for a long time, had been chosen for this mission. Just in case, Kise Hotaru was accompanying her as an escort."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t002d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Ah! Senpai, it's in sight! That mansion over there belongs to the Nisha family!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t002d",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc024b",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t002c",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ht_t001a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "It's been a long time since Hebiko came here..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The morning sun gently poured sunlight on the garden of the Nisha mansion, illuminating small, well-kept flowers. One wouldn't think it had been the scene of a bloody incident at all."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hotaru",
+        "text": "So this place was raided by Taimanin? I cannot forgive people who disobey Headmistress Asagi and act on their own."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t002a",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hotaru-senpai, you really respect Headmistress Asagi, don't you?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hotaru",
+        "text": "Of course I do! Every student in Gosha Academy admires Asagi-sensei. Ah, but personally, Murasaki-sensei is..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t002d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Murasaki-sensei?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hotaru",
+        "text": "Ah, no, it's nothing! Forget that, let's go!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hotaru placed her large battle axe back onto her shoulder and walked toward the front door."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t002c",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Come to think of it, Murasaki-sensei's weapon is also a large axe..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hotaru",
+        "text": "Eh? What? More importantly, Hebiko-chan, get ready for combat!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t002d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Ah, yes!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t004e",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko used her Ninja Art \"Beastified Taimanin.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "\"Beastified Taimanin\" was a Ninja Art where the user's body held the power of a beast. Hers was \"Devilfish,\" so in other words, she transformed into an octopus."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hotaru",
+        "text": "Hebiko-chan, any sign of people?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t004g",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hmm..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko twitched the suckers on her octopus tentacles. An octopus's suckers not only stuck to things, but they also had the ability to act like odor-detecting sensors."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "...There's no sign of people. But, this... this smell is... something different..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hotaru",
+        "text": "You smell something non-human?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t004c",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Yes, it's faint though."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hotaru",
+        "text": "Let's go and stay on alert."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hotaru took a stance with her axe and charged it with her power. The battle axe, which Hotaru had been carrying so lightly, now had a sense of weight to it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hotaru could control the weight of things she touched. She not only lightened her weapon to swing it,"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "but by making it heavier right at the moment of impact, she exhibited a destructive force that rivaled Murasaki. It was a powerful ability that didn't match her appearance."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Meanwhile, Hebiko seemed to be deep in thought, as if something was bothering her."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t004g",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hmm..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hotaru",
+        "text": "What's wrong? Are you worried about something?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "No, it's this smell... Hebiko smelled this somewhere..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hotaru",
+        "text": "You might remember if you move around a bit. Anyway, let's push on."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Very recently... at the academy... um... ah, that time!!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t004d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The smell and the memory came into perfect alignment in Hebiko's mind. At the same time, a strong sense of danger descended upon her."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t004f",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hotaru-senpai, let's get out of here!!!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hotaru",
+        "text": "Eh?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was\u30fc\"the smell of demon.\" It was the same as that person she had encountered during the riot at Gosha Academy just the other day."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hotaru-senpai, behind you!!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hotaru",
+        "text": "!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t004f",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ht_t001a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Almost as if he had been waiting for Hebiko to remember, the space behind Hotaru opened up and \"that person\" appeared."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "f_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "F\u00fcrst\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He was surely the one whose presence Hebiko had sensed. The senior executive of Nomad who had disappeared along with Gaiza after infiltrating Gosha Academy and attacking Headmistress Asagi."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hotaru",
+        "text": "HAAA!!!"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se027"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Swish!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hotaru transitioned to an attacking motion in an instant, turning around in a flash and slashing through F\u00fcrst's torso."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "f_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se010"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "\u30fc ...*Thud.*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "F\u00fcrst's body was sliced straight across and fell to the ground in the blink of an eye."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t004b",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ht_t001a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Awesome!!! You're amazing, Hotaru-senpai!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hotaru",
+        "text": "No, wait! Something doesn't feel right!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t004b",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ht_t001a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hotaru held back, and the severed body of F\u00fcrst began to melt before her eyes and turn into a horrible liquid."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "F\u00fcrst",
+        "text": "\u226bI went out of my way to come and captu-... I mean, protect Gaiza-san's mother and look what I found... oh-ho-ho!\u226a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The liquid that had been F\u00fcrst rose up quickly, took on a human shape, and finally returned to its original form."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "F\u00fcrst",
+        "text": "Two cute Taimanin. What an unexpected outcome\u266a"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ht_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hotaru",
+        "text": "Hebiko-chan, be careful! He's not any ordinary monster...!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Yes, Hebiko knows...!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "F\u00fcrst",
+        "text": "I guess today I'll take these two ladies back home with me. A spot just opened up in my collection."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "F\u00fcrst",
+        "text": "My guests will also be overjoyed if I bring them Taimanin... oh-ho-ho!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As F\u00fcrst chanted some kind of incantation, a gate opened in mid-air and monsters appeared."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ht_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m044a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m045a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "F\u00fcrst",
+        "text": "Go, catch those Taimanin girls\u266a Some scratches are fine. As long as they're still alive I can restore them...!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hotaru",
+        "text": "Hebiko-chan, are you ready!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Well, there's no other choice, is there...!"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m044a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m045a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    }
+]

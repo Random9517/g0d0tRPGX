@@ -1,0 +1,551 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc006a",
+            "IN"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm207",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se007"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Clank... clink...*"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t003b",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "g_t005a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Haaa... haaah..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "What's wrong? Finished already?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Gaiza and Asagi-sensei had been fighting with unrelenting swiftness, but Gaiza's movements were clearly starting to slow down."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "*Panting*... Shit!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He was out of breath and clearly exhausted."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "You're a restless... nimble old hag..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Just give up already and surrender."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "On the other hand, Asagi-sensei's breath wasn't the least bit ragged. She looked relaxed and was waiting for the next attack."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She didn't seem to want to kill him. She was just trying to wear him down and make him give up."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, I thought something seemed strange about Gaiza's behavior."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Even Gaiza should know that he can't defeat someone like Asagi-sensei in a head-on battle.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If he had just wanted to die a hero's death, there would have been no need to cause all this chaos and keep the other Taimanin away\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(This can't be it. There must be something... something more to this... behind the scenes...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi-sensei also seemed to have noticed something else felt wrong."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t003e",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "What have you done? I can sense a faint miasma coming from you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Sh... shut up, old hag..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t003f",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Is it a kind of strengthening modification? No, that has to be some kind of demonic potion. Answer me. Who gave it to you?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Ugh... haa... I told you... to stop talking down to me, you old hag!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t003d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "!!?"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se013"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Gaiza raised his sword with all his might."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "ARGHHHHHH!!!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A black miasma started to flow from Gaiza's body as he let out the war cry."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(What is that...!? He's totally different from just before...! Is this the power of the demonic potion Asagi-sensei mentioned!?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hebiko, Shikanosuke, get ready! Something powerful is coming...!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "DIEEEEEEEEEE!!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t003e",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "What!?"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se013"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A gigantic, miasma-clad odachi cut straight through the headmistress's office...!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Not even Asagi-sensei will be able to fully block that...!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It would have looked that way to anybody. However, the one who stopped moving was actually Gaiza."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "...? Ugh...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After a moment of stillness, cracks started to appear in Gaiza's armor and\u30fc"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "...Ugh... gyyaaaahhh!!!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "g_t005a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "it shattered into pieces."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t003b",
+            "LEFT",
+            "CENTER",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Good grief... You're really giving me a hard time."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In the split second that Gaiza had stopped moving, Asagi-sensei had slashed at his armor repeatedly and completely destroyed it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Th-This can't be... my \"Yaksha's Skull\"... ugh..."
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se010"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "125"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Blood started to spurt from several wounds on his body and he collapsed straight to the floor of the headmistress's office."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi-sensei, however, didn't spare him a single glance and instead turned to look at the office entrance."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t003e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "So you were the one who was pulling the strings? Muroi-sensei."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t003e",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Muroi",
+        "text": "Ahhh, well done, well done."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "mu_t001b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Muroi-sensei...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The person standing there was the school physician, Muroi-sensei."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm206",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "mu_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Muroi",
+        "text": "I gave him a potion that strengthens Taima Particles... but he is a human being after all. It looks like his body wasn't able to keep up."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Muroi-sensei smiled softly, unhurriedly stepping toward the bloodstained Gaiza."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "mu_t001b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Muroi",
+        "text": "You, on the other hand, were wonderful. Yes... such power is wasted on a human, Igawa Asagi\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A dark, shadowy miasma started to flow from the laughing Muroi-sensei's body."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Muroi-sensei... who the hell are you...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Fuma! Get back!!"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "2000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "mu_t001b",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

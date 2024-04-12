@@ -1,0 +1,592 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm319",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc032a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sa_t002f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Who's there?!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sa_t002f",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m015a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m015a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Ugh..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "That's...!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Those are Gonza's subordinates!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Appearing from the shadow of the castle gate were the subordinates who had been with Gonza on the mountain the other day."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Be careful!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza's Subordinate",
+        "text": "Ugh... uuuhhh..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m015a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m015a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se010"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Thud.*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Gonza's subordinates didn't put up a fight and collapsed to the ground in exhaustion."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Wh-What!?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "sa_t002f",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t002e",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "This guy is soaking wet... He doesn't seem to have a scratch on him, maybe he got hit by a Ninja Art or something..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "sa_t002b",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Hmhmmm, mystery solved... It means that there's somebody here apart from us and that spear-dude. It must be a ghost\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Despite the increasingly disturbing situation, Sakura-sensei seemed to be enjoying herself."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ghosts aside... I'm pretty sure there are other enemies. Hebiko!!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t002a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Okay!!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "sa_t002a",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t004c",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As expected of Hebiko, she seemed to have sensed my intentions. She quickly used her Beast Jutsu to turn herself into an octopus."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko could use the power of an octopus. The octopus was a fearsome creature with a variety of special abilities, not to be underestimated."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "One of those abilities was that of her suckers. Octopus suckers were high-performance sensors that could also detect odors."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko quickly scanned the area by twitching her octopus tentacles."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t004e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "...!! There's someone coming from the darkness ahead!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "sa_t002d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Hebiko-chan, is that maybe the\u2500!!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t004d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Ah, no, it's probably not a ghost or anything like that... It's not like octopuses can sense the supernatural..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko quickly shot down the comment from Sakura-sensei, who had a gleam in her eyes."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t004c",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Doesn't mean it has to be human though!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "sa_t002d",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t004c",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m016a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Maid of Darkness",
+        "text": "Oh dear, it looks like we have guests again."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As if in response to those words, a bewitching beauty appeared. A faint unearthly aura was swirling around her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She was... not human."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m016a",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m017a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lustful Girl",
+        "text": "So you weren't fooled by the \"illusion\" right away. It's so annoying dealing with so many stubborn humans."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Then a beautiful girl with pale skin emerged from the darkness. From her devil wings and horns, it was clear that she wasn't human either."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "They... don't look like ghosts."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Tsk, not ghosts but demons?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Demon ladies, what are you doing here?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "First, I tried to question them. They didn't necessarily have to be enemies."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Maid of Darkness",
+        "text": "What a cute boy. I bet you have great energy\u2606"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lustful Girl",
+        "text": "How about we kill the girls and suck the energy from the guy?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Fuma-chan... you're really popular."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sheesh..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "They're succubi. Female demons who suck the energy out of men."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "The energy..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That meant they would do \"stuff\" to men to steal their vigor and then turn it into their life energy."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Not bad... no, wait.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I shook my head. This was not the time to get tempted."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Why are succubi like you in a place like this?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Maid of Darkness",
+        "text": "Why do you think? Maybe to meet you?\u2606"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Lustful Girl",
+        "text": "Submit to us and we'll show you pleasures that are out of this world... forever."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Stop trying to seduce Fuma-chan...!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Don't worry Hebiko, rather than submitting to others, I prefer to make them submit to me. So let's force our way through!!!"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

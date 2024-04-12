@@ -1,0 +1,1410 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm320",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc060a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t005f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Eat this... Four Blade Style: Tentacle Slash!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t005f",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se031"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*SHLUCK!!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Bringing together the ninjato in both hands with the ninjato in both tentacles, Hebiko focused on one point of the hard scales of the Nagi Soldier."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Next, Hotaru-senpai jumped into the center, but the Nagi Soldier nimbly dodged her and attacked her unprotected back with its scythe."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t002f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "H-Hey! Look over here! Electric Jutsu: Spark!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t002f",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se030"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc060a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "500"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Nagi Soldier",
+        "text": "!!!?!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As the Nagi Soldier's face was hit with sparks from the static electricity, the scythe slashed through nothing but air, and instead Hotaru senpai's battle axe was targeting the Nagi Soldier's weak point."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ht_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hotaru",
+        "text": "Heavy Axe Combo!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ht_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "300"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se032"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And the axe, which had instantaneously become heavier, sliced the robust torso of the Nagi Soldier in two. The upper half fell to the ground with a thud."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t005b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hooray!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t005b",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Spectators",
+        "text": "\u25aa WOAHHHHH!!!!\n\u25aa Way to go, you brats!!!\n\u25aa You're shitting me!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Cheers and boos rose up from the spectator seats. Snake Lady settled things down and stepped forward."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sr_t003a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snake Lady",
+        "text": "That was wonderful\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The cheering stopped and emotionless applause echoed through the arena."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You personally staged this fight to the death... you act like this has nothing to do with you."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sr_t003a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ht_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hotaru",
+        "text": "Snake Lady, it's only you left now!"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se013"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Swoosh!!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hotaru-senpai raised her battle axe, still dripping with fresh blood, and rushed toward Snake Lady."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snake Lady",
+        "text": "What a boisterous cutie\u266a"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ht_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "300"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hotaru",
+        "text": "Wha-...!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sr_t003a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Snake Lady had gotten behind Hotaru-senpai."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hotaru",
+        "text": "When did... you..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sr_t003b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snake Lady",
+        "text": "It's time for naughty children to go beddy-bye\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hotaru",
+        "text": "\u30fc\u30fc..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se010"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Thud*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Snake Lady softly touched Hotaru-senpai's back and she collapsed on the spot."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "H-Hotaru-senpai!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sr_t003a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snake Lady",
+        "text": "Don't freak out, I just put her to sleep\u266a I can make any kind of poison in my body and inject somebody just by touching them\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "P-Poison...!? \"Snake\" Lady... I see, so that means it's snake poison!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sr_t003g",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snake Lady",
+        "text": "Hmhmhm, are you interested? Mr. Taimanin Cutie\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieeee!! Don't call me that!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sr_t003a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001h",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t005e",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Hey, Fuma!? Can we defeat someone like her!? She has poison and she even t-teleports!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "It's not teleportation. What she did was move behind Hotaru-senpai with terrifying speed. She moves just like Headmistress Asagi..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "A-Are you sure, Hebiko!? W-Were you able to see her!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t005c",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "No, Hebiko's eyes couldn't follow her, but Hebiko's suckers sense the \"smell\" of her movement."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001i",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieeee!! Either way, can we beat someone like that!? Just getting touched means we're done for!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah... her power is beyond my expectations."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Having said that, we couldn't go on dancing to her beat. I spoke to her with all the confidence I could muster."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hey, Snake Lady or whatever you're called. Going through all this trouble, what do you even want from me?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001i",
+            "LEFT",
+            "CENTER",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sr_t003a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snake Lady",
+        "text": "Hmhmhm, smart boy\u266a Are you trying to have a conversation so you can buy some time while you figure out a way to beat me?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Who knows. No need to reply if you are at a loss for an answer though."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sr_t003b",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snake Lady",
+        "text": "Cheeky kid...\u266a That makes me want to take everything from you\u266a"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sr_t003b",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This time, Snake Lady softly placed her hand on Shikanosuke's shoulder from behind."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "\u30fc\u30fc...?!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se010"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001i",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke, too, crumpled right where he was."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t005f",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Shikanosuke!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sr_t003a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snake Lady",
+        "text": "It's all right\u266a I just put him to sleep as well\u266a"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t005e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snake Lady",
+        "text": "Do you understand? Your existence is exceedingly fascinating\u266a"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t005d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I'm so \"honored.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snake Lady",
+        "text": "You have no clue, do you...\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What are you getting at?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sr_t003b",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snake Lady",
+        "text": "Your eye, your \"lost right eye\"\u266a"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t005e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "My right eye?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sr_t003h",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snake Lady",
+        "text": "It has a bedeviling secret\u266a But... perhaps I expected too much of you after all?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I have no idea what you're talking about. But enough of that."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sr_t003a",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snake Lady",
+        "text": "Is there something else? I think you should just stop resisting\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke and Hotaru-senpai were already down, and only I, and the exhausted Hebiko, remained\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Move and I'll kill you. I have so many questions for you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But even as I said that, I backed away a little. I was slowly being driven into a corner."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sr_t003b",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snake Lady",
+        "text": "Did getting cornered make you lose your mind? How boring\u266a Maybe I should kill you after all..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Snake Lady said and smiled. In the next moment\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A ray of light came hurtling down from the ceiling\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se033"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sr_t003b",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t005e",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*SLASH!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "An intense flash ran across Snake Lady's body."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snake Lady",
+        "text": "Wha-...!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t002a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Nicely done, Fuma-kun."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snake Lady",
+        "text": "Uargh... Igawa... Asagi...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Even Snake Lady couldn't withstand Asagi-sensei's slashing strike, and she fell to her knees, blood spurting out of her mouth."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t002f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "You thought Hotaru was the only backup?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You got careless. A trump card is something you always have to save til the end."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yes, Asagi-sensei had joined my mission as the second backup. She said that she herself also took some of the blame for Hebiko's kidnapping."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "So I had ordered Asagi-sensei to sneak into the ceiling of the arena and to surprise attack Snake Lady when the time was right."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snake Lady",
+        "text": "Did you really\u30fclure me over here? Buying time and slowly backing up... to lure me into an easy position to be attacked\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I said not to move, didn't I? You should've just listened to me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snake Lady",
+        "text": "Psychological warfare? So cheeky...\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "The tables have turned."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t002c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Not yet, Fuma-kun."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi-sensei stopped me as I stepped forward."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snake Lady",
+        "text": "Hmhm... hmhmhm\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Snake Lady slowly stood up. And at the same time, her deep wound quickly began to close."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "!? The wound from being slashed by Asagi-sensei is...!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t002c",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sr_t003a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snake Lady",
+        "text": "Hmhm... poison and medicine are two sides of the same coin. If I inject myself with this \"medicine,\" even closing a wound is easy\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Seriously...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "It's not surprising. For high-ranking demon adversaries, something like this is an everyday occurrence."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That woman is a high-ranking demon!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Yes. And a pretty nasty variety at that."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "She is probably also a \"serpent\"... she has the same \"smell\" as a Nagi."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko said while twitching her suckers."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "So her human form is just temporary..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "While we were talking, Snake Lady's wound disappeared completely and she was smiling as if nothing had happened."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sr_t003e",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snake Lady",
+        "text": "I'm surprised, boy! I didn't expect you to bring the Igawa Asagi\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Asagi-sensei is very popular. I'm glad you're pleased."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snake Lady",
+        "text": "You won, boy\u266a As a reward, I'll let you live for now\u266a"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t002f",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Pretty condescending attitude, Snake Lady. You think you can just escape like this?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sr_t003b",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Snake Lady",
+        "text": "Right back at you\u266a If you're able to survive, let's meet again\u266a"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "sr_t003b",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t002f",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Snake Lady made this remark and blew out a puff of air."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!? There's fog..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Her breath became a white fog that kept spreading and started to fill the arena."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hey, wait! I have something to ask you..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t005f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Don't, Fuma-chan! There's a really bad smell coming from that white fog!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t005f",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I looked up at our surroundings, and the spectators were engulfed in the fog that had risen to the ceiling. One by one, their skin became dark and they collapsed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Spectators",
+        "text": "\u25aa UWHAAAAA!! It's poison! It's poisonous fog!!\n\u25aa Run! RUUUUUN!!!!\n\u25aa You moron!! Don't push me!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Panic-stricken spectators crowded to the exits and created a hellish scene of screams and agony."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t002c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "We'll withdraw! Fuma-kun, Hebiko, carry the two who were knocked out!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Damn it...!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi-sensei had made the right decision. Instead of chasing Snake Lady, protecting our sleeping friends and getting out of the poisonous fog had to be our first priority."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko and I each took one of the unconscious Hotaru-senpai and Shikanosuke and hoisted them up."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t002g",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "I'll protect you on the way. You two just run for the exit!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Understood!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t002g",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Without a moment to feel tired, Hebiko and I just focused on sprinting for the exit."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Snake Lady... mentioned the secret of my right eye? What the hell does she know about it...!?)"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

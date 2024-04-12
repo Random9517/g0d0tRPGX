@@ -1,0 +1,335 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm209",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc021a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After leaving the black market district and passing through some ruins, the mechanical spiders arrived at an abandoned tunnel."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001c",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004c",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "This place looks kind of familiar."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "That sounds right, it was on a previous mission. Being chased by that big robot."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah, that time as well, we were here on the masked lady's request..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Well, I suppose these abandoned passages are fitting pathways for people operating underground."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A web of tunnels not only spread throughout every part of Tokyo Kingdom, but also led to the mainland through the seafloor."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001c",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004c",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ak_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "It looks like the target came through here and then headed for that tunnel over there. Only about half an hour ago."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That way... That's the direction of the mainland..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ak_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In my mind I tried to recall a map of the area. Presumably Gaiza had already assassinated the Dragon Gate executives and was planning to escape Tokyo Kingdom."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Alright! Let's hurry up too\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "!? Fuma, watch out!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se010"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Suddenly, Shikanosuke jumped on me and pushed me to the ground."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And in the spot where I had been standing\u30fc"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se036_02"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*RATATATATATATATA!!!!!*"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m008a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "UFS Soldier",
+        "text": "Tsk! They know we're here!! Surround them!! Don't let the Fuma ninja escape!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "The UFS!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It appeared to be some kind of UFS organization. They must have had followed Gaiza and arrived at this tunnel."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m008a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ak_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "F-Fuma ninja!? Are they after us!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "I think they got the wrong people. Or should I say \"the wrong Fuma?\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah, I'm sure the \"Fuma ninja\" they're referring to are Gaiza and his men."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "Though even if you tell them, they won't believe you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You're right. We have no choice, let's do this everyone!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We turned toward the voices of the UFS soldiers."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Okay! Bring it on!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "I wonder if they'll put up more of a fight than the Zombies."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieeeeee!!"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

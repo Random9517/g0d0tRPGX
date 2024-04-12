@@ -1,0 +1,1219 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc011a",
+            "IN",
+            "3000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm203",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Both the powered exoskeleton and the group of mechanical ants had been no match for Murasaki-sensei."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We had managed to escape the base in one piece and returned to the informant broker\u30fcto the Masked Madam."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "m_t003c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Murasaki",
+        "text": "My presence would only complicate the conversation. I'll be waiting outside, so contact me if something happens."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Understood."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "m_t003c",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "500"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001c",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "A-Alright, let's go!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Having completed her request properly, now Heberybody can go in confidently!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001c",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc022a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Man in Black",
+        "text": "Welcome back. Madam is expecting you, please follow me to the office."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As we entered Club Persona, the black-suited men led us in as if he had been waiting for us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We stood out like a sore thumb, and a murmur went through the crowd as they noticed us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Heheh, this feels kinda nice...)"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc012a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "k_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Madam",
+        "text": "Looks like you went on quite the rampage."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah, thanks to a certain somebody telling us it was a \"gang hideout.\" We ran into quite a bit of trouble because of that."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Madam",
+        "text": "You poor things. So, did you get it?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Of course. But before that... what's going on here?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "k_t001a",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ki_t001f",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kiryu Sabato",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A man in a white lab coat stood in the office with an indignant look. This was definitely the Kiryu Sabato I had read about in the documents."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I thought you said you were going to tell me where he was hiding?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Madam",
+        "text": "There was a \"slight\" discrepancy in the information I gave you, so this is a little something extra for you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "A \"slight\" discrepancy, huh... but I will gratefully accept it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At least that saved us the trouble. I placed the portable high-capacity storage device\u30fcone of the two\u30fcwith the downloaded data on the coffee table."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Madam",
+        "text": "Hmhmm, good."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Madam just gave it one quick glance without confirming the contents, and then gave Kiryu a push."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ki_t001g",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kiryu",
+        "text": "Hey, wait a second!? When did I say I'd be going back!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kiryu, who had been quiet so far, finally opened his mouth."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Madam",
+        "text": "You promised, didn't you? That you'd return quietly if I got you all those disgusting aphrodisiacs and love potions that you wanted."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kiryu",
+        "text": "Yes, I promised! But only if Murasaki came to pick me up!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Madam",
+        "text": "These three are here as representatives of Murasaki, isn't that the same thing?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kiryu",
+        "text": "Nooooo, it's not! It's totally different!!! Murasaki herself must come here and apologize to me, there's no other way!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kiryu",
+        "text": "She questioned my love!!! That's a serious betrayal!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "What the hell. This was the skilled demonologist who had worked with Nomad, who was supposed to be contaminated by evil and rotten to the core or something like that?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(His love for Murasaki-sensei...?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This looked like it was going to become a total pain to deal with."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I glanced at Madam and was able to tell, in spite of her mask, that she was making an exasperated face as well."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What's wrong with this guy...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Madam",
+        "text": "He's like a spoiled brat... And he's infatuated with Murasaki."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "So he's sulking because she won't return his love?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Madam",
+        "text": "No, it's more like keeping track of the times he got rejected and what she said each time is a hobby for him or something."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "A pervert and an absolute pain to deal with..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Madam",
+        "text": "In any case, this makes it difficult. I can't return him to you like this..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Hm? Wait a second...)"
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR14",
+            "OUT",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Murasaki",
+        "text": "In case you have ever trouble dealing with him, use this."
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR14",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I took out the envelope from Murasaki-sensei that I had kept in my pocket."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "A-Actually, I was prepared for this very scenario. Kiryu-san, this is from Murasaki-sensei."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I handed over the mysterious envelope, which I was warned not to open or \"she would kill me,\" to Kiryu."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ki_t001f",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kiryu",
+        "text": "From Murasaki for me!? What is it?? To think she'd try to lure me with something..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Rip.*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kiryu opened the envelope and slowly checked its contents\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ki_t001e",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kiryu",
+        "text": "Oohyohhaaah!!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ki_t001d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kiryu",
+        "text": "Th-This is for me!!? S-So she was madly in love with me after all!!! Since she's given me this treasure!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He was suddenly dancing with joy."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After jumping, skipping, and spinning through the cramped office, he started walking towards the exit in big strides."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ki_t001b",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kiryu",
+        "text": "I'm returning! I'm going back!! We're getting married!! My love might have even convinced her she's already pregnant!!! WAHAHAHAHA!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "What the hell had been in that envelope?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was extremely curious, but at least it looked like we'd be able to bring Kiryu Sabato back with us... or more like he had already gone back on his own."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Madam, I have one last question."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "k_t001a",
+            "RIGHT",
+            "CENTER",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Madam",
+        "text": "What is it? You did a good job, so if it's something simple, I'll even tell you for free\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "How were you able to get your hands on something like a UFS access code?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "k_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Madam",
+        "text": "That's a secret."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "And you most likely also knew that the Taimanin... that Yatsu Murasaki was going to attack the UFS base, didn't you?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Which is why you figured that even rookies like us would be able to get our hands on the data. That means we were completely played by you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Madam",
+        "text": "Are you complaining?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No, we got played by you simply because we were too unexperienced. I have no hard feelings toward you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Madam",
+        "text": "What an admirable attitude."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "We also got help from this scrap metal girl."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "<i>Who are you calling scrap metal?!</i>"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Suddenly, a voice came out of nowhere. It was definitely the voice of this Asuka, who had helped us in the underground UFS base."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Madam",
+        "text": "~~~"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "So far Madam had been answering nonchalantly, but now she put her hand to her forehead as if to say \"Sheesh.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "So she is one of your underlings after all."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Madam",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That's not something from the Devildom, no matter how you look at it. Android limbs are nearly impossible to maintain without special assistance."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "And there's only one country that can maintain state-of-the-art technology like that..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "But if that's the case, then why would you make us infiltrate a secret UFS base?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Madam",
+        "text": "Better stop asking now. Or do you have a death wish?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Instantly a deadly aura came from the Masked Madam."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Damn it, did I say too much...?)"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se044"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "HORIZONTAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Just when I felt that I might be in danger, the office window shattered\u30fc"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se046"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "k_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And Murasaki-sensei jumped in and chopped the Masked Madam in half with a single stroke."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Murasaki-sensei!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "m_t004e",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Murasaki",
+        "text": "Shikanosuke contacted me. He said that you were about to be killed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I see, sometimes him being a wuss is quite helpful."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However\u30fcthe body of the chopped-in-half Madam turned into a destroyed sofa."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Madam",
+        "text": "<i>Sorry for underestimating you. You seem like a capable boy\u266a</i>"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Madam",
+        "text": "<i>Thank you for the data. Let's meet again somewhere...</i>"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Madam...!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She left behind her alluring voice, and any traces of Madam evaporated into the night air."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Murasaki",
+        "text": "Decoy Jutsu... that masked woman is a Taimanin."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "A Taimanin..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That meant just like the rebellious Gaiza, there were other Taimanin acting without government affiliation."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And they even had state-of-the-art technology to give people android body parts."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(She's definitely being supported by the UFS...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Why did somebody like that make us raid a secret UFS base and steal data?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(......)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(There are still some missing pieces.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Without enough information, I couldn't come up with an answer no matter how much I racked my brain."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(A Taimanin working with the UFS, and a Taimanin working with Nomad... Gaiza, where are you now, and what are you doing...?)"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "m_t004e",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "..."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc023a",
+            "IN",
+            "2000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm505",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Several days later. Still before dawn, a figure was passing through the streets of a mountain village."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The figure was a man. He was making his way along the road at a quick pace, almost as if trying to beat the morning sun that slowly started to illuminate the mountain."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc024a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The man entered the largest house in the village and stopped."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m013a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m014a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As he did, countless shadows emerged from the darkness, and attacked him like wild foxes."
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se011"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m013a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m014a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Without even a sound, it all happened in an instant. The shadows were cut to pieces by the man, and stillness fell over the scene again."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t002a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Man",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The man was Nisha Gaiza."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc025a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Nisha Gaiza",
+        "text": "How is my honorable mother?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Elderly Woman",
+        "text": "She's not feeling well today... M-Maybe you should refrain from..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The elderly woman, who seemed to be the housekeeper, stepped out to meet Gaiza and timidly chided him."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "I see... Only for a moment, gran."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Gaiza gestured to the woman to stay put and made his way to the bedroom by himself."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc026a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Honorable Mother..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In the bedroom, a woman was sitting on the bed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She must have been in her 30s, no, in her 40s."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She looked pale and sickly in the the faint light, and she stared into the empty air with no emotion in her eyes."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She looked as though she might disappear if touched, like the moon reflected in the water's surface, so Gaiza hesitated for a moment before speaking."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But then he lifted his head and clearly called out to her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Honorable Mother."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Woman",
+        "text": "...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Upon hearing the voice, the woman slowly tilted her head to the side and looked at Gaiza."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Woman",
+        "text": "...!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And then her expression, which had been as blank as a mask only moments ago, suddenly cleared up and became full of life force."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Woman",
+        "text": "Ahh! Danjo-sama!!! What brings you a place like this... Ahhh, and when I'm in such a state!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The woman combed her messy hair with her fingers, straightened the collar of her clothes, and leaned closer to Gaiza."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t002f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Honorable Mother... it's me... it's Gaiza..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Woman",
+        "text": "Gaiza!!! Gaiza, where are you!? Danjo-sama has...! Your father has returned!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Gaiza looked anguished and held his mother back as she tried to jump up from the bed."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t002e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Honorable Mother, Danjo-sama is dead! He was killed!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Woman",
+        "text": "Yes, kill him, Gaiza! Kill that useless heir!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Woman",
+        "text": "You will succeed Fuma Kotaro! That's what everyone wants!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The woman shouted, now with a demon-like look on her face."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hearing the commotion, the elderly housekeeper rushed into the room with some medicine."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Elderly Woman",
+        "text": "Everything is alright, Mistress... It is time for your medicine."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Woman",
+        "text": "Yes, medicine... Danjo-sama... Danjo-sa... ma..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The elderly housekeeper had the woman take the medicine while soothing her as though she had done so many times, and the woman quickly fell asleep."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t002f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Gaiza had reached for one of his kunai, but quietly put it back in his pocket."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Please... take care of my honorable mother."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t002f",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Gaiza slumped his shoulders and returned to the streets of the mountain village that had slowly started to brighten up."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

@@ -1,0 +1,2250 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc054a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm320",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In the middle of the fight against Clear\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Listen to me, Yukikaze! I have something to tell you!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t002f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "What is it!? If you try to stand in the way again like earlier I won't listen!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze said, running out of patience."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Clear was strong. Even with four of us, it was all we could do to slow her down."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That's not it. I realized why I wanted to help her. It's because she's being controlled."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When she had been playing with me, Clear had been innocent and kind-hearted, like a child."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But then why was a girl like her after Asagi-sensei?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There was only one answer."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t002d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "? Controlled\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah. Just before she started acting strangely, the device on her head had an odd reaction."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I don't have conclusive proof, but I'm sure someone is giving her orders."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Perhaps that was what she had been talking about earlier."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When I asked Clear if she had contacted her parents, she had shown no sign of having done so..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "...But in spite of that, she had replied that it was fine because she had talked to them just earlier."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t002f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "A-And!? What are you trying to say!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It's obvious. I want to save her."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t002c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "What!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze was speechless, still on full alert with her lightning guns raised."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t002c",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001e",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "W-Wait, Fuma!? Even if you say that\u30fc\nthat girl is ridiculously strong!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "All of our attacks will be blocked, just like before... Even if you say \"save her,\" it's..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It'll be fine. It's just that your earlier attack wasn't properly coordinated."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "With Hebiko's, Yukikaze's, and your abilities, if we think things through, it's sure to go well!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "!! Fuma...!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t005a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Fuma-chan. Do you have some kind of idea?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Will you help me?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t005b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Of course. Give your spot-on orders, as always\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With a face of determination, Shikanosuke also nodded affirmatively together with Hebiko."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Thank you\u30fc\nYukikaze, what about you?"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t002d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "I...  w-well, if you insist... then I'll listen to you..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t002f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "But if you give some weird orders, I'll make you pay for it!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah. Just leave it to me!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was decided."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We briefly discussed our plan and then faced Clear, who was ready for battle."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "chr_t0088a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "...K I L L... T A I M A N I N..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Clear closed the distance, with no glimmer of will left in her eyes."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She was many times stronger than before her behavior had changed\u30fc\nbut still, we had a plan on how to deal with her."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t002f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "I'll go first then!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se094"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Bang!!! Bang, bang!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze, with her lightning guns in hand, boldly commenced the attack."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "chr_t0088a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The shield that Clear was holding glowed faintly and easily blocked the supposedly powerful lightning projectiles."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But that was also part of the plan."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Good, Yukikaze!! Keep shooting like that and restrict her movement!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "During that opening\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "chr_t0088a",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t005f",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_FRONT",
+        "info": [
+            "3"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hyaaah!! Tentacle punch!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Upon seeing my hand signal, Hebiko jumped from the wall of a building she had stuck to with her suckers, raised her octopus leg and unleashed a... punch(?)."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hastily, Clear fought off Hebiko with her blade."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But her move wasn't sharp enough."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Clear's blade stopped about halfway through Hebiko's self-regenerating octopus tentacle."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t005k",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Ughh, owowowow... But Hebiko stopped her blade! Shikanosuke-chan!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Y-Yeah!! I-I'm gonna do my best!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And then\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke approached Clear, who had both of her hands occupied, from behind."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Fuma, this device on her head, right!? Hyaa\u30fc\nElectric Jutsu: Spark!!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t002f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se014_01"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Bzzz bzzz bzzz bzzz*\u30fc!!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "chr_t0088a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "!!!? Aaaaaaaaahhh\u30fc!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Clear's body shook violently. But only for a moment."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The blade and shield in her hands disappeared with a mechanical whirr."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "MISSION... FAILED..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se010"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Clear collapsed on the spot like a puppet whose strings had been cut."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "\u30fcClear!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I rushed over to Clear and hurriedly helped her up."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke's Spark was weak and had basically no killing power."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But Clear's face was pale and her breathing was weak and irregular, perhaps because the electricity had flown directly into the device connected to her head."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm710",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hey!? Are you okay, Clear!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "...Fuma..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What the hell is going on!? Who are you...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I asked, and Clear looked up at me with vacant eyes."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "I am sorry... I did... a bad thing... But... it was... a mission..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "A mission!? H-Hey!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The light had slightly returned to Clear's eyes."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She had the same innocent, child-like expression on her face as when we had eaten ice cream together at Inageya..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Uhh... ice cream... tasty... playing... fun... again... together..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Clear mumbled in fragments, and suddenly her body went limp."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She had fainted."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001e",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "...Fuma. Just who is this girl?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Who knows..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze came closer and asked me, but I didn't know either."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We had met by coincidence... but I somehow hadn't been able to just leave her be."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001e",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t004g",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Fuma-chan, let's bring her to the infirmary for now. And we have to contact Asagi-sensei too."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You're right..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As I lifted Clear to carry her to the infirmary\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ah, wait a second!! Shikanosuke, figure out the status of the device's receiver!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Eh!? Fuma, what is it, all of a sudden\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I directed Shikanosuke to the device attached to Clear's head."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The device should have been destroyed by the flowing electricity\u30fc\nbut it was now blinking ominously."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It's not over yet!! Whoever is controlling Clear is trying something again!!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Most likely to destroy any evidence. And for the complete execution of her mission\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Clear had said that she had to deliver something inside her belly to Asagi-sensei."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "What if it was a bomb that could be controlled remotely\u30fc?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Now that Clear had failed and had been taken down like this..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "...it wouldn't be unnatural for them to blow everything away, aiming to conceal the evidence and destroy Gosha Academy."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001h",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Ahh!? There's definitely something coming!! Fuma, some nasty radio waves are being transmitted to her!!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ugh\u30fc!? Shikanosuke, trace the source of that signal!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "O-Okay!! I'll try my best!!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "After that\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We didn't have much time."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Even if Shikanosuke was able to trace the source, Clear and the academy would most likely already be blown up by then."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Then what should we do\u30fc?"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm205",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yukikaze!! Shoot into the air with everything you've got!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Eh? M-Me...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah!! These waves are most likely the signal for a remote detonator! But your lightning will buy us some time!! It's an electromagnetic wave!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With the electromagnetic waves that occurred when Yukikaze used her powerful lightning attacks, we might be able to interfere with the signal going to Clear."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t001f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "A-Alright... I got it!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t002d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze swallowed hard and readied her lightning guns."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I want you to shoot at full blast!! You still have quite a bit left in the tank, don't you!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t002c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Eh...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I nodded at Yukikaze with a smile."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Maybe Yukikaze also hadn't really wanted to kill Clear, or maybe she had been worried about the fallen Taimanin all around us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In any event, it should have been the case that Yukikaze still had quite a bit more power in her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If Yukikaze had fought with all her strength, even Clear would have had trouble reflecting all of her lightning projectiles with the shield."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t002a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Ahaha, I guess even you were able to notice, Fuma!! Full blast, got it!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yukikaze laughed and aimed her lightning guns at the sky."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "yu_t002f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Goooooooooooooo!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "3000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se030_02"
+        ]
+    },
+    {
+        "type": "EV",
+        "info": [
+            "stv007a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*BANG!!!!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She shot a lightning projectile with maximum power into the sky\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The air trembled and a vortex swirled. Then the device on Clear's head reacted erratically with a crackle."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Alright!! Good job, Yukikaze!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "But Fuma, I can't keep shooting forever!!!"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc054a",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I know!!!\u30fc\nShikanosuke, did you find the source!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Y-Yeah!! Only roughly though... this way!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sensing my intentions, Shikanosuke and Hebiko ran out of the academy."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se054"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(\u30fcClear, everything will be okay!!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And I also ran after them."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I could see a group of dependable Taimanin led by Asagi-sensei coming from the academy building after they had heard the commotion."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Now there was no need to worry anymore."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This \"incident on my day off\" that I had unexpectedly gotten involved in was rapidly coming to a close."
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "..."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc006a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm604",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A few days later\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After class that day, I had come to the headmistress's office."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was about Clear's case, which I had asked Asagi-sensei to handle in the aftermath."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "a_t001c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Igawa Asagi",
+        "text": "Well then, I'll briefly explain what I have found out about her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yes, please\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi-sensei's explanation went like this..."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc118a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As I had guessed, Clear was not a normal human."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But she was also not a Taimanin or demon."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Apparently she was an augmented human created by a secret agency within the government."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc006a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "a_t001c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "An augmented human...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Yes. Her code name is \"Type: HERO.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "She was originally created to fight against evil\u30fc\nbut it seems that someone stole her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Stole her..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "a_t001e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "In fact, this case was the reason why I had been called to meet with the government officials."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "a_t001g",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "They had asked for my cooperation in the search for her... but who would've expected that she would be coming after me."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "a_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi-sensei gave an exasperated wry smile."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Did whoever stole Clear give her the orders?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Not only had Clear been made to attack Gosha Academy by herself, she had also had a bomb planted inside her stomach."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If the attack had failed, the cruel plan had been to blow up Clear along with the bomb."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After that\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We had chased after whoever had been controlling Clear with the help of Shikanosuke's radar detection, but in the end they had already fled."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "a_t001c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Yes, probably. But the investigation into that scoundrel is ongoing."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "We have some guesses about who it might be, since they had a variety of information regarding Gosha... but I cannot say anything yet."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "a_t001e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "She also seems to know nothing about whoever had been controlling her..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I see..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When I made a gloomy face, Asagi-sensei smiled as if telling me not to worry."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "a_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "But I also have some good news. Kiryu disarmed the bomb that was planted in her."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Really!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kiryu was a shady demonologist who dwelled in the underground laboratory of the academy."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He was a hell of a guy in a lot of different ways, but his skills in the field of Devildomian medicine alone were top-notch."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Yes. And with that she is officially free to go."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That's good to hear... So what will happen to her now...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Would she be returned to the government laboratory?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In that case, we would most likely never see each other again..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "a_t001b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Haha. Of course, I arranged for her to be placed in Gosha's care."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huh!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "a_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "It's only natural, isn't it? A girl with that much power, someone else might try to get their hands on her again."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That's true..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Then where would she be living? With Asagi-sensei?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "That's why I asked Yukikaze to take care of her."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Y-Yukikaze!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "a_t001b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Haha. What? Did you want to live with her?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "N-No, that's not it, but..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hmm. Would someone like Yukikaze be able to look after Clear...?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "a_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "In fact, she also wanted to go with you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "But if the worst case happened again, only someone as powerful as Yukikaze would be able to stop her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Th-That's true..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If you thought about it like that, Yukikaze might be surprisingly well-suited for the job."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Yukikaze is also living alone right now, so I think it will work out perfectly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "For some reason she also seems to be vigilant about Yukikaze."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Clear is vigilant about... Yukikaze?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As I tilted my head, Asagi-sensei called out in the direction of a door at the back of the room."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Haha. Hear the details directly from her\u30fc\nCome in, Clear."
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se052"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The door at the back of the headmistress's office opened and from there\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "a_t001a",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "chr_t0088a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Ehehe. Fuma is here..."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Oh!? Clear\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I hadn't seen Clear in quite some time."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Her wounds were completely healed and she had a big smile on her face, just like when we had played with the frisbee."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Guess what? I... can stay... in the village."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah, I heard that. Good for you!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Yes!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Clear was an augmented human created for combat."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It might not end up being the peaceful life of a regular person right away..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But at least as long as she was in this village, she wouldn't be exploited by any weirdos."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "a_t001b",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "I'm going to leave the rest to you, Fuma-kun."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "A new mission for the captain of the Independent Commando Unit. Bring her to Yukikaze's home\u30fcand show her around the village on the way."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi-sensei smiled and saw us out of her office."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc005a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Th-This is a mission...? Oh well, I guess I have no choice."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I gave a strained chuckle and looked at Clear."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "chr_t0088a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I wasn't sure what was so amusing, but Clear looked up at me while smiling ear to ear."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Will you be alright though? At Yukikaze's house?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Yes. I watch that girl."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Watch her?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "That girl... is bad. She can't... be friendly with Fuma."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huh? It's more like she and I fight like cats and dogs..."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "I watch her!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "O-Okay then...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I didn't really get it, but this didn't seem like something she'd give up on."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "So, what do you want to do? Do you want to get something to eat before we go to Yukikaze's house?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I didn't have much money as usual, but just for today, I guess I could buy her something again."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Clear looked up at me and said with a smile."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Inageya! I... want to eat ice cream!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    }
+]

@@ -1,0 +1,1804 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc143a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A vast mountain range extended beyond Maesaki City."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc138a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It had once been dotted with villages engaged in forestry, but in the era of rural flight they had disappeared one after another."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Before long, various means of transportation were cut off, and now it had become a forgotten and secluded region that not even climbers came by very often."
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm506",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc028a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0115a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "It's supposed to be around here somewhere... but this is the middle of the friggin' mountains. Is the GPS just busted?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Starkly contrasting with the calming green around her, a woman with flaming red hair was wandering restlessly while glaring at her GPS."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Her name was Cerastes. She was a capable mercenary who had fought across battlefronts all over the world from a young age."
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se076"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "Hmm, where the hell is it...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She seemed to be looking for something and was constantly peering in the shadows of boulders and turning over fallen trees."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Then\u30fc"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m013a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m037a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Man",
+        "text": "Hey, who are you?!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Wind-Clad Man",
+        "text": "What are you doing in a place like this?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Suddenly, armed men appeared and surrounded Cerastes."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "Hm? And who the hell are <i>you</i>?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "I'm just looking for something. I'm not in the mood to tussle with some randos for no pay, so get lost."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Man",
+        "text": "Pay... You're a mercenary?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "Yeah, but I'm off the clock now."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Wind-Clad Man",
+        "text": "What the hell is a mercenary looking for this deep in the mountains?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "What's it to you? Pain in the ass..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A look of irritation appeared on Cerastes's face."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Killing people without a reward wasn't a hobby of hers, but it was a different story when they got in her way."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There seemed to be only two of them, so maybe she could take care of them with one blow\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Just as she was thinking that..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m087a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m014a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Woman",
+        "text": "Don't move. Answer the question."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Wind-Clad Woman",
+        "text": "We'll show you no mercy if you resist."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When had they snuck up on her? A pair who seemed to be allied with the men appeared and pointed their blades at her from behind."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "Hmm...? You guys are no ordinary humans, are you? The way you hid your presence was quite impressive."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Cerastes's eyes were lighting up. Her inner battle maniac was starting to itch."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "(Who are these guys? Things are getting a little interesting.)"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m013a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m037a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Man",
+        "text": "Answer the question."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "And if I said, \"go fuck yourselves\"?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Wind-Clad Man",
+        "text": "What did you say...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Their swelling thirst for blood was chided by the woman who seemed to be the leader."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m087a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Woman",
+        "text": "Wait. It's been quite a while since we lost contact with the advance squad. We don't have time to deal with strange women here."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Man",
+        "text": "...You're right."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m014a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Wind-Clad Woman",
+        "text": "We've warned you. Leave."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0115a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "\u30fcHuh? They disappeared? Hm? Huh?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There was no longer any sign of them anywhere. The strange humans had vanished just like the wind."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "\u30fcAh!? Maybe those guys were Japanese ninja!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "Holy shit!! I bumped into some ninja!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A short while after the encounter with the humans."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm206",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc141a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0115a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "Man, I fiiiiinally found it. So this is the Cave of the Serpent God or whatever it's called..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Cerastes had found the cave she had been looking for at last."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "But still, those guys earlier, were they really ninja!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "I should've asked them to let me take a picture. And I want them to show me their moves too..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "Ah, no, wait. Anyway, it's all about the Serpent God right now!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Cerastes stepped into the cave and, despite the poor footing, quickly moved deeper."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se082"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc142a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0115a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "It's so quiet..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As she focused and pressed forward through the winding serpentine cave, she suddenly emerged into a giant chamber."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There was an underground lake filled with fresh water, its banks littered with decrepit tools and bones. They must have been used in rituals."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "Serpent God, huh..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She picked up some of the fragments and threw them into the underground lake."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "Humans are such arbitrary creatures. A devil in one country and a god in the next?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "If I had been born in a different age, I wonder if I would've been treated like a god too. Makes me laugh."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0019a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Cerastes had taken on the form of a human, but her true form was that of a half-human, half-serpent demon called a Nagi."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, having been raised by humans in the human world, she never knew of the Devildom or any others of her kind."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When she was a child, her appearance attracted strange looks, and she was teased and bullied."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Undaunted, she had honed her strength and was able to make a living as a mercenary from an early age."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And, having learned about the Devildom and demons while traveling from battlefield to battlefield..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "...she had thought she wanted to learn about her own kind, and was now researching serpent-related legends in every country she visited."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc142a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And what she had set her sights on upon arriving in Japan was this cave."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There had once been a village in this area that had believed in the divinity of snakes, and this cave, which was said to have been an object of faith for hundreds of years, had been called the \"Dwelling of the Serpent God.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, after the village had become uninhabited, there were none left who worshipped the Serpent God, and even the existence of the cave had been forgotten."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0115a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "This is a big-ass cave. It seems to go on further, but the path forward is inside the underground lake huh?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She was mulling over things like, \"I could dive into the water to check it out, but if there was no exit then even I would die.\""
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m087a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m037a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Man",
+        "text": "That woman from earlier, I didn't expect her to come this far."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Woman",
+        "text": "Does she have anything to do with the annihilation of the advance squad?"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "!? The ninja from before!? Where the hell did you come from!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "(Holy crap, I didn't detect their presence at all until just now...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Cerastes was normally unfazed by being surrounded by enemies in an enclosed space, but she was more than a little surprised this time."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "(And I mean, this is a cave. Does this mean they came all the way here through the cave without letting me sense them?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In a cave, shrouded in silence and darkness, even the slightest sound reverberated loudly, and movements created a flow of air."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It would probably be impossible even for skilled soldiers to conceal their presence. Not to mention that Cerastes was a Nagi and had senses sharper than those of humans."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "(So they <i>are</i> ninja?! The real deal?!!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "(What should I do? Should I try fighting them like this? Or should I ask them for a keepsake photo first?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Man",
+        "text": "Hey, what are you grinning about?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "Hehe. I guess fighting them comes first! If I win, I'll have you guys take a picture with me!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Man",
+        "text": "Huh???"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And just when the ninja(?) and Cerastes glared at each other\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se114"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Splooshhhhh!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Suddenly, a huge splash echoed all around as water sprayed throughout the cave."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "!? What the!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Man",
+        "text": "Oh shit!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "ts_m088a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se086"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm313",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Monster",
+        "text": "\u300eHHSSSSSSKK!!!!\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "What had jumped out of the underground lake was a gigantic snake monster."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Wind-Clad Man",
+        "text": "So it showed up! Damn it, take this! Wind Art: Gust!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se074"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The wind-clad ninja initiated his Jutsu and aimed it at the face of the giant snake."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Man",
+        "text": "No! Don't look at it!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Wind-Clad Man",
+        "text": "Eh?\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Man",
+        "text": "...Too late."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It happened in an instant. The ninja who was targeted by the wrathful stare of the snake froze in place and turned to stone."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Man",
+        "text": "Damn it! First I'm gonna crush those eyes!"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "While avoiding the gaze of the snake, the masked ninja leaped up and closed in on its face."
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se084"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gigantic Snake",
+        "text": "\u300eHHSSSSSKK!!\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Man",
+        "text": "Ugh!? Hngh!? Blaaarrgh..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, he came into contact with the miasma that the giant snake had spewed, and he fell while tearing at his throat."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "Wh-What's going on!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Cerastes was momentarily taken aback by the massacre unfolding before her eyes."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "Regardless, I'm screwed if this keeps up!!"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se084"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But she quickly regained her composure and raised her huge rifle, aiming it at the gigantic snake's throat."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gigantic Snake",
+        "text": "\u300eHHSSKK...\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Perhaps having noticed her presence, the gigantic snake turned around and glared at her with its keen eyes."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "Shit!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She thought she'd be turned to stone\u30fcbut her finger was free from any hardening as she pulled the trigger."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se086"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Bang!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gigantic Snake",
+        "text": "\u300eHSSKK!?\u300f"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se099"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A direct hit\u30fcbut the bullets had ricocheted off the scales."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "No friggin' way!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gigantic Snake",
+        "text": "\u300eHHSSSSKK!\u300f"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se084"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Perhaps due to becoming agitated, the startled snake began to spray its poisonous breath around haphazardly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Wind-Clad Woman",
+        "text": "U-Ughhh..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Masked Woman",
+        "text": "I-It's no good, retreat..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "All the ninja who had been hit by the poisonous breath collapsed all too easily on the spot."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "Yo, ninja guys!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "...Hm, I'm alright. Does it only work on humans?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Cerastes rushed through the poisonous breath and fired off bullets from point-blank range."
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se084"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Bang!!!*"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se084"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Boom!!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gigantic Snake",
+        "text": "\u300eHSSK!?\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "Shit!! How friggin' tough is this thing!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "No matter how many bullets she fired, the scales showed barely any signs of damage."
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se086"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gigantic Snake",
+        "text": "\u300eHHSSSSKK!\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But the giant snake still seemed to feel the pain and tried to sweep Cerastes aside with its enormous tail."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "Nice miss!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Cerastes jumped back, took refuge behind a nearby boulder, and observed the gigantic snake."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0115a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "The legendary Serpent God... is definitely this thing, right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "Don't tell me that thing is what the Nagi have become? Will I also end up like this in a few hundred years...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Wrong. This is a basilisk. It's an underling of the Nagi."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As Cerastes turned around, three new ninja were standing there."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "\u30fcNo, something about them was a little different from the earlier ninja."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "6",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "7",
+            "h_t004c",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Uehara Shikanosuke",
+        "text": "Whoa, what is that thing!? It's super gigantic!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Don't look into its eyes, you two! You'll turn to stone!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "7",
+            "h_t004f",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Aishu Hebiko",
+        "text": "You don't have to tell Hebiko! But it's pretty difficult."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "6",
+            "s_t001c",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "7",
+            "h_t004c",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "(A young one, a scared one, and... an octopus...?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "What's the call, Fuma-chan?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "First, we help the others. They should be fine if we hurry and get them treatment."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "6",
+            "s_t001e",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "But what do we do about that snake!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "This woman and I will deal with the Basilisk, together."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "Huh!? Me!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hebiko and Shikanosuke, you two go and rescue the fallen Taimanin."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "6",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Are you going to face that stupidly huge snake with a stranger!? Are you out of your mind, Fuma!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It's alright, I have an idea. Just trust me and go, quickly!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "7",
+            "h_t004c",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Got it! Make sure to properly explain everything later!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "6",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "7",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se054"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The two replied. Then they picked up the collapsed ninja and started running toward the exit."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0115a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "Hey, I don't know who you are, but you're spouting off some pretty half-assed shit. I'm the one squaring off against this monster, got it?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As Cerastes spoke, she assessed the man in front of her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In an instant, he had grasped the situation and had ordered the rescue of those who had a chance of survival."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The young man who was capable of that, along with the two who had quickly rescued their fallen comrades, did not seem to be ordinary people."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "(But still, he doesn't have the scent of someone powerful at all.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "You're weak, aren't you? Why did you stay behind?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Cerastes asked, getting straight to the point."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Because being strong isn't enough to beat that thing. I'm Fuma. And you?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "Cerastes. I'm a mercenary. Hey, are you a ninja too?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Eh? Yeah, I am."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "Hehe! Gotcha! Then I guess it's okay."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "So what are you gonna do? Attacks really don't seem to get through to this thing."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Bullets won't work. My blade most likely won't either. The only thing that can bring that monster down is your true power."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "My true power?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "The basilisk's petrification and its poison didn't work on you\u30fcCerastes, you're a Nagi, aren't you?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "Huh! You seem to know quite a bit! I like you. I've got a lot of things I want to ask you later. But first..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With that, Cerastes's lower body transformed, turning into the true form of the Nagi, half-human and half-serpent."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0019a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Cerastes",
+        "text": "Let's let loose and send this thing packing!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah, let's go!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

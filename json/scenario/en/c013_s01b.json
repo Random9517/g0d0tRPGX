@@ -1,0 +1,654 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm404",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc028a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m058a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shinobi Bear",
+        "text": "Roooooooaaaaaaaaaarrrrr!!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Haiiiiiiiieeeeeeee!!? Not good, Fuma!! That bear is super strooooooooooooong!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I know! For now just run for it!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I called out to the half-crying Shikanosuke to spur him on as we ran."
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se054"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "These animals possessed the power of the wild as well as the abilities of Taimanin. If we had a serious fight with them it wouldn't end well for us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(More importantly, how could she tame such wild beasts!?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Of course, by her, I meant Yukikaze, who had these animals kowtowing to her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It didn't look like she was taking care of them for Sakura-sensei, so it was most likely pure and simple dominance."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She was a really reckless girl as always\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "A-Anyway just keep running and follow her! Hebiko, did you see where she went!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t003f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Yes!! Hebiko's somehow got her scent!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The suckers on Hebiko's tentacles were excellent olfactory sensors."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If we followed that we would have no problem chasing Yukikaze, even if she had a bit of a lead on us."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Good! You two, run!!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aiiiieeeee!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shinobi Bear",
+        "text": "Grrrroaaaahh...!"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se054"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We could hear the sound of the animals' growling snarls chasing us as we ran through the mountain paths."
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And then..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Haa, haa... Wh-What is this place...!??"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After running for what felt like a while, the dense forest suddenly opened up into a clearing before us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "What we saw towering before us was..."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc146a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm506",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t003e",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t001d",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "We're... still in Japan, right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "A mansion... or rather a castle..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was a majestic mansion, one like the European aristocracy would live in."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And in front of it was a large and beautiful well-groomed garden."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "A-Are you kidding me!? That castle is Yukikaze's house\u30fc!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Hmhmhmmm\u266a I'm hoooooome\uff5e\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Aah..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There was no longer any room for doubts."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Far from where we stood\u30fc We could see Yukikaze, who looked as small as a rice grain from this distance next to the castle, waltzing right in as if it was the most natural thing to do."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I did NOT expect this...!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She wasn't living at the top of some tree or with wild dogs."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But the truth was just as shocking."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t003e",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Who knew Yukikaze was loaded..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah. There was some talk of her being from a prestigious family or something but..."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Well, the splendor of the castle in front of our eyes was far beyond prestigious levels though."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(But is she living all alone in that huge castle...?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If I remember right, Asagi-sensei had said so during the incident with Clear."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "But, isn't this great? You found her house so let's just give her back her notes and go home."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Oh nonono, we can't do that... We can't leave now after coming all the way here!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t001d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Ehhh!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Right, Shikanosuke? Aren't you curious about this too!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "There's something strange about this castle!! And besides, why doesn't anyone know about such a huge place to begin with?!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t001c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hebiko is sure that's only because it's so deep in the mountains though..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t001c",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t003f",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "For sure! I need to know, Fuma!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko looked dumbfounded, but Shikanosuke and I weren't stopping."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t003b",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "This is definitely not normal! There's got to be, like, a demon trapped inside, and that the castle moves at night!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Oooo nice! That gets me fired up!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t001g",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Come on. Don't encourage him, Shikanosuke-chan."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Mwahaha. Well, Hebiko, the real \"adventure\" is only starting."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "There's no way I could go back home after such an interesting turn of events!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I nodded as I made my declaration to Hebiko."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "We will now be on standby here until dark!! And then..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "we infiltrate Yukikaze's house... No! We will infiltrate Yukikaze's moving castle!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t001d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Eeehhhhh\uff5e...?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

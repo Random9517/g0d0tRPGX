@@ -1,0 +1,596 @@
+[
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We opened door after door and pressed ahead."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se052"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc102a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm203",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However\u30fcbehind every door was always the exact same peculiar room."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0077a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "The same room again... It gives me the creeps..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah. It really is a labyrinth..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shishigami and I looked at each other and sighed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Be careful, Shishigami. I heard many people in this labyrinth lose their minds before their bodies fail them."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "I'm fine. But you... No, I guess you seem fine as well."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huh? Why?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "You know... looking at you, you seem brash."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...Y-You mean that in a good way, right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At that moment, Shonosuke called out to us."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0077a",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m063a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "Hmm... Kotaro-sama, is this route really the right way?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Dunno."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke & Jisai",
+        "text": "Shonosuke: Huh?\nJisai: Ehh!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It's not like there were directions written in the \"Biography of the Witch.\" Let's just keep going until we find something."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "...Your personality sure is something else."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I-In a good way, right...?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se052"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc102a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se052"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc102a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And again the same strange room kept appearing."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...By the way, Shishigami."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was depressing to walk in silence. I called out to Shishigami who was walking next to me."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0077a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "What?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Do you have to pee?"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "Huh!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I mean, it's always the same room over and over and there isn't a restroom anywhere. I was just getting worried."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "...No need to worry. I'm totally fine."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I see. But if you feel like you need to go, just do it somewhere around here. Shonosuke and I will pretend we didn't see anything."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "Thanks. When that time comes, I'll crush your eyes and ears first, and then I'll go somewhere around there."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Th-That's... We'd better get out of here quickly!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A while back, I had gotten uncharacteristically worked up, so I had tried to make a small joke to lighten the mood..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But it seemed that Shishigami now simply thought of me as a pervert."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ah, and\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "...What?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shishigami asked back in a cold voice."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "N-No, it's a normal question this time, er... Why are you wearing that mask?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was a cold, inhuman mask that covered the upper half of Shishigami's face."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had been curious about that since I first saw her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "Ah... this is..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0077a",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m063a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "Yes. I found that strange as well."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shonosuke, who was standing ahead of us, looked back and spoke."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "That isn't just a simple mask, is it? I can sense a strong magical power from it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "...It's so I don't inconvenience others."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Inconvenience...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "Yes. That's also the reason why I often act alone, and why few people know me at Gosha."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hmm. Shishigami, is your Ninja Art\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At that moment, Shonosuke's piercing voice interrupted my question."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm207",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "\u30fcKotaro-sama, on your guard!! The summoning seems to have begun again!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m064a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m064a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m064a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_FRONT",
+        "info": [
+            "2"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As if to cut off our path, a pack of Will-o'-wisps popped up."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

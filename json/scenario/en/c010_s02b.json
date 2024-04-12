@@ -1,0 +1,971 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc119a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm207",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m069a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m069a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Armed Refugees",
+        "text": "\u25aa Don't lose them!! Surround them!!\n\u25aa Yeah!! Show them no mercy!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se036_03"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1500"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*RATATATATATATATA*\u30fc!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The sound of rifles echoed in the vast underground space."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se042"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t005f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Fuma-chan, Shikanosuke-chan, over here!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Alright!! Thanks!!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "s_t001h",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Uwaaahh!! Th-Thank you, Hebiko...!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "While we had Hebiko shield us from the gunfire with her octopus tentacles, we looked for openings and fought back."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "u_t005g",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "What the hell are they talking about, damnit!? I paid quite a bit of money!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And Sana-san was cutting down the Armed Refugees while incessantly complaining."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "Do you know how much I could've gone drinking with that money!? Huh!?"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "CENTER",
+            "linear",
+            "700"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "ef009b",
+            "NONE"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se011"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Swoosh!! Slashhhh!!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Armed Refugees",
+        "text": "\u25aa Arrgh!?\n\u25aa Uarrgh!!!"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc119a",
+            "IN",
+            "700"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "u_t005g",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(And now this... Gotta hand it to her...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "No wonder she had Asagi-sensei's trust."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sana-san was displaying her brilliant, and I suppose you could say traditional, swordsmanship, and no one would think this was the same person who had been drunkenly harassing us just a short time ago."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However\u30fc"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "s_t001d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Th-This is bad, Fuma!! There's more and more enemies coming!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Just how many people called this underground area home?"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se054"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m069a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m069a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The sporadic emergence of rifle-toting Armed Refugees from the darkness wouldn't stop."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah, we're gonna get surrounded if it continues like this!! Sana-san, let's retreat for now and reorganize! Hebiko, the smokescreen!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t005f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "O-Okay!! Got it\u30fcHeeeuup!!"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se084"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t005j",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With a whoosh, the smokescreen\u30fcHebiko's octopus ink\u30fcwas spread out in front of the Armed Refugees."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Armed Refugees",
+        "text": "\u25aa Ugh!? What is this!?\n\u25aa I-I can't see anything!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "Oohh!! Nice, Hebiko!! Alright guys, retreat for now!!"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se054"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "All Three of Us",
+        "text": "Got it!!"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "..."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc119a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm407",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Ten minutes later."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m069a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m069a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Armed Refugees",
+        "text": "\u25aa They haven't gone far!!\n\u25aa There's a big reward if we kill 'em! Don't let 'em get away!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se054"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A group of Armed Refugees ran right past the shadow we were hiding in."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It seemed they were searching for us extensively, so we couldn't move at all."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I thought they would stop looking for us if we got out of their territory... but I guess they wouldn't go that easy on us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In fact, it seemed they even had been offered a reward for killing us for some reason."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sana-san, does anything come to mind? Anything that could cause them to hold a grudge against us."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "u_t001e",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "Nope, I can't think of anything!! I don't know what's going on here either..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As I asked in hushed tones, Sana-san replied with a puzzled look on her face."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You did pay them, didn't you?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "u_t001d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "I did. This has never happened before. I've never had any issues getting to Yomihara until now..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hmm..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(An unexpected situation crops up just this time...?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It didn't seem like that kind of crew would let an opportunity to make money slip away for no reason."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And the \"reward\" they were talking about was also bothering me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Unless you got drunk and picked a fight with them..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "u_t001g",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "Hey."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I-I mean, I'm just saying it's a possibility... Anyways..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Another thing I can think of is that maybe someone else has appeared who's willing to pay them more...?"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t002c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Fuma-chan, what do you mean?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Who knows. I can't really say anything since there's not enough information. But one thing's for sure: Our plan is thoroughly messed up now."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "From the looks of it, it didn't seem like they would let us pass through their territory easily."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "u_t001h",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "Oh man... If we can't get through their territory, getting to Yomihara will be a real pain..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "u_t001h",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "s_t001d",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "R-Really...!? Can't we just sneak around the edges or something...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "Hmmm... I'm not too keen on that. They can see very well in the dark."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sana",
+        "text": "I mean, there is another route, but... that way is, well, yeah..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Even Sana-san couldn't decide on what to do."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Th-Then... Hey, Fuma!? What should we do!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Let's see..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(How can we get through their territory safely while also trying to figure out the reason for their change of heart?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After some thought, I came up with an easy way to accomplish both."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Alright!! Let's throw caution to the wind and try \"that\"!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "s_t001c",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t002d",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke & Hebiko",
+        "text": "\"That\"...?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

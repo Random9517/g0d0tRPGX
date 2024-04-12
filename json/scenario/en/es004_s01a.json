@@ -1,0 +1,647 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "chrnc0086a",
+            "IN",
+            "3000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm407",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Early in the morning, next to the mountain road connecting Gosha Village to the outside world."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Standing on the frost-laden ground, two women faced each other."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0041a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Fuma Saika",
+        "text": "...So?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "I'm talking about wanting to reaffirm our relationship."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saika",
+        "text": "...Reaffirm?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "It's difficult to talk in private here. For now, come with me. We both want to avoid trouble, don't we?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saika",
+        "text": "..."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc054a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se021"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Ding dong... ding dong...*"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc005a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm309",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Nothing unusual in my locker... or in my desk...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was after school. I had been checking my seat and my locker repeatedly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(...That's weird.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Even though it's the once-in-a-year chance for a maiden in love to confess the secrets in her heart...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yes, today was Valentine's Day. The only day of the year when even at Gosha Academy, the training institute for Taimanin, there was a sense of uneasiness in the air."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had... unfortunately spent the day just as I would any other."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(There was the whole rebellion and all, so I get that it might be kinda tough to approach me.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(But now that I've been appointed captain of the Independent Commando Unit, there might be one, or two, or ten girls who secretly harbor feelings for me...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And as I was walking down the hallway more slowly than usual with my overabundant (?) expectations..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t003b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Uehara Shikanosuke",
+        "text": "Hey, Fuma! So you also got no chocolate?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke called out to me with a brisk look on his face."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "So you too, Shikanosuke."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t003a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "I wasn't expecting any to begin with though! Come on, cheer up, Fuma."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sheesh, to think I'm getting comforted by you. But who knows, there might be a girl waiting for me right around that corner... hm?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t003a",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "rn_t001a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akiyama Rinko",
+        "text": "Oh, it's Fuma and Uehara. How's it going?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Appearing from around the corner was Akiyama Rinko-senpai. In her hands she had a cardboard box filled to the brim with colorfully wrapped packages."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t003d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Rinko-senpai... is that all chocolate...?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "rn_t001b",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "Yes, same old again this year. My classmates and even my juniors, all sorts of girls are giving me chocolate. I guess you'd call it friendship chocolate?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "rn_t001a",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "I'm happy that they are being so considerate, but carrying this much home with me is not easy at all..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I don't think they're just being considerate, though..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Inside the box, you could see some serious-looking handmade chocolate, and also chocolate from high-end sweets brands wrapped in beautiful wrapping paper."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(There's some from the department store in Maesaki City, where Hebiko was saying there's a line every year. So Rinko-senpai shares some of the blame for that...)"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "rn_t001a",
+            "LEFT",
+            "CENTER",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Rinko-senpai was hugely popular among the girls as well, and there were even rumors that a secret fan club for her existed."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "rn_t001b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "Well then, see you two tomorrow. Tell the young Sakura-sensei I said hi."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se082"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Rinko-senpai said and left carrying her box."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t003a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Amazing... as expected of Rinko-senpai!"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se050"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was ignoring Shikanosuke, whose eyes were gleaming, and slumped my shoulders with mixed feelings, when somebody suddenly slapped me on the back."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I turned around and there she was, the long-awaited girl who harbored feelings for me\u30fc\nOr not."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm605",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m037a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m001a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "ts_m001a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_FRONT",
+        "info": [
+            "3"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Classmate A",
+        "text": "Hey, young master Fuma."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ugh..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was some guys from my class. They were good friends with Gaiza and they had tried to pick a fight with me previously."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Classmate B",
+        "text": "Seeing you two guys go home together, I guess that means you didn't get any chocolate!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Classmate C",
+        "text": "I told you! No way the cowardly young master is popular with the girls!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Classmate A",
+        "text": "That means I win the bet!!! Gyahaha!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Shut up! What a creepy thing to bet on. And how much did you guys even get!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Classmate A",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Classmate B",
+        "text": "..."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Classmate C",
+        "text": "..."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm404",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Classmates",
+        "text": "\u30fc...Huh? You wanna fight?!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Apparently that had been a touchy subject. Our classmates seethed with anger and rushed at us."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

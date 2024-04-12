@@ -1,0 +1,1357 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm314",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc005a",
+            "IN",
+            "3000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001g",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004c",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "*Panting* Haa...! We somehow managed to get into the building!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "It's only going to get harder from here! Stay on your toes."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Running as fast as we could from the forest to the back entrance, we had arrived safely at the academy building."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "G-, give me a moment to catch my breath!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004c",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "What is Hebiko gonna do with you..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(We probably can't avoid fights from now on. Might be a good idea to take a quick break and prepare ourselves.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(...I wonder if Tokiko is alright.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was thinking about Tokiko, whom we had left behind in the forest."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "You lot! Who are you!?"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!!! Damn it...!"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004c",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "EV_OUT",
+        "info": [
+            "1500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Meanwhile..."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc010a",
+            "IN",
+            "1500"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "o_t002c",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "t_t003e",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_FRONT",
+        "info": [
+            "2"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In the forest, the two butlers were facing each other."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm207",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "o_t002a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "Hehehe... Being a butler is a tough job, don't you think?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "t_t003l",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "I never thought of this as a tough job."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "Right? The same goes for me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The two looked as if they were conversing calmly, but in fact the air was rife with nervous energy, just like the surface tension of a cup filled to the brim."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "t_t003e",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "What an irresponsible man you are."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "Haha. You know, it's not like sticking women on a skewer is a hobby of mine. Maybe I'll let you go if you get naked and beg for your life?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "You can't win against me."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "o_t002e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "You're no fun at all!!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "250"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Gonza was the first to break the tension."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "HAAAAA!!"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se005"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "o_t002e",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "100"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "1",
+            "250"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He stuck his spear into the ground and dove beneath the soil, as if he were jumping into a swimming pool."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "t_t003d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "An Earth Jutsu...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "<i>Hehe... I know you're an expert at using kunai. But it's not like you can attack me if I'm underground!!!!</i>"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "t_t003e",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "Hn!?"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.25",
+            "250"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Tokiko sensed something and jumped to the side."
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se006"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "t_t003d",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "ef004c",
+            "IN",
+            "100"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "250"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And only a moment later, a spear thrust out of the ground where she had been standing."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "<i>Haa, not getting impaled by the first attack? You're totally different from those rookies.</i>"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc010a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t003e",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "I see... so this is your true technique."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Earth Jutsu utilized his spear art, making his attacks powerful and hard to avoid. The grave markers all around belonged to those who had fallen to this technique."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "<i>Just look at the results all around you. Not bad, huh?</i>"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "You're making me sick..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That being said, it definitely was a powerful technique. Even for Gonza it must have been a tremendous effort to develop his Earth Jutsu."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "<i>Hey, hey! Stop daydreaming! Or do you want to be the next to get skewered!?</i>"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se006"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t003e",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "ef004c",
+            "IN",
+            "100"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "250"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Slash!!*"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se006"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "ef004d",
+            "IN",
+            "100"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "250"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Swing!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In a flash, the spear was aiming at Tokiko again and again. The only thing she could do for now was dodge the attacks directed at her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "<i>What's wrong!? The great butler of the head family can't win just by dancing around!!</i>"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc010a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t003c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "Ugh...!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Tokiko squinted and readied her kunai."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "<i>Ha! Do you plan to block my spear with just your kunai!? Who's the stupid one now!!</i>"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se007"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "HORIZONTAL",
+            "0.5",
+            "250"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Clank!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The kunai Tokiko threw at the last moment seemed to have been easily deflected by Gonza's spear... However\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t003l",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "<i>!?</i>"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Surprisingly, his spear changed direction as if dragged by the kunai, and swung through nothing but air."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se013"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "<i>Uaaargh!!!?</i>"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And almost as though he were being fished out by his flying spear, Gonza appeared from the ground."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "stv004a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "Taima Kill: Pandemonium!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se008"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Without a moment's delay, Tokiko flung numerous kunai."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se010"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Having been thrown into the air, Gonza had no way to escape and was pierced by the kunai all over, knocking him to the ground."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t003c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "...Haa... haa..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It seemed that the fight had been settled, but Tokiko didn't lower her guard yet."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t003c",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "Quite impressive."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Gonza, who had supposedly been pierced just moments ago, rose up from underground. At the same time, the Gonza lying on the ground turned to earth and started to break apart."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "o_t002c",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "t_t003e",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "So the rumor was true, your Evil Eye: Clairvoyant Eye can really see to the \"core\" of things."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "o_t002a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "I underestimated you because I thought you were more of a supporter than a frontline fighter, but it was good that I tested your abilities."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "You too. It looks like you have honed your Earth Jutsu quite a bit. Marvelous adaptablilty; I underestimated you as well."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was a skill combining Earth Jutsu and spear art, one that was challenging to control. And it was a Ninja Art that could even create a clone of his body in an instant."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Tokiko was genuinely impressed at how hard he must have trained in secret."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "o_t002c",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "Hey, it sure would be a shame to kill a woman like you. I'll make you mine, so how about you surrender?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "t_t003e",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "I refuse."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "o_t002b",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "That was coooold~! But that just makes me fall harder for you. Guess I'll have to make you fall in love with me by force!!"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se004"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "o_t002a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The two readied their weapons and faced each other again."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1500"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "o_t002a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "t_t003e",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_FRONT",
+        "info": [
+            "2"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Meanwhile\u30fc"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc005a",
+            "IN"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm314",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m038a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Who's there!? We've already sealed off the building!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It looked like taking a break had been a mistake. The school building had already fallen into the hand of the rebels."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Eeehhh! Enemies already...! Fuma, don't you have some kind of plan again!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Hm? Did you just call him \"Fuma\"...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You're one of Gaiza's men...!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I recognized the man who was blocking our way. He was a genin, a lower ninja taking direct orders from Gaiza, meaning he was a Taimanin of the Fuma Clan."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Fuma Genin",
+        "text": "Hngh, you're the... head family's..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The man's words became choppy upon seeing my face."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(This might work.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I assumed a dignified air as best I could and turned to speak to the ninja unhurriedly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Where is Gaiza? I have something to discuss with him as the head of the Fuma's head family."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Fuma Genin",
+        "text": "I-I was ordered not to let anyone pass!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Are you going against a direct order from the Fuma clan head? That makes it treason against your direct masters, the Nisha family, as well."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Are you content with such an outcome?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Fuma Genin",
+        "text": "Th-That's..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Good, he needs just one more push.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At that very moment\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m038a",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m002a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Fuma Fire Ninja",
+        "text": "Hey, what's going on?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Shit!!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The man who had appeared was a Fire Art user, known for his wild temperament even among Gaiza's followers."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "My ruse had been going well and it looked like we'd be able to break through, and then this guy appeared. For now, I continued with the plan since it wouldn't hurt to try."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I want to speak with Gaiza. Let us pass."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Fuma Fire Ninja",
+        "text": "It's Gaiza-\"sama\", you little shit. Do you think you're still the clan head? Starting from today, the head of the Fuma Clan is Gaiza-sama. Kill them!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Figured it wouldn't work... sheesh...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But there was nothing we could do about it."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m038a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m002a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "He's not a good listener, huh. Hebiko! Shikanosuke!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004c",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001c",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Aye aye. Break through them?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "My \"electric waves\" are ready to go!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Alright! Here we go!!"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001c",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004c",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

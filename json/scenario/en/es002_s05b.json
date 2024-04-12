@@ -1,0 +1,1367 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm313",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc035a",
+            "IN",
+            "3000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "as_t006d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "Take this!! Android Arm: Rending Blade!!!!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Slash!!*"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "as_t006d",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "si_t003a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Witch",
+        "text": "Ugh\u30fc!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was a decisive blow."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "si_t003a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asuka's Android Blade had struck with extreme speed and sliced the witch's body clean in half."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Did we do it...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It had been a nail-biting fight."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke and I had kept the witch's movement in check, and Asuka targeted a slight opening to land the decisive blow\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If we had made just one mistake, we would have been the ones taken down... that was how tough of an opponent the witch had been."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001h",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieeee!! That was terrifying...!! But man, that Android Blade is super cool...!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke, who had joined the fight even though he had been scared to death, finally breathed a sigh of relief."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But\u30fc"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm304",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001h",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "as_t003c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "Watch out, you two! It's not over yet!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Suddenly Asuka called out in a piercing voice."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At the end of her gaze was the witch who should have been bisected\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "as_t003c",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "si_t003a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Witch",
+        "text": "Ugh... I underestimated you... I had no idea that you were this strong..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huh!? What's going on!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieeeeee!!? Even though she got sliced up, she's talking all calmlyyyyyyy!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Witch",
+        "text": "Hehe... hehehe..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The witch showed no sign of collapsing and didn't seem to be in pain either."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Accompanied by her unfathomably bewitching smile\u30fcseveral scrambled lines began to run across her body."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hey, hey!? What the hell is going on!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "si_t003a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The number and size of the lines running across her body gradually increased."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And eventually they started to extend beyond her body and began to completely fill our field of vision\u30fc"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc086a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR26",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "\u30fc*Crack!!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ugh!? Wh-Where are we\u30fc!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There was a tremendous impact along with a sensation of something changing\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And we found ourselves standing in a place completely different from the cave we had been in only moments ago."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "as_t001a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "We made it!!! The illusion was broken!!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Oh, I know this!! This happened last time as well!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "The illusion broke...? I see..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asuka's attack must have made that much of an impact."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We had broken out of the illusion and returned to the real world."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "as_t001a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "si_t003a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Witch",
+        "text": "Hehe, you kids really are troublesome... My plans are all for naught..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The witch was standing before us in perfectly good health."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She stared at us with a bewitching, but horrifying, smile on her face."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You're a real witch, huh? After all, looks like your body is stuck together."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Witch",
+        "text": "Yes. What you cut down was an illusion I created\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The witch gently caressed her unblemished body, as if to emphasize that she was fine."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Witch",
+        "text": "Now that my \"dream\" world is broken\u30fcI really can't go easy on you, sweethearts."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Witch",
+        "text": "This \"Gate to the Devildom\" belongs to us\u30fcYou understand what will happen if you get in our way, don't you?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "The Gate to the Devildom\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We had come back to reality\u30fcand found ourselves in a decrepit church."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Based on what the witch had just said, it was extremely likely that the \"Gate to the Devildom\" was somewhere in this building."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But to confirm that, we would have to fight against her once again."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Not against an illusion but against the real witch\u30fcand this time she \"wouldn't go easy on us.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...Well, we don't have a choice."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "That's the spirit. I'll pummel her as many times as it takes!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Uwawahhh... I'm scared of her~"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At this point, retreating was not an option."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We grabbed our weapons and faced the witch."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Witch",
+        "text": "Ehehe...\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The witch smiled at us mysteriously and readied her weapon."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The situation was on a hair trigger."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "si_t003a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, at that moment\u30fc"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc086b",
+            "NONE"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "3000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se005"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "KABOOOOOOOOOOOM!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There was a sudden roar\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A tremor shook the entire church and fierce flames reached up from underground."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm314",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "si_t003a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Witch",
+        "text": "\u30fc!? What's happening!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A sign of unease ran across even the witch's face."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And then\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "si_t003a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m017a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Succubus",
+        "text": "Mistress, a report!! There was a huge explosion at the \"Gate to the Devildom\" and in the corridor that leads to it!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Succubus",
+        "text": "The gate is badly damaged and the corridor is on fire so we can't approach it!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Succubus, who seemed to be a subordinate of the witch, had appeared from underground and gave a rapid-fire report."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m017a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "si_t003a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Witch",
+        "text": "What did you say...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The witch was at a loss for words."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Meanwhile, loud explosions repeatedly echoed from deep underground."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And at almost the same time\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "si_t003a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "as_t001d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "<i>\u30fcNicely done, Asuka. Thanks to you distracting that woman, things went smoothly here.</i>"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "Oh? This commotion was your doing?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was the earring-shaped device attached to Asuka's ear."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The device also seemed to be a transmitter, and the voice coming from it was calm and somehow familiar."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "as_t001d",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(It's that masked woman\u30fc!!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Did that mean she had used us as \"bait\"?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "While the witch had been directing her attention toward us, the masked lady had secretly infiltrated the church and blown up the \"Gate to the Devildom\"\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "si_t003a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Witch",
+        "text": "Looks like I lost this time..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The witch, seemingly having recovered from her shock, gave an amused smile."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Witch",
+        "text": "Now that the gate is destroyed, I have no business here. Farewell, sweethearts. Let's meet again somewhere."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "si_t003a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ahh!? Wait\u30fc!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I quickly shouted, but the intense fire blocking my way made it impossible to do anything else."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The witch smiled seductively and briskly disappeared with her demon subordinates."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Damn it!! And we even had her back to the wall\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A mysterious woman who cooperated with demons even though she was a Taimanin."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I really had wanted to catch her and find out who she was..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "as_t001f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "No time to stand around!! We have to go as well!! This building won't last much longer!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asuka shouted out."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The explosions and flames from underground had turned the church into a sea of fire in the blink of an eye."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I know!! Let's get out of here, Shikanosuke!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieeeeeeeeeeeee!! Don't leave me behind, you twoooooooo!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "as_t001f",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR26",
+            "OUT",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "black",
+            "NONE"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc087a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR26",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "One hour later\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What a hell of a time..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001e",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Tell me about it..."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm506",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We looked upon the thoroughly collapsed church while taking shelter from the rain."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001e",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Thanks to the timely heavy rain, the flames of the church had been extinguished within an hour."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The surrounding area was a slum with hardly any inhabitants."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And it seemed like the UFS troops had withdrawn as soon as they had woken from their dreams\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That meant that while the church had been destroyed in the blaze, the overall damage from the fire was minimal."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "But what is that masked woman planning...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I suddenly asked Asuka about what had been on my mind."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "as_t001d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "Eh? What do you mean?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I mean, the UFS was trying to claim the \"Gate to the Devildom,\" right?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "as_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "Correct. The UFS prepared a unit to do that."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Right? Then why did that masked woman blow up the gate? I thought you guys were cooperating with the UFS?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I looked at Asuka's arms and legs."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was state-of-the-art android equipment\u30fcimpossible to maintain without somebody supporting her from behind the scenes."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Somebody like the UFS\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "Hm~? No comment\u266a"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Again!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Just like last time, the masked woman and Asuka didn't seem to want to talk about this incident."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "Hmmm. I'll give you a little hint\u30fcThere are a lot of people in the world with a lot of different ways of thinking."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hmmm...?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "as_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Sure, the UFS is a huge organization. It's not strange that there are various factions...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "While I was thinking, Shikanosuke suddenly spoke up."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Ah! Speaking of which, there was something bothering me as well!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What's up with you so suddenly? Something bothering you\u30fc?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Yeah!! About your \"fantasy\"!! It kept bothering me, so I wanted to ask!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huh? About my fantasy...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Yeah!! I bet you were fantasizing about something super embarrassing as well, weren't you, Fuma!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "It's not fair if only you get to see my fantasy!! Tell me about yours too!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ughh!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(No, no, this isn't good\u30fc!!)"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001c",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Mine was about becoming the super rich and super popular student council president."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was equally embarrassing as Shikanosuke's childish dark hero dream."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "as_t001b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "Ahaha!! I can tell you about that, I suppose. Actually, Shikanosuke-kun, this guy\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ahh, moron!! Don't say it, Asuka!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I hurriedly stopped Asuka, who was about to tell him with a grin on her face."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "as_t001b",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "What is it~?! Tell me about it too~!!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Shut up!! It's a secret, a secret\u30fc!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Out of the frying pan and into the fire."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Now I had to fight desperately to keep my embarrassing secret hidden."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

@@ -1,0 +1,1002 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc001a",
+            "IN",
+            "3000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm203",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Japan\u30fcIn the near future.\nSwarming with all manner of demonic beings."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "An unspoken rule of \"mutual non-aggression\" had been followed since the ancient times, but this began to show signs of collapsing when people strayed from the path of righteousness."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Humans and demons colluded to form criminal organizations and corporations that acted in the shadows. Thus, the world descended into chaos."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, those who sought the right path were not powerless either."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The government of the time assembled a group of ninja. They would be the humans who could stand against the demonic forces, opposing the deviants' evil."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And they were known as... \"Taimanin\"\u30fc\u30fc\u30fc\u30fc"
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc003a",
+            "IN",
+            "1500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Gosha Village."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At first glance, it looked like any other rural town in Japan\u30fc\nhowever, this was the home base of the Taimanin."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm307",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And Gosha Academy, this town's only school, was a training institution for developing the next generation of Taimanin."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hmm... this is quite interesting."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was a beautiful afternoon."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "While lying in the shade of a tree, I was enjoying an old book I had taken out of a corner of the archives."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I'm Fuma Kotaro."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But that's not my real name. It's the name passed on, generation to generation, to the clan leader of the noble Fuma head family."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "<i>\"When it comes to ninja, it is known that they were once employed by feudal lords to conduct espionage and covert operations.\"<i>"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "<i>\"However, there is another side to them... ninja who utilize special Ninja Arts and hunt demons; they are called Taimanin.\"</i>"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "<i>\"Within each Taimanin dwells a single Ninja Art. When a particular practitioner of a Ninja Art dies, eventually one who uses the same Ninja Art will be born into that bloodline\"</i>... huh."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Well, that doesn't have anything to do with me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was more interesting to hear about the Ninja Art users who were actually active."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Fire Art, Water Art, Lightning Art, and even Exelemental Ninja Arts; this was valuable information about how the masters of various Ninja Arts operated, and still relevant, even in the modern era."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Female Teacher",
+        "text": "Oh, is that \"Ibun Bansenshukai,\" the book of rare Ninja Arts?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!! Tokiko...!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t001c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "Just when I thought I couldn't find you. Reading is all well and good, but have you forgotten about your additional exam, Master?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Additional exam... is it already that late, Tokiko?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t001e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "At school, you should call me \"Tokiko-sensei.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The female teacher calling me \"Master\" was Fuma Tokiko."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Tokiko was also a butler who served me. She was the child of my late father and his concubine. In other words, she was my half sister, but she was adopted into a family that served us as butlers for generations."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In short, she was my older sister as well as my retainer\u30fc\nbut at this moment, she was my teacher."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Additional exam, huh... what a pain. I'll take a rain check."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t001f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "Again!? At this rate, you'll end up repeating a year, do you understand?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I don't mind. That means I can spend another year reading."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t001l",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "Unbelievable... if you don't take the additional exam, starting from today I will never prepare your food again, Master!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What!? Tokiko, that's not fair!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "You can go out to eat or cook for yourself, whatever you prefer. As long as you have the money for it, that is."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ugh... that's underhanded, Tokiko..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Since the death of my parents, Tokiko was supposed to take care of the Fuma head family's assets until I became an adult."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "Negotiation is also an important skill for a Taimanin."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That's why I hate Taimanin! All right, all right. I just have to take the additional exam, right!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t001b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "A wise decision, as I've come to expect from you, Master. I'm relieved. Now, please come this way."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t001b",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1500"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1500"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc002a",
+            "IN",
+            "3000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm307",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "The school basement...? Is this where we're going to do the additional exam?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "Yes."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What's the exam on?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t001c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "You will take the roll of commander and manage your party until you prevail in battle, Master."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You mean a mock battle, got it. And where is my party?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "That will come after we get authorization from Asagi-sensei, but, let's see..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "Ah! There she is. But she seems to be speaking with someone..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Female Student",
+        "text": "I can't accept that!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(That's... my classmate, Mizuki Yukikaze. She's a Taimanin who uses powerful Lightning Jutsu, but she's a pain, always lashing out about this and that.)"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "yu_t001f",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t001c",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Yukikaze, even I acknowledge your abilities."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(And... that's Asagi-sensei, the headmistress of Gosha Academy and the chief commander of the Taimanin troops. She's also the \"Almighty Taimanin\"...)"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "yu_t001e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Then why...!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t001e",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Don't be in such a rush. We will definitely rescue your mother. So for now, continue your training. You don't have enough experience yet."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "yu_t001g",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "...Ugh, understood..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Was she talking directly to Asagi-sensei about wanting to go on some kind of mission?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "Ah, it seems their conversation is over. I'm going to go talk to Asagi-sensei about your additional exam."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Now that you mention it, Yukikaze's mother went missing during a mission, didn't she...)"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "yu_t001d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Crap, we made eye contact.)"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t001c",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "yu_t001d",
+            "RIGHT",
+            "CENTER",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "yu_t001c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Wait, you! What are you looking away for!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Damn, don't people say that even a bear won't attack you if you look away..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "yu_t001f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Who're you calling a bear!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Tch, you heard that? What is it? What do you want from me?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "yu_t001c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "This is perfect. You can be my target!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huh!? What are you on about all the sudden!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "yu_t001f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "I'm going to do combat training, so I'm telling you to be my target!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Are you kidding!? Why do I have to be your target!?"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "It should be obvious! I need a punching bag!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Don't just boldly announce that!! Asagi-sensei is here too!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "yu_t001e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Grngh... Ahh! I'm already irritated!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "yu_t001e",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(She left all pissed... damn it, if I could use Ninja Arts, I'd be able to get back at her...)"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t001d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "Master, I've received authorization from Asagi-sensei\u30fc\ndid something happen?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "An unfortunate spot of lightning... er, it's nothing."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t001c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "Is that so? Well then, we'll carry out the additional exam right away."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah, please do."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "The first step is to recruit personnel to form a party."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "We're starting from there?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t001e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "Of course. What kind of personnel the party is composed of is an important thing to consider for a mission."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t001c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "We don't only appoint Taimanin, but also mercenaries hired locally, and occasionally there are even cases where we recruit individuals from the Devildom."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "If that's necessary, we would team up with our enemies. After all, completing the mission is the first priority, huh."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "You are quite right. It's natural, considering that ninja were originally a mercenary group."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "So how are we going to recruit personnel?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "Right. It's called \"Gacha.\" In the jargon of the Taimanin, \"Gacha\" is the term for recruitment."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "\"Gacha\"?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t001c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "In the past, the word \"Gasha,\" meaning \"one who lies dormant,\" was apparently used to refer to the act of searching for powerful people who had not yet shown themselves to the world..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "And so, a plausible theory is that the word \"Gacha\" is derived from a corruption of that word."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "For real...?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t001l",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "Ahem. Well, anyway, let's try out the Gacha."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "For the additional exam this time, one Gacha pull is allowed."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "700"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    }
+]

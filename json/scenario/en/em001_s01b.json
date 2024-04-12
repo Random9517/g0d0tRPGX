@@ -1,0 +1,1526 @@
+[
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "..."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm207",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc028a",
+            "IN",
+            "3000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t005f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Waaaa!! Fuma-kun, that's not fair~!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t005f",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Caught in a net for capturing animals, Sakura was groaning in frustration."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hahaha! It's your fault for falling for it! The world of competition is harsh!\u30fc\nRight, Shikanosuke?!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Uehara Shikanosuke",
+        "text": "Yeah, that went well! Hehehe!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke replied happily, laying his hand on the string of the trap."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In this training, we were allowed the use of two \"supporters\" each."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had chosen Shikanosuke as one of my supporters and instructed him to stand by for an ambush."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As soon as Sakura had arrived, Shikanosuke had activated several traps at once and captured her in the net."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Fuma, don't forget your promise to treat me to something!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Of course! It's a small price to pay for the right to an allowance. I'll leave the rest to you!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The only thing left was to get to the goal\u30fc\nbut then a figure stood in my way."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "rn_t002b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akiyama Rinko",
+        "text": "Fuma-kun, I'm not impressed by such unchivalrous behavior."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ugh, Rinko-senpai!! So Sakura asked you to help her..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "Indeed. Because the students who know about Sakura's situation are basically only me and her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And in the direction Rinko-senpai pointed was..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "rn_t002b",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "h_t005c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Aishu Hebiko",
+        "text": "Really, Shikanosuke-chan, you can't do sneaky stuff like that!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieee!? Stop it, Hebiko, not the iiiiink!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ugh!? Hebiko!? So she's also Sakura's supporter!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was able to see Hebiko send Shikanosuke running with her octopus ink and set Sakura free from the net."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "h_t005c",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t005b",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_PRIORITY",
+        "info": [
+            "0",
+            "10"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Thanks, Hebiko-chan!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "h_t005a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Don't mention it~ Please do your best, young Sakura-sensei\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "C'mon, just call me Sakura! Alright, time to catch up!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t005b",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "h_t005a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Having slipped free of the net, Sakura picked up the pace and came after me in hot pursuit."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "rn_t002a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And while Rinko-senpai blocked my path and held me back, Sakura would take the lead... Or so they seemed to be planning."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "Heheh. Fuma-kun, looks like your little tricks are over."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Are you so sure about that...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "What? Don't tell me you're going to try to fight me at your strength\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "As if. I know my own strength well enough\u30fc\nNow!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "HAAAAAAAAA!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se007"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Claaang!!*"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "rn_t002a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Taking the powerful blow from above, even someone like Rinko-senpai sank to her knees."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ht_t001a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kise Hotaru",
+        "text": "That went well, huh, Fuma-kun."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "rn_t002c",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "Kise-san!? You're his second supporter!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hotaru",
+        "text": "Yes, Akiyama-san. That's how it is."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Another ambusher had been hiding in the top of a tree. It was Kise Hotaru-senpai, who had fought together with us during the Chaos Arena incident."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Contrary to her appearance, she was a heavy-hitting Taimanin, and you had to hand it to Rinko-senpai for being able to stand back up after taking one of her strikes."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hotaru",
+        "text": "Go ahead, Fuma-kun. With Akiyama-san as my opponent, I'll have my hands full holding her back!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Got it! I'm counting on you!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "rn_t002c",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ht_t001a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I left Hotaru-senpai to deal with Rinko-senpai and hurried onwards."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(I can't let her have the allowance... absolutely not!!!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And the two who were left behind\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "rn_t002a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ht_t001a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinko",
+        "text": "I didn't think I'd have to fight against you in a place like this. It might be more fun than I expected."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hotaru",
+        "text": "I ask that you go easy on me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The two of them smiled, glared at each other for a few moments, and then clashed furiously with their weapons."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "rn_t002a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ht_t001a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR26",
+            "OUT",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "black",
+            "NONE"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "..."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc004a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR26",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Haah... haah... Good, only a bit further..."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm404",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t004a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Muhuhu~ That's not going to happen, Fuma-kun!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sakura!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I thought the trap had given me a bit of a lead, but she had caught up with me in a flash. And she wasn't even out of breath."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Shit, the difference in our physical ability is hopeless... I shouldn't have skipped long-distance running lessons.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Nah, that wouldn't get me to that level. To her strength...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "What's more, Sakura hadn't even used her specialty yet, her Shadow Jutsu."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(I still can't afford to lose though!! If it comes to this there's only one last resort...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I grabbed the \"last resort\" I had kept hidden inside my Taima-Suit."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Looks like I've already won. Nice! I'll see you later~!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Wait, Sakura! Can't you see this!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "What I had taken out of my pocket and held aloft was\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t004c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Aaaahh!! Is that...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "The long-awaited game releasing today!! Goddess Hunter World!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was the first new installment of the hugely popular game series in three years. Sakura, who had been eagerly awaiting the release, couldn't help but stare with gleaming eyes."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah, and it's the limited premium edition."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "L-Limited premium edition..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "The one with Amaterasuko-chan unlocked at the start, who is designed by Hokkai Kagami-sensei, with a serial code for collaboration costumes included, and a gorgeous art book..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "...and the soundtrack CD, and the limited equipment that you can only obtain with this edition... that one!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You know a lot about it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "I-I mean, I've been visiting the official site every day... I really wanted to have it, but there was no way I could buy it on my allowance..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I see. So, do you wanna play it?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t004a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "I do!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Good. And what do you see over there?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "A river?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Correct. Hup!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Whoosh*"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t004c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Eh?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Kerplunk*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The box with the new game came out of my hand, made a beautiful arc in the air, and flew into the river."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t004e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Ahhhhh~!?! Fuma-kun, what are you doing!?!?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t004e",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sakura completely forgot about our competition and chased after the package that was being swept away."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Mwahahahaha!! I'll take my victory!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I ran towards the goal like a cheetah, glancing back to see Sakura picking up the game."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t005d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Ah, shoot!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t005f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "And wait, this is just the box with nothing in it!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Duh! Do you think I would endanger my precious limited premium edition?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "You're stupid! You're a coward, Fuma-kun!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t005f",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And ultimately\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Gooooal!! I made it! I won!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Grrrr!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had outrun Sakura, while she had gone after the game, and made it to the finish line."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I did it...! I defended my right to get an allowance!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t005f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "D-Don't you have a heart!?"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hahaha!! The cries of the loser are like music to my ears!! Mwahahahaha!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t005f",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "t_t002c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "You must be tired, both of you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Tokiko! You were watching, right?! I won!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "t_t002a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "Yes, I was. As expected from you, Master."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Of course!"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm208",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "t_t002c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "That cowardly behavior of yours was beyond the pale."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You can say that agai-... huh?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "Using any means necessary in order to win is, indeed, one possible correct answer."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "However, you must not forget that we Taimanin have to act with a heart of justice because of the power we possess..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "It seems to me that the measures you have taken this time might be a bit problematic, Master, especially if you consider that this training was to increase your \"self-awareness as a Taimanin.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...What do you mean?"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "This means!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Something was starting to smell fishy."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "Master, who deployed cowardly tactics, and Sakura-san, who fell behind to those tactics..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "t_t002f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "To both of you... I declare this a draw."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Wha..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "t_t002f",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t005g",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "So you're saying... neither of us will receive an allowance...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sakura looked visibly crestfallen. Tokiko smiled and continued."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "t_t002a",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "That being said..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "Both of you showed a lot of motivation."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "So as an exception this time, I'll continue to give Master his allowance, but Sakura's share will be raised slightly."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!! Really!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t005b",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Yaaaaaay!! Thank you, Tokiko-san!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t005b",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "t_t002a",
+            "LEFT",
+            "CENTER",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We completely forgot about our fight from just moments ago and clasped hands in joy."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "t_t002c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "However! Please do remember this."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "From now on, both of you will have to act with proper self-awareness as Taimanin."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Understood!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t005g",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Yes, ma'am!! ...Ah, but..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "That means... we can still only play games an hour per day?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "Of course."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "But... this is the long-awaited, brand-new Goddess Hunter World..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "If you can't live a disciplined life, then maybe I should keep your allowance after all\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t005d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "A-Alright! I got it~!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Tokiko smiled as she watched Sakura panic and withdraw her appeal."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "If you two become elite Taimanin, I won't be so strict on you. So please keep up with your training."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t005a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Yes, ma'am."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sheesh..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t005a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

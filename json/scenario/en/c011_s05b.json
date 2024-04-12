@@ -1,0 +1,1628 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm313",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc120a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The fight was against a formidable enemy, Yamata no Orochi..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, it became a surprisingly one-sided battle."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t004d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieeee!! Ms. Yamata no Orochi, I'm sorryyyyyyyy!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se006"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Even though he was scared, Shikanosuke threw his shuriken while staying out of range."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamata no Orochi",
+        "text": "Uarghh!!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t005f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "\u2015Here it comes!! Octopus Tentacle Four Blade Style: Tentacle Slash!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se098"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And then, following Hebiko's attack from mid-range\u2015"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ws_t004a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Heeheehee\u266a Hey lady, you might want to guard your feet\uff5e"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se097"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Slash!! Slash slaaaash!!*"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "400"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m076a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamata no Orochi",
+        "text": "Arrrrrghh, you braaaats!! Stop scampering about already!!!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "CENTER",
+            "linear",
+            "400"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "ef004a",
+            "IN",
+            "200"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR27",
+            "IN",
+            "800"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se027"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yamata no Orochi swung her giant sword about, her expression filled with rage."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se047_01"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "ef002a",
+            "IN",
+            "200"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The tip of her sword, however, scraped against the ceiling of the narrow tunnel and got jammed."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc120a",
+            "IN",
+            "400"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And in that opening, Sakura disappeared effortlessly from the shadow at her feet."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m076a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamata no Orochi",
+        "text": "Aaarrrgghh!! Shit!! Damn it!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The more agitated she became, the more the female warrior's sword banged against the tunnel walls, and the more her movements slowed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "\u2015You've got to watch your surroundings better you know? That huge sword of yours is just a handicap in this narrow tunnel."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamata no Orochi",
+        "text": "!!!? What did you just say!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Anticipating that, I had chosen the remains of the mine as the site for our fight with this berserker."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was an ideal location for Sakura, who used Shadow Jutsu and wielded weapons on the smaller side."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And if, on top of that, we broke her concentration with Hebiko's mid-range and Shikanosuke's long-range attacks\u2015"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Then even if there was a large gap in strength, we should be able to deal with her easily."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Heeyaaaa!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se097"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sakura slashed all over relentlessly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yamata no Orochi's huge body was quickly becoming covered in wounds."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamata no Orochi",
+        "text": "Aarrgh!!! Ugh... Hm-hm... hm-hm-hm-hm!! Aaah, alright, alright!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Hmm? Do you surrender, lady?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yamata no Orochi",
+        "text": "Hm-hm! Yeah, I surrender. \u2015Fuma Kotaro!!! Next time I'll definitely kill you\u2015"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se078"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Aah!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Aaah!? She ran away\u2015!!?"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Her response took us by surprise..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But I guess you had to hand it to an experienced mercenary."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Seeing that the situation was not to her advantage, Yamata no Orochi had quickly turned on her heels and darted away into the darkness of the mine shafts."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm509",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ws_t004e",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "You\uff5e!! Hold it right there\u2015!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No, Sakura, leave her be! If she wants to run then let her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sakura had been about to chase after her without hesitation, but I had stopped her."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ws_t004c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Eh!? But... are you sure?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ws_t004d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "She's crazy strong, that one. So much so that I don't even know what we would've done without your strategy, Fuma-kun\u2015"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "I think now would be a perfect chance to take her down though...?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ws_t004d",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Th-That's right, Fuma!! And plus, she's probably the kind of person to hold a grudge forever!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Well... you're not wrong there."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko also seemed to agree and nodded her head while she was supporting Sago-san."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That being said, our top priority right now is to get Sago-san back to the surface."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "We just... have to make sure that we'll never cross paths with her again."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "One hour after that..."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc119a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "m_t003c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yatsu Murasaki",
+        "text": "\u2015There you are. Good job on your undercover mission."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm208",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002d",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Us",
+        "text": "Murasaki-sensei!!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This was the rendezvous point with the representative from Gosha sent to meet us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Waiting for us there was Yatsu Murasaki-sensei, the powerful and peerless Taimanin who had helped us many times before."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That meant if we handed Sago-san over to her here, our mission would officially be over."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001b",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002b",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Wooooooohh!!! We did iiiiiit!! Goal! Goooaaaaaal!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Yeahhh\uff5e\u266a We did it, heberyone!! A big round of applause\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko and Shikanosuke were beyond elated and weirdly hyped up."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Well, it had been a pretty tough mission."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Incidentally, it would be bad if word got from Murasaki-sensei to this dimension's Sakura about the version of her here, so young Sakura was hiding in my shadow.)"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "m_t003a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Murasaki",
+        "text": "So you are Sago? The government escort is waiting for you on the surface. Will you come with me, please?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "m_t003a",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "ts_m077a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sago",
+        "text": "\u2015Yes. I'm under your care now."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sago-san started to walk away, but looked back at us after a few steps."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "ts_m077a",
+            "RIGHT",
+            "CENTER",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sago",
+        "text": "\u2015\u2015\u2015\u2015Young Lord."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sago",
+        "text": "I felt no purpose in anything anymore... That's what I told you that time... but now it's a little different."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sago-san...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sago",
+        "text": "What will you achieve, and how will you lead the Fuma Clan... I want to see what lies ahead."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sago",
+        "text": "...Though it's a wish that will not be fulfilled."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It will. I'll also do my best to make it happen."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sago",
+        "text": "Heheh\u2015"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se082"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sago-san didn't reply and only showed something resembling a smile, and went to Murasaki-sensei."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "He looked as if he had given up on everything, but also as if he had found some new hope."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "m_t003c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Murasaki",
+        "text": "\u2015Well then, your mission is complete. You are free to return to Gosha."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Us",
+        "text": "\"Eh?\" \"Here?\" \"We're dismissed?\""
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm203",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Murasaki",
+        "text": "What? Is there a problem?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No, there isn't, but... we wanted to at least see Sago-san to the surface."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I said to Murasaki-sensei on behalf of all of us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Somehow, we didn't feel like ending our mission in such a dimly lit cavern."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Murasaki",
+        "text": "...See him to the surface?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yes... To see it through to the end, you know...?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "m_t003a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Murasaki",
+        "text": "...No need for that. Aren't you all tired? Just leave the rest to me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "O-Okay...?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "m_t003f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Murasaki",
+        "text": "Any complaints?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "N-No... That's not what I..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "m_t003a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Murasaki",
+        "text": "Good. Then you're dismissed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Murasaki-sensei's attitude was unusually indifferent to our thoughts."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se082"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Constrained by her decision, we simply watched the two of them go up the stairs to the surface."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "...So Sago-san is gone..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko murmured while standing next to me and I slightly nodded my head in agreement."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002c",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001c",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "He seemed hard to approach at first, but he was a really nice guy."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "...Hebiko thinks so too. It would have been nice to properly see him off..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Yeah. But we were already told to head back..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "It's a bit of a lonely feeling..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah, it is..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We stayed silent for a moment."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And then we looked at each other."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...Well, but...?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002b",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001b",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hehe. But just for a bit\u2015it's okay, right!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "\u2015\u2015\u2015Right!!?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "400"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "400"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "black",
+            "IN",
+            "200"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR01",
+            "IN",
+            "800"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se054"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "TXT_CLEAR"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc128a",
+            "IN",
+            "200"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR01",
+            "IN",
+            "800"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Whoa!! It's so bright!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As we stepped out to the surface, it was morning..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It seemed that while we had been running around underground, the sun had risen without us noticing."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Aaah\uff5e Where's Sago-san... Oh!! There he is\u2015"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "My eyes gradually became accustomed to the brightness."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We had come out from underground in the middle of some business district."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Across the street, Sago-san was being escorted by a government agent towards an official vehicle."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Heyyy\uff5e!! Sago-san, let's meet again someday\u2015"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Murasaki",
+        "text": "\u2015\u2015\u2015Are you all stupid!!? I told you not to come!!"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm504",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Eh?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Someone yelled at us from close by."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And in the next moment\u2015several things happened all at once."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "ts_m077a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sago",
+        "text": "\u2015\u2015\u2015\u2015"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Noticing my voice, Sago-san turned around on the other side of the street."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "CENTER",
+            "linear",
+            "200"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "black",
+            "NONE"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se099"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And his head suddenly came flying off."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!????"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se036_04"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Baaang\u2015!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "From far away, the delayed sound of a single gunshot echoed through the street\u2015."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(...A sniper!!? This can't... Why...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And then\u2015"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se023"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As I stared dumbfounded, Sago-san's body limply crumpled to the ground."
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "\u2015At the same time."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In a room in a building one kilometer away from the scene."
+    },
+    {
+        "type": "EV",
+        "info": [
+            "stv008a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se040"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The rifle held by a woman noisily spat out an empty cartridge."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "\u2015Mission complete. I'll withdraw."
+    },
+    {
+        "type": "EV_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

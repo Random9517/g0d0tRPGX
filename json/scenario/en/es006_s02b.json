@@ -1,0 +1,540 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "black",
+            "NONE"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "My vacuum blades tear all to shreds... Whirlwind!"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm313",
+            "1000"
+        ]
+    },
+    {
+        "type": "EV",
+        "info": [
+            "stv009a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Woooooooossshhh!!!*"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se097"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The twin blades in Kurenai's hands created vortexes of air so strong they seemed to form a vacuum, which then tore through the thugs who had tried to leap at her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangsters",
+        "text": "\"Uargh!!\" \"Wh-What is that!? Arghyaaaaaaahhh!!!\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "(Uwahwah!? Amazing!! S-So that's Kurenai-san's Ninja Art\u30fc)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Before Mari's astonished eyes, the gangsters collapsed to the ground one after another."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc066a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kn_t004e",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "You don't stand a chance. Stay out of this unless you want to end up like that."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kurenai pointed at a nearby steel pillar."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A diagonal line suddenly streaked across its surface, and the next moment, the top half began to slowly slide off with an eerie sound as metal creaked against metal."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gangsters",
+        "text": "Eeeeeeeeeeeeehhkk!!? Th-This bitch is a monster!!"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se054"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Having completely lost their morale, the gangsters scrambled to flee."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0006a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "Hmph, a monster...? What a thing to say..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kurenai laughed at herself and lowered her swords."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "(She's so strong, cool, and calm\u30fc She's just amazing in every way!!!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Mari stared at Kurenai in surprise and admiration after seeing her fight from up-close. However\u30fc"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm608",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se016"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kn_t004e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "Alright, no more distractions. It's time to put an end to this."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300e...\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kurenai once again pointed the tips of her swords towards the djinn."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "(Th-That's right! Djinn-san is\u30fc)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "\"Book Djinn\"\u30fc If you're ready then this will be quick."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "My client, that masked woman, is really impatient. So I'll sever your demonic power and seal you away here and now\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kn_t004e",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "chr_t0119a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "P-Please wait, Kurenai-san!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300e...Mari?\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Mari gathered all her courage and stood in front of Kurenai."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kn_t004b",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "What is it?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "U-Uhm... I don't think that Djinn-san is a bad person..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "Not bad. <i>Evil</i>. It's a fact that his demonic power has caused misfortune for many."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300e...\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Uuhh... th-that might be true, but..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kn_t004e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "Please get out of my way. The last thing I want is to hurt another Taimanin."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kurenai tried to push Mari aside."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "B-But even then, Kurenai-san...!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kn_t004b",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Th-This person... he saved me!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "When I screwed up and was in danger... he protected me with his own body... even though he was already hurt this bad..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kn_t004d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "The djinn... saved you...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kurenai curiously narrowed her eyes."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "I-If... if he did something bad, then we can't help but seal him up..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "But before that...!! I want to... repay Djinn-san for his kindness..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "kn_t004e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kurenai",
+        "text": "What? Repay him...?"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m089a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300eWhat is this...? This is the first time a human has said something like that to me.\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kurenai and the Book Djinn both looked at Mari in confusion."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300e...But Mari. You do not have to worry about me.\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300eI've run from my fate and prolonged my pathetic life for a long time... but everything should have an end.\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300eEven if she spared my life, I will soon\u30fc\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "Th-That's...!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Mari cut the djinn off as if she didn't want him to finish his sentence."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "That's all the more reason... you should have something to wish for... right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "All this time, you've been fulfilling people's wishes, haven't you...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mari",
+        "text": "So isn't there something... you want to do, Djinn-san...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Book Djinn",
+        "text": "\u300eSomething I want...?\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The djinn simply stared at Mari's face for a while, but eventually\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "his lips appeared to find the words he had long held inside."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "white",
+            "NONE"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "400"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "400"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

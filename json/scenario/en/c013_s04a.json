@@ -1,0 +1,615 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "black",
+            "NONE"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se082"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Tap... Tap...*"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc092a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t006d",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "H-Hey, Fumaaa!? There's some monster agaiiiiiiiiiiin!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "H-Hey!!? Stop clinging with your sniveling face!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t003f",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "W-Wait, you two!! This smell is..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Then..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The owner of the footsteps appeared from the darkness in front of us while we were panicking in confusion."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm208",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "chr_t0088a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "...Oh-oh? Fuma??"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Clear!? It's you!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "C-Clear-chan!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hebiko knew it... she thought she had felt that smell somewhere before."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The person who appeared was Clear, the young girl living with Yukikaze."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Codename \"Type: HERO\"."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Clear was an augmented human created to destroy demons,"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "but due to some circumstances, she came under the protection of Gosha and was now living in Yukikaze's house."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "What you doing, Fuma? Stealing?"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se016"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As Clear prepared her sword, an ominous sound emanated as the sky-blue blade activated."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aiiee!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "N-No, that's not it!! I'm... look! I came to give Yukikaze her notebook back!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I explained, panicking."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Clear might look like a little girl, but she was actually so strong that she could fight evenly against Yukikaze."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "? I see... Old man said thieves. Was noisy."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Clear silently put her blade away."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "So, that's why you came here..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Hmm? She said \"old man\" so that means...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Clear. So that ghost really is a butler of this house?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In the first place, I wondered if a ghost could even work as a butler, but I decided to put that aside for now and just check with her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Yes. Old man is butler. Always make me stir-fried vegetables."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That's... surprisingly ordinary..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But if he really was the butler, then we had our play."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "So could you tell him for me, Clear? Tell that ghost old man that we're not thieves."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Sorry, Fuma. This. I can't do..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Clear spoke in a slightly sad voice."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Eh? Wh-Why..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As I was about to ask back, I suddenly realized."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Could it be... that Clear, and that ghost old man are...!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The young girl created to destroy demons, and the butler who looked like an evil spirit monster."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It wouldn't be unusual in the slightest if they weren't on good terms, or if she was being bullied by him..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Old man. Lately, senile."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Is he!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The reason was a lot more floolish than I thought."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Forgot he made dinner. Made several times. stir-fried vegetables."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "He said, \"eat a lot and grow up big, ohohohoh.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sounds like he really likes you!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It looked like Clear was having a good time in Yukikaze's house, which made me feel relieved."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t006e",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t003d",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "So even monsters become senile..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "I'm... kind of less afraid of monsters now...!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "chr_t0088a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "W-Well... even if you can't, what about Yukikaze? He must listen to what his master tells him, right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As I asked, Clear nodded her head up and down."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Okay. He listens to Yukikaze. A little."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "A little is a bit worrying... but Yukikaze's our only shot left huh. Clear, can you guide us?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Yes. Yukikaze's room. Close to mine."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Thank you! Then let's go to your room first!!"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Finally, we started to see the light at the end of this incomprehensible situation\u30fcbut, at that moment..."
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se095"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Clink, creaaaaaaaaak...!*"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm304",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m092a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m092a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Scarecrow",
+        "text": "He\uff5ehehehehehe!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Butler of the Netherworld",
+        "text": "\u300eSo that's where you were, boy! I will not let you escape!!\u300f"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Together with a voice echoing from somewhere, the group of scarecrows rushed toward us."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aiiiiieeee!! The scarecrows are here agaiiiiiin!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Damn!! Everyone, let's push them back!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

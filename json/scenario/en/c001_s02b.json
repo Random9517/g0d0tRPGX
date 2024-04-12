@@ -1,0 +1,1523 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc004a",
+            "IN"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm506",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Fuma, look! There are no rebels over here. Let's slip through this gap!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke was pointing at a quiet mountainside road bathed in the afternoon sun. It looked so serene that all the battling up til now felt like a dream."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No, this way might be dangerous."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Eh!? Why??"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I expected at least some troops to be waiting, but for there to be no sign of anyone... What do you think, Hebiko?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko, who was walking in front of me, raised the tips of her octopus tentacles and stopped in her tracks."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001c",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004e",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "It smells. That's the smell of dead bodies... and more than one of them."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Dead bodies? No way, I can't smell anything."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I couldn't smell anything either, except the trees and the soil. But if Hebiko said so, there could be no doubt."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hebiko definitely can smell it. Every single sucker on her tentacles works like a powerful sensor."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That's why she can pick up even the faintest scents that we can't detect with our noses."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001h",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "R-Really!? So all of those suckers... are noses!? Gross..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004f",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hey, that's rude! You're still talking about a lady's legs!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She said while wriggling her tentacles right in front of Shikanosuke's face."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Alright, let's proceed for now, but be on your guard."
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001h",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004f",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We continued onward through the forest while keeping a lookout, but there was no sign of enemies lying in wait."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Was Hebiko mistaken? Maybe she just smelled an animal carcass...)"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc010a",
+            "IN"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After proceeding for some time..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We passed through a thicket and arrived at a clearing. If we continued through here the academy building should be close by."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Phew... maybe I worried a bit too much.)"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t004e",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "150"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At that moment, Hebiko, who had been walking at the front, turned around and stopped us with a piercing stare."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hebiko? ...Ugh, what the hell!!?"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "150"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "!! Uargh..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t004e",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "What appeared before us was a horrifyingly bizarre scene."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm314",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Countless spears penetrated the ground. A true forest of spears. And pierced on each of them were\u30fccorpses."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Th-Th-That one over there is Kuraishi from our class!! And Saigoji and even our teacher!! ...They're all dead..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah... all those bodies are Taimanin from the academy..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "All the Taimanin were dead, impaled by spears. I couldn't help but shut my left eye tightly at the ghastly scene."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "How horrible!! Who on earth did this..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Dobashi Gonza",
+        "text": "Ooh, if it isn't the head family's little boy."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "o_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Gonza...!! So this was all your doing...!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "Of course. No matter how many fresh, young Taimanin come at me, \"Gonza the Spear,\" they'll all end up like this."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ugh..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Having crossed paths with a major obstacle, I stood on guard."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Dobashi Gonza was a Taimanin who served Nisha Gaiza's family as butlers for generations, and many spoke of the name \"Gonza the Spear\" in fear."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Normally, a butler organized the household and all of the family's retainers, so basically an intellectual job\u30fcbut Gonza was totally different."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Wielding a spear and killing people without hesitation as his master ordered. That was Gonza."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "This guy is trouble... what do you want to do, Fuma-chan?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "Oooh, little Hebiko is also here. It's been a while."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "H-H-Hey, you know each other!!? Those Taimanin were your comrades until yesterday, how could you..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "o_t001c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "Who the hell are you, little kid."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieee!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "Comrades, family, doesn't matter. I'm merely the spear of my master. I just follow orders and kill."
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se004"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "o_t002c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Gonza held his spear out straight ahead."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "So, were you ordered to kill us as well?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "o_t002a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "Not exactly in those words. I was ordered to\u30fc\"kill everyone who passes through here.\""
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "o_t002a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You heard that? What should we do, Shikanosuke?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004e",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "125"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "You're asking me!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hebiko and I know him well, since he's from the same clan. He's big trouble. Our odds of winning are slim."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Gonza was a Taimanin, but it was said that no one knew his Ninja Art. In other words, he was strong enough with just his spear that he didn't even have to use his Ninja Art."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001f",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "B-B-But we have to go and help Asagi-sensei!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004c",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "And stop Gaiza-chan as well."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "Whatever your reasons, I don't care. It just means that the number of graves is going up by three."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(I have a plan\u30fc)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I signaled to Hebiko and Shikanosuke with my eyes."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001f",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004c",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Alright, we'll force our way through here."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "o_t002a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "Hehe, you're funny."
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "On my sign, Hebiko and Shikanosuke moved quickly to the left and right."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I knew how powerful Gonza was, and fighting him head-on would not be a bright idea. Our strategy was to obscure his vision with Hebiko's ink and push through while avoiding a fight."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "o_t002a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "100"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Wh-, wh-wh-wh-what happened!?"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm207",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Gonza, who was flanked by the two of them, had vanished into thin air."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "<i>Hehe... amateurs.</i>"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Gonza's voice could be heard, but there was no trace of him."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "<i>Finding out your enemy's Ninja Art is the first thing you do when fighting a Taimanin. Isn't that what I beat into your skull when you were a brat?</i>"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As he spoke, the ground rumbled slightly, and..."
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se005"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Gonza sprang out of the ground in a cloud of dust\u30fcdirectly behind Hebiko!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "o_t002c",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t004d",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "No way!!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "o_t002e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "All I'm saying is that it was dumb to attack me without knowing my Ninja Art! Take this!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se006"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "h_t004d",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "o_t002c",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "ef004a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "HORIZONTAL",
+            "0.5",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hebiko!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hrmph!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se013"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "ef009b",
+            "NONE"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "HORIZONTAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But as you would expect from someone with keen sucker sensors, Hebiko avoided Gonza's surprise attack in the nick of time, and she unleashed a tentacle kick to spin around."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Don't underestimate Hebiko's tentacles!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "One of the fearsome powers of an octopus's tentacles was their strength."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "About 90% of an octopus's tentacle is made of muscle, making it powerful enough to pulverize seashells."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And her tentacles were human size. Their power had to be tremendous."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However\u30fc"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se011"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc010a",
+            "IN",
+            "0"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "o_t002c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Kyaaaaaaah!!!!!"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se010"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Slaaaash!!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Chunks of diced octopus tentacles fell to the ground with a thud."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The flash of light from Gonza had severed Hebiko's tentacles."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(He's fast...!!)"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And now Gonza was dashing toward me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Damn it! I'm the target\u30fc!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Realistically, Hebiko was the only one with any real fighting power in our group. That was why he had dealt with her first and now was coming after me, the linchpin of the group."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(We were too focused on his spear... It's obvious that it's Earth Jutsu.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(He totally got us with his surprise attack from underground. Before we could even do anything!!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Haha! Now I know why no one knows his Ninja Art!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(By the time they know about it, they're dead! Like I'm about to be...!!!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In that brief moment, a myriad of thoughts ran through my mind."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, my body wouldn't move. And even if it did, it was already too late. Gonza's spear was hurtling toward me."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "o_t002c",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "300"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Shit!! So this is where I'm gonna die\u30fc)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "HAAAAAAAA!!!"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se007"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(...?)"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc010a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t003f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "Master!!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Tokiko!!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "What had saved me at the eleventh hour was Tokiko's kunai."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "Hah!!! So you were here, Tokiko-san."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When Gonza recognized Tokiko, he clicked his tongue and lowered his spear."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You saved me, Tokiko..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t003e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "Master, I remember telling you to stay put. I'll have a word with you and Hebiko-chan later."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Alright, I'll take a scolding or anything you have in mind. So can I leave it to you?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t003c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "What are you planning to do?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I'm going to stop Gaiza. As the head of the Fuma Clan."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t003d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Tokiko looked surprised for a second, but her face quickly reverted to that of a strict teacher\u30fcno, butler."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t003c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "...As you wish. Leave this muscle-for-brains butler of the Nisha family, who only knows how to fight, to Tokiko."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t003c",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "o_t002e",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gonza",
+        "text": "Hah! Let's see how that goes! The uptight butler of the Diot clan head!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The butler of the Fuma head family and the butler of the Nisha family\u30fca family in the lineage of the Eight Generals of the Fuma\u30fcfaced each other."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yes, Tokiko was a teacher at Gosha Academy, and she was also the butler of the Fuma head family. She was my older sister too, though from a different mother. Due to various circumstances, she had been raised in a family of butlers that served the Fuma Clan."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t003f",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "Master, hurry to the building!"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1500"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR54",
+            "OUT",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "o_t002e",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t003c",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We left Tokiko to handle Gonza and rushed toward the academy building."
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR54",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm314",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hebiko, have your tentacles regenerated?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t004a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Yes, as you can see."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The chopped-off tentacles had completely returned to normal. Hebiko's octopus tentacles had the ability to regenerate, so even if they were cut off, they would grow back after a while."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t004a",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001c",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "That's kind of gross but also kind of awesome..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As he spoke, Shikanosuke looked at the tentacles intently and poked them with his finger."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t004e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hey, it still hurts, so be gentle, okay!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(We almost died, but this is how resilient they are.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, the fact that they could provide some firepower was a happy accident."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Alright, let's storm the building!!"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001c",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t004e",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

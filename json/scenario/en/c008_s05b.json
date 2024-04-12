@@ -1,0 +1,1407 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm321",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc077a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ak_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "\u30fcMagick Gear Hexa-Blade Style: Hexagram Spread!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se007"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ak_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "300"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc077a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*CLAAAANNGG!!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The paths of her six blades gleamed in the darkness."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m056a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yao Bikuni",
+        "text": "Ugh...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Akitsu's powerful slashes\u30fcYao Bikuni staggered greatly, unable to fully endure them."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m056a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Good!! Keep it up!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We held a dominant position in the battle. Yao Bikuni and the other Fuma Ninja Forces were being pushed back by our well-coordinated attacks."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hebiko, the smokescreen is about to dissipate! Please!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t005f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Got it! Hhhhhhp..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t005j",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*SPLASH!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Immediately after Hebiko breathed in deeply, she stained the area black with her octopus ink."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t005e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Is that enough!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Perfect! Her \"Mermaid's Sapphire Eyes\" won't work if she can't see. Shikanosuke!! Enemy positions!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t005e",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001h",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "W-W-Wait a second! Let's see..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Got 'em!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke could use his Electric Jutsu as a sonar to be able to detect the enemies' positions even in the dark and through Hebiko's smokescreen."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Alright, show Akitsu their positions!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Y-Yes!! Here I go, Electric Jutsu: Spark!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t002f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se014"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc077a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Then, with a flash of his static electricity, he communicated the enemies' positions to the powerful attacker Akitsu."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t002f",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ak_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "Hmm\u30fcYou're pretty good! Got it, over there!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se011"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ak_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Slash!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yao Bikuni",
+        "text": "Gahaah...!?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se031"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Slash, whoosh!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yao Bikuni's body was thrown back and fell to the ground."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yao Bikuni",
+        "text": "Ugh... th... thou..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She had wounds all over her body and her blood stained the crumbling asphalt."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Still, the fact that she had avoided a fatal wound showed how skilled she was\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There were no other Fuma ninja left who could still fight."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m056a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yao Bikuni",
+        "text": "Ugh... I am astonished. To what end wouldst one skilled as thee side with the \"Diot\"?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "The Diot? Are you talking about that guy? I guess that's just how it turned out."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "But you shouldn't take him lightly. He fully grasped your powers and gave us orders accordingly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "I mean, I'm strong enough without him though. So, how about you surrender quickly?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Akitsu looked down at Yao Bikuni who had collapsed to the ground."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yao Bikuni",
+        "text": "Surrender? O-hoho, art thou sure about that...?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m056a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Akitsu tilted her head with a puzzled expression\u30fcand in the next moment..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Kzzkzz... kzzkzzkzzkzzkzzkzz*\u30fc"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!? The spiders\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The mechanical spiders tracking their target became riled up like their web was being poked at."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ak_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "That sound... no way!? The target is very close!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What!? The target, that means\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t004a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Huaaaaaaaaaahhhhhhh!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t004a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se007"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "ef002a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*KUH-LAAANG!!!*"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc077a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ughhhh!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Something attacked directly from the roof of an abandoned building\u30fcIt was Gaiza!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ugh..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It had been a powerful blow. The surprise attack had sent me flying, my back crashing into rubble."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Gaiza..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t004a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Kuhahaha!! Take that, Diot!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What the hell... How rare for you to use your brain..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had been vaguely aware of it since we had arrived... no, been lured... to these ruins."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Your aim... since the beginning... was me, wasn't it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "By having Yao Bikuni and her men attack us, they shifted me into my commander role and isolated me from the other three."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It had all been to arrange for Gaiza, lying in wait, to surprise attack me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "You always have this face like you're the only smart one, so I gave you a taste of your own medicine!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huh... well... I'm still definitely smarter than you though...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "What was that!?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t004a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se007"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "ef002a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "\u30fc*CLING!!*"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc077a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Uggh!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Gaiza's odachi came after me without mercy. The difference in close combat ability was obvious and I was completely on the defensive."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Fuma-chan!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "H-Hey! Are you ok, Fuma?! We're coming to rescue you!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But before they could make a move, in front of them\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m015a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "What the hell! Who are these guys?! With my Magick Gear Hexa-Blade Style, I'll\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m015a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m056a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yao Bikuni",
+        "text": "Halt."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yao Bikuni",
+        "text": "Am I not thine adversary?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The eyes of the collapsed Yao Bikuni glowed mysteriously and caught Akitsu in their gaze."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "Ugh!? Her eyes! Shi\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Taking advantage of the opening, Yao Bikuni attacked Akitsu with her Ninja Art: Mermaid's Sapphire Eyes."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "\u30fc...Arrgh!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Her life energy was being drained. Akitsu slumped down on the ground, suddenly feeling intense fatigue."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Conversely, the wounds of the energy-absorbing Yao Bikuni were healed in an instant."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yao Bikuni",
+        "text": "O-hohoho... a reversal of fortunes? \u30fcHaaaah!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m056a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "300"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se001"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "Kyaaaaahh!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Yao Bikuni's powerful blow hit Akitsu directly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "\u30fc...Ugh..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Her small body was sent flying, crashing into a wall, and she fell silent."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Meanwhile\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t004a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Hahhahaha!!! Are you frustrated? You're frustrated, aren't you, Diot?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "After all, you can't do anything by yourself. Without the help of others, you're just a nobody!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Wh-What...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "While goading me on with his words, Gaiza kept swinging his odachi furiously."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Alone and with no support, all I could do was dodge."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Hehehe... Being powerless is basically a kind of sin."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Without power, you can't get anything. That's why I'll acquire greater power than anyone else."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Gaiza, you..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Already finished? Then die!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Now!! Now's the chance\u30fc)"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t004a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se007"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "ef002b",
+            "NONE"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Clank!!!*"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc077a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Because of the size of Gaiza's odachi, there was an opening whenever he took a wide swing. I took advantage of that opening and slashed, but\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "My ninjato just bounced off. The difference in strength was more than I had imagined."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(I guess Gaiza, too, has grown a bit!)"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t004a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "You're weak, \"Master.\" You'll never make it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Gai\u30fcugh?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Before I knew it, the cold smile that Gaiza had shown until a moment ago disappeared from his face."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was now the face of a man who had made up his mind. And then, in a voice that only reached me\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Leave the rest to me."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The next moment..."
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se031"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Argh!? Ugghh... ug... gh..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t004a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The tip of his odachi pierced through my heart."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(...Ugh... Hebiko... Shikanosuke...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I felt the sensation of the open air on my punctured heart. Pain, and then heavy bleeding."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yao Bikuni",
+        "text": "Gaiza-sama, I have apprehended the companions of the \"Diot.\" Shall I execute them?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "We accomplished our goal. Just leave them."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yao Bikuni",
+        "text": "As thou command."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The sound of Gaiza and Yao Bikuni leaving. Eventually numbness and silence came over me, and I fell into a world of emptiness, all alone."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "An overflowing light in all directions."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A sense of floating, then peacefulness. Was this the sensation I was enveloped by before I was born?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Is this the afterlife?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(If it is, then it's not bad...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I even wanted to be wrapped up in this comfortable floating sensation forever\u30fc"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc077a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...Uahhhh...!?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002f",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Fuma!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Fuma-chan!!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "\u30fcHaah... haah... Hebiko? Shikanosuke? Oh damn, so you guys also died..."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm606",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When my vision suddenly became clear, a pain like I had been holding my breath for a long time welled up."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Before my eyes were the faces of Hebiko and Shikanosuke. Both of them were stunned, their mouths open, and they even had tears in their eyes."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002f",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ak_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Akitsu",
+        "text": "It seems like he's not a Zombie..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What the... Akitsu, even you're slack-jawed..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "F-Fuma, you came back to life!"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Eh?"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001f",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

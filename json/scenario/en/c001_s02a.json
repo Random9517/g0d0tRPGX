@@ -1,0 +1,370 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc003a",
+            "IN",
+            "1500"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004e",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001c",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm408",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Alright, let's go\u30fc...wait, where are we going?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004f",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "There's fighting everywhere! Helping them all would take forever."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hmmm..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If we got caught up in the heat of the battle, we would be playing right into the enemy's hand. I took a deep breath and looked around the academy, which had completely turned into a battlefield."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It might look unorganized at first glance, but... they're deliberately creating chaos."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "There clearly aren't even that many actual enemies."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Which is probably why they also tried to force Shikanosuke to join them."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Whaaa? Explain it like I'm five!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "If they attacked the academy head-on, they'd be quickly outnumbered... That's why they're creating chaos and recruiting turncoats."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "So that it's hard to distinguish who's an enemy and who's an ally, right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah. It's a common but effective tactic."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "I see... B-But it's not like they rebelled just to cause chaos here, did they? What's their real goal?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Oooh, Shikanosuke, you're a sharp one, aren't you? If they want this rebellion to succeed, there's only one way to do it."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001e",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "H-How, Fuma!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "They have to attack and defeat Igawa Asagi, the current Taimanin Chief Commander."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.3",
+            "150"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "A-A-Attack Headmistress Asagi...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi-sensei was the headmistress of Gosha Academy, and at the same time she was the Chief Commander of the Taimanin. She was the mightiest Taimanin."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If they wanted to succeed with such a small number of combatants, subduing her was their best bet."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "At this time Asagi-sensei should be in her office. That means they diverted everyone's attention to the chaos in order to attack the academy building while it's only lightly guarded."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001f",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Th-Then we have to protect the headmistress!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke looked up toward the headmistress's office. It seemed like he really meant it when he called himself the Taimanin of Justice."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004c",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Calm down, Shikanosuke-chan. Hebiko can't imagine she would be defeated that easily."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah. But if Gaiza is behind all of this then I'll have to stop him."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004g",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Fuma-chan..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It's not that I cared about the whole clan head and retainer thing."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But thinking back on it, Gaiza had been a bit different today from his usual self."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Gaiza had been brooding over something. And I can't really say that I'm not at least partly to blame.)"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Rebels from within the Fuma Clan... this has really turned into a hassle."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Well, it's not like everything's confirmed yet. But we have to hurry!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Are we going to run through all this chaos!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No, that's what they want us to do. Let's take a detour through the forest behind the academy building."
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004e",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "2000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

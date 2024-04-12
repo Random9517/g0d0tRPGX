@@ -1,0 +1,553 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc109a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm304",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Tokyo Kingdom, the city of vanity and crime floating in Tokyo Bay."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Even this city, which was usually bustling with danger, was filled with a harmonious and congenial atmosphere just on this day."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The fronts of the seedy brothels were adorned with New Year's decorations like shimenawa and kadomatsu, and even the denizens of darkness, normally constantly at each other's throats, were merrily exchanging New Year's greetings."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There was an obnoxious group of people disturbing the New Year's mood."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0086a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Homura",
+        "text": "Make way, make way! The great and incomparable fake boar is coming through! Clear a path or I'll send ya flying!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0086a",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m061a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I'm really sorry about this. Sorry for the trouble, everyone."
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se057"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Dundundundundundundundun\u30fc!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With footsteps that sounded like an earthquake, Asagi-san, me (the boar), and the Fire Art Squad led by Homura barreled down the street."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In the mountains, this might have been a normal sight, but this was a downtown area bustling with people."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And a giant boar, taller than a person, was running through such a place."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Naturally, we stood out."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Passerby A",
+        "text": "Eeeeeek!! Wh-What the hell is that monster!? It's headed right this way!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Passerby B",
+        "text": "The Chinese zodiac animal for this year!? But it's way too big!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The people walking down the street shouted in surprise and ran away to avoid being sent flying\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The peaceful New Year's mood had completely flipped and now the streets were in a minor state of panic."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "chr_t0084a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "But don't you think we're standing out way too much...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi-san, who had some common sense, comparatively speaking, remarked with concern."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I knew how she felt."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With us causing this much of a commotion in the city, the chances of the other factions noticing us grew higher as well."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Homura",
+        "text": "C'mon, don't worry about it!! It's New Year's Day. I'm sure the other guys are just chilling at home right now."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Y-You think so...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Homura cackled at the deep-in-thought Asagi-san and replied."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Homura",
+        "text": "Besides, we're screwed if we don't find the aforementioned boar by the end of the day, right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Homura",
+        "text": "Then there's no time to lose. It's not the time to be sneaking around and trying to move without being found!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Well, you have a point."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi-san nodded."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The \"Rite of the Auspicious Beast\" would only be performed on New Year's Day."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If no one killed Kiyomaro, the lucky boar, by the end of the day, it would turn into an inauspicious beast and bring about great misfortune."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Homura",
+        "text": "I know, right? So, we gotta hurry and catch the real one! Fake boar, this is the right way, yeah?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yes, we should be almost there... Its presence is getting stronger and stronger...!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was sniffing the ground, running at the front of our group."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was clear the beastly presence was from \"him,\" just a short distance ahead."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Homura",
+        "text": "Alright! Then we're almost there! Let's get a move on before the others find us\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "chr_t0085a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kokawa Asuka",
+        "text": "What are you talking about? You think no one would find you when you're making that much of a racket?"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm406",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You!?"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(The steel lady...!? No, wait, it's the steel lady of <i>this</i> dimension!!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The one who had appeared to block the end of the street was the steel lady, Kokawa Asuka."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With her arms and legs fortified with the latest android weaponry, she was an extremely dangerous woman."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "That girl..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Do you know Asuka, Asagi-san?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Um... Well, you could say we go back a ways..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi-san said ambiguously with a wry smile."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "What about you? How do you know her?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Uh, well, I've run into her several times during some of my earlier missions\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If I remembered correctly, Asuka and the Masked Taimanin were working together, cooperating with the UFS\u2026"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m008a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "ts_m008a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_PRIORITY",
+        "info": [
+            "3",
+            "10"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "UFS Soldier",
+        "text": "Don't move! Drop your weapons and surrender!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Shit! I knew it was the UFS! Working hard as ever, even on a day like today!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asuka",
+        "text": "I could say the same thing about you! I was called here in the middle of hatsumode because you guys were making such a commotion!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ugh, when you put it that way... B-But, I mean, we also have our reasons!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The UFS squad blocked our path ahead, and then set up behind us as well, seemingly determined not to let a single one of us pass."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Now that it had come to this, all we could do was brace ourselves."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0086a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "chr_t0084a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "I figured this would happen."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Homura",
+        "text": "A fight with the UFS right at the start of the new year!! Wooooooo! I'm all fired up!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

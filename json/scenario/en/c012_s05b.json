@@ -1,0 +1,2598 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc137a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm313",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m084a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Euryale, the legendary witch."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She had lost both arms due to a curse of the old gods, but in their place, she was able to freely control two giant swords with a magic spell called \"Invisible Hand\"\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And we got to experience her fierce strength firsthand."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Kyaaaaaaah!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Kirara-senpai!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Euryale",
+        "text": "\u30fcHoldest thou concern for others in thy heart, human?"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Wh-When did she\u30fc!!?)"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se007"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Clang!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Urrrghh!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Unable to completely withstand the hurtling sweep of her giant sword, I was thrown back violently."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "\u30fcI couldn't read her movements at all."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Like a gracefully dancing ballerina,"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Euryale swung her two giant swords with ease and toyed with us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Y-You monster..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kirara-senpai, who had been thrown back at the same time as me, grunted in frustration."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Her body was covered with countless wounds carved by the two giant swords."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "They were not fatal, but without the stamina of the Oni, she surely would have been unable to fight."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Euryale",
+        "text": "Hehe... As I recall, thou art the daughter of a Kijin. How mournful thy mother's blood must be at this sight."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Ugh!! What's your problem, you stupid witch!? I'm just getting warmed uuuuuuuuup!!!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "kr_t001f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kirara-senpai stood up with determination."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "kr_t001c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This was in spite of the fact that she surely had not fully recovered from the damage she had incurred during the battle with Yaemon yet."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She froze several of her open wounds to stop the bleeding and tried to confront the witch again."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "\u30fcBut I grabbed her shoulder and stopped her."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Please wait!! Kirara-senpai\u30fc We're gonna lose if we keep fighting like this!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "kr_t001d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Huh!!? Wh-What are you talking about all of a sudden!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kirara-senpai looked puzzled."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I got closer and whispered in her ear so that the witch couldn't hear."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(She's targeting your weakness. That's why we can't win!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "(M-My weakness\u30fc!?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Yes... The opening in the brief moment when you charge your cold air.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kirara-senpai had to perform an action in order to charge her ability to control cold air."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Of course, it was just a tiny fraction of time that couldn't even be called an opening."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There was no way it would have any effect on a battle."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m084a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "\u30fcAs long as the opponent was not a genuine monster like Euryale."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Euryale",
+        "text": "Hehe..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Euryale looked down on us with a cheerful smile, not even attacking us while we remained stationary."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Of course that's how it is...)"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "kr_t001c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I confirmed that fact and continued to whisper in Kirara-senpai's ear."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(...She's totally targeting it.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(A normal opponent couldn't possibly be able to target the moment you charge your cold air. But\u30fc)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That was not the case for Euryale."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She was thwarting Kirara's power of cold air with the help of her astonishing speed and her vision that seemed to see through all of our movements."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Or to think about it from the opposite angle\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kirara's power to control cold air was so threatening that even the legendary witch was relentlessly vigilant against it."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "kr_t001g",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "(I-I mean, even I\u30fc)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Senpai...?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As she glared at the enigmatically smiling Euryale, Kirara-senpai grumbled in annoyance."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "kr_t001f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "(I knew that, you know! That I can't move as well as I'd like, and that I'm getting interrupted before I can even attack\u30fc)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "(But even then!! There's nothing else I can do!! I can only fight with this power\u30fc)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(\u30fcThere <i>is</i> something else. Your Taimanin Jutsu.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I made an effort to whisper calmly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asking her about her Ninja Art back in the grassland, while knowing she wouldn't like it, had been for times like this."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "To be able to give the correct commands, you have to know exactly what the members of your team are capable of."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "kr_t001d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "(My Taimanin Jutsu...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Yes. With the Jutsu you told me about back then, we have a chance to win.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I knew that Kirara-senpai was not happy about this."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She had said that she wouldn't use her Taimanin Jutsu ever again."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Because she had inherited her Ninja Art from her despicable father, who had slain her beloved mother."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Even so, I appealed to her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Please use your Ninja Art. \u30fcI'll issue the commands.)"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "kr_t001g",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "(...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I could sense the gaze of Kirara-senpai's striking eyes on the side of my face as she turned toward me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But I didn't react."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I simply faced forward and stared fixedly at the bewitchingly smiling Euryale."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "(I'll lose...?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(If we keep going like this, yes)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "(But if I do as you say, we can win.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Yes. Will you follow my orders?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There was no conclusive proof of anything."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But taking on responsibility was also the role of the commander."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "kr_t001e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "(Alright, got it. I'll\u30fctrust you.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Thank you!!)"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "\u30fcWe were good to go."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I whispered to Kirara-senpai the plan I had mulled over in my head repeatedly."
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "500"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc137a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m084a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Euryale",
+        "text": "Hehe... Didst thou settle on a strategy?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah. Sorry to keep you waiting."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kirara-senpai and I stood side by side and faced Euryale, who was floating eerily."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "...She was a woman whose true motives were inscrutable."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I thought that she would suddenly attack us, but she had refrained from doing so until our plan had been finalized."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(If my guess is correct, then our \"negotiations\" are still ongoing.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Rather, this battle itself was a negotiation\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That was why we needed to defeat this witch at all costs."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Euryale",
+        "text": "Well then, let us see how much delectation the floundering of weaklings can grant me\u30fc"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Haha, don't be too afraid when you actually see us in action!! \u30fcLet's do this, Kirara-senpai!!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "kr_t003a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Yes, Fuma!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kirara-senpai was the first to move."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Prepare yourself, you snide, gloomy witch!! Haaaaaaaa\u30fc!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Keeping a sufficient distance from Euryale, she charged her cold air."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m084a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Euryale",
+        "text": "Hehe. I see no improvement..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The witch drew closer to prevent her from doing so, swinging down her giant sword with godlike speed. And there\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "\u30fc!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Moving a short moment after the witch, I slashed at her from behind with my ninjato."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Euryale's battle movements were unpredictable and bizarre."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But it was possible to predict that she would come after Kirara-senpai charging her cold air\u30fcMy surprise attack targeted that."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Euryale",
+        "text": "Well, well? This is\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se047_01"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Clang!!!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Uargh!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The ninjato I held was sent flying."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She had easily swung her second sword and quickly dealt with my attack."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "F-Fuma!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kirara-senpai screamed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But she was the one who was truly in danger."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Euryale",
+        "text": "Thy strategy is no more than mere child's play!!"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se027"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The witch's giant sword came swinging down."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Right toward Kirara-senpai's body, defenseless while charging up the coldness."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "ef005a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se031"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Ugghhh\uff5e\uff5e\uff5e\uff5e!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sinking deep in\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kirara-senpai's body was cut from her right shoulder to her abdomen, and fresh blood gushed out."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc137a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m084a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Euryale",
+        "text": "Hehe, how easy... In the end, thou wert nothing more than this?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The witch scoffed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The daughter of the Kijin, who had posed a threat, had fallen."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There was only a powerless man left."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "They no longer had any way to resist. But\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This had also all been part of my plan."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Euryale",
+        "text": "!? Thou art\u30fc!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Collapsed on the ground with her body torn open, Kirara-senpai grinned broadly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And slowly her appearance changed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "No, that was not Kirara-senpai."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "\u30fcIt was \"me.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...Hehe, are you surprised? Apparently, this Ninja Art is called Substitution Jutsu."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I laughed while spilling blood from my mouth."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Jutsu was lifted from \"my\" body, which had been cleaved by the giant sword, and my actual body returned."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "By touching another person and activating the Ninja Art, the two people's bodies completely switched, including their voices and appearances."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That was the Ninja Art that Kirara-senpai had inherited from her father."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Euryale",
+        "text": "\u30fcThen that means...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The witch turned around."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm205",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Exactly\u30fc If I was here..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Then the idiotic \"me,\" whose ninjato had gotten repelled earlier\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "kr_t003b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "\u30fcSuper Freeze!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kirara-senpai shouted loudly as her cold air charge completed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The power of the Kijin that she had inherited from her mother\u30fcKirara-senpai swung her leg, charged with that power, powerfully down to the ground."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se111"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Euryale",
+        "text": "Aaaarrgh!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In an instant, an enormous ice pillar rose up\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Trapped within it, the witch was frozen, her face contorted in a hideous manner."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Then\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Special Attack: Go With the Floe!!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se039"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Craaaaack!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shards of ice scattered across the desolate wilderness."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Both of her arms charged with cold air, Kirara-senpai shattered the whole ice pillar and smashed the witch to pieces."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "kr_t003a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Haah, haah...! How did you like that, you wreeeeeeetch!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With her fists still in her follow-through pose, Kirara-senpai roared out in triumph after our battle with the witch."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Haha, Kirara-senpai really is incredible...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I watched her, holding my stomach that had been slashed open, still gushing blood."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It had been a bit of a painful experience for me, but it was worth it if that was all I had to do\u30fc"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m081a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Hehe... Well, I guess you barely passed."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm509",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "\u30fc!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The sound of clapping came from behind me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And when I turned around, the woman in the Taimanin suit was standing there."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "E-Euryale...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Euryale",
+        "text": "Yes, little Fuma. It was a delightful time fighting you\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The witch smiled."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She spoke in a gentle and charming tone, completely different from earlier..."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Ehhh!? Wh-What...!? Ugh... V-Very well, if you want to have another round..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se023"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "\u30fc*Thud!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "F-Fuma!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "...As expected, my wounds had been too deep."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I couldn't stand anymore and collapsed on the spot."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "kr_t001f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "W-Wait!!? What am I supposed to do!? That woman is still alive\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "kr_t001g",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "And you're hurt this badly, Fuma\u30fc Aaah!? You're okay, right!? You're not gonna die, are you!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kirara-senpai ran over to me and touched my wound with a tearful look on her face."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She must have been stopping the bleeding, as the surface of my wound was starting to freeze."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I-I'm okay... I mean, I'll recover..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I forced myself to smile to at least put Kirara-senpai at ease."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "B-But...!? It still hurts, doesn't it!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "You're always too reckless... I-If you'd die because of this, I..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "kr_t001f",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m081a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Euryale",
+        "text": "\u30fcHmm. Just a tiny bit deeper and I would have cut through his heart. That was some nice swordplay if I say so myself."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "kr_t001f",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "!? This woman is shameless\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Before I knew it, the woman was peering at my wound with amusement."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kirara-senpai was furious, but\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The witch smoothly stepped past her and lightly touched my wound."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Wh-What are you doing!? If you lay even one finger on Fuma, I'll\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Euryale",
+        "text": "Hehe. Calm down, Oni-girl. I just treated him\u266a"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "kr_t001d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Huh!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Was that... really a treatment?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Something looking like the bud of a plant quickly sprouted out of the wound in my chest where the witch had touched me."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "kr_t001f",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "\u30fc!? Fuma!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That bud soon sprouted young leaves which covered the wound in my chest\u30fcand eventually the wound underneath them gradually disappeared."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(So this is healing magic...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But I had never seen such an advanced technique, even in books."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This was... the power of the \"legendary witch\" Euryale."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "kr_t001g",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "I-It healed...? Fuma... are you already okay...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah... looks like I am. Thank you, senpai."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "kr_t001e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I borrowed Kirara-senpai's shoulder to help me stand up."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At the same time as my wound disappeared, the young leaves growing on it also withered away and fell off."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Not only had my wound healed, but my body felt light."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "My whole body was filled with a mysterious energy."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...Euryale. Does this mean we have \"reached an agreement?\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Euryale",
+        "text": "Ohoho\u266a Yes. Personally, I would say you've \"overcome the witch's trial.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Haha, I see."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Well, I guess the meaning was the same."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "kr_t001d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Eh? Wh-What...? What are you two talking about...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kirara-senpai looked between me and the witch with a face that said she didn't understand what was going on at all."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No, I mean... It's not like I completely understood everything, but..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I said as a preface and then spoke to Kirara-senpai."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "To sum it up... this person has been playing with us."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "kr_t001f",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "What!? P-Playing\u30fc"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m081a",
+            "LEFT",
+            "CENTER",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "\u30fcEuryale, the legendary witch."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Among the tales that she had written, there was one called \"The Witch of Death's Knoll.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And the witch in that tale put the warrior who came to her seeking help through a \"trial\"\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Everything up until this point was her acting out a scene."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Well, I did think that she was speaking in a strange and old-fashioned way, but..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Euryale",
+        "text": "Oh my? Little Fuma, you're quite harsh\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The witch said with a charming smile."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In the end, I supposed this easygoing demeanor was her \"true\" self."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Man, but still\u30fc)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I sighed and looked at the desolate wilderness surrounding me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "How enormous must the power required to maintain such a vast magic space have been?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And this woman was doing this just to \"play.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Uncontrollable trickster\u30fc The absurdity of it all would explain her nickname."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m081a",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "kr_t001f",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "W-Wait a second!!? <i>Playing</i>!? \u30fcQuit being ridiculous!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Kirara-senpai...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Then what!? Are you saying she killed them just for fun!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "She killed Hebiko-chan and Shikanosuke-kun!! And the Taimanin unit!!! I will never forgive such crue\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Euryale",
+        "text": "Ohoho\u266a I couldn't be so boorish as to do that, could I?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Crack\u30fc!!*"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "500"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc102b",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m081a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "kr_t001d",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Wh-What!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In an instant, the scenery had changed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "From the desolate wilderness to a luxurious room you might find in a noble's mansion."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Euryale",
+        "text": "A gift for the warrior that overcame the \"trial\"\u30fcJust over there\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The witch pointed to a corner of the room. And there\u30fc"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "ZzZz... Mom, grab me the remote control..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "*Mumble, mumble...* Hebiko is full already..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "................................ ................................ ................................"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kirara-senpai's mouth fell open upon seeing the two of them sleeping peacefully."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And close to them, all the members of the missing Taimanin unit were also sleeping."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm604",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Well... Of course they'd be.)"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m081a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Euryale was an irrational being, but she did not kill without a reason."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had learned of her nature from reading books and research papers about her\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And that was why I had not been seized with anger or despair, even seeing that pile of dead bodies."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(That being said, we wouldn't have known of this if we had \"failed\" the trial...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She did not slaughter meaninglessly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But if there was some reason to it, doing so without hesitation was what it meant to be a witch..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "\u30fcSo, what did you need from me?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This room must have been something like her living room."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I asked the elegantly lounging Euryale."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Euryale",
+        "text": "Ohoho. I won't tell you that. I'm done with you already\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huh? You're done? ...Does that mean you already did something?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The witch had said that she had caused this incident in order to meet me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And yet... she didn't need me anymore?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Euryale",
+        "text": "It's a s\uff5ee\uff5ec\uff5er\uff5ee\uff5et\u266a But don't worry. I will tell you when the time comes."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Before I knew it, there was a glass filled with something looking like wine in the witch's hand."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And there were also glasses on the table in front of me and Kirara-senpai."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Does it... have anything to do with the \"lost arms\" you've continued searching for?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was a fan of hers so I knew about them."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was said that Euryale had been wandering in search of them since ancient times..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Euryale",
+        "text": "A secret is a secret. No one likes unrelenting children, boy."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...I see. Then it can't be helped."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In any case, she was not the kind of person you could coax an answer out of."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If she wanted to \"wait for the right time\"\u30fcthen all I could do was wait patiently."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "In return... or maybe that's not the right way to put it, but I'd like to ask you a favor."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Euryale",
+        "text": "Oh? What is it?\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Please leave this city. Someone like you being here upsets the balance in the underworld."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Especially since this woman also seemed to have made contact with the Nisha Clan."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If by any chance she were to ally herself with Gaiza, things would get out of hand."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m081a",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "kr_t001f",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "W-Wait\u30fc!!? There's no way this strange woman would obediently listen to your request!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ah, Kirara-senpai."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kirara-senpai, who seemed to have finally come back to her senses, spoke with a terribly threatening tone."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Be careful, Fuma!! I bet she's going to cast some weird spell again, or demand some outrageous conditions\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Euryale",
+        "text": "Very well. I will go back to Amidahara tonight."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "kr_t001d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Eeeeeehhhhhhhhhhh!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kirara-senpai's mouth fell open again."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No, the thing is... she already did what she wanted to do."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Wh-What she wanted to do...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "The reason she came to Tokyo Kingdom, and also the reason why she kidnapped the Taimanin unit\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Apparently, all of this was just the \"fate\" she created to meet me..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And once she had done that, there was no longer a need for her to be in the city."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "kr_t001f",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "I don't get it...! Sh-She's... just causing inconveniences for other people!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Well, yeah... That's a \"witch\" for you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Euryale",
+        "text": "Ehehe\u266a Sorry, Kirara-chan\u2606"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "kr_t001h",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "\uff5e\uff5e\uff5e\uff5e\uff5e!!? I really hate witches!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kirara-senpai declared resolutely."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Well, it was said that Oni and witches have had poor relations since ancient times, so I guess this was inevitable."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m081a",
+            "LEFT",
+            "CENTER",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Euryale",
+        "text": "\u30fcWell then, little Fuma."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And once again, before I knew it\u30fcthe witch had come close enough for me to be able to feel her breath."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Euryale",
+        "text": "In the near future\u30fcyou will definitely cross paths with something \"demonic.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Demonic...? What's that, a prophecy?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The power of demons that had lain dormant within me, and the \"Demonic Fate\" she had spoken about\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Euryale",
+        "text": "Who can say...? But you can always come see me if you ever need help."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Euryale",
+        "text": "\u30fcAmidahara. I'm always watching over you from there\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hmm!? What are you\u30fc?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With a whisper, the witch's face came closer. And then her entrancing tongue slipped between my lips\u30fc"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Aahhhhhhhhhhhhh\uff5e!!??"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Euryale",
+        "text": "\u30fcPhew, that was good\u2606 You too, Kirara-chan, let's meet again\u266a"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After giving me a passionate kiss, Euryale the witch disappeared from the room."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Phew... That woman was really over the top..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "kr_t001h",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "F-Fuma\uff5e\uff5e\uff5e!? Why are you wiping your lips so calmly!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ah. It's alright, senpai. I was also a bit surprised, but there doesn't seem to be any magical significance to that kiss."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I nodded in an attempt to reassure Kirara-senpai."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had thought that she might have put a curse on me, but the kiss didn't seem to have that kind of effect."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "That's not what I meant!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Uh huh..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "And that makes it even worse, doesn't it!? If there was no magical significance to it, then what significance was there to it!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah, I don't know."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "Ughhhhh, what's wrong with that woman!? I hate her!! I really hate witches!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Kirara",
+        "text": "I'll <i>definitely</i> freeze her the next time we meet!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Kirara-senpai's bellows echoed through the room."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As if in response, the surrounding landscape melted away\u30fcand little by little, it transformed back into the original warehouse."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

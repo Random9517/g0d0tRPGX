@@ -1,0 +1,2449 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc001a",
+            "IN",
+            "3000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm203",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Japan\u30fcIn the near future.\nSwarming with all manner of demonic beings."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "An unspoken rule of \"mutual non-aggression\" had been followed since the ancient times, but this began to show signs of collapsing when people strayed from the path of righteousness."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Humans and demons colluded to form criminal organizations and corporations that acted in the shadows. Thus, the world descended into chaos."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, those who sought the right path were not powerless either."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The government of the time assembled a group of ninja. They would be the humans who could stand against the demonic forces, opposing the deviants' evil."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And they were known as... \"Taimanin\"\u30fc\u30fc\u30fc\u30fc"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(...The Taimanin...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Hey, wake up."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Ninja who have possessed special powers since the ancient times... but I... )"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc003a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Nisha Gaiza",
+        "text": "I said wake up, \"Diot\"!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se001"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ugh...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Feeling a sharp pain in my side, I was yanked out of my slumber."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm307",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t002c",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "You haven't changed one bit, Fuma."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When I opened my eyes, I found myself surrounded by men I recognized. Some were my classmates, others were my senpai, and the one in the center spewing vitriol was\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Gai...za..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This guy, named Nisha Gaiza, was a classmate of mine and a childhood friend who had grown up in the same clan."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t002e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Is the \"vaunted\" leader of the Fuma head family taking a nap in the sun?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Did you come all the way here just to say that?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Gaiza's family, the Nisha, was one of the leading families of the Fuma Clan, a Taimanin clan."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And my family, the Fuma, was at the head of the Fuma Clan. That made me a Taimanin and the leader of the noble Fuma head family... at least in theory."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And in the world of the Taimanin, which still held onto the customs of the Japanese warrior, this made the Nisha family retainers of the Fuma family."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But as you could see, his attitude was far from that of a retainer\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Yeah, I did!! I was just wondering when you're gonna stop lazing around. You, the \"Diot\" clan head who can't even use an Evil Eye!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Evil Eye. The gaze of those who possess it harbors demonic power."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Every Taimanin had their own special ability to resist demons, and the Fuma Clan had a great number of Evil Eye users."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Evil Eye users had various abilities, such as petrifying objects they looked upon, or enchanting and controlling those whose gazes they met."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And it was said that almost the all clan heads so far had possessed very powerful Evil Eyes. My late father had been an Evil Eye user as well, and Gaiza, standing before me, also had an Evil Eye."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, I\u30fchadn't been able to open my right eye since birth and hadn't awakened to the power of the Evil Eye."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Many called me the \"Diot\" clan head and Gaiza was one of them. Get it? An \"Idiot\" with one \"i\" is a \"Diot,\" hardy har har."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...Even if you say that, there's nothing I can do about it. Go talk to Tokiko if all you want to do is complain."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Oh right, it's Tokiko-\"sensei\" here at the academy. Anyway, just leave me alone."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t002d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Quit fooling around!! Diot!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se001"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I saw stars for a moment after taking a powerful kick to my side."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t002c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "So you're not just missing an eye, but a spine as well. Why don't you try and fight me, huh!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sheesh, what are you so irritated about?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza's Follower A",
+        "text": "Master Gaiza, this guy isn't taking you seriously!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza's Follower B",
+        "text": "You can't even fight back when he hits you, you coward! Gahaha!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t002e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "You guys, shut up!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As Gaiza shouted, his followers became silent, as if someone suddenly had poured cold water over them."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t002f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Don't you understand!? The Fuma Clan is the greatest clan in the Taimanin world. We're not subject to anyone, and we're also not the government's pet dog!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t002c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "But the clan head, the most prominent person in the whole clan, is a useless coward!? How can I not be irritated about that, damn it!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I got up slowly with a \"Sheesh.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Not the government's pet dog? Then what are you still doing here, Gaiza?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t002d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "What!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Gaiza grabbed me by the collar and glared at me as if he was about to punch me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But we went way back. I knew exactly what to do when he acted like this. I purposefully spoke nonchalantly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Give it up already. It's not the same as when our fathers were alive. The Fuma Clan lost. All we can do is mind our own business..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t002i",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Shut up!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se001"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "His merciless fist struck my cheek."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t002c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Tch, you're a loser through and through!! Take this\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Stop that at once!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Huh!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t002c",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hebiko..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This girl was Aishu Hebiko."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She had been born as a lower-rank ninja of the Fuma Clan, but had been a standout ever since she was a kid, and was now our class representative."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t001a",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "g_t002b",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Oh, it's the class representative. Things were just about to get interesting."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t001b",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Aishu Hebiko",
+        "text": "Hebiko has business with Fuma-chan. Will you step aside?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "g_t002c",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "I refuse. We're in the middle of a conversation. Shove off."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t003c",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "2000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "I'll give you a taste of my ink, then."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "g_t002i",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Ugh...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko's legs started to transform and turned into wriggling octopus tentacles with giant suckers."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(I've seen that so many times, but... it's still pretty bizarre.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko was a \"Beast Jutsu\" user. She was a \"Beastified Taimanin,\" able to transform and use the powers of a different organism,"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "and what she transformed into was\u30fccorrect, an octopus."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Your name is \"Hebiko\"\u30fcSnake Child\u30fcbut you transform into an octopus. I still can't wrap my head around you."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t003e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hebiko is just the name that has been passed down to women of the Aishu family for generations! Apparently they were able to transform into giant serpents until great granny-chan's generation."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I heard your family almost died laughing when you first turned into an octopus."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t003g",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Don't talk about that! Mom cried because she thought she ate too much octopus when she was pregnant with Hebiko."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Meanwhile, Gaiza's group was huddled together, getting out of Hebiko's way."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko's octopus ink was infamous throughout the academy. If it hit you, the stench wouldn't go away for three whole days."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "g_t002e",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Damn it... hey, Hebiko! It's pointless to be loyal to this Diot!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t003c",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "That's not what this is about. It's just you, Gaiza-chan, who's always going on about lineages and whatnot."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "g_t002e",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.3",
+            "125"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "!? Don't stick \"chan\" on my name!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But Gaiza stepped back and glared at Hebiko. It seemed that she had always been his weakness."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "g_t002i",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Tch... no time to deal with small fries. Guys, let's go!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "On Gaiza's command, his followers started heading toward the school building as though they were fed up."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "g_t002e",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Fuma! I'm done expecting anything from you!! Listen here, don't get in my way. If you do, I'll kill you!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "g_t002e",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Gaiza shouted a final threat and then left with his underlings."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t003c",
+            "RIGHT",
+            "CENTER",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You really saved me, Hebiko."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Gaiza-chan is being grumpy again today. What happened?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Just his usual gripes. Sheesh, am I right? By the way, what did you want from me?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t003a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Ah, right. Tokiko-sensei asked Hebiko to bring you by."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "300"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Ugh... )"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Now that you mention it, she did tell me to take makeup lessons today... I think."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sorry, but I just remembered something else I have to do."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I hurriedly turned around and started to leave."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "HORIZONTAL",
+            "1",
+            "125"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But the moment I felt something sticky on my arm, I was already trapped."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t003c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Do you really think you can get away from Hebiko?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hebiko!! Get your suckers off of me, they give me the creeps."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t003b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "A bit rude to say it gives you \"the creeps,\" no?\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko said and held me tightly with her tentacles, not letting me go. The one sucker stroking my cheek was the worst feeling I had ever experienced."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Stop it already, Hebiko!! Alright, alright, I'll go with you!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Her tentacles finally relaxed their grip on my body."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t003a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "As long as you understand."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sheesh..."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t003a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1500"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc002a",
+            "IN",
+            "3000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t001a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "t_t001a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm307",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Fuma Tokiko",
+        "text": "Thank you for bringing Master Fuma here, Hebiko-chan."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We were in an underground training complex beneath Gosha Academy."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This facility was built to simulate realistic scenarios and to allow training in all kinds of situations."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When there was no scheduled training, it was open to anyone for makeup lessons, self-study, or to simply read books."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Just start the makeup lesson or whatever."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "t_t001l",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "I will not accept that kind of attitude from a tardy student, Master."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t001b",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Alright, Hebiko will just observe from the side."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko said and sat down in a corner of the training complex."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huh? Why are you observing my makeup lesson??"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t001a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Umm, to kill time?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Tch. This ain't for show."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t001b",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hehehe. The truth is, Tokiko-sensei promised to buy Hebiko an ice cream from Inageya as a reward for bringing you here, Fuma-chan\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "An ice cream... from Inageya!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Inageya was a cheap snack store in Gosha Village, and it was run by an old lady who was said to have been a master of Carnal Jutsu."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was a small store, but it was one of the few pleasures of Gosha Village."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And the soft serve ice cream from there was a delicacy. Amongst the Gosha Academy students, it was even used as a massively popular reward in bets."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You're going to buy me one too, right Tokiko!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "t_t001a",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "Yes. That is, once the makeup lesson is finished."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yay!!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t001a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "You're such a child, Fuma-cha..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "0"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se002"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc002b",
+            "NONE"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "t_t001e",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t001e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "3000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At that moment, a piercing alarm echoed through the building."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What's going on!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "That's... the alarm for an incoming attack!!!"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm303",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She probably did so unconsciously, but Tokiko readied herself in order to protect me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "An incoming attack!? Here at Gosha Academy!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "Yes, there is no practice drill on the schedule."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "So it's a real attack... hmm..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The alarm didn't stop. The sound echoing in the almost deserted basement increased my anxiety."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "t_t001c",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "I'll go and confirm the situation. You two stay here and don't move, understood?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Got it."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "t_t001c",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Tokiko spoke as calmly as possible and rushed to the staircase, heading upstairs."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t001e",
+            "RIGHT",
+            "CENTER",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t001c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "They have some nerve to attack an academy full of Taimanin. Who might it be?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...I'm curious about that."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "From upstairs I heard Tokiko close the security doors. And then I\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Alright, Hebiko. Let's go."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t001d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Huh!? But Tokiko-sensei told us to stay put!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Don't be stupid! I can't just sit here and not check out something interes-... I mean this emergency!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "We may be students at Gosha Academy, but we're all Taimanin first, right?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t001c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Now you're all gung ho... Even if you get scolded afterwards, don't look at Hebiko for help, okay?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Contrary to her words, Hebiko also had a mischievous gleam in her eye."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You're interested as well, aren't you?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t001b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Ehehe... Just a small peek should be no problem... right?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t001b",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko flashed a grin and peeled off her school uniform."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "125"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(...!?)"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Alright, let's go already!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "My heart had skipped a beat, but Hebiko was shrewdly already wearing her Taima-Suit under her school uniform."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Who's the gung ho one now? Alright, let's go before Tokiko finds out what we're doing!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Okay!"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "2000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002b",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1500"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm313",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc003a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "HAAAAAAAA!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Uwaaah!! I need backup over here!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shit! Too many enemies!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Enemies coming from over there as well!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What the...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The sports ground looked totally different from before."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Whirling dust clouds, shouting voices, the clashing of swords\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And not only at the sports ground. In the school building, in the school yard, fights were breaking out everywhere."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t002f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Fuma-chan, watch out!!"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se006"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Whoa!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A hurdle, a hammer, and then a safety cone nearly grazed my side."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It seemed like all kinds of things were being used as weapons. And the only ones to fight like this were\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t002e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "The enemies are Taimanin! Taimanin are fighting each other!? What the heck is going on?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ahh, it's a rebellion. Hmm... this is interesting."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t002f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Now's not the time to be all fascinated! Who the heck would be doing something like this...?"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Uwaaaaaaaaaaaaaaaahhhh!!!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Wh-What now!? Something's coming, Hebiko!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t002f",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Something was sending up a cloud of dust, screaming and coming toward us at breakneck speed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Aiiiiiiiiiieeeeeee!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Is that...!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Uehara Shikanosuke",
+        "text": "Fuuumaaaaaa!!! Hebikoooooo!!! Help meeeeee!!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A small male student came crying with a pitiful look on his face."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was Uehara Shikanosuke. He might have looked young, but he was also one of my classmates."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rebelling Taimanin A",
+        "text": "Stop!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieee! H-Help me! I'm not cut out for fighting!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rebelling Taimanin B",
+        "text": "Shut up! Everyone who doesn't join us will be eliminated!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke was a user of Electric Jutsu, more or less, but as he had said, he was utterly useless in combat."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Unlike Lightning Jutsu, with its flashy control of lightning, Electric Jutsu's specialty was to control the faint electricity that flowed inside of organisms."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It definitely had its uses, but it was generally agreed that it wasn't a Ninja Art suited to battles."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But I felt like his problem as a Taimanin was not his ability but his personality."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001d",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah, even if you recruit this guy he won't be of any use."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m037a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m037a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rebelling Taimanin A",
+        "text": "What was that? Quit mouthing off... Hm? You guys are..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Taimanin's eyes narrowed knowingly under his mask upon seeing my face."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(This guy... I've seen him somewhere before...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rebelling Taimanin A",
+        "text": "Heeeeey! The cowardly clan head and the octopus girl are over here!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!! You bastards... you're Gaiza's minions...!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rebelling Taimanin B",
+        "text": "Shut up! We're the \"Righteous Fuma Faction.\" We're here to overthrow the current rotten leadership that's always licking the government's boots."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rebelling Taimanin B",
+        "text": "If you're with us, then join the fight. If not, we'll kill you along with the little guy."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "The righteous, huh..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I remembered what Gaiza had said earlier in the day."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You are \"members\" of the Fuma Clan. I never thought you would join this so-called rebel army. What were you thinking, starting a rebellion without the clan head's consent?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rebelling Taimanin A",
+        "text": "Consent? We already got it. From our leader, just a short while ago."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Just a short while ago?)"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR14",
+            "OUT",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "black",
+            "NONE"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m037a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m037a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "Listen here, don't get in my way. If you do, I'll kill you!!"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc003a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR14",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(So that was the directive...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "In other words, Gaiza is the leader of this rebellion?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rebelling Taimanin A",
+        "text": "No need for you to know, you small fry! Follow us or die, make your choice."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Taimanin pointed his giant sword at me. But no matter my fate, I only had one possible answer."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002c",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001e",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sorry, but I have no intention of joining your harebrained scheme."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "The same goes for Hebiko."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Th-The same for me as well!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rebelling Taimanin B",
+        "text": "How dare you. You're gonna regret this!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Taimanin enemies suddenly emitted an aura of bloodthirstiness."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "They were quite hot-blooded by nature. Having lost all restraint, they were almost like unleashed beasts."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "One of them licked his lips as if he couldn't wait to start a bloodbath."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rebelling Taimanin B",
+        "text": "An octopus, a bundle of static electricity, and a useless loser. Almost like training with a punching bag!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rebelling Taimanin A",
+        "text": "D-Don't kill Hebiko! We can kill her after we've had our fun."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rebelling Taimanin B",
+        "text": "Yeah, she's quite small but look at her boobs! I always wanted to squeeze those and make her moan."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Apparently blood wasn't the only thing the beasts were craving."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You seem to be quite popular with them, Hebiko."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Disgusting."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko casually shrugged her shoulders. On the other hand, Shikanosuke was in a tizzy."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Heeeeey, Fumaaaa!! Is this really the time for idle chit-chat!? How are we gonna get out of here!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "We're not running away. Hebiko, Shikanosuke, do as I say. If you do, we can win without breaking a sweat."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hmm, you said it\u266a Hebiko's counting on you Fuma-chan, Shikanosuke-chan!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001h",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Eh!? Don't make me join the fight!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "In that case, why don't you join them, Shikanosuke? I won't stop you. Might be safer anyways."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, Shikanosuke raised his weepy eyebrows as best he could and looked up into my eyes, clenching his shaking fists."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001f",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "D-Don't be ridiculous! I'm a Taimanin of Justice. I-I-I'm not going to be their pawn even if they kill me!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...If you're prepared to go that far, then you're already a valuable asset."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001g",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "But... how do I fight with my static electricity!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You just don't know how to use your Ninja Art properly. Your Electric Jutsu can be plenty useful in a battle."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "How to use my Ninja Art...!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rebelling Taimanin A",
+        "text": "Hey, hey... have said your final farewells!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Tch, no time to explain! Just do as I say! Let's go!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Okay! Hebiko's counting on you!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieeee!!!"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

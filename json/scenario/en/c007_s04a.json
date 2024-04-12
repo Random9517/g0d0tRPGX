@@ -1,0 +1,450 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm407",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc008a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The trucks drove through Tokyo Kingdom at full speed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(We should reach Tokyo Kingdom Bridge soon... and then we're out of Tokyo Kingdom.)"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc068a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The mercenaries were each on alert inside the trucks, in order to be able to enter battle at any time."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(But still, those drones earlier... although they were disguised, the attackers were definitely from the UFS.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Even if we say \"the\" UFS, there's actually some variety. I heard that even within Japan, multiple UFS agencies are fighting for control. What a pain.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(I wonder which UFS agency attacked us earlier...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(It makes me all the more curious about the contents of the \"cargo.\")"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Fuma-kun, by the way."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hm? What is it, Sakura?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "She's not here. The woman you fought in the test."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Tsubaki...? Now that you mention it, yeah she isn't."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "I feel like I saw her briefly at the meeting place... Maybe she isn't joining the convoy?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Tsubaki-san was super strong, so it would've been great to have her with us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(She's right, is there some reason a soldier as skilled as her wouldn't take part in the operation? Does she have some other important duty?)"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002g",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "And also..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "I think I've seen that woman somewhere before. I wanted to talk to her for a bit."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Hey, it's an ambush!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Enemy attack! It's an enemy attack! All units into positions!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!!! Sakura!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Yup! Let's go!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002e",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc016a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Had they anticipated the route of the transport trucks?"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm406",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m029a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m011a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Just as we had entered a bottleneck, a squad of drones blocked our path."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mercenaries",
+        "text": "What the hell!? That's a shitload of drones!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Mercenaries",
+        "text": "They're behind us too!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Enough drones to surprise even the experienced mercenaries were literally filling the street and expanding their battle formation."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m029a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m011a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m051a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Faust",
+        "text": "Use-the-trucks-as-shields-and-move-into-the-alley. Establish-a-defensive-formation!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Upon Faust's calm orders, the mercenaries used the trucks as cover, entered the alley, and took defensive positions."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That mechanical woman, she's spot on."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002e",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Wh-What do we do, Fuma-kun?!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hmm..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I peeked at the driver's seat earlier and caught a glimpse of our route. Once we're out of Tokyo Kingdom, we'll reach our destination in no time."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Hmhm. Which means?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Which means, this is most likely the last chance for us to set the aforementioned plan in motion."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "I see, got it!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The aforementioned plan, in other words, checking what was in the \"cargo.\" After this, we would cross Tokyo Kingdom Bridge and there most likely wouldn't be any more big attacks\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Then, I need to take them out with as much pizzazz as possible, right!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah, and buy me some time while you're at it. I'm counting on you, Sakura!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002b",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We nodded to each other and began our respective tasks."
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

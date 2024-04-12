@@ -1,0 +1,1915 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm320",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc006a",
+            "IN"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m006a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Deformed Monster",
+        "text": "GRAAAAAAAHHHHHH!!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se012"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The massive body, probably more than two meters tall, unleashed a fist that smashed right through the wall of the headmistress's office."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Shit...! What a tough bastard!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "They are a type of Oni called Slave Ogres! They have low intelligence, but strong bodies and power, so be careful!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "So that means cheap tricks won't work against them, huh."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Slave Ogre",
+        "text": "GRAAAAAAAHHHHHH!!!!"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se013"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "HORIZONTAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "They were just flailing around wildly, but that made their attacks impossible to read, and if you got hit, a mortal wound would be inevitable."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieeeee!! H-Hey, Fuma! Will Asagi-sensei be alright!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m006a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi-sensei was displaying her supernatural strength, and she was more than holding her own against the Slave Ogres that F\u00fcrst had summoned."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(There's one, two... ten enemies in total.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Their giant bodies were nearly filling the headmistress's office."
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A trail of light weaved through the gaps, wounding the Ogres one after another."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi-sensei's swordsmanship was almost too quick to be seen."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004c",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001c",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Amazing..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "It's beautiful... but it's sad to see the difference in power between her and Hebiko though."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, she was badly outnumbered and the tough Slave Ogres weren't showing any signs of succumbing."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(They're just swinging around wildly, but that makes it dangerous to approach their weak points. Dealing a fatal blow will be difficult...)"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001f",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "H-Hey, let's help Asagi-sensei!! Even with our meager abilities we might be of some help."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The \"Taimanin of Justice\" Shikanosuke appealed to me even though his knees were shaking."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ooh, do you have some kind of plan?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001c",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "I don't! Plans are your responsibility, Fuma!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I should have known..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I turned the situation over in my mind within a second. Numerous Ogres, the nimble Asagi-sensei... and the things that we could use to our advantage..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Alright, plan B."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "A-Alright! Plan B it is! But what is plan B!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No time to explain. I'll give you orders, so just follow them."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001f",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "You better have a decent strategy!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Of course, it's a one-shot trump card though! Hebiko, are you ready?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004b",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Oh, heck... Guess it can't be helped... uheheheh..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieee!! There's something wrong with Hebiko! Did she completely turn into an octopus!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Just trust me! Alright, here we go..."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004b",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hey\u30fcbig guys\u30fc!! Over here\u30fc!! Heey!"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se001"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm205",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I grabbed one of the chairs that had fallen over and hit the ass of one of the Ogres close by as strong as I could."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m006a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Slave Ogre",
+        "text": "GRAAAAAAAHHHHHH!!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As the Ogre roared, the other Ogres turned toward us as well and came stomping with their arms raised."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Now!"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke, Hebiko, and I jumped in different directions to dodge, and\u30fc"
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR13",
+            "OUT",
+            "100"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m006a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "300"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc006a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR13",
+            "IN",
+            "100"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t005e",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Watch thiiiiis, ha! Beast Jutsu: Octopus Juuuump!!!!"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.2",
+            "125"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "First, Hebiko jumped using her octopus tentacles. Then she stuck to the ceiling right above the Slave Ogres' heads."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t005b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "UHEHEHE... HA! Beast Jutsu: Octo-Ink Shower!!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And then she shot ink out of her mouth almost like a sprinkler, soaking the Ogres gathered below her."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t005b",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR37",
+            "IN",
+            "100"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "black",
+            "NONE"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "500"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Slave Ogre",
+        "text": "GRAAAAAAGGHH???!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Having lost their sight, the Ogres swung around blindly and went on a rampage."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Good job, Hebiko!!!"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc006a",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001h",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "You're not planning to use the same strategy as before, are you!!? These are not opponents you can defeat with a hammer!!?!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "And isn't this ink kind of watery!!? They're even angrier than before!! What are we gonna do!!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You're up next, Shikanosuke!!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Eh?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I grabbed the puzzled Shikanosuke with all my strength and held him aloft."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Eh? Eh?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "GOOOOOOOOOOOO!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se013"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "RIGHT",
+            "linear",
+            "300"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "HORIZONTAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke's small body flew over the Slave Ogres' heads in an arc."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Good, I was a bit worried, but it looks like I was able to properly throw him!)"
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR54",
+            "OUT",
+            "100"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "300"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR54",
+            "IN",
+            "100"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "300"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "KYAAAAAAAAAAAAAAAAAAAAHHHH"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Shikanosuke, use your static electricity!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Huhhhhhhhhh!????? My static electricity?!?!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Just use it!! You don't wanna die, do you!!!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t001f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aaaaahhh! Alright, I got it!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke covered his body with weak electricity, screaming and making a face like a squished bun."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Electric Jutsu: Static Electricityyyyyyy!!!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t002f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se014"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The weak electrical discharge emitted from Shikanosuke's body became a tiny, tiny lightning strike, and hit the Slave Ogres directly."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "s_t002f",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And then\u30fc"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Wooooosh!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The octopus ink covering the Slave Ogres' entire bodies instantly burst into bright red flames."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Slave Ogres",
+        "text": "GRAAAAAAAHHHHHHH!!!!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Slave Ogres shook their upper bodies to extinguish the flames without even understanding what had happened."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Good!! Nicely done, Shikanosuke!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, on his current trajectory, Shikanosuke was headed directly for the flames as well."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Fumaaaaaaaaaaaa!!! I'm gonna burn, I'm gonna buuuurn!!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Got~~~cha\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko's octopus tentacles caught Shikanosuke's body with a slimy grasp\u30fcright before he fell into the flames."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "a_t003e",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Good job!! Leave the rest to me!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi-sensei leapt out immediately. Light flashed at the feet of the Ogres who were already half-crazed and rampaging wildly."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "a_t003f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Ninja Art: Light Siege!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se011"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "stv001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Slave Ogres",
+        "text": "GRAAAAAAAHHHHHH!!!!!..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se010"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "250"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Ogres roared and collapsed to the floor one by one with a thud."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi-sensei had been swiftly dodging through the flames and cutting the Ogres' tendons."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(So that was her Ninja Art: Light Siege...! The heart and soul of her Exelemental Ninja Art \"Falcon Jutsu\"...!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had heard of it, but it was my first time seeing it. Her Ninja Art enhanced all her senses momentarily, allowing her to do many more actions than normally possible in such a short time."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was said that it made her look as if she moved at the speed of light."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "a_t002a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "We did it."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004b",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Justice always wins\u266a Yay\u30fc!"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm203",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko was striking some kind of incomprehensible victory pose with her octopus tentacles."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001c",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Wh-What the heck happened!? And Hebiko is acting kind of weird..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "On our way here we stopped by the lab, right? I grabbed some alcohol from there and had Hebiko drink it so she could mix the alcohol with her ink."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "And then I had you set it on fire with your static electricity."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004j",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Uheheheeey\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko was completely drunk."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001g",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "S-So that's what you meant when you said that we can only use this strategy once..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "That was very clever. Taking alcohol from the science lab is quite a delinquent's way of thinking."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "So I guess we're done... for now?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "a_t002a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001g",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t004j",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "Master!! ...What happened here...!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t002e",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Tokiko!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Tokiko had come running into the room. Her face turned white upon seeing the devastation in the headmistress's office."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Tokiko, I'm fine. As you can see I'm not even hurt."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t002c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "M-Master... I'm so glad that you are all right."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "How about you, are you okay?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t002g",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "I am deeply sorry... I let Gonza get away."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "We were evenly matched, but when the other rebels retreated, he also..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ran away when he sensed his master had fled..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t002g",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t002c",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Tokiko, good work. Is there anyone pursuing the enemies?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t002e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "Murasaki-sensei is leading the chase."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "I see. Thanks for letting me know."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After hearing the report from Tokiko, Asagi-sensei took a deep breath and looked at me, a soft expression returning to her face."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t002a",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Thanks for your help. You must be the master that Tokiko is always talking about."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Y-Yes..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I got uncharacteristically nervous as the Almighty Taimanin Igawa Asagi smiled at me."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t002d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "I see, so it was you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Am I really that famous...?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t002b",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Yes, I hear from Sakura that you often skip classes."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "125"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ugh..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t002a",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "But you were the only one who was able to sense the enemies' intentions and come here. How did you know?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Err... I mean, they were clearly trying to remove everyone with fighting ability from the school building, so..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t002c",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Hmm... Can you be a bit more specific?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Of course."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I quickly ordered my thoughts."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "The enemies were small in numbers. The rebellion would fail if they took too much time."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "So for them to succeed they'd have to take the captain's head. The captain's head meaning your head, Headmistress."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "The headmistress would be in the school building. So they sent their best troops into the building, the rest causing chaos outside. It's a kind of guerilla tactic."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "They tried to draw our attention to the chaos outside, preventing us from sending reinforcements into the building or stopping us from noticing what was going on at all..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "They planned to isolate and then take me down."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yes. I sensed that, so we came here in a hurry. Thinking that their leader, Gaiza, should be here as well..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t002a",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Impressive. Such an excellent student was hiding for so long, hmm."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I-I'm an excellent student!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was being praised, but also couldn't help but feel the weight of those words."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I'm not that great. I couldn't tell what Gaiza had been planning. Or that he would be brooding and even join forces with Nomad..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Gaiza up til now had always had a bad attitude, but he would have never gone so far as to betray the Taimanin."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I must somehow be responsible for driving a guy like him to this point."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "Master..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I pretended not to care about my social status or being bound by the customs, but in reality, I was just running away from my responsibilities as the head of the clan."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I'm a \"Diot,\" just like they said."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t002c",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "...I see, I can understand your feelings..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "However, if you really feel that way, why don't you try to fulfill your responsibilities as the clan head from now on?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Responsibilities? But Gaiza and the others are already gone."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "I hereby appoint you as captain of an independent commando unit. Reunite the Fuma Clan once again and capture Nisha Gaiza."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!!!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t002d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "!!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "You have a keen eye that saw through the rebels' tactics to their true intentions."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t002a",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "And then there's your flexible fighting style, shown just moments ago. You've got plenty of potential. Don't worry."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Me...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Is something still bothering you?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You're not ordering me to... to wipe out Gaiza...!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t002c",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "I won't ask twice. I appoint you as captain of an independent commando unit. Do you accept?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I-I accept! I promise to bring Gaiza back here alive!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t002b",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Asagi",
+        "text": "Very good."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Asagi-sensei returned to her normal, kind expression and smiled at me."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "a_t002b",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t002d",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t004b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Wooooo~~~~!! That's kuh-raaazy, Fuma-chan! Congratulaaaations\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The next moment, the drunken Hebiko wrapped her tentacles around me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hebiko!? Stop it!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "!? Hebiko-chan, you reek of alcohol...!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t004j",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Uhehe, let's have a toooooast~~~!! Tokiko-senseeei, let's have a toast with ice cream from Inageya!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t004j",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "!! I-I'm in!! But first, c-can I be the second in command!? Because Fuma alone is unreliable!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sheesh... Seems like we have a bumpy road ahead of us..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "h_t004j",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With that, the rebellion had been dealt with for the time being, and I had been appointed captain of the Independent Commando Unit."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "No one could know what awaited us from here on out\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Well, I guess I won't be bored at least. Just you wait, Gaiza...!!)"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

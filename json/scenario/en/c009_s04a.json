@@ -1,0 +1,307 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc102a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm407",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Again inside the labyrinth\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Next is... \"Then proceed 6 and verily insomnia is inevitable,\" hmm. Then it's probably this way."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I proceeded, following the note the broker had left."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0077a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "W-Wait a second... Fuma!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What is it, Shishigami? If you speak too loudly, Will-o'-wisps will come after us again."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "S-Sorry... about that. But is this okay? Deciding our path so easily...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shishigami asked, keeping her voice down apologetically."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Easily...? I'm just following what's written in this memo."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "But... did you really solve that cipher the right way...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hmm... At least I think so... Well, even if I'm wrong, we'll just come back out at the starting point. So there's nothing to worry about."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "That's true, but..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shishigami still looked a little doubtful."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0077a",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m063a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "Kotaro-sama, did you get the solution for this cipher from some old document...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Following in suit, Shonosuke also looked only half-convinced."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Haha, if it had been an extremely difficult cipher, even I wouldn't get it right away. It's something we see all the time. When dialing numbers on a smartphone."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke & Jisai",
+        "text": "Shonosuke: Huh...?\nJisai: Eh? A smartphone...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shonosuke and Shishigami opened their mouths in disbelief."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah. The biography said that the labyrinth resets itself whenever someone gets in, so the dead broker probably wrote this note."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...But that guy was not an expert on traps. That's why the cipher became this simple."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "And he used... a smartphone?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Exactly. When you dial a number on a smartphone, it's laid out a certain way, right?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "And the numbers are laid out with the top row of 1, 2, 3, the middle row of 4, 5, 6, and then 7, 8, 9 below that."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Jisai",
+        "text": "O-Okay...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "And I thought that the four doors in each room - north, south, west, and east - correspond to the four buttons in the middle of each side of the layout - top, bottom, left, and right."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This was my guess based on the way the numbers and letters emphasized in the cipher were restricted to those four."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "They correspond...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shonosuke and Shishigami looked at each other as if they didn't quite understand yet."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "For example here\u30fcin the case of \"verily insomnia is inevitable.\" I don't know what that means, but pay attention to the first letters of the words."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "They're \"viii,\" in other words, \"eight\" in Roman numerals. And \"8\" is at the bottom of the keyboard, so that means it's the south door."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I said and pointed at the door in that direction."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "But how do you know the directions? In this labyrinth the magnetic field is so disturbed that it is impossible to get an accurate direction\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Take a closer look. There's a small engraving saying \"South\" on the frame above the door."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "Aah, you're right...!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Blending in with the lavish decorations, each of the four doors had a small engraving with the direction."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I had noticed those engravings when we first walked in here."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I thought that there must be a reason that the direction was engraved on each door."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Meaning, if we opened the door in the correct direction, we should be able to get out of here."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shonosuke",
+        "text": "I'm surprised... It looked like you were just moving forward blindly, I never thought you were making observations like that..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hm? I guess it's kind of like my habit."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I returned their stares, perhaps surprised, perhaps dumbfounded, with a wry smile, and continued on my way."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

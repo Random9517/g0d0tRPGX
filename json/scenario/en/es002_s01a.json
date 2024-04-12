@@ -1,0 +1,843 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm307",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc081a",
+            "IN",
+            "3000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "First, I'll introduce myself\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "My name is Fuma Kotaro."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Male student at Gosha Academy, a Taimanin training institution."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Perhaps because I was born a \"Fuma,\" a distinguished family among Taimanin, people often treated me like a big shot at the academy..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But in truth, I was no one special."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was just an ordinary student, like you'd find anywhere, who could do things a little differently than other people\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ahhhh... Yeah, coffee's gotta be black..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was a morning like any other. The beginning of a day like any other."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "While I was enjoying a cup of coffee in the living room after breakfast, a woman in a suit walked in."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Fuma Tokiko",
+        "text": "Good morning, Master."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ahh. Morning, Tokiko."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This intellectual beauty was Fuma Tokiko."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Born into a family that had served the Fuma Can for generations, she had supported me as a butler from a young age."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As you could see, she was absolutely gorgeous, and she was also excellent as a Taimanin."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She was a woman that I trusted like family."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "This is unusual, though. For you to get up this late."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Normally, she got up far earlier than me and got things ready for the morning."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t001h",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "Ah!? I-It's just\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Tokiko suddenly cast her eyes downward in embarrassment."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "That's because, Master... I mean, you... didn't let me sleep at all..."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ah!! So that's why!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Come to think of it, she was right."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Last night, I had gotten a bit carried away and gave Tokiko a bit too much loving."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sorry about that. Even though you have work to do."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t001j",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "No, it's fine. I'll always make time for you no matter how busy I am..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hehe, is that so. You are so adorable, Tokiko."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As you could tell from the conversation just now, Tokiko was simultaneously my butler and my lover."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "While living in the same mansion together, before I knew it we were in that kind of relationship."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "If that's the case, I'll show you some love again tonight. Look forward to that, please, Tokiko."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I stood up, smiling at her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was about time to head to the academy."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t001d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "Ah. Wait a moment, Master\u30fcHere is your allowance for today."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Tokiko called out to me in a hurry and handed me a stack of bills."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "\u30fcHm? Ah, thank you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I took today's allowance from her, 1 million yen."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t001a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "It's a small amount as always, since you're still a student, Master. Please somehow make do with this today."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I know, Tokiko."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As the heir of the Fuma head family, I had inherited about 50 billion yen."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had a huge fortune in my possession, but as Tokiko had said, I was still a student."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The money for my daily use was given to me by Tokiko in the form of an allowance."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Alright, I'll be going then."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t001b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "Yes\u266a Have a good day, Master\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t001b",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I left the mansion, hearing the voice of my adorable lover from behind."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And with a million yen in the pocket of my school uniform."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A million yen was a child's allowance and would be gone in an instant if I played around a bit too much."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Tokiko was right though. As a student you couldn't ask for too much luxury."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Let's see... How about I buy Inageya's ice cream for everyone in class again today?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With these thoughts in mind, I headed for the academy."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR26",
+            "OUT",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "black",
+            "NONE"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm307",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc054a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR26",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In front of the gate of Gosha Academy\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Gosha Village was an isolated village of Taimanin."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And Gosha Academy was a training institute for upcoming Taimanin within the village."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Female Student A",
+        "text": "Ah!! It's Fuma-senpai!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Female Student B",
+        "text": "Good morning~!! What a wonderful day for training, isn't it?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As I was walking to the academy, students greeted me one after the other."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Most of them were girls, but there were also some boys who seemed to be my avid fans."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As for what grades they were in, there were my classmates, senpai, students in lower grades, the whole gamut."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ahh. Morning."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Female Student A",
+        "text": "Kyaaa~!! The president looked over here and said hi~!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Female Student B",
+        "text": "That's not fair!! Student Council President!! Me too, me too~!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ahh. Morning."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Female Students",
+        "text": "Kyaaa~! Thank you so much~!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The girls squealed, overcome with emotion."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Among them, the deep voices of some boys could be heard saying, \"Heeey!! President, good to see you.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Sheesh. All of this just because I wished them a good morning...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It happened on a daily basis though, so I was used to it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As an aside, I was the student council president of Gosha Academy."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In last year's student council election, I had won in a landslide with 150% of the vote\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(It was above 100% because they didn't follow the rule against voting more than once...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(So there was no shortage of students voting for me multiple times.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Also, I hadn't run for president because I had wanted to, but because the people around me had passionately pushed me to do so."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If everyone was going to push for me, I had no choice but to perform my duties flawlessly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And now the satisfaction rate with the student council was setting records at over 200%."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Everyone, classes are going to start, so it's time for me to go. If you want a handshake, I can do it later."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Female Students",
+        "text": "O~kay\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I gave a wry smile as I spoke to the female students."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Before I had realized it, a line had formed and it looked like I was holding an impromptu handshake session."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This, too, was an everyday occurrence though."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(C'mon, I just want to have a quiet school life...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Even if I didn't want to stand out, I ended up doing so."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Even though I was just doing ordinary things, I ended up shining naturally."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I guess this was another one of my natural talents\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Just kidding, I don't have that kind of hubris!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At the end of the day, I was just an ordinary student who could do things a little different than other people\u30fc"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR26",
+            "OUT",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "black",
+            "NONE"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc003a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR26",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Afternoon rolled around and PE class started."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As expected of an institute to train Taimanin, PE classes were combat trainings that simulated real battles."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm304",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t001e",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Nisha Gaiza",
+        "text": "Hey, Fuma!! Come and fight me!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ah, Gaiza\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A fearless-looking boy was standing in front of me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "His name was Nisha Gaiza."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Nisha Clan had served the Fuma for generations, and Gaiza and I had known each other since we were young."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In a way, you could say we were childhood friends..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But Gaiza seemed to have a problem with me and picked fights whenever he got the chance."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That's fine with me... But I'm starting to get sick of it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was obvious what would happen if I fought against Gaiza."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And even though this was a training session, I didn't feel like doing meaningless things."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Make this the last time. I'll even take on everyone who isn't happy with me at the same time."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t001d",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "What did you say!? Are you serious!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Pretty much. Are you getting cold feet?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I gave a wry smile and the simple-minded Gaiza snapped and turned red."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t001e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "B-Bring it on...!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t003e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Gaiza",
+        "text": "So this will be the final battle!! Me or you, I'll make it clear which of us is superior!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Sheesh. I've already heard that so many times...)"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "g_t003e",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

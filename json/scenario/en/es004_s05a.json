@@ -1,0 +1,937 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc038b",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm205",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0041a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t003e",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saika",
+        "text": "The tables have turned, Major."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "Let's hear the reason for your intrusion."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The tables had turned with Tokiko's arrival. There were only two drones remaining and Major was cornered."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m068a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m011a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m011a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_PRIORITY",
+        "info": [
+            "2",
+            "10"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Major",
+        "text": "Ehehe."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But Major smiled boldly."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm509",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0041a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saika",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Saika... who the hell is that woman!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saika",
+        "text": "A cyborg. She's Danjo-sama's... your honorable father's former ally... and a member of the UFS's secret service agency \"G.\""
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m068a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Major",
+        "text": "There ya have it. Nice to meetcha, rookie\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The woman looked at me like someone would look at a kitten. She was completely looking down on me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "And why is that cyborg targeting Saika?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Major",
+        "text": "To prevent information from being leaked. And even then, I would've let her live if she'd just be my friend."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You used force for that? I can't say I admire the way you make friends."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Major",
+        "text": "Also, that woman's \"legs\" used to belong to us."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm313",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Major",
+        "text": "So I was just getting them back, what's wrong with that?!!!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m011a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m011a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "On Major's signal, the drones came after Tokiko and Saika."
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se006"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "Ha!"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se001"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saika",
+        "text": "Hmph!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se010"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The two beat them back easily, but in that brief moment\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Major",
+        "text": "Bye!"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se039"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Major smashed right through the window and the shutters, and disappeared in an instant."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ah, wait! We're not gonna let you get away!!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0041a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saika",
+        "text": "Young Lord! Don't act rashly. As you could tell, Major is quite powerful. She might still be up to something."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Saika."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saika",
+        "text": "Yes!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I am the head of the Fuma clan. If a member of my clan is targeted, I have to retaliate twofold... isn't that so?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saika",
+        "text": "...! ...As you say."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "And even taking away the fact that I'm the head of the clan, I would hate staying silent and watching someone get away after they targeted your life."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saika",
+        "text": "Young Lord...!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0041a",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t003l",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Saika calmly got down on one knee and replied. Next to her, Tokiko quietly closed her eyes."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Tokiko?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "I'm tracking Major with my Clairvoyant Eye. She's passing along the mountain road... It looks like she's trying to get away from Gosha."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Alright! Let's go after her."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "t_t003f",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saika & Tokiko",
+        "text": "As you command!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc037a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm209",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Once Tokiko's Clairvoyant Eye caught hold of you, it was difficult to escape."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Had Major sensed the presence of the pursuers tracking her relentlessly?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m068a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She was waiting for us partway down the mountain road, on a flat expanse that was overrun with weeds."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Major",
+        "text": "Hey, I've been waiting for ya."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Looks like you know when to give up."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Major",
+        "text": "Yeah, seems like I can't escape. I surrender, rookie."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With a smile on the corners of her lips, Major issued her surrender."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m068a",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0041a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saika",
+        "text": "Master. You mustn't trust her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Major",
+        "text": "Ohh, you're a distrustful secretary, hm."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m068a",
+            "LEFT",
+            "CENTER",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hey, with that metal bat of yours, I bet you couldn't go all out inside the house? Especially against Saika's legs and Tokiko's Kunai."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Major",
+        "text": "Oh ho, and?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "And you told the drones to take my knees out and hold me hostage."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Major",
+        "text": "Hmm, your memory is somethin' else."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Without failing to notice the slight change in Major's complexion, I continued nonchalantly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I think I know the specifications of UFS drones to some extent, and those were not drones that can understand such complex voice commands."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "So the soldiers controlling those drones were hiding nearby, operating them according to your instructions... or something to that effect."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Major",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "And this location. It's the perfect terrain to prepare an ambush with your troops."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Major",
+        "text": "Tch!!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se033"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Gyaaaaah!!!!"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se032"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Guaarrgh!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "One after the other, screams could be heard from the shadows of the overgrowth."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm320",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "t_t003e",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Tokiko had surprise attacked the soldiers that had been lying in wait."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Well done, Tokiko."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "t_t003a",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tokiko",
+        "text": "You too, Master. Good job spotting those soldiers."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m068a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Major",
+        "text": "Shit, shit!!!! You little <i>shit</i>!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Saika, seize this woman."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0041a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saika",
+        "text": "As you command."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She was trapped like a rat. All that was left was to apprehend her\u30fc"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

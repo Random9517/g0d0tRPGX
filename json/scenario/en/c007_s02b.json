@@ -1,0 +1,550 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm404",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc066a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "tk_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "Hah\u30fc!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se007"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*CLANK!!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Faced with Tsubaki's skillful swordsmanship, I couldn't even counterattack."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Gggggghh!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "Hyaah!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se007"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*CLANG!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "Come on, you can't win with defense only!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Even if you say that..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If it weren't for my observant eye and my ability to run away, I would have long ago at least had one of my arms cut off, if not been killed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Fuma-kun, hang in there~\u266a You can't win by just running around and trying to escape."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sh-Shut up!! Don't be unreasonable!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When I looked over, Sakura, who had quickly passed her test of skill, was happily spectating."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "Hehe, you still have more in the tank. To think that you have time to be looking around..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se007"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*CLASH!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Uugh!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She had aimed right for my shoulder, but I somehow managed to ward it off by a hair's breadth."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(They're right, it'll only get worse if I continue like this. I have no chance of winning with only defense, just like Tsubaki said.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If I didn't find an opening to counterattack soon\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "I'm not into pointlessly toying with people. Let's get this over with."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Tsubaki took a big step forward and raised her sword."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(!! Now\u30fc)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I evaded her powerful slash at the last possible moment and lunged at her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "What the..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(I've been observing while evading her attacks. After Tsubaki swings from her right, there's a tiny opening on her side!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(If I can take advantage of that... or...!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "This is it!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se033"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*CLAAAANNGG!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "\u30fc\u30fc\u30fc\u30fcHngh!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Oohh!? Fuma-kun, you were able to get a counter in!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Phew... I wasn't just evading... take this!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I put all my weight into the attack and drove my ninjato into Tsubaki's side."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(It'll end up being a deep wound, but she's not an opponent I can beat while going easy on her... No hard feelings, please.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As I had these thoughts, the sensation of cutting through her blood vessels was\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "Ugh..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "\u30fc!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Wait, something's not right!!)"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "tk_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*SWOOSH!! BSSHHH!!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I withdrew my ninjato before I could think about it, contorted my body, and put some distance between me and Tsubaki."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Ehh!? Fuma-kun!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002d",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "tk_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "What's the matter? You come that far and get scared to see a little blood?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That's not it... it's just, in the spur of the moment I thought that I'd lose if I committed to that attack right now."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had let my once-in-a-lifetime chance slip away, but I was sure of my instinct."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Come to think of it... it's weird for someone as skilled as Tsubaki to leave an opening that obvious.)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "So basically, there was some kind of trap, and she herself was luring me into it\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "Hehe, I see... So you sensed my Ninja Art? Your combat skills are below average, but you're a quick thinker."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Your Ninja Art...? Are you a Taimanin?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "Hehe... hehehe."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Without answering my question, Tsubaki briskly sheathed her sword while laughing."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "Let's just say... you passed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Tsubaki",
+        "text": "The mission is in two days. Do your very best and earn your pay."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Tsubaki said and departed into the darkness."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "tk_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Who the hell... is that woman...?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Yay~ Fuma-kun!! I don't know what's going on, but congratulations on passing!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Uh, yeah... But that just now..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002b",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She had said that it was a serious fight, but it still didn't feel like she had fought at full strength."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If she had genuinely come to win, I might've been beaten in an instant."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Even people with her skill signed up for this job... My interest is getting more and more piqued. I guess I'll do a bit of research until the day of the job.)"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Anyways, now we have a juicy job!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Let's do our best and aim for that fancy dinner, Fuma-kun\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sakura... You sure are carefree as can be..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sheesh. I shrugged at Sakura, who was giggling with dollar signs in her eyes."
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002b",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

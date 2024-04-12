@@ -1,0 +1,644 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm304",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc147a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se095"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Ka-thunk, creaaaaaaaaak...!*"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m092a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m092a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Scarecrow",
+        "text": "He\uff5ehehehehehe!!!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "For real!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The entrance door that we had locked was swung open, and a flock of scarecrows came bustling in with a bang."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m093a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Butler of the Netherworld",
+        "text": "\u300eOhohohohoh\u30fc!! May you all be swiftly crushed!\u300f"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se008"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Whoosh!!! Whooooosh!!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aiiieeeeeee!! L-Look out!! That expensive-looking furniture is raining down on uuuuuus!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke let out a scream as he ran around to avoid the furniture and pieces of decoration attacking us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That was most likely the work of poltergeists."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The skeleton man\u30fcthe butler of the Netherworld, seemed to be able to control the furniture and decorations inside the castle at will."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Let's get out of here, Fuma-chan! Heberybody really will be crushed fighting here!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah, we retreat for now! Let's run, Shikanosuke!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Y-Yeah!! Down that corridor, right!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Butler of the Netherworld",
+        "text": "\u300eHnngh? So you choose to flee? Such cowardice!! \u30fcGo, scarecrows! Do not let them escape from the castle!!\u300f"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m092a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m092a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Scarecrow",
+        "text": "He\uff5ehehehehehe!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We could hear the scarecrows' laughter close in behind us as they bounced along."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se054"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We ended up being chased by them around the castle for a while..."
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc092a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Ten minutes later."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm509",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We'd finally lost the herd of scarecrows and were hiding in a room to rest."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "s_t006e",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Ugh, I can't believe this... I know I mentioned demons before for the fun of it, but I didn't think any would <i>actually</i> show up..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Monsters were Shikanosuke's weak point after all, and I could see he was still trembling as he spoke."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Well, less so demons, more evil spirits really. That monster called himself the butler of the Netherworld..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "h_t003g",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Was that Yukikaze-chan's... butler?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Seemed so. It looked like he really was protecting this castle and Yukikaze..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(On top of that, I feel like I've read about that ghost butler in some book or something...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "What was it again...? I cocked my head to the side pensively but couldn't quite manage to remember."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "s_t006d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Th-Then in that case... Shouldn't we just apologize to that monster butler!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "It's not like we're actually Yukikaze's enemies or anything!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "s_t006e",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah, if you can get him to listen. Unfortunately, that old ghost is completely convinced that we <i>are</i> enemies."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "h_t003e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "And who's fault might that be, Fuma-chan...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko looked at me with reproaching eyes."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I-I mean... Well, let's say I'll reflect on that later..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "In the end, our only solution is to find Yukikaze or Clear and have them explain everything."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If we did that, that monster butler would finally understand that we had no ill-intent."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "h_t003g",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "But... it'll be so hard to find them. This place is so big..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hebiko turned and looked around."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The building was so vastly large that it could easily be mistaken as a castle for some aristocratic lord."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "According to what I learned from Hebiko as we were escaping,"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "the Mizuki clan was indeed an extremely wealthy family, and at the time of Yukikaze's grandfather, they even managed a bank."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "W-Well, that's true but... can't you follow Yukikaze's scent with your sucker sensors?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "h_t003c",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "No... Hebiko's already been trying to for a while."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "h_t003g",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hebiko can feel her smell here and there, but she doesn't know where Yukikaze-chan is yet."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I see... Well, it is the house she usually lives in after all."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In that case, it meant our only choice was to give this place a thorough search..."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "\u30fcThen, at that moment..."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!?"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se082"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Tap... Tap...*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Is that... footsteps!?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We looked up, a startled look on our faces."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We were in the large and luxurious dining room of the Mizuki's mansion."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And from the darkness spreading out at the end of it, a figure was coming toward us..."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

@@ -1,0 +1,980 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm406",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc021a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0107a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saya NEO",
+        "text": "Finished already?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Soldier",
+        "text": "Sh-Shit! You monster!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The originally cold and refreshing tunnel was now filled with the smell of blood and sweat."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The soldiers were lying on the floor in heaps, their stomachs torn wide open."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The last standing soldier was frantically trying to aim his gun, his feet slipping on the blood-soaked floor."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saya NEO",
+        "text": "Ahaha! Too bad\u266a Saya won't get caught by you!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "One tentacle rose up into the air, aiming for the soldier's head."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Soldier",
+        "text": "U-Ugh..."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se054"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At that moment, the sound of countless footsteps echoed noisily through the tunnel, signaling the arrival of another squad."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m040a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Special Forces Soldier",
+        "text": "Hey! Are you alright?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Saya's expression changed when she saw the new troops."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saya NEO",
+        "text": "Oh, that's bad!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Special Forces Soldier",
+        "text": "Hmph. You're such a troublesome brat, making all this work for us."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "400"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc021a",
+            "IN",
+            "200"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR01",
+            "IN",
+            "800"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m040a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m040a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se040"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Saya turned around and tried to flee in the opposite direction. But she was surrounded by soldiers from that side as well."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Special Forces Soldier",
+        "text": "Shut her up."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As the soldier who appeared to be the leader raised his hand, the soldiers pulled out not guns, but something looking like a machine, and pressed a button."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saya NEO",
+        "text": "N-Noooooo!! Stop, stop iiiiiit!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And as they did so, Saya suddenly began to groan in pain."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m040a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Special Forces Soldier",
+        "text": "Hahaha, seems to be working huh. This device is emitting \"that sound\" that you hate oh so much. Not that we can hear it though."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saya",
+        "text": "It hurts! It hurrrts!!! Make it stooop!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Special Forces Soldier",
+        "text": "Apparently this sound makes the device in your body send out waves of pain? Hmm? That does sound pretty painful."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saya NEO",
+        "text": "Uwaaaah! Stop iiiiiiiiit!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se006"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "ef006c",
+            "NONE"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "500"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "ef005a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se032"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Slash!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The tentacles of the struggling Saya pierced through several soldiers."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc021a",
+            "IN",
+            "700"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m040a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Special Forces Soldier",
+        "text": "Tsk! Stubborn little brat! Catch her, quick!"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The soldiers jumped at Saya in an attempt to restrain her. \u30fcAnd at that moment."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se001"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Special Forces Soldier",
+        "text": "Guah?!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se010"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A soldier was suddenly struck in the face and collapsed to the floor. This hadn't been Saya's doing."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m040a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m040a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Special Forces Soldier",
+        "text": "What!? Uwah, there's a flying fist!?\u30fcUmph!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Special Forces Soldier",
+        "text": "Eeeeek!? Stop it!! Ugyaah!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se035"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Slap. Thud.*"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se024"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The soldiers were struck and collapsed to the floor one after the other by a fist that had suddenly appeared in the air."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Special Forces Soldier",
+        "text": "E-Everyone, stay calm!! I've seen this before, I think that's the Demon Fist Taiman\u30fcuargh."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se010"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "800"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "chr_t0011a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm203",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shido Rinka",
+        "text": "Phew, I think that should be it. I've cleared the small fries away, Fuma."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After the last soldier had been knocked out, a beautiful woman with gently flowing silver hair appeared."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "h_t002d",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Uehara Shikanosuke",
+        "text": "Amaziiing! Against armored soldiers with your bare hands... you're incredible, Rinka-senpai!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Aishu Hebiko",
+        "text": "There wasn't even time for Heberybody else to help. That must be why they call you the \"Demon Fist Taimanin,\" Rinka-senpai!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke, Hebiko, and I had been watching from the shadows and were awed by her strength."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(The Smoke Jutsu normally isn't meant for combat, but when combined with martial arts it becomes this strong huh...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Smoke Jutsu was a Ninja Art with which the user could turn parts of their body into smoke."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "To combine this Ninja Art with martial arts to turn her arms to smoke and send her fists flying was the fighting style of the \"Demon Fist Taimanin,\" Shido Rinka."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "chr_t0011a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "h_t002b",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "The \"Two Taimanin 'Rins'\" together with Akiyama Rinko... Hebiko also wants to be famous like that someday."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Rinka",
+        "text": "Oh, but you two are already famous. \"Hebiko and Shikanosuke from the Independent Commando Unit.\""
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "h_t002f",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "That's just our normal names though!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hey, stop playing around. Looks like that's our target."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I looked at the girl standing there completely dumbfounded."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "She's different from what Hebiko imagined, she looks like a sweet little girl."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "B-But um, those are some dangerous-looking tentacles coming from her back!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "chr_t0107a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Saya NEO",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As I slowly stepped closer, Saya Neo stared at me in confusion."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(So we have to eliminate this girl... No, this is our mission. I have to do it...)"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "???",
+        "text": "Oh, if it ain't you guys again!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!?"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm304",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "6",
+            "ts_m070a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hestia",
+        "text": "Don't tell me y'all are after Saya NEO too?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "U-Uwah!? The cyborg we met in Yomihara!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hestia",
+        "text": "That's \"Hestia-sama.\" Remember it well, ya brat."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "This time the cyborg woman Hestia had appeared with reinforcements."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You're the pursuer, of all people..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hestia",
+        "text": "Oh, well... I was gettin' bored of this lame mission, capturin' a runaway test subject."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hestia",
+        "text": "And I never expected y'all to show up. Thing's're gettin' interestin' now!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Damn..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Out of the frying pan, and into the fire. The atmosphere between Hestia and us was starting to heat up."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "6",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

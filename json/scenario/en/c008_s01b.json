@@ -1,0 +1,677 @@
+[
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm709",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc016b",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t005e",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Octopus Four Blade Style!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se031"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*SLASH*...!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t005f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Shikanosuke-chan! On your left!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t005f",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "O-Okay! Electric Jutsu: Spark!!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t002c",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se030"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc016b",
+            "NONE"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Zombie Gangster Girl",
+        "text": "MOOUUNGGGGHHHHH!!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t002c",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Their attacks repelled the Zombies one by one."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Zombies, who were simply rampaging wildly, were no match for the two Taimanin, even if they were students."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However\u30fc"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m054a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Zombie",
+        "text": "MRUNGGHHHH!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Uwaaah! More appeared out of nowhere!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "No matter how many we defeated, new Zombies kept appearing from beyond the mist."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m055a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Zombie Gangster Girl",
+        "text": "MOOUNGGGGHHHH!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And it was such that even the Zombies that we thought we had already defeated would jolt back up after a while and attack us again."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Really!! What's the heck!? There's no end to this!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The number of enemies did not decrease at all. On the contrary, we were now completely surrounded by a horde of Zombies."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ts_m055a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah, it's gonna get dangerous if this continues. I want to break through them all at once, but... Hebiko?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t005j",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Awww, c'mon, they stink!! So sticky and groooooss!! Don't come any closer, Hebiko's suckers are sensitive!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t005j",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Aieeeeeee!! Don't look at me like that!! Your faces are too scaryyyy!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001d",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hey, hey, calm down!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Zombies presumably weren't even that strong, but this bizarre situation seemed to have taken quite a toll on Hebiko and Shikanosuke's mental state."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You really aren't being helpful!! Hey!! \u30fcBut man we're in trouble."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Even if they weren't particularly strong, defeating this many Zombies by myself would be difficult."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I have to bring those two back to their senses somehow... Hey, Hebiko!? Shikanosuke!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t005b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "M-Maybe Zombie octopuses... are a thing too! Ahaha!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t005b",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Th-That's it! If I become a Zombie, I won't be scared of them anymore...! Hahaha!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "This is bad, their brains are going to turn into Zombies before their bodies\u30fchm!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "s_t001b",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At that moment\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se033"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Slaaaaash!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "From within the mist, several blades flashed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Zombies",
+        "text": "MRRUUNGGGGHHHHH!!!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The Zombies collapsed to the floor, their rotten blood spewing everywhere."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Standing beyond them like a Buddhist statue carrying golden swords on its back was a figure, no, a girl\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m055a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m054a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Zombie",
+        "text": "MRUNGGGHHHH!??!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Zombie Gangster Girl",
+        "text": "MOUNNGGGGGHHHHHH!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Even when all the Zombies turned to look at her, she silently put the back-mounted swords into action without changing her expression."
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se004"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Slash*\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Girl",
+        "text": "\u30fc\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Her flashing slashes were reflected by the mist."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se010"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ts_m055a",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m054a",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*THUD!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And the next moment, a group of Zombies were collapsed on the ground."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(A-Amazing\u30fc That many Zombies in an instant!?)"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ak_t001a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Girl",
+        "text": "Hmph\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Wh-Who the hell are you?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Girl",
+        "text": "Who the hell I am? That's quite a thing to say. You don't have even a single word of gratitude for the person who saved your life?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Girl",
+        "text": "I am Akitsu. Ryomanin Yomi Akitsu."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ryoma... what?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yomi Akitsu",
+        "text": "I'm here on Madam's orders. You are her business partners, aren't you?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Who is this girl...? Ryomanin...? What is that...?)"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "ak_t001a",
+            "CENTER",
+            "CENTER",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

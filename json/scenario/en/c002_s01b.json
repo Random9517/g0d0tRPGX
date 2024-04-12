@@ -1,0 +1,364 @@
+[
+    {
+        "type": "BG",
+        "info": [
+            "nc009a",
+            "IN",
+            "3000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm208",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(...Still not here? They're pretty late...)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was well past the agreed upon meeting time."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was supposed to meet up here with Hebiko and Shikanosuke, who I had sent to search for information\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "F-Fuma..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Fuma-chan..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002g",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001g",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ohh, finally you're here. You're late."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002e",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001c",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke & Hebiko",
+        "text": "Ugh..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Wh-What!? Don't glare at me!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We had finally managed to regroup, but somehow those two were looking completely defeated."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Was it that hard? Anyway, let me know the results of your investigation."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002c",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Ahh, y-yeah... the investigation. Apparently, if you are looking for something in this city, it's best to ask \"Madam.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Madam...?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001a",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "The Madam of Club \"Persona.\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I see, a brothel... The best spot for an information broker to hide."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In a City of Darkness like this, you would always find an information broker."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Instead of recklessly searching for someone and disrupting the \"peace of the underworld,\""
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "it was more efficient to use an information broker to avoid trouble, even if you had to pay for it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had already received funds for that from Headmistress Asagi."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Good work, both of you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "To be honest, I had been a little concerned about whether they'd be able to gather information in a City of Darkness, but it appeared that there had been nothing to worry about."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "They somehow looked really exhausted though."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002a",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Fuma-chan, where's Murasaki-sensei? Wasn't she with you?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah, but she has another mission to take care of. She left us in charge of bringing back Kiryu Sabato."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001d",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "R-, r-r-really!? Just the three of us!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002g",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Uuehhhh..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "It's just looking for a person, what are you so scared of? Not like he's gonna eat you."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002g",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001g",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke & Hebiko",
+        "text": "Uuughh..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hm? Anyway, let's get going. To Club \"Persona\"!"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "h_t002g",
+            "RIGHT",
+            "RIGHT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "s_t001g",
+            "LEFT",
+            "LEFT",
+            "OUT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]

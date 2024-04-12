@@ -1,0 +1,5802 @@
+[
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "In a certain place..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Specifically the headquarters of A-B-G\u30fc"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc153b",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Member",
+        "text": "We have finally obtained you-know-what."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Members",
+        "text": "Uohhhhhhhhh!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Member",
+        "text": "Our final battle is upon us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Member",
+        "text": "There will be only one chance."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Member",
+        "text": "And only one will be able to grasp victory."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Member",
+        "text": "Glory to the A-B-G!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Members",
+        "text": "Glory to the A-B-G!"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc056a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "\u2026\u2026\u2026\u2026"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm309",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc081a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hey, Sakura, you ready yet?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002g",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Hmmm... should I go with this after all?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Oh, but Clear-chan's coming today too. Then maybe something a bit more mature would be good..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sakura, get a move on."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002f",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Geez, just wait!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002g",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sakura grumbled, her eyes firmly fixed on the mirror before her."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Do you think this looks better on me? Hmm... I think it's a little too flashy..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What's taking you so long anyway? It's just clothes!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002e",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Oh, come on. A girl's prep time is her time!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That day, we had plans to hang out with Yukikaze, Clear, Hebiko, and Shikanosuke."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But Sakura here was taking forever to choose her clothes even though we were already running late."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I'm leaving you behind if you don't hurry it up."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Oh, then can you go ahead for me, Fuma-kun?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "And tell everyone I'm sorry I'm going to be a little late. Thanks\uff5e"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sakura's words didn't sound the least bit apologetic as she returned to her little catwalk."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "This girl's hopeless..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I could just see Yukikaze's angry face pop up in my mind bitching if we didn't show up in time."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Fine, but just make it quick."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Got iiiit\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She didn't sound like she got anything, but I just left her behind and headed out."
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se082"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc154a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Our meetup spot was the usual Inageya."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The plan was to head into town and grab some lunch before seeing a movie together."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But the problem was that we had completely different tastes in movies. My favorite genre was historical films, Yukikaze loved action movies, and Hebiko's favorite was romance, unexpectedly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Shikanosuke and Clear were into animated movies, and as for Sakura, she liked something more \"surreal,\" even though I didn't really know what that meant."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had a feeling that it would turn into a whole dispute over what to actually see."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Well, it's not like we have to watch the same one together, though."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "With such thoughts in mind, I was rushing to Inageya when..."
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se078"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0029a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "\uff1f\uff1f\uff1f",
+        "text": "..."
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se078"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A lone girl was running toward me from the opposite direction."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Her face was unfamiliar to me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "\uff1f\uff1f\uff1f",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The girl kept looking over her shoulder as if she were being chased by someone."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But, there were no signs of fear on her face."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "\uff1f\uff1f\uff1f",
+        "text": "...Haah."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She was heaving listless sighs while occasionally glancing behind."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(What's going on with her...?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The question crossed my mind for a moment. But she was obviously not just any girl, considering how she'd been able to enter this village which was normally off-limits for outsiders."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It wasn't something I felt needed my intervention. After all, trouble was the only thing it could lead to."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was so ready to walk by her, feigning as indifferent a look as possible, but..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "\uff1f\uff1f\uff1f",
+        "text": "Oh, there you are."
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se082"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Seeing my face, she decided to approach me on her own."
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And the first words she had to say were\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "\uff1f\uff1f\uff1f",
+        "text": "Do you love me?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "\uff1f\uff1f\uff1f",
+        "text": "Do you want to marry me?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Umm, I don't think so."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "\uff1f\uff1f\uff1f",
+        "text": "Good."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After she said so in a somewhat monotonous voice, the girl suddenly pulled my left arm close and hugged it as if she were my girlfriend."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The softness of the strange girl's modest breasts seeped into my upper arm\u30fcno, I had to stay focused!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "H-Hey, what are you-?!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The moment I was about to ask her in panic..."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm203",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m001a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m037a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se119"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Rumble!*"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "RIGHT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m042a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "ts_m013a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se119"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Rrrrrumble!!*"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "LEFT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "RIGHT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "6",
+            "ts_m096a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "7",
+            "ts_m038a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se119"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A crowd of Taimanin came stampeding from the direction she'd come."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "6",
+            "LEFT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "7",
+            "RIGHT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There were so many of them. At least 20."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was an eclectic assortment of Taimanin. From newbies to scouts, Fire, Wind, and Earth Arts users, and even Fuma ninja."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I could see some desperation in their faces. Were they all after that girl?"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Members",
+        "text": "The A-B-G is here!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "The A-B-G?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m001a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m037a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Member",
+        "text": "Ange-chan! What on earth are you doing with that guy?!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "One of the members of the Taimanin group, the A-B-G or whatever they were, sounded almost heartbroken as he asked."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "RIGHT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m042a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "ts_m013a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Member",
+        "text": "Fuma! Explain yourself!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Member",
+        "text": "How dare you flirt with our Ange-chan behind our back!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Member",
+        "text": "How I env-... despise you, Fuma!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Even if you say that... I don't even know her..."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "LEFT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "RIGHT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "6",
+            "ts_m096a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "7",
+            "ts_m038a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Member",
+        "text": "What!? Y-You don't know Ange-chan?!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Member",
+        "text": "How daaaaare you!?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "6",
+            "LEFT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "7",
+            "RIGHT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0029a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "At least I know your name now. Ange, isn't it?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "Yes. Nice to meet you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Sheesh."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m001a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m037a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Member",
+        "text": "Fuma!! Stop sounding so intimate with her, asshole!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Member",
+        "text": "You heard him!! Ange-chan is ours!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(What's the deal with these guys...)"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Member",
+        "text": "Ange-chan! What is that guy to you?! D-Don't tell me he's...!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "RIGHT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0029a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "He's my fiance."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Wha!? Hey what're you\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se117"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Slither!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ughhh!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(A tentacle!?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "A tentacle came out from Ange's back and gagged my mouth before I could finish my question."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m042a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "ts_m013a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Member",
+        "text": "Your fiance!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Member",
+        "text": "Ange-chan! No way!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Member",
+        "text": "Tell me this is a lie!! Pleeeeeeeease!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The crowd of weirdos let out a cry of despair in unison."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Some were soullessly staring at the sky, some collapsed to their knees, and others wept bitterly. I still wasn't sure what was going on, but their reactions were intense."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm304",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And not only that, they even began to vilify me all at once."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "LEFT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "RIGHT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "6",
+            "ts_m096a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "7",
+            "ts_m038a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Member",
+        "text": "You Diot! I won't forgive you!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Member",
+        "text": "What did you do to our Ange-chan!?"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ahmmh-mngh-amh!! (I didn't do anything!!)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Member",
+        "text": "You're dead meat!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "6",
+            "LEFT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "7",
+            "RIGHT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0029a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "I'm going to marry him. So, please forget about me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hmh-mmmmmhhh! (Who's gonna marry who now!?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As much as I wanted to protest, my mouth was completely covered by the tentacle."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "ts_m013a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Member",
+        "text": "I can't let you marry such a man! You're going to marry <i>me</i>! I'll make it happen with this!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "One of the A-B-G members took out a suspicious pot."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sinister patterns were engraved all over the surface, and its lid was sealed by a cursed talisman."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "From east to west, from ancient times to today, it was generally accepted that those kinds of pots were always filled with trouble."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0029a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "Ah, this might be bad."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Ange spoke in a flat voice devoid of urgency, her tentacle still covering my mouth."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Mgh, mmm! Mmmmmghh!(What's that mean?! Hey, you fool! Stop it!!)"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "ts_m013a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Member",
+        "text": "O, great one, come forth! Grant me my wish!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That fool peeled the seal off without hesitation."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se118"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Fwoooooooooosh!!*"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "white",
+            "NONE"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Twinkle, twinkle*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Something came out spectacularly from the pot while spreading dazzling sparkles of light everywhere."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc154a",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "8",
+            "ts_m095a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "\uff1f\uff1f\uff1f",
+        "text": "Geez! Shuddup! Shudduuuuuuup!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "What appeared was a beautiful young girl, the very picture of displeasure."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Member",
+        "text": "Ohh! The Goddess Juno is here!!!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Juno!? One of the ancient gods who presides over marriage!? Sh-She looks totally different from how I'd imagine but is she the real deal!?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "If she was, that meant that she was a monster on a mythological level, or rather, a god."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Did they really summon such a thing?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Juno",
+        "text": "What's with you guys? Do you have the slightest idea how annoying it is to be summoned so suddenly?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Looking around and glaring at us, Juno spoke in a grumpy voice."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, in contrast to her irritated demeanor, a glorious halo of divine light was emanating from her whole body."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Member",
+        "text": "Ohh, great Goddess! It was I who summoned you!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Juno",
+        "text": "Well? What d'you need?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Member",
+        "text": "Goddess Juno!!! Please make Ange-chan marry me!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Member",
+        "text": "No, Juno-sama! Please make her marry <i>me</i>!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Member",
+        "text": "Don't be ridiculous!! I'm the one who should marry Ange-chan!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Member",
+        "text": "No, it has to be me! I'm gonna marry her!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Member",
+        "text": "No, it's me!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Juno",
+        "text": "Hmm, so you all wanna marry that girl, huh?"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Members",
+        "text": "Goddess Juno-sama, please!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Juno",
+        "text": "No can do."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Juno rejected the fools' wishes easily."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Member",
+        "text": "Ehhhhhhhhhhhhhhhhh!? But why, Goddess Juno!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Juno",
+        "text": "Huh!? Why do I always have to give my blessings to someone's marriage!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Member",
+        "text": "B-But, isn't that your duty, Juno-sama?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Juno",
+        "text": "\"Duty?\" I couldn't care less about duty! It's such a pain. And besides, it doesn't even mean anything!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Member",
+        "text": "J-Juno-sama!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Member",
+        "text": "Please!! Just this once! Just for Ange-chan and me!!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Members",
+        "text": "Please!! Juno-sama!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The group of annoying fools all began to prostrate themselves before Juno."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Juno",
+        "text": "You guys are seriously the most annoying humans, like, ever..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That was true."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Juno's gaze had been as cold as ice for a while, but then, she playfully raised the corners of her lips and said..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Juno",
+        "text": "If you want my blessing so bad..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Juno suddenly looked at Ange and me, and held out her hands toward us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Juno",
+        "text": "I'll give my blessing to you guys!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "8",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0029a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "Huh?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(W-Wait!!)"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se075"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "white",
+            "NONE"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Ever so gentle light emanated from the palms of the goddess and soon enveloped us."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Wh-What the... Holy light!?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The warm light was so dazzling that I couldn't help but close my eyes, and at that moment..."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc154a",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0123a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "Ah..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The view that unfolded before my eyes was beyond my imagination."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(What is thiiiiiiiis!!?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Ange's clothes had turned into a white wedding dress,"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "and I was clad in a crisp tuxedo."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "They changed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(Why are you so calm! And why am I in a tuxedo!? What the hell is going on!?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I couldn't believe it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She was the real deal; the Goddess Juno!!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Members",
+        "text": "Uwoooooooooooooooo!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m001a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m037a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Member",
+        "text": "Ange-chan, wedding dress version!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Member",
+        "text": "S-So cuuuuute! Cuteness overloaaaaaaaaaaad!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The group of fools that had been prostrating themself before the goddess let out screams of joy for a moment as if they'd lost their mind,"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "but then realizing that I had been chosen to be her groom, they began to raise hell."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "RIGHT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "6",
+            "ts_m096a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "7",
+            "ts_m038a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Member",
+        "text": "What!? Fuma is her groom!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Member",
+        "text": "Don't be ridiculous! What's going on!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "6",
+            "LEFT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "7",
+            "RIGHT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "ts_m013a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Member",
+        "text": "Juno-sama, why!? Why did you make him Ange-chan's groom!?"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "8",
+            "ts_m095a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Juno",
+        "text": "Well, because that guy didn't look like he wanted to marry her at all\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Juno",
+        "text": "Think of it as payback for summoning me so suddenly, kyaahahahaha!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Oh, she was a <i>twisted</i> goddess."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Wasn't she supposed to protect people's marriage lives?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Could it have been that she ended up sealed in that pot because of her vicious personality?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Juno",
+        "text": "Well? How's your blessing from Goddess Juno?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Mrgh... Screw you! That's not a blessing! That's harassment!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Juno",
+        "text": "Huh?? Whatever do you mean??"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I pushed down the tentacle covering my mouth and shouted at the laughing goddess, but she seemed unfazed."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "8",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0123a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "This has taken a turn. Let's run for it."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The urgency of her words again not matching her monotone voice, Ange twined her tentacle around my body and lifted me up."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hey, wait!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "There was no point in running away in this nonsensical situation."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And to top it all off, one who had the worst possible timing decided to appear before us..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0123a",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002b",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Sorry, Fuma-kun. Were you waiting long?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was Sakura."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After all the fuss she'd made, she was wearing her usual school uniform."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "No, that wasn't the important bit here."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Ehhhhhh? What's with that tux!? And you've even got yourself a bride?!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002f",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Well, who is she? Your girlfriend? Wait, you're getting married? I didn't even get an invite! What's going on!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That's exactly what I wanted to know!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "Boi\uff5eng"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "LEFT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "RIGHT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc093a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR19",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Ange had already used her tentacle like a spring to escape the scene before I could even explain this situation to Sakura."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Hey! Fuma-kun! Miss Bride? Where are you going!? Is it time for the ceremony? Wait for meeeeeee!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That was how I ended up leaving the scene, undoubtedly giving Sakura the spectacularly wrong idea."
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc093a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "Boi\uff5eng, boi\uff5eng, boi\uff5eng"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Using her tentacles, Ange was leaping from roof to roof at high speed as she made funny sounds."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Obviously, she was not human. She had tentacles growing from her back, to begin with."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "More so than that, this whole marriage situation was entirely abnormal."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hey! Stop already!! You can't just kidnap a person like this!! Let me down!! Right now!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "You want me to stop?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Ange gave me a quizzical look as her tentacle still held me tight."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yes!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "OK."
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se119"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc078a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "To my surprise, Ange immediately landed on the ground."
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm509",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0123a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "They'll catch us if we don't run."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Why the chase in the first place? Who the hell are they!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "I'm not sure, but maybe my fan club or something."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Ange tilted her head to one side."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huh? A fan club?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "The A-B-G. It stands for Ange Bodyguard Guild... I think? Have you ever heard of it?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No, I've never heard of those idiots!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "I see. So they aren't famous... I see."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Of course not! God they just let anyone be Taimanin these days\u30fcwait, who are you anyway?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "Me? I'm Ange."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Ange introduced herself again, however, she didn't say anything besides her name."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "That's it!? I mean like where'd you come from, or why you're here!? Nothing!? Or do you have some reason you can't tell me anything!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "Ohh, that's what you meant. Ok, I've come here as an ambassador from the UFS."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Ange answered obediently."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At least it didn't seem like she was hiding her identity."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "A UFS ambassador? Well, putting that aside for now... What's the meaning of this!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "This? What?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "This! These clothes! And all the nonsense about our marriage and stuff!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "Oh, this is\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "When Ange was finally about to start her explanation..."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ugh!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I felt an overwhelming murderous aura from behind."
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc078a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR01",
+            "IN",
+            "800"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "9",
+            "chr_t0088a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Fuma, that girl, who?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I looked back over my shoulder to see Clear standing there with a grimace."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Wha-!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Looking around in panic, I found myself standing before our meeting spot at Inageya."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Naturally, Yukikaze was with her. They must have come together from their mansion."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "9",
+            "chr_t0088a",
+            "CENTER",
+            "LEFT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "10",
+            "chr_t0112a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Fuma... Care to explain why you've shown up with a strange girl in that ridiculous getup?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I couldn't tell from her expression if she was amused or angry. Or maybe she just wanted to send me flying as the sparks intimidatingly flew from her whole body."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Th-This is, umm..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had no idea how to explain."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Hell, I was the one trying to squeeze an explanation out of Ange just now."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "9",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "10",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, despite being the whole reason we were in this mess, Ange simply looked around absentmindedly."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "9",
+            "chr_t0088a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "10",
+            "chr_t0112a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "I see. So, you can't tell us, huh?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "You had secret?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was at a loss for words for just a moment, but Yukikaze and Clear's faces became even grimmer."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "W-Wait! You got it all wrong! I don't even know what's going on\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "9",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "10",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As I floundered to try and find an explanation..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Fuma-kun! Fuma-kun! Are you gonna marry that girl?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "I heard from this Juno girl how you've got a blessing from a goddess!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sakura caught up with us and added fresh oil to the flames."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Marry? No way!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Fuma, get married?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002b",
+            "CENTER",
+            "CENTER",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "I know right? The shock of the century!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "No, no!! I am <i>not</i> getting married!!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As hard as I shouted in denial, Ange seemed unable to bear the intimidating gazes from the three of them anymore and said..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0123a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "Yup, he's marrying me."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ahhhgh! What on earth are you saying!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "I'll be in trouble otherwise."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I'm gonna be in bigger trouble here!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "Then, what should I do...?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Beats me!!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se107"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As I had this back-and-forth with Ange, I heard an eerie, buzzing sound."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "9",
+            "chr_t0088a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I reflexively looked in that direction and saw Clear holding her activated blade and shield."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "H-Hey, Clear, what are you thinking?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Exterminating those who harm Fuma is my mission."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Clear had suddenly said something pretty crazy. She could actually make things quite dangerous here."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I was almost in a panic, not knowing what to do."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "9",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And in that moment\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Huh?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I found myself putting my arm around Ange's waist and pulling her close."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0123a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "Woah."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Ange was surprised."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As was I."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "(H-Have I lost it!?)"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Annoyed."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "And? What's that for then?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Wow, Fuma-kun, no need to showboat."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "N-No, this is just, my hand moved on its\u30fc"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "8",
+            "ts_m095a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Juno",
+        "text": "Ahahahahahahah! Now that you've received my blessing, your body automatically tries to protect your bride\u266a"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That wicked goddess appeared out of nowhere and proudly proclaimed with the dazzling light illuminating her from behind."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Juno",
+        "text": "Once I bless your marriage, nobody can get in your way anymore!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Damn you!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Juno",
+        "text": "Best wishes?! Kyaahahahaha!!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "8",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Juno disappeared as she cackled."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "9",
+            "chr_t0088a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "10",
+            "chr_t0112a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "I won't let you marry Fuma."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "I don't care who Fuma dates or marries, but it's kinda irritating to see him show off like this."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "9",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "10",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002b",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "We spent so much time playing video games together, and you didn't think to tell me about your fiance at all? Fuma-kun deserves a little beating, doesn't he?\u266a"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Wait, everyone! This is all that goddess's fault! Just listen to me! Argh, what am I doing!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Though I was trying to calm down the three of them, my body moved on its own to pull Ange even closer, which wasn't helping my case."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Oh shit, run!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I shouted at Ange, who was now firmly held in my arms."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0123a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "Why?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Just because!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "OK."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had a feeling that running away would cause even more misunderstanding, but I didn't have any other choices."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "Then hold on tight. Boi\uff5eng!"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc093a",
+            "NONE"
+        ]
+    },
+    {
+        "type": "TRANSITION",
+        "info": [
+            "TR19",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Ange used her tentacles like springs and made an even bigger jump than before."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "They ran."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Fuma, get back here!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Running isn't very man-like you know!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As I had expected, with all these misunderstandings the three were about to give chase. But suddenly we heard a shout."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Member",
+        "text": "Damn youuuuuuu!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Member",
+        "text": "You won't escape us, Fuma!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Member",
+        "text": "Wait for me, Ange-chaaaaaaan!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Member",
+        "text": "Marry meeeeeeeeee!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Some A-B-G members caught up with us and blocked the way of the three of them."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Woah, what's with these guys!? Hey, move it! Come on, they're getting away!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "I'm not really sure, but it seems like these guys are also after them."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "I will chase. They can't escape."
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm314",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc117a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Phew, looks like we lost them for now. Damn, that nasty-ass goddess!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0123a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "I'm sure she's lost her mind because she blessed too many people's marriages."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I don't think so. She must be a born and bred perverse."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "Really?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Juno from Roman mythology is the same god as Hera from Greek mythology."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Hera also controls marriage, but she is known for being extremely jealous and a troublemaker. That's her true nature for sure... damn it!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "You know a lot."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I just like myths and history. But more importantly, what do we do about this situation? What's this outfit anyway?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I looked down at the tuxedo that perfectly fit my body as if it had been tailored."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "It looks good on you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I'm not happy, you know."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "I'm kind of happy. I've never dressed like this."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Ange spun around as she checked how she looked in her wedding dress."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Her pure white dress beautifully contrasted against the green hill where we stood. And as the hem of her dress dreamily fluttered, my heart skipped a beat for a moment."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "What do you think?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Oh\u30fc"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Adorable."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I almost blurted it out loud."
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Wait wait wait! Why was I even feeling that way!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She was the one who dragged me into this in the first place."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Was it because of the blessing of that wicked goddess?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Could my feelings have even been influenced by it?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0123a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "What's wrong?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "N-Nothing. Anyway, we've got to do something about this or it's gonna get wor\u30fc"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "11",
+            "h_t001f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Fuma-chan, are you getting married!? You didn't tell Hebiko anything!!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Woah!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Now even Hebiko showed up!?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "11",
+            "h_t001e",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "12",
+            "s_t003d",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Fuma, is it true that you're gonna get married!? When did you get a girlfriend to begin with?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And there was Shikanosuke!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "They found out too!?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "12",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "11",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And a crowd of A-B-G members were closing in from the rear."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m042a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "ts_m013a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Members",
+        "text": "Wait for uuuuuuuus!! Ange-chaaaaaan!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "LEFT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "RIGHT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m001a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m037a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Members",
+        "text": "Fuma, this is unforgivableeee!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "RIGHT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "11",
+            "h_t001f",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "12",
+            "s_t003d",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Fuma-chan! Hebiko doesn't even know that girl! And in those outfits!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "Yeah! Talk about a dress-up! Are you two having the ceremony here?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "The ceremony? Here!? Is that true, Fuma-chan!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "As if!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "12",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "11",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I shouted in denial, but not only did they not seem to listen to me, but my body also moved on its own to protect Ange again."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0123a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "Squeeeze."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And to make matters worse, Ange naturally let me do it because of the effect of the blessing."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "11",
+            "h_t001f",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "12",
+            "s_t003b",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Geeez! Now he's just showing off his briiiiiiiide!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Shikanosuke",
+        "text": "So cool! Fuma, you look like a film star now!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "This is going nowhere! Run!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "12",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "11",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0123a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "We're running again?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "YES!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "OK, if you say so."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se003"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc154a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se054"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "10",
+            "chr_t0112a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Hold it right there, Fuma!! Stop running!! You're under arrest!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What do you mean by \"under arrest!?\" I didn't do anything!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Child marriage is a crime, you pedophile!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Who's a pedophile?!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "10",
+            "CENTER",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "11",
+            "h_t001f",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "As class representative, Hebiko can't overlook child marriage!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I told you this isn't like that!!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "11",
+            "CENTER",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "6",
+            "ts_m096a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "7",
+            "ts_m038a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Members",
+        "text": "We're not giving up Ange-chan to you!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Stop messing around already! Whose fault do you think this is in the first place!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Member",
+        "text": "Shut up!! You should be happy with that flat chest and octopus!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Yukikaze",
+        "text": "Flat chest!!?"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "6",
+            "LEFT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "7",
+            "RIGHT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se014"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Bzzzzbzzzzzbzzzzbzzz!!*"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Members",
+        "text": "Arghhhhhhhhhhhh!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m001a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m037a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Hebiko",
+        "text": "Hey, don't be so rude to Hebiko!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "RIGHT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se084"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "black",
+            "IN",
+            "700"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Fwoooooosh!!*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Member",
+        "text": "Urghhhhhhhhhhhhh!!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc154a",
+            "IN",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "ts_m013a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Member",
+        "text": "Ange-chaaaan!! Please, today is the last chance for meeeeee!!"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "9",
+            "chr_t0088a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "0",
+            "ws_t002c",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Wonder what \"last chance\" means?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Clear",
+        "text": "Don't care. They're in my way."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "9",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "0",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "4",
+            "ts_m042a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "5",
+            "ts_m013a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "500"
+        ]
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se108_01"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Slassssssh!!*"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se024"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "4",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "5",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Member",
+        "text": "Arghhhhhhhhh!! A-Ange-chan... ughh!!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0123a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "This has turned into quite the uproar, hasn't it?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "And whose fault might that be?!"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se054"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm608",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc054b",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Haah, haah, haah... Look, it's already getting dark..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0123a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "What should we do?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Let's hide somewhere in the school building. Once we do that we're gonna have a nice long talk about everything. Got it?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "Okay."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After running all over the place in this continually deteriorating situation, we finally arrived at the school. However, waiting for us there was..."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "13",
+            "sa_t001d",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Ahhhhh?, it's Fuma-kun!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Woah, Sakura-sensei!"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "13",
+            "sa_t001a",
+            "CENTER",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "14",
+            "m_t001a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Murasaki",
+        "text": "You even brought her with you? Oh my, nice tuxedo."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Murasaki-sensei, too?!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Sakura-sensei and Murasaki-sensei had just come out of the school building."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I had a feeling things could get complicated again..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "13",
+            "sa_t001d",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Fuma-kun, Fuma-kun. I heard you're gonna get married\u266a Is that true?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "But running around in that wedding dress and tuxedo? Well, I think it's too much. I know you look cool though, ahaha?."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "14",
+            "m_t001c",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Murasaki",
+        "text": "Yes. If you're thinking of tying the knot, you'd be better off not being so reckless."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Murasaki",
+        "text": "If you make her run around like that, you'll mess up her wedding dress. You shouldn't disappoint your bride."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "N-No, you got it wrong. This is..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Even they knew about my marriage."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And they also seemed to have already accepted it at that."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was gonna be a real pain in the ass to clear this up\u30fc"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "14",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "13",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "2",
+            "ts_m001a",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "3",
+            "ts_m037a",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se054"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Member",
+        "text": "Fumaaaaaaaaa!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Member",
+        "text": "You can't get away with thiiiiiiiiiis!!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "A-B-G Member",
+        "text": "Ange-chaaaaaaaan!!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "It's them again."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Come on!? How many fans do you have!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "I don't know."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "2",
+            "LEFT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "3",
+            "RIGHT",
+            "linear",
+            "500"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "13",
+            "sa_t001e",
+            "RIGHT",
+            "RIGHT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "14",
+            "m_t001e",
+            "LEFT",
+            "LEFT",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Woah. What is that, an army!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Murasaki",
+        "text": "An enemy attack? No, they are Taimainin. Looks like they're calling you, Fuma."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Damn, it's not safe here either!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "Let's go."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Like we have a choice!"
+    },
+    {
+        "type": "SE_PLAY",
+        "info": [
+            "se054"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I took Ange's hand and headed for the mountains behind the school building."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "Oh... they left. Ange-chan came here to see her sister again, right? I wonder why she's running around with Fuma-kun."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Murasaki",
+        "text": "Who knows. And why were they dressed up like that?"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "13",
+            "sa_t001b",
+            "RIGHT",
+            "RIGHT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Sakura",
+        "text": "But, it's kinda like they just popped out of a romantic film. I'm sorta jealous."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "14",
+            "m_t001a",
+            "LEFT",
+            "LEFT",
+            "NONE",
+            "linear",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Murasaki",
+        "text": "You're too old to say such a thing. Get it together."
+    },
+    {
+        "type": "GROUP"
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "14",
+            "LEFT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "13",
+            "RIGHT",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "/GROUP"
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "0"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "WAIT",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm605",
+            "1000"
+        ]
+    },
+    {
+        "type": "BG",
+        "info": [
+            "nc035a",
+            "IN",
+            "1000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "ON",
+            "0"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Eventually, we decided to hide out in a cave in the northern mountains where a ghost castle had appeared before."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The castle was already gone, and the cave we'd wandered into before had collapsed, but there was another intact cave."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "The surrounding atmosphere was as omnious as ever,"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "and perhaps because nobody thought we would come to a place like this, or perhaps because Sakura-sensei and Murasaki-sensei were holding them back, there were no signs of pursuers."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Haah, why is this happening to me..."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0123a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "I'm sorry."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She didn't sound apologetic in the slightest."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "As I let out a sigh, my stomach began to grumble."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was already night, but I hadn't had anything since noon."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Haaah, I'm starving..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "Do you wanna eat a rice ball?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Do you have one?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "I brought a bento today."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Ange took out a bento box and a water bottle from somewhere."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I wondered where she could hide such things when she was wearing a wedding dress."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Could it have been the tuxedo and the wedding dress were just figments of our imagination and we're actually dressed normally?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Regardless, Ange pointed at rice balls packed in her bento box."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "This has salmon, and this one has bonito flake. And this one has sour plum, and this one has cod roe... which do you want?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I'll take bonito flake."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I picked up one of the rice balls and took a bite."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was not one from the convenience store, but a homemade rice ball."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "It was seasoned with a perfect amount of salt and tasted pretty good."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "Do you like it?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Yeah, very much."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "Glad to hear that. We only have one cup, so let's take turns."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "She even poured hot green tea for me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Did you make these rice balls by yourself?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "I did. Om, nom, nom... delicious."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Ange stuffed her face with rice, too."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You like rice, huh?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "I love it. It's delicious."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "That was good for her. But still..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "In a dark cave, wearing a tuxedo and a wedding dress, having rice balls and green tea... what the heck is this situation?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "It's kinda weird."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You're part of this, remember?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Food seemed to make her a little talkative,"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "and I could finally hear what was going on from Ange."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Ange was one of those modified humans from the UFS with powers of demons or the Taimanin implanted in them."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Since Gosha and some factions of the UFS were in a cooperative relationship, it seemed like she was working as an ambassador for that Masked Taimanin."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And Ange had come to the village for her ambassador job to see Asagi-sensei. I tried to probe further and asked her why she needed to see her, but she didn't answer."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "At any rate, it seemed like that fan club, the A-B-G, had formed while she had been frequenting Gosha."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Ange said she had recently found out about the group, but she had decided just to ignore them because all they had been doing was hanging around her at a distance. And they seemed pretty harmless."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "But this time, those idiots brought out that pot and used the Goddess Juno, who had been sealed inside, to try and marry Ange."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Since she couldn't just kill the Taimanin allied with the UFS, she was running away from them."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And that's where I got caught up in it."
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "1",
+            "chr_t0123a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "I didn't want to cause trouble."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "You already did."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "I'm a little bit sorry for you."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Just a little bit?! You hardly look like you're sorry."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "I get that a lot. I'm bad at showing emotion."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Ange took a sip from her cup of green tea after she said so with an emotionless face."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Stop sounding like you're not involved for one thing. But still, they must not have expected Juno to be so vicious."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "It worked well for me."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I know you were desperate. Nobody wants to marry those idiots. But I was the one caught in the crossfire here."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "I'm sorry... Tea?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Don't think you can put me in a better mood with green tea. Well, not that I won't take it though."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "Here you are."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "*Sip...*"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I took a sip from my cup of green tea and continued."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I think you're already aware, but the effect of that blessing is getting stronger."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "My body has already begun to move on its own to protect you, and I'm not sure when the same thing will happen to my mind, either."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "Are we in trouble?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Undoubtedly. Don't tell me we're gonna really end up marrying each other..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "After thinking for a moment, Ange began to speak nonchalantly."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "It'll be fine."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "How so?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "Do you wanna marry me?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Of course I don't."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I answered with complete certainty."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "My mind was still clear enough to do that."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "Maybe we should just say it then."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "To who?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "The Goddess Juno. She must be somewhere around us. I'll say it to her too."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I have a bad feeling about this..."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "I couldn't feel any sense of her presence, but as Ange had said, Juno must have been somewhere nearby."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "We stood up side by side."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Holding each other's hands without realizing it, we began to declare to the walls of the cave."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "I won't marry you!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "I won't marry you, either!"
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "1000"
+        ]
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "1",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_FLASH",
+        "info": [
+            "WHITE",
+            "1500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "*Flaaaash!!*"
+    },
+    {
+        "type": "ACTOR",
+        "info": [
+            "8",
+            "ts_m095a",
+            "CENTER",
+            "CENTER",
+            "IN",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Juno",
+        "text": "Huh? What do you mean by that!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Juno's divine form had appeared within the cave."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "And with a very, very, malicious look on her face."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "What do you mean, \"What do you mean!?\" Ange and I just met today! Just cancel the curse you put on us!"
+    },
+    {
+        "type": "BGM_PLAY",
+        "info": [
+            "bgm313",
+            "1000"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Juno",
+        "text": "No can do\u266a Why don't you just marry each other to entertain me?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Juno",
+        "text": "I need some now that I'm finally released from that tiny, cramped pot!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Juno",
+        "text": "I'm gonna take revenge by forcing a not-so-loving couple to get married!!"
+    },
+    {
+        "type": "EFFECT_QUAKE",
+        "info": [
+            "VERTICAL",
+            "0.5",
+            "500"
+        ]
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Revenge!? What's that mean!?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Juno",
+        "text": "Revenge on humans who made Juno bless their marriages!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "...N-Now I got it. This goddess is hopeless."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Ange",
+        "text": "If talking won't work, we have to fight."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Damn... Looks like there's no other choice."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "However, the enemy this time could quite possibly have been a real god."
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Could a human really win against a god?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Juno",
+        "text": "Hey, wait! Are you really going to go against <i>the</i> Juno?"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Juno",
+        "text": "Fine! I'll give you two a special blessing so you can still be together after I killed you!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "Me",
+        "text": "Ohh, I knew you were messed up!"
+    },
+    {
+        "type": "NAME_PLATE",
+        "name": "",
+        "text": "Annoyingly dazzling light began to emanate from the goddess's body as if to express her outrage..."
+    },
+    {
+        "type": "ACTOR_OUT",
+        "info": [
+            "8",
+            "CENTER",
+            "linear",
+            "1000"
+        ]
+    },
+    {
+        "type": "BGM_STOP",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "UI_DISP",
+        "info": [
+            "OFF",
+            "500"
+        ]
+    },
+    {
+        "type": "BG_OUT",
+        "info": [
+            "3000"
+        ]
+    },
+    {
+        "type": "SCENARIO_END"
+    }
+]
